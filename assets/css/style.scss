@@ -1,16 +1,20 @@
 ---
 ---
 
-@import url('https://fonts.googleapis.com/css?family=Open+Sans:400,600,700,800&display=swap');
 
+
+
+
+/* GOOGLE FONTS */
+
+@import url('https://fonts.googleapis.com/css?family=Open+Sans:400,600,700,800&display=swap');
 @import url('https://fonts.googleapis.com/css?family=Chivo:400,700,900&display=swap');
 
-h2#roster,
-h2#stats,
-h2#hours-of-activity,
-h2#timeline {
-  padding-top: 0px !important;
-}
+
+
+
+
+/* MAIN */
 
 html, body, div, span, applet, object, iframe, h1, h2, h3, h4, h5, h6, p, blockquote, pre, a, abbr, acronym, address, big, cite, code, del, dfn, em, img, ins, kbd, q, s, samp, small, strike, strong, sub, sup, tt, var, b, u, i, center, dl, dt, dd, ol, ul, li, fieldset, form, label, legend, table, caption, tbody, tfoot, thead, tr, th, td, article, aside, canvas, details, embed, figure, figcaption, footer, header, hgroup, menu, nav, output, ruby, section, summary, time, mark, audio, video { padding: 0; margin: 0; font: inherit; font-size: 100%; vertical-align: baseline; border: 0; }
 
@@ -25,6 +29,10 @@ blockquote, q { quotes: none; }
 blockquote:before, blockquote:after, q:before, q:after { content: ''; content: none; }
 
 table { border-spacing: 0; border-collapse: collapse; }
+
+
+
+
 
 /* LAYOUT STYLES */
 
@@ -80,6 +88,10 @@ pre { padding: 20px; overflow: auto; color: #f2f2f2; text-shadow: none; backgrou
 pre code { padding: 0; color: #f2f2f2; background-color: #303030; border: none; }
 
 ul, ol, dl { margin-bottom: 20px; }
+
+
+
+
 
 /* COMMON STYLES */
 
@@ -181,6 +193,10 @@ footer a:hover { color: #444; }
 /* ================================================== */
 /* ================================================== */
 
+
+
+
+
 /* LOGO */
 
 a.header-logo {
@@ -198,6 +214,25 @@ a.header-logo:hover,
 a.header-logo:focus,
 a.header-logo:active {
   color: #000;
+}
+
+
+
+
+
+/* SPANS, HEADERS */
+
+h2#roster,
+h2#stats,
+h2#hours-of-activity,
+h2#timeline {
+  padding-top: 0px !important;
+}
+
+@media only screen and (max-width: 767px) {
+  h2 {
+    padding: 12px 0 4px;
+  }
 }
 
 .last_updated {
@@ -223,13 +258,21 @@ span.timeline-em {
   font-weight: 600 !important;
 }
 
-/* Hiding stuff */
+
+
+
+
+/* MISC */
 
 section#downloads {
   display: none !important;
 }
 
-/* Changing spaces, widths + centering */
+
+
+
+
+/* CHANGING SPACES, WIDTHS + CENTERING */
 
 section#main_content {
   margin: 0 0 3em;
@@ -239,13 +282,11 @@ hr {
   margin-top: 0;
 }
 
-@media only screen and (max-width: 767px) {
-  h2 {
-    padding: 12px 0 4px;
-  }
-}
 
-/* Table fonts + colors */
+
+
+
+/* TABLE FONTS + COLORS */
 
 table.roster {
   margin: 0 auto;
@@ -422,7 +463,11 @@ span.timeline-orange {
  font-weight: 600 !important; 
 }
 
-/* Screenshots & videos */
+
+
+
+
+/* SCREENSHOTS & VIDEOS */
 
 .game-screenshot {
   margin: 0 auto;
@@ -460,7 +505,11 @@ span.timeline-orange {
   }
 }
 
-/* Awards */
+
+
+
+
+/* AWARDS */
 
 .awards-sprite.a0-1 {
     background-position: -13px 0;
@@ -603,7 +652,11 @@ span.timeline-orange {
   margin: 0 0.5px 0 0.5px;
 }
 
-/* Award generator*/
+
+
+
+
+/* AWARD GENERATOR */
 
 table.award-generator-colors {
   width: 225px;
