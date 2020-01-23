@@ -95,7 +95,7 @@ form { padding: 20px; background: #f2f2f2; }
 
 /* GENERAL ELEMENT TYPE STYLES */
 
-header span.flowers-logo { font-family: 'Chivo', 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 48px; font-weight: 900; line-height: 1.2; color: #303030; letter-spacing: -1px; text-align: center; display: block; }
+header span.header-logo { font-family: 'Chivo', 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 48px; font-weight: 900; line-height: 1.2; color: #303030; letter-spacing: -1px; text-align: center; display: block; }
 
 header span.nav-links {
   line-height: 1.3;
@@ -179,9 +179,9 @@ footer a:hover { color: #444; }
 
 /* LOGO */
 
-a.flowers-logo {
+a.header-logo {
   color: #000;
-  background: url(https://tankpit-flowers.github.io/images/flowers-logo.png) no-repeat top left;
+  background: url(https://tankpit-analytics.github.io/images/header-logo.png) no-repeat top left;
   background-size: 230px auto;
   text-indent: -100000px !important;
   display: inline-block;
@@ -189,10 +189,10 @@ a.flowers-logo {
   height: 57px;
 }
 
-a.flowers-logo:visited,
-a.flowers-logo:hover,
-a.flowers-logo:focus,
-a.flowers-logo:active {
+a.header-logo:visited,
+a.header-logo:hover,
+a.header-logo:focus,
+a.header-logo:active {
   color: #000;
 }
 
@@ -573,7 +573,7 @@ span.timeline-orange {
 }
 
 .awards-sprite {
-    background: url(https://tankpit-flowers.github.io/images/awards.gif) no-repeat top left;
+    background: url(https://tankpit-analytics.github.io/images/awards.gif) no-repeat top left;
     display: inline-block;
 }
 
