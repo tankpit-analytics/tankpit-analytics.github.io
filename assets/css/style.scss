@@ -1,7 +1,9 @@
 ---
 ---
 
-@import url('https://fonts.googleapis.com/css?family=Open+Sans&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Open+Sans:400,600,700,800&display=swap');
+
+@import url('https://fonts.googleapis.com/css?family=Chivo:400,700,900&display=swap');
 
 h2#roster,
 h2#stats,
@@ -97,7 +99,7 @@ form { padding: 20px; background: #f2f2f2; }
 
 /* GENERAL ELEMENT TYPE STYLES */
 
-header span.header-logo { font-family: 'Chivo', 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 48px; font-weight: 800; line-height: 1.2; color: #303030; letter-spacing: -1px; text-align: center; display: block; }
+header span.header-logo { font-family: 'Chivo', 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 48px; font-weight: 900; line-height: 1.2; color: #303030; letter-spacing: -1px; text-align: center; display: block; }
 
 header span.nav-links {
   line-height: 1.3;
