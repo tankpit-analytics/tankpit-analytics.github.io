@@ -125,8 +125,12 @@ h1, h2, footer, span.nav-links {
   text-align: center;
 }
 
-h2, header span.nav-links {
+header span.nav-links {
   padding: 18px 0 10px;
+}
+
+h2 {
+  padding: 10px 0 10px;
 }
 
 h2 { margin-bottom: 8px; font-size: 22px; font-weight: 600; color: #303030; }
@@ -229,6 +233,10 @@ h2#timeline {
   h2 {
     padding: 12px 0 4px;
   }
+}
+
+h2#last_updated {
+  padding: 32px 0 10px !important;
 }
 
 .last_updated {
