@@ -1,6 +1,8 @@
 ---
 ---
 
+@import url('https://fonts.googleapis.com/css?family=Open+Sans&display=swap');
+
 h2#roster,
 h2#stats,
 h2#hours-of-activity,
@@ -28,7 +30,7 @@ body, #container {
   background: #efefef;
 }
 
-body { font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 1em; line-height: 1.5; color: #6d6d6d; text-shadow: 0 1px 0 rgba(255, 255, 255, 0.8); }
+body { font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 1em; line-height: 1.5; color: #6d6d6d; text-shadow: 0 1px 0 rgba(255, 255, 255, 0.8); }
 
 a, a:visited {
   color: #868364 ;
