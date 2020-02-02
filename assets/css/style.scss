@@ -475,8 +475,10 @@ table.award-generator-show td {
 
 /* TABLE FONTS + COLORS */
 
-table {
+table td {
+  padding: 2px;
   background-color: #ffffe0;
+  vertical-align: middle;
 }
 
 table span {
