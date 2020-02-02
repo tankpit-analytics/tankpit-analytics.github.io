@@ -1,7 +1,7 @@
 
 ## True Top 100 Passes
 
-{:.true-t100}
+{:.t100-passes}
 |1|January 19, 2020: 8:05 PM|<span class="purple">EPIC 10</span> passes <span class="red">AzNsEnSaTiOn</span> for #54|
 |2|January 19, 2020: 5:45 AM|<span class="blue">Islam Brings Peace</span> passes <span class="purple">MZ </span> for #40|
 |3|January 18, 2020: 6:25 PM|<span class="blue">Islam Brings Peace</span> passes <span class="blue">FeLoN</span> for #41|
@@ -19,11 +19,11 @@
 |15|January 04, 2020: 3:33 PM|<span class="red">R E C K A N i Z E</span> passes <span class="blue">Hot Rod</span> for #68|
 |16|January 04, 2020: 3:33 PM|<span class="orange">Clima</span> passes <span class="purple">Twisted Metal II</span> for #14|
 |17|December 20, 2019: 7:15 AM|<span class="blue">Islam Brings Peace</span> passes <span class="purple">-SHOCK-</span> for #44|
-|18|December 19, 2019: 11:20 PM|<span class="purple">EPIC 8</span> passes <span class="orange">-Boa constrictoR-</span> for #60|
-|19|December 19, 2019: 11:00 PM|<span class="purple">EPIC 8</span> passes <span class="blue">Cloudraker</span> for #61|
+|18|December 19, 2019: 11:20 PM|<span class="blue">Blurr</span> passes <span class="orange">-Boa constrictoR-</span> for #60|
+|19|December 19, 2019: 11:00 PM|<span class="blue">Blurr</span> passes <span class="blue">Cloudraker</span> for #61|
 |20|December 19, 2019: 10:20 PM|<span class="blue">Globe Master</span> passes <span class="blue">Striker</span> for #85|
 |21|December 19, 2019: 11:40 AM|<span class="blue">Globe Master</span> passes <span class="blue">Skullcruncher</span> for #86|
-|22|December 15, 2019: 8:00 PM|<span class="purple">EPIC 8</span> passes <span class="purple">idolize -- BLUNTZ</span> for #63|
+|22|December 15, 2019: 8:00 PM|<span class="blue">Blurr</span> passes <span class="purple">idolize -- BLUNTZ</span> for #63|
 |23|December 14, 2019: 8:40 PM|<span class="red">R E C K A N i Z E</span> passes <span class="orange">weekend nachos</span> for #69|
 |24|December 12, 2019: 6:50 PM|<span class="blue">Globe Master</span> passes <span class="purple">Battlefield-4</span> for #87|
 |25|December 08, 2019: 11:55 PM|<span class="purple">EPIC 10</span> passes <span class="blue">lol</span> for #54|
@@ -43,7 +43,7 @@
 |39|November 08, 2019: 10:40 AM|<span class="purple">-SHOCK-</span> passes <span class="purple">Angel of Destiny</span> for #47|
 |40|November 04, 2019: 1:55 PM|<span class="red">R E C K A N i Z E</span> passes <span class="blue">Vicodin</span> for #78|
 |41|October 29, 2019: 10:55 AM|<span class="red">R E C K A N i Z E</span> passes <span class="red">Viper202</span> for #81|
-|42|October 29, 2019: 2:00 AM|<span class="purple">EPIC 8</span> passes <span class="orange">zubziLLa</span> for #66|
+|42|October 29, 2019: 2:00 AM|<span class="blue">Blurr</span> passes <span class="orange">zubziLLa</span> for #66|
 |43|October 28, 2019: 6:05 PM|<span class="purple">SOLITUDE</span> passes <span class="orange">-Boa constrictoR-</span> for #59|
 |44|October 28, 2019: 9:00 AM|<span class="purple">SOLITUDE</span> passes <span class="blue">Cloudraker</span> for #60|
 |45|October 23, 2019: 12:30 PM|<span class="red">R E C K A N i Z E</span> passes <span class="orange">Globe Daddy</span> for #83|
@@ -58,9 +58,9 @@
 |54|October 14, 2019: 6:45 AM|<span class="purple">idolize -- BLUNTZ</span> passes <span class="orange">zubziLLa</span> for #65|
 |55|October 13, 2019: 7:45 AM|<span class="purple">EPIC 5</span> passes <span class="purple">MysTerIouS FeLoN-2</span> for #37|
 |56|October 10, 2019: 9:20 AM|<span class="purple">EPIC 5</span> passes <span class="red">uNRiVaLeD-</span> for #38|
-|57|October 10, 2019: 7:30 AM|<span class="purple">idolize -- BLUNTZ</span> passes <span class="purple">EPIC 8</span> for #66|
-|58|October 09, 2019: 9:35 PM|<span class="purple">EPIC 8</span> passes <span class="purple">idolize -- BLUNTZ</span> for #66|
-|59|October 09, 2019: 2:10 PM|<span class="purple">idolize -- BLUNTZ</span> passes <span class="purple">EPIC 8</span> for #66|
+|57|October 10, 2019: 7:30 AM|<span class="purple">idolize -- BLUNTZ</span> passes <span class="blue">Blurr</span> for #66|
+|58|October 09, 2019: 9:35 PM|<span class="blue">Blurr</span> passes <span class="purple">idolize -- BLUNTZ</span> for #66|
+|59|October 09, 2019: 2:10 PM|<span class="purple">idolize -- BLUNTZ</span> passes <span class="blue">Blurr</span> for #66|
 |60|October 09, 2019: 1:45 PM|<span class="purple">SOLITUDE</span> passes <span class="orange">zubziLLa</span> for #64|
 |61|October 05, 2019: 3:20 PM|<span class="purple">idolize -- BLUNTZ</span> passes <span class="blue">Hot Rod</span> for #66|
 |62|October 04, 2019: 12:30 PM|<span class="purple">idolize -- BLUNTZ</span> passes <span class="orange">weekend nachos</span> for #67|
@@ -92,7 +92,7 @@
 |88|August 30, 2019: 6:50 PM|<span class="blue">Globe Master</span> passes <span class="red">HYDRANGEA</span> for #100|
 |89|August 30, 2019: 6:10 PM|<span class="orange">Globe Daddy</span> passes <span class="blue">Skullcruncher</span> for #84|
 |90|August 27, 2019: 7:25 PM|<span class="purple">idolize -- BLUNTZ</span> passes <span class="blue">Striker</span> for #82|
-|91|August 25, 2019: 8:25 PM|<span class="purple">EPIC 8</span> passes <span class="blue">Hot Rod</span> for #65|
+|91|August 25, 2019: 8:25 PM|<span class="blue">Blurr</span> passes <span class="blue">Hot Rod</span> for #65|
 |92|August 24, 2019: 12:40 PM|<span class="purple">idolize -- BLUNTZ</span> passes <span class="purple">Battlefield-4</span> for #84|
 |93|August 23, 2019: 11:05 AM|<span class="orange">Clima</span> passes <span class="red">HONOR</span> for #15|
 |94|August 22, 2019: 11:15 AM|<span class="purple">idolize -- BLUNTZ</span> passes <span class="orange">Limited Edition</span> for #86|

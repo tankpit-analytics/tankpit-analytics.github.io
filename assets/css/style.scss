@@ -292,180 +292,81 @@ hr {
 
 /* TABLE FONTS + COLORS */
 
-table.roster {
-  margin: 0 auto;
-  width: 360px;
-}
-
-@media only screen and (max-width: 400px) {
-  table.roster {
-    width: 300px !important;
-  }
-  
-  table.stats, table.activity {
-    width: 300px !important;
-  }
-  
-  table.true-t100  {
-    width: 320px !important;
-  }
-  
-  span.red, 
-  span.orange,
-  span.purple,
-  span.blue, 
-  span.gray,
-  span.awards-container {
-    width: 150px !important;
-  }
-  span.stat_hours {
-    width: 70px !important;
-  }
-
-  span.stat_kills {
-    width: 30px !important;
-  }
-  
-  span.stat_deactivated {
-    width: 40px !important;
-  }
-  
-  span.activity_col1,
-  span.activity_col2,
-  span.activity_col3 {
-    width: 46px !important;
-  }
-}
-
-table.roster td {
-  font-weight: 600;
-  padding: 2px;
-  background-color: #ffffe0;
-  vertical-align: middle;
-}
-
-table.stats {
-  margin: 0 auto;
-  width: 410px;
-}
-
-table.activity,
-table.true-t100 {
+table.t100 {
   margin: 0 auto;
   width: 365px;
 }
 
-table.stats td, table.activity td, table.true-t100 td {
+table.t100-passes {
+  margin: 0 auto;
+  width: 500px;
+}
+
+table.t100 td,
+table.t100-passes td, {
   padding: 2px;
   background-color: #ffffe0;
   vertical-align: middle;
 }
 
-table.stats span.red,
-table.stats span.purple,
-table.stats span.blue,
-table.stats span.orange,
-table.activity span.red,
-table.activity span.purple,
-table.activity span.blue,
-table.activity span.orange {
-  font-weight: 600;
-}
-
-table.roster span.roster_header,
-table.stats span.stat_header,
-table.stats span.stat,
-table.activity span.activity_header,
-table.activity span.activity {
-  font-weight: 600;
-  margin: 0 5px 0; 
-  display: block;
-}
-
-span.stat_hours {
-  width: 90px;
-}
-
-span.stat_kills {
-  width: 50px;
-}
-
-span.stat_deactivated {
-  width: 90px;
-}
-
-span.activity_col1 {
-  width: 55px;
-}
-
-span.activity_col2 {
-  width: 61px;
-}
-
-span.activity_col3 {
-  width: 67px;
-}
-
-span.stat_sorted,
-span.activity_sorted {
-  font-weight: 600 !important;
-}
-
-span.red, 
-span.orange,
-span.purple,
-span.blue, 
-span.gray,
-span.awards-container {
-  width: 180px;
-  margin: 0 5px 0; 
-  display: block;
-}
-
-table.true-t100 span.red, 
-table.true-t100 span.orange,
-table.true-t100 span.purple,
-table.true-t100 span.blue, 
-table.true-t100 span.gray,
-table.true-t100 span.awards-container {
+table.t100 span,
+table.t100-passes span {
   display: inline !important;
 }
 
-.red, span.timeline-red,
-a.red, a.red:visited, a.red:hover, a.red:focus, a.red:active {
+@media only screen and (max-width: 400px) {
+  table.t100,
+  table.t100-passes  {
+    width: 320px !important;
+  }
+  
+  table.t100 span {
+    width: 150px !important;
+  }
+}
+
+        /*
+        span.red, 
+        span.orange,
+        span.purple,
+        span.blue, 
+        span.gray,
+        span.awards-container {
+          width: 180px;
+          margin: 0 5px 0; 
+          display: block;
+        }
+        */
+
+.red, a.red, a.red:visited, a.red:hover, a.red:focus, a.red:active {
   color: #e00000;
   /*color: #ff6666;*/
 }
 
-.orange, span.timeline-orange,
-a.orange, a.orange:visited, a.orange:hover, a.orange:focus, a.orange:active {
+.orange, a.orange, a.orange:visited, a.orange:hover, a.orange:focus, a.orange:active {
   color: #ff9000;
   /*color: #ffcc66;*/
 }
 
-.purple, span.timeline-purple,
-a.purple, a.purple:visited, a.purple:hover, a.purple:focus, a.purple:active {
+.purple, a.purple, a.purple:visited, a.purple:hover, a.purple:focus, a.purple:active {
   color: #df00e0;
   /*color: #cc66cc;*/
 }
 
-.blue, span.timeline-blue,
-a.blue, a.blue:visited, a.blue:hover, a.blue:focus, a.blue:active {
+.blue, a.blue, a.blue:visited, a.blue:hover, a.blue:focus, a.blue:active {
   color: #0000e0;
   /*color: #6666ff;*/
 }
 
-.gray,
-a.gray, a.gray:visited, a.gray:hover, a.gray:focus, a.gray:active {
+.gray, a.gray, a.gray:visited, a.gray:hover, a.gray:focus, a.gray:active {
   color: #666; 
 }
 
-span.timeline-red,
-span.timeline-purple,
-span.timeline-blue,
-span.timeline-orange {
- font-weight: 600 !important; 
-}
+
+
+
+
+
 
 
 
