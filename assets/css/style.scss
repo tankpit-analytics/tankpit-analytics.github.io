@@ -475,6 +475,10 @@ table.award-generator-show td {
 
 /* TABLE FONTS + COLORS */
 
+table {
+  margin: 0 auto;
+}
+
 table td {
   padding: 2px;
   background-color: #ffffe0;
@@ -510,8 +514,11 @@ table span {
 }
 
 table.t100 {
-  margin: 0 auto;
   width: 365px;
+}
+
+table.t100-passes {
+  width: 650px;
 }
 
 @media only screen and (max-width: 400px) {
