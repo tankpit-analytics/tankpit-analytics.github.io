@@ -325,18 +325,16 @@ table.t100-passes span {
   }
 }
 
-        /*
-        span.red, 
-        span.orange,
-        span.purple,
-        span.blue, 
-        span.gray,
-        span.awards-container {
-          width: 180px;
-          margin: 0 5px 0; 
-          display: block;
-        }
-        */
+span.red, 
+span.orange,
+span.purple,
+span.blue, 
+span.gray,
+span.awards-container {
+  width: 180px;
+  margin: 0 5px 0; 
+  display: block;
+}
 
 .red, a.red, a.red:visited, a.red:hover, a.red:focus, a.red:active {
   color: #e00000;
