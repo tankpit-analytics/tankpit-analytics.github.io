@@ -220,14 +220,7 @@ a.header-logo:active {
 
 
 
-/* SPANS, HEADERS */
-
-h2#roster,
-h2#stats,
-h2#hours-of-activity,
-h2#timeline {
-  padding-top: 0px !important;
-}
+/* MISC */
 
 @media only screen and (max-width: 767px) {
   h2 {
@@ -239,45 +232,6 @@ h2#last-updated {
   padding: 32px 0 10px !important;
 }
 
-.last_updated {
-  font-size: 100%;
-  color: #444;
-  letter-spacing: 0;
-  font-weight: 400;
-}
-
-span.timeline-date {
-  font-weight: 600;
-  display: block;
-  width: 100%;
-}
-
-span.timeline-blurb {
-  font-weight: 600;
-  display: block;
-  width: 100%;
-}
-
-span.timeline-em {
-  font-weight: 600 !important;
-}
-
-
-
-
-
-/* MISC */
-
-section#downloads {
-  display: none !important;
-}
-
-
-
-
-
-/* CHANGING SPACES, WIDTHS + CENTERING */
-
 section#main_content {
   margin: 0 0 3em;
 }
@@ -286,121 +240,15 @@ hr {
   margin-top: 0;
 }
 
-
-
-
-
-/* TABLE FONTS + COLORS */
-
-table.t100 {
-  margin: 0 auto;
-  width: 365px;
+.last_updated {
+  font-size: 100%;
+  color: #444;
+  letter-spacing: 0;
+  font-weight: 400;
 }
 
-table.t100-passes {
-  margin: 0 auto;
-  width: 600px;
-}
-
-table.t100 td,
-table.t100-passes td, {
-  padding: 2px;
-  background-color: #ffffe0;
-  vertical-align: middle;
-}
-
-table.t100 span,
-table.t100-passes span {
-  width: 180px;
-  margin: 0 5px 0; 
-  display: inline;
-}
-
-table span .awards-container {
-  display: block !important;
-}
-
-@media only screen and (max-width: 400px) {
-  table.t100,
-  table.t100-passes  {
-    width: 320px !important;
-  }
-  
-  table.t100 span {
-    width: 150px !important;
-  }
-}
-
-.red, a.red, a.red:visited, a.red:hover, a.red:focus, a.red:active {
-  color: #e00000;
-  /*color: #ff6666;*/
-}
-
-.orange, a.orange, a.orange:visited, a.orange:hover, a.orange:focus, a.orange:active {
-  color: #ff9000;
-  /*color: #ffcc66;*/
-}
-
-.purple, a.purple, a.purple:visited, a.purple:hover, a.purple:focus, a.purple:active {
-  color: #df00e0;
-  /*color: #cc66cc;*/
-}
-
-.blue, a.blue, a.blue:visited, a.blue:hover, a.blue:focus, a.blue:active {
-  color: #0000e0;
-  /*color: #6666ff;*/
-}
-
-.gray, a.gray, a.gray:visited, a.gray:hover, a.gray:focus, a.gray:active {
-  color: #666; 
-}
-
-
-
-
-
-
-
-
-
-
-
-/* SCREENSHOTS & VIDEOS */
-
-.game-screenshot {
-  margin: 0 auto;
-  width: 95%;
-  height: auto;
-  padding: 2%;
-  background-color: #fafbfc;
-  border: 1px solid #e1e4e8;
-}
-
-.game-video {
-  margin: 0 auto;
-  width: 95%;
-  height: 316px;
-  padding: 2%;
-  background-color: #fafbfc;
-  border: 1px solid #e1e4e8;
-}
-
-@media only screen and (max-width: 767px) and (min-width: 584px) {
-  .game-video {
-    height: 360px !important;
-  }
-}
-
-@media only screen and (max-width: 584px) and (min-width: 400px) {
-  .game-video {
-    height: 300px !important;
-  }
-}
-
-@media only screen and (max-width: 400px) {
-  .game-video {
-    height: 190px !important;
-  }
+section#downloads {
+  display: none !important;
 }
 
 
@@ -619,4 +467,34 @@ table.award-generator-show td {
 
 .gen-blue {
   color: #0000e0;
+}
+
+
+
+
+
+/* TABLE FONTS + COLORS */
+
+.red, a.red, a.red:visited, a.red:hover, a.red:focus, a.red:active {
+  color: #e00000;
+  /*color: #ff6666;*/
+}
+
+.orange, a.orange, a.orange:visited, a.orange:hover, a.orange:focus, a.orange:active {
+  color: #ff9000;
+  /*color: #ffcc66;*/
+}
+
+.purple, a.purple, a.purple:visited, a.purple:hover, a.purple:focus, a.purple:active {
+  color: #df00e0;
+  /*color: #cc66cc;*/
+}
+
+.blue, a.blue, a.blue:visited, a.blue:hover, a.blue:focus, a.blue:active {
+  color: #0000e0;
+  /*color: #6666ff;*/
+}
+
+.gray, a.gray, a.gray:visited, a.gray:hover, a.gray:focus, a.gray:active {
+  color: #666; 
 }
