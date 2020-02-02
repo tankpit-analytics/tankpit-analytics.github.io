@@ -311,7 +311,13 @@ table.t100-passes td, {
 
 table.t100 span,
 table.t100-passes span {
-  display: inline !important;
+  width: 180px;
+  margin: 0 5px 0; 
+  display: inline;
+}
+
+table span .awards-container {
+  display: block !important;
 }
 
 @media only screen and (max-width: 400px) {
@@ -323,17 +329,6 @@ table.t100-passes span {
   table.t100 span {
     width: 150px !important;
   }
-}
-
-span.red, 
-span.orange,
-span.purple,
-span.blue, 
-span.gray,
-span.awards-container {
-  width: 180px;
-  margin: 0 5px 0; 
-  display: block;
 }
 
 .red, a.red, a.red:visited, a.red:hover, a.red:focus, a.red:active {
