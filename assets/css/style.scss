@@ -475,6 +475,14 @@ table.award-generator-show td {
 
 /* TABLE FONTS + COLORS */
 
+table {
+  background-color: #ffffe0;
+}
+
+table span {
+  display: inline-block;
+}
+
 .red, a.red, a.red:visited, a.red:hover, a.red:focus, a.red:active {
   color: #e00000;
   /*color: #ff6666;*/
@@ -497,4 +505,15 @@ table.award-generator-show td {
 
 .gray, a.gray, a.gray:visited, a.gray:hover, a.gray:focus, a.gray:active {
   color: #666; 
+}
+
+table.t100 {
+  margin: 0 auto;
+  width: 365px;
+}
+
+@media only screen and (max-width: 400px) {
+  table.t100 {
+    width: 320px !important;
+  }
 }
