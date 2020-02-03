@@ -475,15 +475,7 @@ table.award-generator-show td {
 
 /* TABLE FONTS + COLORS */
 
-table {
-  margin: 0 auto;
-}
-
-table td {
-  padding: 2px;
-  background-color: #ffffe0;
-  vertical-align: middle;
-}
+/* spans */
 
 table span {
   display: inline-block;
@@ -517,8 +509,16 @@ table span {
   color: #666; 
 }
 
-span.tank_col {
-  width: 180px;
+/* tables */
+
+table {
+  margin: 0 auto;
+}
+
+table td {
+  padding: 2px;
+  background-color: #ffffe0;
+  vertical-align: middle;
 }
 
 table.t100 {
@@ -526,11 +526,25 @@ table.t100 {
 }
 
 table.t100-passes {
-  width: 580px;
+  width: 365px;
 }
 
 @media only screen and (max-width: 400px) {
   table.t100 {
     width: 320px !important;
   }
+}
+
+/* cols */
+
+span.tank_col {
+  width: 180px;
+}
+
+span.t100_date {
+  width: 68px;
+}
+
+span.t100_rank {
+  width: 37px;
 }
