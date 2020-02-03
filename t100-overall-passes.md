@@ -2,7 +2,7 @@
 ## True Top 100 Passes
 
 {:.t100-passes}
-|Date|<span class="tank_col">Tank</span>|<span class="tank_col">Passed</span>|#|
+|<span class="t100_date">Date</span>|<span class="tank_col">Tank</span>|<span class="tank_col">Passed</span>|<span class="t100_rank">#</span>|
 |Feb 01|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=63862"><span class="blue">Blurr</span></a>|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=17359"><span class="blue">lol</span></a>|<span class="red">56</span>|
 |Jan 30|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=3644"><span class="blue">Striker</span></a>|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=59879"><span class="orange">Globe Daddy</span></a>|<span class="red">84</span>|
 |Jan 30|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=59879"><span class="orange">Globe Daddy</span></a>|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=3644"><span class="blue">Striker</span></a>|<span class="red">84</span>|
