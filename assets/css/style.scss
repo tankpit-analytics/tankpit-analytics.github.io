@@ -489,6 +489,13 @@ table.t100-passes span.purple {
   display: block !important;
 }
 
+table.t100 span.blue,
+table.t100 span.red,
+table.t100 span.orange,
+table.t100 span.purple {
+  margin-right: 3px !important;
+}
+
 .red, a.red, a.red:visited, a.red:hover, a.red:focus, a.red:active {
   color: #e00000;
   /*color: #ff6666;*/
