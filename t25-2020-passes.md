@@ -1,5 +1,5 @@
 
-## True Top 100 Overall - Passes
+## True Top 25 2020 - Passes
 
 {:.t100-passes}
 |<span class="t100_date">Date</span>|<span class="tank_col">Tank</span>|<span class="tank_col">Passed</span>|<span class="t100_rank">#</span>|
