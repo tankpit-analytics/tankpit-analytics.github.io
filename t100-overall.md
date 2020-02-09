@@ -1,7 +1,7 @@
 
 ## True Top 100
 
-{:.t100}
+<a href="https://tankpit-analytics.github.io/t100-overall-passes">See Recent Passes</a>{:.t100}
 |1|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=25836"><span class="red">noodle</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a1-3"></span><span class="awards-sprite a2-3"></span><span class="awards-sprite a3-3"></span><span class="awards-sprite a4-3"></span><span class="awards-sprite a5-2"></span><span class="awards-sprite a8-1"></span></span></a>|
 |2|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=16369"><span class="purple">EPIC 7</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a1-3"></span><span class="awards-sprite a2-3"></span><span class="awards-sprite a3-3"></span><span class="awards-sprite a4-3"></span><span class="awards-sprite a5-3"></span><span class="awards-sprite a8-1"></span></span></a>|
 |3|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=9389"><span class="red">Jiren</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a1-3"></span><span class="awards-sprite a2-2"></span><span class="awards-sprite a3-3"></span><span class="awards-sprite a4-3"></span><span class="awards-sprite a5-3"></span><span class="awards-sprite a7-1"></span></span></a>|
