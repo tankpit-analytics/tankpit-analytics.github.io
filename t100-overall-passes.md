@@ -105,5 +105,5 @@
 |Aug 30|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=59879"><span class="orange">Globe Daddy</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a1-3"></span><span class="awards-sprite a2-1"></span><span class="awards-sprite a3-2"></span><span class="awards-sprite a4-3"></span><span class="awards-sprite a5-1"></span><span class="awards-sprite a7-1"></span><span class="awards-sprite a8-1"></span></span></a>|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=2925"><span class="blue">Skullcruncher</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a1-3"></span><span class="awards-sprite a2-3"></span><span class="awards-sprite a3-3"></span><span class="awards-sprite a5-2"></span><span class="awards-sprite a6-1"></span></span></a>|<span class="red">84</span>|
 
 
-<span class="last_updated">Last Updated:&nbsp;&nbsp;Feb 09, 1:29 PM&nbsp;&nbsp;(Pacific)</span>
+<p class="last_updated"><span class="last_updated">Last Updated:&nbsp;&nbsp;Feb 09, 1:37 PM&nbsp;&nbsp;(Pacific)</span></p>
 
