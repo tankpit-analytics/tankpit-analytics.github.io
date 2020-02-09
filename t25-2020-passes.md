@@ -92,7 +92,3 @@
 |Jan 04|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=70152"><span class="red">Godfather</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a5-2"></span><span class="awards-sprite a6-1"></span></span></a>|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=70120"><span class="red">cRanberry vampiRe</span><span class="awards-container"><span class="awards-sprite a0-3"></span></span></a>|<span class="green">3</span>|
 |Jan 04|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=70274"><span class="red">Oden</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a1-1"></span></span></a>|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=70120"><span class="red">cRanberry vampiRe</span><span class="awards-container"><span class="awards-sprite a0-3"></span></span></a>|<span class="green">2</span>|
 |Jan 04|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=70120"><span class="red">cRanberry vampiRe</span><span class="awards-container"><span class="awards-sprite a0-3"></span></span></a>|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=70221"><span class="red">CR4CK3R T4M3R</span><span class="awards-container"><span class="awards-sprite a0-3"></span></span></a>|<span class="green">2</span>|
-
-
-<p class="last_updated"><span class="last_updated">Last Updated:&nbsp;&nbsp;Feb 09, 1:37 PM&nbsp;&nbsp;(Pacific)</span></p>
-
