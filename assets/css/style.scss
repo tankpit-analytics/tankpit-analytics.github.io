@@ -228,23 +228,12 @@ a.header-logo:active {
   }
 }
 
-h2#last-updated {
-  padding: 32px 0 10px !important;
-}
-
 section#main_content {
   margin: 0 0 3em;
 }
 
 hr {
   margin-top: 0;
-}
-
-.last_updated {
-  font-size: 100%;
-  color: #444;
-  letter-spacing: 0;
-  font-weight: 400;
 }
 
 section#downloads {
@@ -522,6 +511,14 @@ table.t100 span.purple {
 
 .gray, a.gray, a.gray:visited, a.gray:hover, a.gray:focus, a.gray:active {
   color: #666; 
+}
+
+span.last_updated {
+  font-style: italic;
+  font-size: 100%;
+  color: #444;
+  letter-spacing: 0;
+  font-weight: 400;
 }
 
 /* tables */
