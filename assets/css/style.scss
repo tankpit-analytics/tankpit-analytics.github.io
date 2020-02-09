@@ -481,6 +481,10 @@ table span {
   display: inline-block;
 }
 
+table.t100-passes span {
+  display: block !important;
+}
+
 .red, a.red, a.red:visited, a.red:hover, a.red:focus, a.red:active {
   color: #e00000;
   /*color: #ff6666;*/
