@@ -1,6 +1,6 @@
 
 ## True Top 25 2020 - Passes
-<span class="last_updated">Last Updated: Sunday, February 09, 1:22 PM(Pacific)</span>
+<span class="last_updated">Last Updated: Feb 09, 1:24 PM (Pacific)</span>
 
 {:.t100-passes}
 |<span class="t100_date">Date</span>|<span class="tank_col">Tank</span>|<span class="tank_col">Passed</span>|<span class="t100_rank">#</span>|

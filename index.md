@@ -1,6 +1,6 @@
 
 ## True Top 100 Overall
-<span class="last_updated">Last Updated: Sunday, February 09, 1:22 PM(Pacific)</span>
+<span class="last_updated">Last Updated: Feb 09, 1:24 PM (Pacific)</span>
 
 <a href="https://tankpit-analytics.github.io/t100-overall-passes">See Recent Passes</a>
 
