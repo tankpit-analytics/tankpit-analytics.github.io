@@ -1,6 +1,5 @@
 
 ## True Top 100 Overall - Passes
-<span class="last_updated">Last Updated: Feb 09, 1:24 PM (Pacific)</span>
 
 {:.t100-passes}
 |<span class="t100_date">Date</span>|<span class="tank_col">Tank</span>|<span class="tank_col">Passed</span>|<span class="t100_rank">#</span>|
@@ -104,3 +103,7 @@
 |Sep 01|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=61587"><span class="purple">SOLITUDE</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a1-1"></span><span class="awards-sprite a2-2"></span><span class="awards-sprite a3-2"></span><span class="awards-sprite a5-1"></span><span class="awards-sprite a8-1"></span></span></a>|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=9030"><span class="purple">Ammo Thrower Evan</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a1-3"></span><span class="awards-sprite a2-3"></span><span class="awards-sprite a3-3"></span><span class="awards-sprite a5-3"></span></span></a>|<span class="red">70</span>|
 |Aug 30|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=63851"><span class="blue">Globe Master</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a1-3"></span><span class="awards-sprite a2-2"></span><span class="awards-sprite a3-2"></span><span class="awards-sprite a4-3"></span><span class="awards-sprite a5-3"></span><span class="awards-sprite a7-1"></span><span class="awards-sprite a8-1"></span></span></a>|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=49521"><span class="red">HYDRANGEA</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a2-1"></span><span class="awards-sprite a3-2"></span><span class="awards-sprite a4-3"></span><span class="awards-sprite a5-3"></span></span></a>|<span class="red">100</span>|
 |Aug 30|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=59879"><span class="orange">Globe Daddy</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a1-3"></span><span class="awards-sprite a2-1"></span><span class="awards-sprite a3-2"></span><span class="awards-sprite a4-3"></span><span class="awards-sprite a5-1"></span><span class="awards-sprite a7-1"></span><span class="awards-sprite a8-1"></span></span></a>|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=2925"><span class="blue">Skullcruncher</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a1-3"></span><span class="awards-sprite a2-3"></span><span class="awards-sprite a3-3"></span><span class="awards-sprite a5-2"></span><span class="awards-sprite a6-1"></span></span></a>|<span class="red">84</span>|
+
+
+<span class="last_updated">Last Updated:&nbsp;&nbsp;Feb 09, 1:29 PM&nbsp;&nbsp;(Pacific)</span>
+

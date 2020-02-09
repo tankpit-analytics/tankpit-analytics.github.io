@@ -1,6 +1,5 @@
 
 ## True Top 25 2020 - Passes
-<span class="last_updated">Last Updated: Feb 09, 1:24 PM (Pacific)</span>
 
 {:.t100-passes}
 |<span class="t100_date">Date</span>|<span class="tank_col">Tank</span>|<span class="tank_col">Passed</span>|<span class="t100_rank">#</span>|
@@ -93,3 +92,7 @@
 |Jan 04|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=70152"><span class="red">Godfather</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a5-2"></span><span class="awards-sprite a6-1"></span></span></a>|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=70120"><span class="red">cRanberry vampiRe</span><span class="awards-container"><span class="awards-sprite a0-3"></span></span></a>|<span class="green">3</span>|
 |Jan 04|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=70274"><span class="red">Oden</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a1-1"></span></span></a>|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=70120"><span class="red">cRanberry vampiRe</span><span class="awards-container"><span class="awards-sprite a0-3"></span></span></a>|<span class="green">2</span>|
 |Jan 04|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=70120"><span class="red">cRanberry vampiRe</span><span class="awards-container"><span class="awards-sprite a0-3"></span></span></a>|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=70221"><span class="red">CR4CK3R T4M3R</span><span class="awards-container"><span class="awards-sprite a0-3"></span></span></a>|<span class="green">2</span>|
+
+
+<span class="last_updated">Last Updated:&nbsp;&nbsp;Feb 09, 1:29 PM&nbsp;&nbsp;(Pacific)</span>
+
