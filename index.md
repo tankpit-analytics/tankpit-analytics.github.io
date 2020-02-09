@@ -106,5 +106,5 @@
 |100|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=53385"><span class="orange">FIRE</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a2-1"></span><span class="awards-sprite a3-1"></span><span class="awards-sprite a5-3"></span></span></a>|
 
 
-<p class="last_updated"><span class="last_updated">Last Updated:&nbsp;&nbsp;Feb 09, 1:37 PM&nbsp;&nbsp;(Pacific)</span></p>
+<p class="last_updated"><span class="last_updated">Last Updated:&nbsp;&nbsp;Feb 09, 1:38 PM&nbsp;&nbsp;(Pacific)</span></p>
 
