@@ -1,5 +1,6 @@
 
 ## True Top 100 Overall - Passes
+<span class="last_updated">Last Updated: Sunday, February 09, 1:22 PM(Pacific)</span>
 
 {:.t100-passes}
 |<span class="t100_date">Date</span>|<span class="tank_col">Tank</span>|<span class="tank_col">Passed</span>|<span class="t100_rank">#</span>|

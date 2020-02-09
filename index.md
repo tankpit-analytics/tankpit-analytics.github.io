@@ -1,7 +1,8 @@
 
 ## True Top 100 Overall
+<span class="last_updated">Last Updated: Sunday, February 09, 1:22 PM(Pacific)</span>
 
-<span class="last_updated">Last Updated: Sunday, February 09, 1:20 PM(Pacific)</span><a href="https://tankpit-analytics.github.io/t100-overall-passes">See Recent Passes</a>
+<a href="https://tankpit-analytics.github.io/t100-overall-passes">See Recent Passes</a>
 
 {:.t100}
 |1|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=9389"><span class="red">Jiren</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a1-3"></span><span class="awards-sprite a2-2"></span><span class="awards-sprite a3-3"></span><span class="awards-sprite a4-3"></span><span class="awards-sprite a5-3"></span><span class="awards-sprite a7-1"></span></span></a>|
