@@ -183,7 +183,7 @@ footer { padding-top: 20px; padding-bottom: 30px; margin-top: 40px; font-size: 1
 @media only screen and (max-width: 767px) { header { padding-top: 10px; padding-bottom: 10px; }
   #downloads { margin-bottom: 25px; }
   #download-zip, #download-tar-gz { display: none; }
-  .inner { width: 94%; margin: 0 auto; } }
+  .inner { width: 96%; margin: 0 auto; } }
 /* Mobile Landscape Size to Tablet Portrait (devices and browsers) */
 /* Mobile Portrait Size to Mobile Landscape Size (devices and browsers) */
 
@@ -524,12 +524,6 @@ span.last_updated {
   font-weight: 400;
 }
 
-/*
-span.t100_month {
-  
-}
-*/
-
 /* tables */
 
 table {
@@ -562,5 +556,13 @@ span.tank_col {
 }
 
 span.t100_rank {
-  width: 30px;
+  width: 28px;
+}
+
+@media only screen and (max-width: 400px) {
+
+  /* tables */
+  table td {
+    padding: 0px !important;
+  }
 }
