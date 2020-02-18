@@ -542,7 +542,7 @@ table.t100 {
 }
 
 table.t100-passes {
-  max-width: 510px;
+  max-width: 520px;
   margin-bottom: 20px;
 }
 
@@ -565,10 +565,11 @@ span.tank_col {
 }
 
 span.t100_rank {
-  width: 26px;
+  width: 30px;
 }
 
-@media only screen and (max-width: 520px) {
+@media only screen and (max-width: 542px) {
+
   /* tables */
 
   .t100-passes-desktop {
@@ -578,9 +579,17 @@ span.t100_rank {
   .t100-passes-mobile {
     display: table !important;
   }
+
+  /* cols */
+
+  span.t100_rank {
+    width: 26px !important;
+  }
+
 }
 
 @media only screen and (max-width: 400px) {
+
   /* tables */
 
   table td {
