@@ -547,7 +547,7 @@ table.t100-passes {
 }
 
 table.t100-passes-desktop {
-  display: block;
+  display: table;
 }
 
 table.t100-passes-mobile {
@@ -592,6 +592,6 @@ span.t100_rank {
   }
 
   table.t100-passes-mobile {
-    display: block !important;
+    display: table !important;
   }
 }
