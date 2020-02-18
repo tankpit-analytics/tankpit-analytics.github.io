@@ -1,7 +1,7 @@
 
 ## True Top 100 Overall - Passes
 
-<div id="t100-passes-desktop">
+<section id="t100-passes-desktop">
 <span class="t100_month">February 2020</span>
 
 {:.t100-passes}
@@ -227,4 +227,4 @@
 |<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=63862"><span class="blue">Blurr</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a1-3"></span><span class="awards-sprite a2-2"></span><span class="awards-sprite a3-2"></span><span class="awards-sprite a5-3"></span><span class="awards-sprite a7-1"></span></span></a>|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=4337"><span class="red">getchya</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a1-3"></span><span class="awards-sprite a2-3"></span><span class="awards-sprite a3-3"></span><span class="awards-sprite a4-3"></span><span class="awards-sprite a5-1"></span></span></a>|<span class="red">79</span>|
 
 
-</div>
+</section>
