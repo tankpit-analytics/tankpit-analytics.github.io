@@ -481,7 +481,11 @@ table.t100-passes span.purple {
 table.t100 span.blue,
 table.t100 span.red,
 table.t100 span.orange,
-table.t100 span.purple {
+table.t100 span.purple,
+table.awards_search span.blue,
+table.awards_search span.red,
+table.awards_search span.orange,
+table.awards_search span.purple {
   margin-right: 3px !important;
 }
 
@@ -542,20 +546,20 @@ table.awards_search {
   min-width: 320px;
 }
 
-table.t100-passes,
+table.t100_passes,
 table.awards_search {
   margin-bottom: 20px;
 }
 
-table.t100-passes {
+table.t100_passes {
   max-width: 520px;
 }
 
-.t100-passes-desktop {
+.t100_passes_desktop {
   display: table;
 }
 
-.t100-passes-mobile {
+.t100_passes_mobile {
   display: none;
 }
 
@@ -577,11 +581,11 @@ span.t100_rank {
 
   /* tables */
 
-  .t100-passes-desktop {
+  .t100_passes_desktop {
     display: none !important;
   }
 
-  .t100-passes-mobile {
+  .t100_passes_mobile {
     display: table !important;
   }
 
