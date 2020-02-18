@@ -462,6 +462,59 @@ table.award-generator-show td {
 
 
 
+/* AWARDS SEARCH */
+
+#awards_search_star1 {
+  display: table;
+}
+
+#awards_search_header_star1 {
+  display: block;
+}
+
+#awards_search_star2,
+#awards_search_star3,
+#awards_search_tank1,
+#awards_search_tank2,
+#awards_search_tank3,
+#awards_search_medal1,
+#awards_search_medal2,
+#awards_search_medal3,
+#awards_search_sword1,
+#awards_search_sword2,
+#awards_search_sword3,
+#awards_search_cup1,
+#awards_search_cup2,
+#awards_search_cup3,
+#awards_search_dot3,
+#awards_search_ph1,
+#awards_search_wc1,
+#awards_search_lb1,
+#awards_search_header_star2,
+#awards_search_header_star3,
+#awards_search_header_tank1,
+#awards_search_header_tank2,
+#awards_search_header_tank3,
+#awards_search_header_medal1,
+#awards_search_header_medal2,
+#awards_search_header_medal3,
+#awards_search_header_sword1,
+#awards_search_header_sword2,
+#awards_search_header_sword3,
+#awards_search_header_cup1,
+#awards_search_header_cup2,
+#awards_search_header_cup3,
+#awards_search_header_dot3,
+#awards_search_header_ph1,
+#awards_search_header_wc1,
+#awards_search_header_lb1 {
+  display: none;
+}
+
+
+
+
+
 /* TABLE FONTS + COLORS */
 
 /* spans */
@@ -606,57 +659,3 @@ span.t100_rank {
   }
 
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-/* AWARDS SEARCH */
-
-#awards_search_dot3 {
-  display: table;
-}
-
-#awards_search_header_dot3 {
-  display: block;
-}
-
-#awards_search_ph1,
-#awards_search_wc1,
-#awards_search_lb1,
-#awards_search_header_ph1,
-#awards_search_header_wc1,
-#awards_search_header_lb1 {
-  display: none;
-}
-
-
-
-
-
-
-
-
-
