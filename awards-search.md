@@ -1,7 +1,7 @@
 
 ## Awards Search
 
-<a onclick="searchDoT()">DoT</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a onclick="searchPH()">PH</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a onclick="searchLB()">LB</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a onclick="searchWC()">WC</a>
+<p><a onclick="searchDoT()">DoT</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a onclick="searchPH()">PH</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a onclick="searchLB()">LB</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a onclick="searchWC()">WC</a></p>
 
 {:.awards_search#awards_search_dot3}
 |1|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=746"><span class="blue">Optimus Prime</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a1-3"></span><span class="awards-sprite a2-3"></span><span class="awards-sprite a3-3"></span><span class="awards-sprite a4-3"></span><span class="awards-sprite a5-3"></span><span class="awards-sprite a6-1"></span><span class="awards-sprite a7-1"></span></span></a>|
