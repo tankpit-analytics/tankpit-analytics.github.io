@@ -536,14 +536,19 @@ table td {
   vertical-align: middle;
 }
 
-table.t100 {
+table.t100,
+table.awards_search {
   max-width: 365px;
   min-width: 320px;
 }
 
+table.t100-passes,
+table.awards_search {
+  margin-bottom: 20px;
+}
+
 table.t100-passes {
   max-width: 520px;
-  margin-bottom: 20px;
 }
 
 .t100-passes-desktop {

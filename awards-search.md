@@ -1,7 +1,7 @@
 
 ## Awards Search
 
-<<span class="awards_search_header">dot 3</span>
+<span class="awards_search_header">dot 3</span>
 
 {:.awards_search}
 |1|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=504"><span class="orange">Homer J Simpson</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a1-3"></span><span class="awards-sprite a2-3"></span><span class="awards-sprite a3-3"></span><span class="awards-sprite a4-3"></span><span class="awards-sprite a5-2"></span></span></a>|
