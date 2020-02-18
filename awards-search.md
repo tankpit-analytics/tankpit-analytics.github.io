@@ -1,7 +1,7 @@
 
 ## Awards Search
 
-<p>Star: <a onclick="searchStar1()">Single</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a onclick="searchStar2()">Double</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a onclick="searchStar3()">Triple</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a onclick="searchDoT()">DoT</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a onclick="searchPH()">PH</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a onclick="searchLB()">LB</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a onclick="searchWC()">WC</a></p>
+<p>Star: <a onclick="searchStar1()">Single</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a onclick="searchStar2()">Double</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a onclick="searchStar3()">Triple</a><br /><a onclick="searchDoT()">DoT</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a onclick="searchPH()">PH</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a onclick="searchLB()">LB</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a onclick="searchWC()">WC</a></p>
 
 <span class="awards_search_header" id="awards_search_header_star1">Single Star (1536)</span>
 
