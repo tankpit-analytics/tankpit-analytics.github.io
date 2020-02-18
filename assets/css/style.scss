@@ -557,7 +557,7 @@ table.t100-passes-mobile {
 /* cols */
 
 span.t100_date {
-  width: 54px;
+  width: 120px;
 }
 
 span.tank_col {
@@ -568,14 +568,8 @@ span.t100_rank {
   width: 26px;
 }
 
-@media only screen and (max-width: 425px) {
-
+@media only screen and (max-width: 490px) {
   /* tables */
-  table td {
-    padding: 0px !important;
-  }
-
-  /* t100 passes */
 
   table.t100-passes-desktop {
     display: none !important;
@@ -584,4 +578,13 @@ span.t100_rank {
   table.t100-passes-mobile {
     display: table !important;
   }
+}
+
+@media only screen and (max-width: 400px) {
+  /* tables */
+
+  table td {
+    padding: 0px !important;
+  }
+
 }
