@@ -1,9 +1,9 @@
 
 ## Awards Search
 
-<span class="awards_search_header awards_search_dot3">dot 3</span>
+<a onclick="searchDoT()">DoT</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a onclick="searchPH()">PH</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a onclick="searchLB()">LB</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a onclick="searchWC()">WC</a>
 
-{:.awards_search.awards_search_dot3}
+{:.awards_search#awards_search_dot3}
 |1|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=746"><span class="blue">Optimus Prime</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a1-3"></span><span class="awards-sprite a2-3"></span><span class="awards-sprite a3-3"></span><span class="awards-sprite a4-3"></span><span class="awards-sprite a5-3"></span><span class="awards-sprite a6-1"></span><span class="awards-sprite a7-1"></span></span></a>|
 |2|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=827"><span class="blue">Scourge</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a1-3"></span><span class="awards-sprite a2-3"></span><span class="awards-sprite a3-3"></span><span class="awards-sprite a4-3"></span><span class="awards-sprite a5-3"></span><span class="awards-sprite a7-1"></span><span class="awards-sprite a8-1"></span></span></a>|
 |3|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=4462"><span class="orange">Wiseguy</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a1-3"></span><span class="awards-sprite a2-3"></span><span class="awards-sprite a3-3"></span><span class="awards-sprite a4-3"></span><span class="awards-sprite a5-3"></span><span class="awards-sprite a6-1"></span><span class="awards-sprite a8-1"></span></span></a>|
@@ -105,9 +105,7 @@
 |99|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=8974"><span class="orange">daemon</span><span class="awards-container"><span class="awards-sprite a4-3"></span></span></a>|
 
 
-<span class="awards_search_header awards_search_ph1">ph 1</span>
-
-{:.awards_search.awards_search_ph1}
+{:.awards_search#awards_search_ph1}
 |1|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=746"><span class="blue">Optimus Prime</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a1-3"></span><span class="awards-sprite a2-3"></span><span class="awards-sprite a3-3"></span><span class="awards-sprite a4-3"></span><span class="awards-sprite a5-3"></span><span class="awards-sprite a6-1"></span><span class="awards-sprite a7-1"></span></span></a>|
 |2|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=4462"><span class="orange">Wiseguy</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a1-3"></span><span class="awards-sprite a2-3"></span><span class="awards-sprite a3-3"></span><span class="awards-sprite a4-3"></span><span class="awards-sprite a5-3"></span><span class="awards-sprite a6-1"></span><span class="awards-sprite a8-1"></span></span></a>|
 |3|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=12791"><span class="orange">RESILIENCE</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a1-3"></span><span class="awards-sprite a2-3"></span><span class="awards-sprite a3-3"></span><span class="awards-sprite a4-3"></span><span class="awards-sprite a5-1"></span><span class="awards-sprite a6-1"></span><span class="awards-sprite a8-1"></span></span></a>|
@@ -135,9 +133,7 @@
 |25|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=70152"><span class="red">Godfather</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a5-2"></span><span class="awards-sprite a6-1"></span></span></a>|
 
 
-<span class="awards_search_header awards_search_wc1">wc 1</span>
-
-{:.awards_search.awards_search_wc1}
+{:.awards_search#awards_search_wc1}
 |1|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=746"><span class="blue">Optimus Prime</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a1-3"></span><span class="awards-sprite a2-3"></span><span class="awards-sprite a3-3"></span><span class="awards-sprite a4-3"></span><span class="awards-sprite a5-3"></span><span class="awards-sprite a6-1"></span><span class="awards-sprite a7-1"></span></span></a>|
 |2|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=827"><span class="blue">Scourge</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a1-3"></span><span class="awards-sprite a2-3"></span><span class="awards-sprite a3-3"></span><span class="awards-sprite a4-3"></span><span class="awards-sprite a5-3"></span><span class="awards-sprite a7-1"></span><span class="awards-sprite a8-1"></span></span></a>|
 |3|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=4548"><span class="blue">Incontinent Beaver</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a1-3"></span><span class="awards-sprite a2-3"></span><span class="awards-sprite a3-3"></span><span class="awards-sprite a4-3"></span><span class="awards-sprite a5-3"></span><span class="awards-sprite a7-1"></span><span class="awards-sprite a8-1"></span></span></a>|
@@ -203,9 +199,7 @@
 |63|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=56605"><span class="purple">Discord</span><span class="awards-container"><span class="awards-sprite a7-1"></span></span></a>|
 
 
-<span class="awards_search_header awards_search_lb1">lb 1</span>
-
-{:.awards_search.awards_search_lb1}
+{:.awards_search#awards_search_lb1}
 |1|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=827"><span class="blue">Scourge</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a1-3"></span><span class="awards-sprite a2-3"></span><span class="awards-sprite a3-3"></span><span class="awards-sprite a4-3"></span><span class="awards-sprite a5-3"></span><span class="awards-sprite a7-1"></span><span class="awards-sprite a8-1"></span></span></a>|
 |2|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=4462"><span class="orange">Wiseguy</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a1-3"></span><span class="awards-sprite a2-3"></span><span class="awards-sprite a3-3"></span><span class="awards-sprite a4-3"></span><span class="awards-sprite a5-3"></span><span class="awards-sprite a6-1"></span><span class="awards-sprite a8-1"></span></span></a>|
 |3|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=4548"><span class="blue">Incontinent Beaver</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a1-3"></span><span class="awards-sprite a2-3"></span><span class="awards-sprite a3-3"></span><span class="awards-sprite a4-3"></span><span class="awards-sprite a5-3"></span><span class="awards-sprite a7-1"></span><span class="awards-sprite a8-1"></span></span></a>|
