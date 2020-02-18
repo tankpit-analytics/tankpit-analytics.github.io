@@ -464,6 +464,24 @@ table.award-generator-show td {
 
 /* AWARDS SEARCH */
 
+table.awards-search-selection {
+  width: 270px;
+  margin: 0 auto 25px;
+}
+
+table.awards-search-selection a {
+  cursor: pointer;
+  display: block;
+  white-space: nowrap;
+}
+
+table.awards-search-selection td {
+  width: 10%;
+  padding: 0 7px;
+  background-color: #ffffe0;
+  font-weight: 600;
+}
+
 #awards_search_star1 {
   display: table;
 }
