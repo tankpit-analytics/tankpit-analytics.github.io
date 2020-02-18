@@ -568,7 +568,17 @@ span.t100_rank {
   width: 26px;
 }
 
-@media only screen and (max-width: 400px) {
+
+
+
+
+
+
+
+
+/* CHANGE BACK TO 400 */
+
+@media only screen and (max-width: 501px) {
 
   /* tables */
   table td {
