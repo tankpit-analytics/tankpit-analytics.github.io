@@ -560,10 +560,28 @@ span.t100_rank {
   width: 26px;
 }
 
+div#t100-passes-desktop {
+  display: block;
+}
+
+div#t100-passes-mobile {
+  display: none;
+}
+
 @media only screen and (max-width: 400px) {
 
   /* tables */
   table td {
     padding: 0px !important;
+  }
+
+  /* t100 passes */
+
+  div#t100-passes-desktop {
+    display: none !important;
+  }
+
+  div#t100-passes-mobile {
+    display: block !important;
   }
 }
