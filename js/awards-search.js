@@ -1,49 +1,41 @@
 function showDoT() {
     $('#awards_search_dot3')
-        .removeClass('awards_search_hidden');
-        .addClass('awards_search_visible');
+        .css({'display': 'table'});
 }
 
 function showPH() {
     $('#awards_search_ph1')
-        .removeClass('awards_search_hidden');
-        .addClass('awards_search_visible');
+        .css({'display': 'table'});
 }
 
 function showLB() {
     $('#awards_search_lb1')
-        .removeClass('awards_search_hidden');
-        .addClass('awards_search_visible');
+        .css({'display': 'table'});
 }
 
 function showWC() {
     $('#awards_search_wc1')
-        .removeClass('awards_search_hidden');
-        .addClass('awards_search_visible');
+        .css({'display': 'table'});
 }
 
 function hideDoT() {
     $('#awards_search_dot3')
-        .removeClass('awards_search_visible');
-        .addClass('awards_search_hidden');
+        .css({'display': 'none'});
 }
 
 function hidePH() {
     $('#awards_search_ph1')
-        .removeClass('awards_search_visible');
-        .addClass('awards_search_hidden');
+        .css({'display': 'none'});
 }
 
 function hideLB() {
     $('#awards_search_lb1')
-        .removeClass('awards_search_visible');
-        .addClass('awards_search_hidden');
+        .css({'display': 'none'});
 }
 
 function hideWC() {
     $('#awards_search_wc1')
-        .removeClass('awards_search_visible');
-        .addClass('awards_search_hidden');
+        .css({'display': 'none'});
 }
 
 function searchDoT() {

@@ -635,11 +635,13 @@ span.t100_rank {
 
 /* AWARDS SEARCH */
 
-.awards_search_visible {
+#awards_search_dot3 {
   display: table;
 }
 
-.awards_search_hidden {
+#awards_search_ph1,
+#awards_search_wc1,
+#awards_search_lb1 {
   display: none;
 }
 

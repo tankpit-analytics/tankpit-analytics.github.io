@@ -272,5 +272,3 @@
 |70|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=2781"><span class="red">Nanashi</span><span class="awards-container"><span class="awards-sprite a8-1"></span></span></a>|
 |71|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=18832"><span class="orange">Seychelles</span><span class="awards-container"><span class="awards-sprite a8-1"></span></span></a>|
 |72|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=51825"><span class="orange">Wrath of God</span><span class="awards-container"><span class="awards-sprite a8-1"></span></span></a>|
-
-
