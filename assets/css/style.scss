@@ -546,6 +546,14 @@ table.t100-passes {
   margin-bottom: 20px;
 }
 
+table.t100-passes-desktop {
+  display: block;
+}
+
+table.t100-passes-mobile {
+  display: none;
+}
+
 /* cols */
 
 span.t100_date {
@@ -560,14 +568,6 @@ span.t100_rank {
   width: 26px;
 }
 
-div#t100-passes-desktop {
-  display: block;
-}
-
-div#t100-passes-mobile {
-  display: none;
-}
-
 @media only screen and (max-width: 400px) {
 
   /* tables */
@@ -577,11 +577,11 @@ div#t100-passes-mobile {
 
   /* t100 passes */
 
-  div#t100-passes-desktop {
+  table.t100-passes-desktop {
     display: none !important;
   }
 
-  div#t100-passes-mobile {
+  table.t100-passes-mobile {
     display: block !important;
   }
 }
