@@ -542,22 +542,22 @@ table.t100 {
 }
 
 table.t100-passes {
-  max-width: 500px;
+  max-width: 510px;
   margin-bottom: 20px;
 }
 
-table.t100-passes-desktop {
+.t100-passes-desktop {
   display: table;
 }
 
-table.t100-passes-mobile {
+.t100-passes-mobile {
   display: none;
 }
 
 /* cols */
 
 span.t100_date {
-  width: 120px;
+  width: 140px;
 }
 
 span.tank_col {
@@ -568,14 +568,14 @@ span.t100_rank {
   width: 26px;
 }
 
-@media only screen and (max-width: 490px) {
+@media only screen and (max-width: 520px) {
   /* tables */
 
-  table.t100-passes-desktop {
+  .t100-passes-desktop {
     display: none !important;
   }
 
-  table.t100-passes-mobile {
+  .t100-passes-mobile {
     display: table !important;
   }
 }
