@@ -639,9 +639,16 @@ span.t100_rank {
   display: table;
 }
 
+#awards_search_header_dot3 {
+  display: block;
+}
+
 #awards_search_ph1,
 #awards_search_wc1,
-#awards_search_lb1 {
+#awards_search_lb1,
+#awards_search_header_ph1,
+#awards_search_header_wc1,
+#awards_search_header_lb1 {
   display: none;
 }
 
