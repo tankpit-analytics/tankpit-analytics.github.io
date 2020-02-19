@@ -1,7 +1,7 @@
 
 ## True Top 100 Overall
 
-<a href="https://tankpit-analytics.github.io/stats-overall">Stats Leaderboard</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="https://tankpit-analytics.github.io/t100-overall-passes">Recent Passes</a>
+<p><a href="https://tankpit-analytics.github.io/stats-overall">Stats Leaderboard</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="https://tankpit-analytics.github.io/t100-overall-passes">Recent Passes</a></p>
 
 {:.t100}
 |1|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=9389"><span class="red">Jiren</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a1-3"></span><span class="awards-sprite a2-2"></span><span class="awards-sprite a3-3"></span><span class="awards-sprite a4-3"></span><span class="awards-sprite a5-3"></span><span class="awards-sprite a7-1"></span></span></a>|
