@@ -73,7 +73,7 @@ def get_cup_count(i, all_tanks, i_tank_dict, done_ids, verbose = False):
 
 def run_full_loop(all_tanks, verbose = True):
     all_tanks['gold'], all_tanks['silver'], all_tanks['bronze'], all_tanks['total'] = 0, 0, 0, 0
-    all_tanks['time_played'], all_tanks['destroyed_enemies'], all_tanks['deactivated'] = '', 0, 0
+    all_tanks['time_played'], all_tanks['destroyed_enemies'], all_tanks['deactivated'] = '0:0:0', 0, 0
     done_ids = []
     for i in range(all_tanks.shape[0]):
         i_id = int(all_tanks.loc[i, 'id'])
