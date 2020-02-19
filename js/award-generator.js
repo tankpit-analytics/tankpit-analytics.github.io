@@ -232,7 +232,7 @@ function threeLine() {
 
 $(function() { 
     $(".award-generator-save").click(function() { 
-        html2canvas($("#award-generator-show"), {
+        html2canvas($(".award-generator-show"), {
             onrendered: function(canvas) {
                 theCanvas = canvas;
                 canvas.toBlob(function(blob) {
