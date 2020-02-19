@@ -20,6 +20,9 @@ def get_active_df(active_dict):
 #----- main
 
 if __name__ == '__main__':
+    print('#####')
+    print(time_now)
+    start_time = time.time()
     try:
         active_df = pd.read_csv(active_csv)
     except:
@@ -28,3 +31,5 @@ if __name__ == '__main__':
     tmp_df = get_active_df(active_dict)
     active_df = pd.concat([active_df, tmp_df], axis = 0).reset_index(drop = True)
     active_df.to_csv(active_csv, index = False)
+    elapsed_time = time.time() - start_time
+    print('Runtime:', round(elapsed_time, 1), 'seconds')
