@@ -1,7 +1,7 @@
 SCRIPTSDIR=/Users/thomas/git/tankpit-analytics.github.io/scripts
 DATADIR=/Users/thomas/Desktop/tpdata
 LOGDIR=/Users/thomas/Desktop/tpdata/log
-PYTHON=python
+PYTHON=/anaconda3/bin/python
 STDLOG=$LOGDIR/update_5m.log
 STDERR=$LOGDIR/update_5m.err
 STDOUT=$LOGDIR/update_5m.out
