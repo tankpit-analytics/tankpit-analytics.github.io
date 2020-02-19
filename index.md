@@ -104,7 +104,3 @@
 |98|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=37306"><span class="orange">genjamesle</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a1-3"></span><span class="awards-sprite a2-3"></span><span class="awards-sprite a3-2"></span><span class="awards-sprite a5-3"></span></span></a>|
 |99|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=42812"><span class="orange">Elf 1</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a1-3"></span><span class="awards-sprite a2-2"></span><span class="awards-sprite a3-2"></span><span class="awards-sprite a5-1"></span></span></a>|
 |100|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=63887"><span class="purple">EPIC 22</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a1-3"></span><span class="awards-sprite a2-2"></span><span class="awards-sprite a3-2"></span><span class="awards-sprite a4-3"></span><span class="awards-sprite a5-1"></span></span></a>|
-
-
-<p class="last_updated"><span class="last_updated">Last Confirmed Pass:&nbsp;&nbsp;Feb 8, 3:30 PM&nbsp;&nbsp;(Pacific)</span></p>
-
