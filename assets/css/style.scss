@@ -550,7 +550,12 @@ table.cups_leaderboard span.awards-container,
 table.cups_leaderboard span.blue,
 table.cups_leaderboard span.red,
 table.cups_leaderboard span.orange,
-table.cups_leaderboard span.purple {
+table.cups_leaderboard span.purple,
+table.stats_leaderboard span.awards-container,
+table.stats_leaderboard span.blue,
+table.stats_leaderboard span.red,
+table.stats_leaderboard span.orange,
+table.stats_leaderboard span.purple {
   display: block !important;
 }
 
@@ -623,6 +628,11 @@ table.cups_leaderboard {
   min-width: 320px;
 }
 
+table.stats_leaderboard {
+  max-width: 365px;
+  min-width: 300px;
+}
+
 table.t100_passes,
 table.awards_search {
   margin-bottom: 20px;
@@ -664,6 +674,10 @@ span.cup_col {
 
 span.cup_col_total {
   width: 40px;
+}
+
+span.stat_col {
+  width: 90px;
 }
 
 @media only screen and (max-width: 542px) {
