@@ -535,6 +535,12 @@ table.awards_search_selection td {
 
 /* STATS LEADERBOARD */
 
+p.stats_leaderboard a {
+  cursor: pointer;
+  display: block;
+  white-space: nowrap;
+}
+
 #stats_leaderboard_playtime {
   display: table;
 }
