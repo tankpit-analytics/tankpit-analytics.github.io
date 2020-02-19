@@ -213,3 +213,7 @@
 |<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=70120"><span class="red">cRanberry vampiRe</span><span class="awards-container"><span class="awards-sprite a0-3"></span></span></a>|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=70221"><span class="red">CR4CK3R T4M3R</span><span class="awards-container"><span class="awards-sprite a0-3"></span></span></a>|<span class="green">2</span>|
 
 
+
+
+<p class="last_updated"><span class="last_updated">Last Updated:&nbsp;&nbsp;Feb 19, 6:52 AM&nbsp;&nbsp;(Pacific)</span></p>
+
