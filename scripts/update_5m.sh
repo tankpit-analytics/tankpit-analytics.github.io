@@ -1,4 +1,4 @@
-SCRIPTSDIR=/Users/thomas/Desktop/scripts
+SCRIPTSDIR=/Users/thomas/git/tankpit-analytics.github.io/scripts
 DATADIR=/Users/thomas/Desktop/tpdata
 LOGDIR=/Users/thomas/Desktop/tpdata/log
 PYTHON=python
