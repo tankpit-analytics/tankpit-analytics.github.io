@@ -57,6 +57,10 @@ y2020_tanks_csv = '/Users/thomas/Desktop/tpdata/y2020_tanks.csv'
 #-----get 2020 tanks stats
 #requires: y2020_tanks_csv, awards_dict
 
+#-----get active
+
+active_csv = '/Users/thomas/Desktop/tpdata/active.csv'
+
 #========== populate
 
 #-----pop t100
