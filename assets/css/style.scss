@@ -533,6 +533,21 @@ table.awards_search_selection td {
 
 
 
+/* STATS LEADERBOARD */
+
+#stats_leaderboard_playtime {
+  display: table;
+}
+
+#stats_leaderboard_kills,
+#stats_leaderboard_deaths {
+  display: none;
+}
+
+
+
+
+
 /* TABLE FONTS + COLORS */
 
 /* spans */
