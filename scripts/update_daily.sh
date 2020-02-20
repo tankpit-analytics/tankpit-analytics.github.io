@@ -12,8 +12,7 @@ echo "#\nJob started: " $(date) >> $STDERR
 echo "#\nJob started: " $(date) >> $STDOUT
 
 # creds
-eval "$(ssh-agent -s)"
-ssh-add -K ~/.ssh/tpanalytics
+source ~/.bash_profile
 
 # pull
 cd $SCRIPTSDIR
