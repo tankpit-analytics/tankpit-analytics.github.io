@@ -17,7 +17,13 @@ def get_stats_dict(tank_dict):
     stats_dict = {'time_played': '0:0:0', 'destroyed_enemies': 0, 'deactivated': 0}
     try:
         stats_dict['time_played'] = tank_dict['map_data']['World']['time_played']
+    except:
+        pass
+    try:
         stats_dict['destroyed_enemies'] = tank_dict['map_data']['World']['destroyed_enemies']
+    except:
+        pass
+    try:
         stats_dict['deactivated'] = tank_dict['map_data']['World']['deactivated']
     except:
         pass
