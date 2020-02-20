@@ -135,11 +135,11 @@ pop_cups_leaderboard_md = '/Users/thomas/git/tankpit-analytics.github.io/cups-le
 #-----pop stats overall
 #requires: all_tanks_csv
 
-pop_stats_overall_max_display = 25
+pop_stats_overall_max_display = 100
 pop_stats_overall_md = '/Users/thomas/git/tankpit-analytics.github.io/stats-overall.md'
 
 #-----pop stats 2020
 #requires: y2020_tanks_csv
 
-pop_stats_2020_max_display = 25
+pop_stats_2020_max_display = 100
 pop_stats_2020_md = '/Users/thomas/git/tankpit-analytics.github.io/stats-2020.md'
