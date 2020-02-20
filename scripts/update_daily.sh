@@ -39,7 +39,7 @@ $PYTHON $SCRIPTSDIR/pop_stats_2020.py >> $STDLOG 2>&1
 
 # push
 git add .
-git commit -a -m "Automated commit triggered. TESTING."
+git commit -a -m "Automated commit triggered."
 git push origin master
 
 # log
