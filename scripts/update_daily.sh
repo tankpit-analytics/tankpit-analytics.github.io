@@ -11,6 +11,10 @@ echo "#\nJob started: " $(date) >> $STDLOG
 echo "#\nJob started: " $(date) >> $STDERR
 echo "#\nJob started: " $(date) >> $STDOUT
 
+# creds
+eval "$(ssh-agent -s)"
+ssh-add -K ~/.ssh/tpanalytics
+
 # pull
 cd $SCRIPTSDIR
 git reset --hard
