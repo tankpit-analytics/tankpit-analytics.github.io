@@ -3,14 +3,20 @@ from helper import *
 #---- helpers
 
 def get_cup_dict(tank_dict):
-    cup_dict = {}
+    cup_dict = {'gold': 0, 'silver': 0, 'bronze': 0}
     try:
         cup_dict['gold'] = int(tank_dict['user_tournament_victories']['gold'])
-        cup_dict['silver'] = int(tank_dict['user_tournament_victories']['silver'])
-        cup_dict['bronze'] = int(tank_dict['user_tournament_victories']['bronze'])
-        cup_dict['total'] = int(cup_dict['gold'] + cup_dict['silver'] + cup_dict['bronze'])
     except:
         pass
+    try:
+        cup_dict['silver'] = int(tank_dict['user_tournament_victories']['silver'])
+    except:
+        pass
+    try:
+        cup_dict['bronze'] = int(tank_dict['user_tournament_victories']['bronze'])
+    except:
+        pass
+    cup_dict['total'] = int(cup_dict['gold'] + cup_dict['silver'] + cup_dict['bronze'])
     return(cup_dict)
 
 def get_stats_dict(tank_dict):
@@ -77,7 +83,7 @@ def get_cup_count(i, all_tanks, i_tank_dict, done_ids, verbose = False):
         print(i, j_count)
     return(best_cup_dict, done_ids, all_tanks)
 
-def run_full_loop(all_tanks, verbose = False):
+def run_full_loop(all_tanks, verbose = True):
     all_tanks['gold'], all_tanks['silver'], all_tanks['bronze'], all_tanks['total'] = 0, 0, 0, 0
     all_tanks['time_played'], all_tanks['destroyed_enemies'], all_tanks['deactivated'] = '0:0:0', 0, 0
     done_ids = []
@@ -101,9 +107,12 @@ def clean_cup_df_1(df):
     df = df.sort_values(['total','gold','silver','bronze','id'], ascending = [False,False,False,False,True]).reset_index(drop = True)
     return(df)
 
-def clean_cup_df_2(df):
+def clean_cup_df_2(df, awards_dict):
+    df = rank_by_awards(df, awards_dict)
     # drop duplicates
     df = df.drop_duplicates(['gold','silver','bronze'], keep = 'first').reset_index(drop = True)
+    # sort again
+    df = df.sort_values(['total','gold','silver','bronze'], ascending = [False,False,False,False]).reset_index(drop = True)
     return(df)
 
 #----- main
@@ -120,7 +129,7 @@ if __name__ == '__main__':
     all_tanks.to_csv(all_tanks_csv, index = False)
     # clean
     cup_df_1 = clean_cup_df_1(all_tanks)
-    cup_df_2 = clean_cup_df_2(cup_df_1)
+    cup_df_2 = clean_cup_df_2(cup_df_1, awards_dict)
     # save
     cup_df_1.to_csv(cup_counts_csv_1, index = False)
     cup_df_2.to_csv(cup_counts_csv_2, index = False)
