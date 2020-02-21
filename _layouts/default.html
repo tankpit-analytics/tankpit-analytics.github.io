@@ -20,6 +20,17 @@
     <script type="text/javascript" src="./js/awards-search.js"></script>
     <script type="text/javascript" src="./js/stats-leaderboard.js"></script>
     <title>{{ site.title | default: site.github.repository_name }}</title>
+    <!-- GA start -->
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-158830841-1"></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+
+      gtag('config', 'UA-158830841-1');
+    </script>
+    <!-- GA end -->
   </head>
 
   <body>
