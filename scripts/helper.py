@@ -18,11 +18,11 @@ def get_request(link):
     return(response)
 
 def get_dict_from_url(link, max_tries = api_max_tries):
-    for tries in range(max_tries):
+    for tries in range(1, max_tries + 1):
         response = get_request(link)
         if response.status_code == 200:
             break
-        print('GET request error, trying again for:', link)
+        print(tries, 'GET request error, trying again for:', link)
     response_dict = response.json()
     return(response_dict)
 
