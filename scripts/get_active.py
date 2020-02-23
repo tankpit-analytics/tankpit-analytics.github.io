@@ -23,6 +23,7 @@ if __name__ == '__main__':
     print('#####')
     print(time_now)
     start_time = time.time()
+    add_delay()
     try:
         active_df = pd.read_csv(active_csv)
     except:

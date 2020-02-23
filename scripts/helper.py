@@ -7,9 +7,15 @@ from datetime import datetime
 
 time_now = datetime.now().strftime('%Y-%m-%d %H:%M:%S') # Pacific if run on my machine
 
+#----- general
+
+def add_delay(seconds = 1):
+    time.sleep(seconds)
+
 #----- API
 
 def get_dict_from_url(link):
+    add_delay()
     response = requests.get(link)
     response_dict = response.json()
     return(response_dict)
