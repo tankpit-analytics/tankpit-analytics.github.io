@@ -7,21 +7,26 @@ from datetime import datetime
 
 time_now = datetime.now().strftime('%Y-%m-%d %H:%M:%S') # Pacific if run on my machine
 
-#----- general
-
-def add_delay(seconds = 1):
-    time.sleep(seconds)
-
 #----- API
 
-def get_dict_from_url(link):
+def add_delay(seconds = api_delay):
+    time.sleep(seconds)
+
+def get_request(link):
     add_delay()
     response = requests.get(link)
+    return(response)
+
+def get_dict_from_url(link, max_tries = api_max_tries):
+    for tries in range(max_tries):
+        response = get_request(link)
+        if response.status_code == 200:
+            break
     response_dict = response.json()
     return(response_dict)
 
 def get_tank_dict(tank_id):
-    return(get_dict_from_url('http://tankpit.com/api/tank?tank_id=' + str(tank_id)))
+    return(get_dict_from_url('https://tankpit.com/api/tank?tank_id=' + str(tank_id)))
 
 def get_tank_dict_leaderboard(tank_name):
     return(get_dict_from_url('https://tankpit.com/api/leaderboards/?leaderboard=overall&search=%22' + str(tank_name) + '%22'))

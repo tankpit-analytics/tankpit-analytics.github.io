@@ -1,6 +1,9 @@
 dir_tpdata = '/Users/thomas/Desktop/tpdata/'
 dir_git    = '/Users/thomas/git/tankpit-analytics.github.io/'
 
+api_delay = 1
+api_max_tries = 10
+
 #========== data
 
 #-----t100 overall
