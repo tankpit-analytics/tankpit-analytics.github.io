@@ -22,6 +22,7 @@ def get_dict_from_url(link, max_tries = api_max_tries):
         response = get_request(link)
         if response.status_code == 200:
             break
+        print('GET request error, trying again for:', link)
     response_dict = response.json()
     return(response_dict)
 
