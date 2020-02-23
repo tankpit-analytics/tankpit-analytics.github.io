@@ -7,7 +7,7 @@ from datetime import datetime
 
 time_now = datetime.now().strftime('%Y-%m-%d %H:%M:%S') # Pacific if run on my machine
 
-skip_0_2_mins = False # don't change this in helper, leave False!
+skip_mins_overlap = False # don't change this in helper, leave False!
 
 #----- API
 
@@ -19,15 +19,18 @@ def get_request(link):
     response = requests.get(link)
     return(response)
 
-def get_dict_from_url(link, max_tries = api_max_tries, skip_mins = skip_0_2_mins):
+def get_dict_from_url(link, max_tries = api_max_tries, skip_mins = skip_mins_overlap):
     for tries in range(1, max_tries + 1):
         # daily job
         if skip_mins == True:
-            cond_1 = (int(str(datetime.now().minute)[1]) >= 0) & (int(str(datetime.now().minute)[1]) < 2)
-            cond_2 = (int(str(datetime.now().minute)[1]) >= 5) & (int(str(datetime.now().minute)[1]) < 7)
-            if cond_1 | cond_2:
+            minute_now = int(str(datetime.now().minute)[1])
+            cond_1 = (minute_now >= 0) & (minute_now < 3)
+            cond_2 = (minute_now >= 15) & (minute_now < 18)
+            cond_3 = (minute_now >= 30) & (minute_now < 33)
+            cond_4 = (minute_now >= 45) & (minute_now < 48)
+            if cond_1 | cond_2 | cond_3 | cond_4:
                 # don't run
-                add_delay(5)
+                add_delay(15)
             else:
                 # run!
                 response = get_request(link)

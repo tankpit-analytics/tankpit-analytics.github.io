@@ -1,6 +1,6 @@
 from get_all_tanks_stats import *
 
-skip_0_2_mins = True # add True to every daily job
+skip_mins_overlap = True # add True to every daily job
 
 #---- helpers
 

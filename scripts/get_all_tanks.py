@@ -1,6 +1,6 @@
 from t100_main import *
 
-skip_0_2_mins = True # add True to every daily job
+skip_mins_overlap = True # add True to every daily job
 
 #---- helpers
 
