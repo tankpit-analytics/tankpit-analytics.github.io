@@ -12,9 +12,9 @@ master_csv_overall = dir_tpdata + 'master_overall.csv'
 passes_csv_overall = dir_tpdata + 'passes_overall.csv'
 
 ranks_dict_overall = {
-    'general': 8,
-    'colonel': 3,
-    'major': 3,
+    'general': 4,
+    'colonel': 2,
+    'major': 2,
     'captain': 1,
     'lieutenant': 1,
     'sergeant': 1,
@@ -32,10 +32,10 @@ passes_csv_2020 = dir_tpdata + 'passes_2020.csv'
 
 ranks_dict_2020 = {
     'general': 4,
-    'colonel': 3,
-    'major': 3,
-    'captain': 2,
-    'lieutenant': 2,
+    'colonel': 2,
+    'major': 2,
+    'captain': 1,
+    'lieutenant': 1,
     'sergeant': 1,
     'corporal': 1,
     'private': 1,
