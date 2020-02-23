@@ -7,6 +7,8 @@ from datetime import datetime
 
 time_now = datetime.now().strftime('%Y-%m-%d %H:%M:%S') # Pacific if run on my machine
 
+skip_0_2_mins = False # don't change this in helper, leave False!
+
 #----- API
 
 def add_delay(seconds = api_delay):
@@ -17,12 +19,27 @@ def get_request(link):
     response = requests.get(link)
     return(response)
 
-def get_dict_from_url(link, max_tries = api_max_tries):
+def get_dict_from_url(link, max_tries = api_max_tries, skip_mins = skip_0_2_mins):
     for tries in range(1, max_tries + 1):
-        response = get_request(link)
-        if response.status_code == 200:
-            break
-        print(tries, 'GET request error, trying again for:', link)
+        # daily job
+        if skip_mins == True:
+            cond_1 = (int(str(datetime.now().minute)[1]) >= 0) & (int(str(datetime.now().minute)[1]) < 2)
+            cond_2 = (int(str(datetime.now().minute)[1]) >= 5) & (int(str(datetime.now().minute)[1]) < 7)
+            if cond_1 | cond_2:
+                # don't run
+                add_delay(5)
+            else:
+                # run!
+                response = get_request(link)
+                if response.status_code == 200:
+                    break
+                print(tries, 'GET request error, trying again for:', link)
+        # 5min job
+        else:
+            response = get_request(link)
+            if response.status_code == 200:
+                break
+            print(tries, 'GET request error, trying again for:', link)
     response_dict = response.json()
     return(response_dict)
 
@@ -138,7 +155,7 @@ def remove_certain_single_awards(df, awards_dict):
     y6 = df['awards'].apply(lambda x: has_award(x, awards_dict, 'medal', 1)) & z
     df = df[~y1&~y2&~y3&~y4&~y5&~y6].reset_index(drop = True)
     return(df)
-    
+
 # ended up never using this
 def keep_only_has_cup(df, awards_dict):
     y1 = df['awards'].apply(lambda x: has_award(x, awards_dict, 'cup', 1))

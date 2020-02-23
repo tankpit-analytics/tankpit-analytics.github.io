@@ -1,5 +1,7 @@
 from get_all_tanks_stats import *
 
+skip_0_2_mins = True # add True to every daily job
+
 #---- helpers
 
 def run_half_loop(all_tanks):

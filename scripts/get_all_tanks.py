@@ -1,5 +1,7 @@
 from t100_main import *
 
+skip_0_2_mins = True # add True to every daily job
+
 #---- helpers
 
 def get_all_tanks(ranks_dict, get_leaderboard = 'overall'):

@@ -1,5 +1,7 @@
 from helper import *
 
+skip_0_2_mins = True # add True to every daily job
+
 #---- helpers
 
 def get_cup_dict(tank_dict):

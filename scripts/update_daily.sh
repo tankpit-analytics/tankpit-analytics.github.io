@@ -33,7 +33,7 @@ git add .
 git commit -a -m "Automated commit triggered (1 of 2)."
 git push origin master
 
-# data
+# data - for each daily data job, make sure to add skip_0_2_mins param
 $PYTHON $SCRIPTSDIR/get_2020_tanks.py >> $LOGDIR/get_2020_tanks.log 2>&1 # 14 secs
 $PYTHON $SCRIPTSDIR/get_all_tanks.py >> $LOGDIR/get_all_tanks.log 2>&1 # 14 mins
 $PYTHON $SCRIPTSDIR/get_2020_tanks_stats.py >> $LOGDIR/get_2020_tanks_stats.log 2>&1 # 4 mins
