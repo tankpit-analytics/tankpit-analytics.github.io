@@ -1,9 +1,12 @@
+dir_tpdata = '/Users/thomas/Desktop/tpdata/'
+dir_git    = '/Users/thomas/git/tankpit-analytics.github.io/'
+
 #========== data
 
 #-----t100 overall
 
-master_csv_overall = '/Users/thomas/Desktop/tpdata/master_overall.csv'
-passes_csv_overall = '/Users/thomas/Desktop/tpdata/passes_overall.csv'
+master_csv_overall = dir_tpdata + 'master_overall.csv'
+passes_csv_overall = dir_tpdata + 'passes_overall.csv'
 
 ranks_dict_overall = {
     'general': 8,
@@ -21,8 +24,8 @@ master_nrow_overall = 500 # rows in master - if running j loop, increasing this 
 
 #-----t100 2020
 
-master_csv_2020 = '/Users/thomas/Desktop/tpdata/master_2020.csv'
-passes_csv_2020 = '/Users/thomas/Desktop/tpdata/passes_2020.csv'
+master_csv_2020 = dir_tpdata + 'master_2020.csv'
+passes_csv_2020 = dir_tpdata + 'passes_2020.csv'
 
 ranks_dict_2020 = {
     'general': 4,
@@ -41,25 +44,28 @@ master_nrow_2020 = 500 # rows in master - if running j loop, increasing this tak
 #-----get all tanks
 #requires: ranks_dict_overall
 
-all_tanks_csv = '/Users/thomas/Desktop/tpdata/all_tanks.csv'
+all_tanks_csv = dir_tpdata + 'all_tanks.csv'
 
 #-----get all tanks stats
 #requires: all_tanks_csv, awards_dict
 
-cup_counts_csv_1 = '/Users/thomas/Desktop/tpdata/cup_counts_with_dupes.csv'
-cup_counts_csv_2 = '/Users/thomas/Desktop/tpdata/cup_counts.csv'
+full_loop_verbose = True
+cup_counts_csv_1 = dir_tpdata + 'cup_counts_with_dupes.csv'
+cup_counts_csv_2 = dir_tpdata + 'cup_counts.csv'
 
 #----get 2020 tanks
 #requires: ranks_dict_2020
 
-y2020_tanks_csv = '/Users/thomas/Desktop/tpdata/y2020_tanks.csv'
+y2020_tanks_csv = dir_tpdata + 'y2020_tanks.csv'
 
 #-----get 2020 tanks stats
 #requires: y2020_tanks_csv, awards_dict
 
+all_tanks_csv_backup_prefix = dir_tpdata + 'backups/all_tanks_'
+
 #-----get active
 
-active_csv = '/Users/thomas/Desktop/tpdata/active.csv'
+active_csv = dir_tpdata + 'active.csv'
 
 #========== populate
 
@@ -67,25 +73,25 @@ active_csv = '/Users/thomas/Desktop/tpdata/active.csv'
 #requires: master_csv_overall, passes_csv_overall
 
 pop_t_overall_rows = 100
-pop_t_overall_md = '/Users/thomas/git/tankpit-analytics.github.io/index.md'
+pop_t_overall_md = dir_git + 'index.md'
 
 #-----pop t100 passes
 #requires: master_csv_overall, passes_csv_overall, pop_t_overall_rows
 
 pop_t_overall_passes_max_display = 200
-pop_t_overall_passes_md = '/Users/thomas/git/tankpit-analytics.github.io/t100-overall-passes.md'
+pop_t_overall_passes_md = dir_git + 't100-overall-passes.md'
 
 #-----pop t25 2020
 #requires: master_csv_2020, passes_csv_2020
 
 pop_t_2020_rows = 25
-pop_t_2020_md = '/Users/thomas/git/tankpit-analytics.github.io/t25-2020.md'
+pop_t_2020_md = dir_git + 't25-2020.md'
 
 #-----pop t25 2020 passes
 #requires: master_csv_2020, passes_csv_2020
 
 pop_t_2020_passes_max_display = 1000
-pop_t_2020_passes_md = '/Users/thomas/git/tankpit-analytics.github.io/t25-2020-passes.md'
+pop_t_2020_passes_md = dir_git + 't25-2020-passes.md'
 
 #-----pop awards search
 #requires: all_tanks_csv
@@ -124,22 +130,22 @@ full_awards_dict = {
     'lb1': 'Lightbulb'
 }
 
-pop_awards_search_md = '/Users/thomas/git/tankpit-analytics.github.io/awards-search.md'
+pop_awards_search_md = dir_git + 'awards-search.md'
 
 #-----pop cups leaderboard
 #requires: cup_counts_csv_2
 
 pop_cups_leaderboard_max_display = 25
-pop_cups_leaderboard_md = '/Users/thomas/git/tankpit-analytics.github.io/cups-leaderboard.md'
+pop_cups_leaderboard_md = dir_git + 'cups-leaderboard.md'
 
 #-----pop stats overall
 #requires: all_tanks_csv
 
 pop_stats_overall_max_display = 100
-pop_stats_overall_md = '/Users/thomas/git/tankpit-analytics.github.io/stats-overall.md'
+pop_stats_overall_md = dir_git + 'stats-overall.md'
 
 #-----pop stats 2020
 #requires: y2020_tanks_csv
 
 pop_stats_2020_max_display = 100
-pop_stats_2020_md = '/Users/thomas/git/tankpit-analytics.github.io/stats-2020.md'
+pop_stats_2020_md = dir_git + 'stats-2020.md'

@@ -73,7 +73,7 @@ def extract_award_value(awards_str, awards_dict, award = 'star'):
 
 # number of awards -> sword -> id
 def rank_by_awards(df, awards_dict):
-    orig_cols = df.columns
+    orig_cols = df.columns.copy()
     df['ph'] = df['awards'].apply(lambda x: has_award_01_notier(x, awards_dict, 'ph'))
     df['wc'] = df['awards'].apply(lambda x: has_award_01_notier(x, awards_dict, 'wc'))
     df['lb'] = df['awards'].apply(lambda x: has_award_01_notier(x, awards_dict, 'lb'))
@@ -88,6 +88,22 @@ def rank_by_awards(df, awards_dict):
     df = df.sort_values(['award_count', 'sword_tier', 'id'], ascending = [False, False, True])
     df.reset_index(drop = True, inplace = True)
     df = df[orig_cols]
+    return(df)
+
+def has_any_award(awards_str, awards_dict):
+    has_award = False
+    # convert from string to list
+    awards_list = str(awards_str).strip('][').split(', ') 
+    # make int
+    awards_list = [int(i) for i in awards_list]
+    if sum(awards_list) != 0:
+        has_award = True
+    return(has_award)
+
+def only_keep_has_any_award(df, awards_dict):
+    df['has_any_award'] = df['awards'].apply(lambda x: has_any_award(x, awards_dict))
+    df = df[df['has_any_award']].reset_index(drop = True)
+    df = df.drop('has_any_award', axis = 1)
     return(df)
 
 # ended up never using this

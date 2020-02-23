@@ -35,11 +35,12 @@ def get_stats_dict(tank_dict):
         pass
     return(stats_dict)
 
-def insert_cup_counts_to_main_df(main_df, i_id, cup_dict):
+def insert_cup_counts_to_main_df(main_df, i_id, cup_dict, best_j_id):
     main_df.loc[main_df['id'] == i_id, 'gold'] = cup_dict['gold']
     main_df.loc[main_df['id'] == i_id, 'silver'] = cup_dict['silver']
     main_df.loc[main_df['id'] == i_id, 'bronze'] = cup_dict['bronze']
     main_df.loc[main_df['id'] == i_id, 'total'] = cup_dict['total']
+    main_df.loc[main_df['id'] == i_id, 'best_j_id'] = best_j_id
     return(main_df)
 
 def insert_stats_to_main_df(main_df, i_id, stats_dict):
@@ -48,15 +49,18 @@ def insert_stats_to_main_df(main_df, i_id, stats_dict):
     main_df.loc[main_df['id'] == i_id, 'deactivated'] = stats_dict['deactivated']
     return(main_df)
 
-def get_cup_count(i, all_tanks, i_tank_dict, done_ids, verbose = False):
+def get_cup_count(i, i_id, all_tanks, i_tank_dict, done_ids, verbose = False):
     i_cup_dict = get_cup_dict(i_tank_dict)
     best_cup_dict = {'gold': 0, 'silver': 0, 'bronze': 0, 'total': 0}
     best_cups = 0
     i_cups = 0
-    if len(i_cup_dict) > 0:
+    best_j_id = -1
+    i_or_j_str = ''
+    if i_cup_dict['total'] > 0:
         i_cups = i_cup_dict['total'] 
         best_cups = i_cups
         best_cup_dict = i_cup_dict
+        i_or_j_str = '- i ' + str(best_cup_dict)
     # traverse through other tanks
     try:
         j_count = 0
@@ -71,20 +75,22 @@ def get_cup_count(i, all_tanks, i_tank_dict, done_ids, verbose = False):
             all_tanks = insert_stats_to_main_df(all_tanks, j_id, j_stats_dict)
             # compare cup counts and choose best
             j_cups = 0
-            if len(j_cup_dict) > 0:
+            if j_cup_dict['total'] > 0:
                 j_cups = j_cup_dict['total']
             if j_cups > best_cups:
                 best_cups = j_cups
                 best_cup_dict = j_cup_dict
+                i_or_j_str = 'j ' + str(best_cup_dict)
+                best_j_id = j_id
     except:
         pass
     # add cup count to main df
     if verbose == True:
-        print(i, j_count)
-    return(best_cup_dict, done_ids, all_tanks)
+        print(i, '(' + str(i_id) + ')', '- Number of other tanks:', j_count, i_or_j_str)
+    return(best_cup_dict, done_ids, all_tanks, best_j_id)
 
-def run_full_loop(all_tanks, verbose = True):
-    all_tanks['gold'], all_tanks['silver'], all_tanks['bronze'], all_tanks['total'] = 0, 0, 0, 0
+def run_full_loop(all_tanks, verbose = False):
+    all_tanks['gold'], all_tanks['silver'], all_tanks['bronze'], all_tanks['total'], all_tanks['best_j_id'] = 0, 0, 0, 0, -1
     all_tanks['time_played'], all_tanks['destroyed_enemies'], all_tanks['deactivated'] = '0:0:0', 0, 0
     done_ids = []
     for i in range(all_tanks.shape[0]):
@@ -93,8 +99,8 @@ def run_full_loop(all_tanks, verbose = True):
             done_ids.append(i_id)
             i_tank_dict = get_dict_from_url('https://tankpit.com/api/tank?tank_id=' + str(i_id))
             # i+j = best cups [j stats within get_cup_count()]
-            best_cup_dict, done_ids, all_tanks = get_cup_count(i, all_tanks, i_tank_dict, done_ids, verbose)
-            all_tanks = insert_cup_counts_to_main_df(all_tanks, i_id, best_cup_dict)
+            best_cup_dict, done_ids, all_tanks, best_j_id = get_cup_count(i, i_id, all_tanks, i_tank_dict, done_ids, verbose)
+            all_tanks = insert_cup_counts_to_main_df(all_tanks, i_id, best_cup_dict, best_j_id)
             # i stats
             i_stats_dict = get_stats_dict(i_tank_dict)
             all_tanks = insert_stats_to_main_df(all_tanks, i_id, i_stats_dict)
@@ -123,10 +129,12 @@ if __name__ == '__main__':
     start_time = time.time()
     # load and traverse
     all_tanks = pd.read_csv(all_tanks_csv)
+    all_tanks = only_keep_has_any_award(all_tanks, awards_dict) # new addition - turns this 3h 14mins job into 56mins
     all_tanks = rank_by_awards(all_tanks, awards_dict)
-    all_tanks = run_full_loop(all_tanks)
+    all_tanks = run_full_loop(all_tanks, full_loop_verbose)
     # save
     all_tanks.to_csv(all_tanks_csv, index = False)
+    all_tanks.to_csv(all_tanks_csv_backup_prefix + time_now + '.csv', index = False)
     # clean
     cup_df_1 = clean_cup_df_1(all_tanks)
     cup_df_2 = clean_cup_df_2(cup_df_1, awards_dict)
