@@ -112,12 +112,33 @@ def has_any_award(awards_str, awards_dict):
         has_award = True
     return(has_award)
 
+def has_one_award(awards_str, awards_dict):
+    has_1_award = False
+    # convert from string to list
+    awards_list = str(awards_str).strip('][').split(', ') 
+    # make int
+    awards_list = [1 for i in awards_list if int(i) > 0]
+    if sum(awards_list) == 1:
+        has_1_award = True
+    return(has_1_award)
+
 def only_keep_has_any_award(df, awards_dict):
     df['has_any_award'] = df['awards'].apply(lambda x: has_any_award(x, awards_dict))
     df = df[df['has_any_award']].reset_index(drop = True)
     df = df.drop('has_any_award', axis = 1)
     return(df)
 
+def remove_certain_single_awards(df, awards_dict):
+    z = df['awards'].apply(lambda x: has_one_award(x, awards_dict))
+    y1 = df['awards'].apply(lambda x: has_award(x, awards_dict, 'star', 1)) & z
+    y2 = df['awards'].apply(lambda x: has_award(x, awards_dict, 'star', 2)) & z
+    y3 = df['awards'].apply(lambda x: has_award(x, awards_dict, 'star', 3)) & z
+    y4 = df['awards'].apply(lambda x: has_award(x, awards_dict, 'tank', 1)) & z
+    y5 = df['awards'].apply(lambda x: has_award(x, awards_dict, 'tank', 2)) & z
+    y6 = df['awards'].apply(lambda x: has_award(x, awards_dict, 'medal', 1)) & z
+    df = df[~y1&~y2&~y3&~y4&~y5&~y6].reset_index(drop = True)
+    return(df)
+    
 # ended up never using this
 def keep_only_has_cup(df, awards_dict):
     y1 = df['awards'].apply(lambda x: has_award(x, awards_dict, 'cup', 1))

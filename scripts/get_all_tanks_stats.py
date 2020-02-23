@@ -129,7 +129,8 @@ if __name__ == '__main__':
     start_time = time.time()
     # load and traverse
     all_tanks = pd.read_csv(all_tanks_csv)
-    all_tanks = only_keep_has_any_award(all_tanks, awards_dict) # new addition - turns this 3h 14mins job into 56mins
+    all_tanks = only_keep_has_any_award(all_tanks, awards_dict) # new addition - greatly reduces runtime
+    all_tanks = remove_certain_single_awards(all_tanks, awards_dict) # new addition - greatly reduces runtime
     all_tanks = rank_by_awards(all_tanks, awards_dict)
     all_tanks = run_full_loop(all_tanks, full_loop_verbose)
     # save

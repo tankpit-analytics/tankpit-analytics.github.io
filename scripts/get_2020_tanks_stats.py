@@ -20,6 +20,7 @@ if __name__ == '__main__':
     start_time = time.time()
     # load and traverse
     y2020_tanks = pd.read_csv(y2020_tanks_csv)
+    y2020_tanks = only_keep_has_any_award(y2020_tanks, awards_dict) # new addition - greatly reduces runtime
     y2020_tanks = rank_by_awards(y2020_tanks, awards_dict)
     y2020_tanks = run_half_loop(y2020_tanks)
     # save
