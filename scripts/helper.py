@@ -41,7 +41,7 @@ def get_dict_from_url(link, skip_mins = False, max_tries = api_max_tries):
             response = get_request(link)
             if response.status_code == 200:
                 break
-            print(tries, '[min: ' + str(minute_now) + '] GET request error (' + str(response.status_code) + '), trying again for:', link)
+            print(tries, GET request error (' + str(response.status_code) + '), trying again for:', link)
     response_dict = response.json()
     return(response_dict)
 
