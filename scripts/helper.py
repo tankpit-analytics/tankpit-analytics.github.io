@@ -23,10 +23,10 @@ def get_dict_from_url(link, skip_mins = False, max_tries = api_max_tries):
         # daily job
         if skip_mins == True:
             minute_now = int(datetime.now().minute)
-            cond_1 = (minute_now >= 0) & (minute_now < 1)
-            cond_2 = (minute_now >= 15) & (minute_now < 16)
-            cond_3 = (minute_now >= 30) & (minute_now < 31)
-            cond_4 = (minute_now >= 45) & (minute_now < 46)
+            cond_1 = (minute_now >= 0) & (minute_now < 2)
+            cond_2 = (minute_now >= 15) & (minute_now < 17)
+            cond_3 = (minute_now >= 30) & (minute_now < 32)
+            cond_4 = (minute_now >= 45) & (minute_now < 47)
             if cond_1 | cond_2 | cond_3 | cond_4:
                 # don't run
                 add_delay(15)
