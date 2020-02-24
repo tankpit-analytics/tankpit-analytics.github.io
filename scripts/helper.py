@@ -117,7 +117,8 @@ def rank_by_awards(df, awards_dict):
     df['cup'] = df['awards'].apply(lambda x: has_award_01_notier(x, awards_dict, 'cup'))
     df['award_count'] = df[['ph','wc','lb','dot','star','tank','medal','sword','cup']].T.sum()
     df['sword_tier'] = df['awards'].apply(lambda x: extract_award_value(x, awards_dict, 'sword'))
-    df = df.sort_values(['award_count', 'sword_tier', 'id'], ascending = [False, False, True])
+    df['star_tier'] = df['awards'].apply(lambda x: extract_award_value(x, awards_dict, 'star'))
+    df = df.sort_values(['award_count', 'sword_tier', 'star_tier', 'id'], ascending = [False, False, False, True])
     df.reset_index(drop = True, inplace = True)
     df = df[orig_cols]
     return(df)
