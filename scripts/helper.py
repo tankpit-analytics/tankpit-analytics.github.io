@@ -47,7 +47,7 @@ def get_dict_from_url(link, skip_mins = False, max_tries = api_max_tries):
             if check_is_5m_job_running():
                 # don't run
                 add_delay(5)
-                print('... 5m job running, delaying daily job for 5 seconds.', , str(datetime.now()))
+                print('... 5m job running, delaying daily job for 5 seconds.', str(datetime.now()))
             else:
                 # run!
                 response = get_request(link)
