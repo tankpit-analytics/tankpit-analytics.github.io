@@ -104,7 +104,6 @@ def extract_award_value(awards_str, awards_dict, award = 'star'):
 
 # number of awards -> sword -> id
 def rank_by_awards(df, awards_dict):
-    orig_cols = df.columns.copy()
     df['ph'] = df['awards'].apply(lambda x: has_award_01_notier(x, awards_dict, 'ph'))
     df['wc'] = df['awards'].apply(lambda x: has_award_01_notier(x, awards_dict, 'wc'))
     df['lb'] = df['awards'].apply(lambda x: has_award_01_notier(x, awards_dict, 'lb'))
@@ -119,7 +118,18 @@ def rank_by_awards(df, awards_dict):
     df['star_tier'] = df['awards'].apply(lambda x: extract_award_value(x, awards_dict, 'star'))
     df = df.sort_values(['award_count', 'sword_tier', 'star_tier', 'id'], ascending = [False, False, False, True])
     df.reset_index(drop = True, inplace = True)
-    df = df[orig_cols]
+    df = df.drop('ph', axis = 1)
+    df = df.drop('wc', axis = 1)
+    df = df.drop('lb', axis = 1)
+    df = df.drop('dot', axis = 1)
+    df = df.drop('star', axis = 1)
+    df = df.drop('tank', axis = 1)
+    df = df.drop('medal', axis = 1)
+    df = df.drop('sword', axis = 1)
+    df = df.drop('cup', axis = 1)
+    df = df.drop('award_count', axis = 1)
+    df = df.drop('sword_tier', axis = 1)
+    df = df.drop('star_tier', axis = 1)
     return(df)
 
 def has_any_award(awards_str, awards_dict):
