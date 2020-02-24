@@ -47,19 +47,19 @@ def get_dict_from_url(link, skip_mins = False, max_tries = api_max_tries):
             if check_is_5m_job_running():
                 # don't run
                 add_delay(5)
-                print('... 5m job running, delaying daily job for 5 seconds.')
+                print('... 5m job running, delaying daily job for 5 seconds.', , str(datetime.now()))
             else:
                 # run!
                 response = get_request(link)
                 if response.status_code == 200:
                     break
-                print(tries, '[min: ' + str(minute_now) + '] GET request error (' + str(response.status_code) + '), trying again for:', link)
+                print(tries, 'GET request error (' + str(response.status_code) + '), trying again for:', link, str(datetime.now()))
         # 5min job
         else:
             response = get_request(link)
             if response.status_code == 200:
                 break
-            print(tries, 'GET request error (' + str(response.status_code) + '), trying again for:', link)
+            print(tries, 'GET request error (' + str(response.status_code) + '), trying again for:', link, str(datetime.now()))
     response_dict = response.json()
     return(response_dict)
 
