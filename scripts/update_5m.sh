@@ -11,7 +11,7 @@ echo "#\nJob started: " $(date) >> $STDLOG
 echo "#\nJob started: " $(date) >> $STDERR
 echo "#\nJob started: " $(date) >> $STDOUT
 
-# data
+# data - for each 5min data job, make sure to add start_5m_job_running() / stop_5m_job_running() methods
 $PYTHON $SCRIPTSDIR/get_active.py >> $LOGDIR/get_active.log 2>&1
 $PYTHON $SCRIPTSDIR/t100_overall_update.py >> $LOGDIR/t100_overall_update.log 2>&1 # 30 seconds
 $PYTHON $SCRIPTSDIR/t100_2020_update.py >> $LOGDIR/t100_2020_update.log 2>&1 # 10 seconds

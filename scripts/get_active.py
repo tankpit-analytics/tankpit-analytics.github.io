@@ -20,6 +20,7 @@ def get_active_df(active_dict):
 #----- main
 
 if __name__ == '__main__':
+    start_5m_job_running()
     print('#####')
     print(time_now)
     start_time = time.time()
@@ -33,3 +34,4 @@ if __name__ == '__main__':
     active_df.to_csv(active_csv, index = False)
     elapsed_time = time.time() - start_time
     print('Runtime:', round(elapsed_time, 1), 'seconds')
+    stop_5m_job_running()

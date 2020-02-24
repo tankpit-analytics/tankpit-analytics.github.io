@@ -18,11 +18,14 @@ def get_request(link):
     return(response)
 
 def check_is_5m_job_running(path_check = path_check):
-    check_df = pd.read_csv(path_check)
-    if check_df.loc[0, 'yesno'] == True:
+    try:
+        check_df = pd.read_csv(path_check)
+        if check_df.loc[0, 'yesno'] == True:
+            is_running = True
+        else:
+            is_running = False
+    except:
         is_running = True
-    else:
-        is_running = False
     return(is_running)
 
 def start_5m_job_running(path_check = path_check):
@@ -53,10 +56,8 @@ def get_dict_from_url(link, skip_mins = False, max_tries = api_max_tries):
                 print(tries, '[min: ' + str(minute_now) + '] GET request error (' + str(response.status_code) + '), trying again for:', link)
         # 5min job
         else:
-            start_5m_job_running()
             response = get_request(link)
             if response.status_code == 200:
-                stop_5m_job_running()
                 break
             print(tries, 'GET request error (' + str(response.status_code) + '), trying again for:', link)
     response_dict = response.json()
