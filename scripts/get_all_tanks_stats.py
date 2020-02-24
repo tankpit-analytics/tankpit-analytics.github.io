@@ -98,7 +98,7 @@ def run_full_loop(all_tanks, verbose = False):
         i_id = int(all_tanks.loc[i, 'id'])
         if i_id not in done_ids:
             done_ids.append(i_id)
-            i_tank_dict, i_cup_dict, i_stats_dict = get_cup_and_stats_dict(i_id)
+            i_tank_dict, i_cup_dict, i_stats_dict = get_tank_cup_stats_dict(i_id)
             # i+j = best cups [j stats within get_cup_count()]
             best_cup_dict, done_ids, all_tanks, best_j_id = get_cup_count(i, i_id, all_tanks, i_tank_dict, i_cup_dict, done_ids, verbose)
             all_tanks = insert_cup_counts_to_main_df(all_tanks, i_id, best_cup_dict, best_j_id)

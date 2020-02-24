@@ -22,7 +22,7 @@ def get_dict_from_url(link, skip_mins = False, max_tries = api_max_tries):
     for tries in range(1, max_tries + 1):
         # daily job
         if skip_mins == True:
-            minute_now = int(str(datetime.now().minute)[1])
+            minute_now = int(datetime.now().minute)
             cond_1 = (minute_now >= 0) & (minute_now < 1)
             cond_2 = (minute_now >= 15) & (minute_now < 16)
             cond_3 = (minute_now >= 30) & (minute_now < 31)
