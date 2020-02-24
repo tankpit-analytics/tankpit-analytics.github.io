@@ -52,7 +52,7 @@ all_tanks_csv = dir_tpdata + 'all_tanks.csv'
 #-----get all tanks stats
 #requires: all_tanks_csv, awards_dict
 
-full_loop_verbose = True
+full_loop_verbose = False
 cup_counts_csv_1 = dir_tpdata + 'cup_counts_with_dupes.csv'
 cup_counts_csv_2 = dir_tpdata + 'cup_counts.csv'
 

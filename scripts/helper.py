@@ -30,6 +30,7 @@ def get_dict_from_url(link, skip_mins = False, max_tries = api_max_tries):
             if cond_1 | cond_2 | cond_3 | cond_4:
                 # don't run
                 add_delay(15)
+                print('... multiple jobs running, delaying daily job for 15 seconds.')
             else:
                 # run!
                 response = get_request(link)
