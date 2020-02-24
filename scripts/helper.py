@@ -7,8 +7,6 @@ from datetime import datetime
 
 time_now = datetime.now().strftime('%Y-%m-%d %H:%M:%S') # Pacific if run on my machine
 
-skip_mins_overlap = False # don't change this in helper, leave False!
-
 #----- API
 
 def add_delay(seconds = api_delay):
@@ -19,15 +17,16 @@ def get_request(link):
     response = requests.get(link)
     return(response)
 
-def get_dict_from_url(link, max_tries = api_max_tries, skip_mins = skip_mins_overlap):
+# this is the main fxn that contains the delays + skip_mins for multiple simultaneous jobs
+def get_dict_from_url(link, skip_mins = False, max_tries = api_max_tries):
     for tries in range(1, max_tries + 1):
         # daily job
         if skip_mins == True:
             minute_now = int(str(datetime.now().minute)[1])
-            cond_1 = (minute_now >= 0) & (minute_now < 3)
-            cond_2 = (minute_now >= 15) & (minute_now < 18)
-            cond_3 = (minute_now >= 30) & (minute_now < 33)
-            cond_4 = (minute_now >= 45) & (minute_now < 48)
+            cond_1 = (minute_now >= 0) & (minute_now < 1)
+            cond_2 = (minute_now >= 15) & (minute_now < 16)
+            cond_3 = (minute_now >= 30) & (minute_now < 31)
+            cond_4 = (minute_now >= 45) & (minute_now < 46)
             if cond_1 | cond_2 | cond_3 | cond_4:
                 # don't run
                 add_delay(15)

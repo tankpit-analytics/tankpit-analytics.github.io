@@ -13,12 +13,13 @@ def get_df_from_leaderboard_dict(tmp_dict):
 
 # max_pages == True will ignore pages
 def get_df_for_x_pages_from_api(leaderboard,
+                                skip_mins = False,
                                 pages = 1,
                                 max_pages = False,
                                 rank = 'general'):
     url = 'https://tankpit.com/api/leaderboards/?leaderboard=' + leaderboard + '&rank=' + rank + '&page='
     # get max pages, reconcile with pages param
-    m_dict = get_dict_from_url(url + '1')
+    m_dict = get_dict_from_url(url + '1', skip_mins)
     m_pages = int(m_dict['total_pages'])
     if (max_pages == True) | (m_pages < pages):
         pages = m_pages

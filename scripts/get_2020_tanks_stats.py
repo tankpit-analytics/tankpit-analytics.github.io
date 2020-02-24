@@ -1,14 +1,12 @@
 from get_all_tanks_stats import *
 
-skip_mins_overlap = True # add True to every daily job
-
 #---- helpers
 
 def run_half_loop(all_tanks):
     all_tanks['time_played'], all_tanks['destroyed_enemies'], all_tanks['deactivated'] = '', 0, 0
     for i in range(all_tanks.shape[0]):
         i_id = int(all_tanks.loc[i, 'id'])
-        i_tank_dict = get_dict_from_url('https://tankpit.com/api/tank?tank_id=' + str(i_id))
+        i_tank_dict = get_dict_from_url('https://tankpit.com/api/tank?tank_id=' + str(i_id), skip_mins = True)
         # i stats
         i_stats_dict = get_stats_dict(i_tank_dict)
         all_tanks = insert_stats_to_main_df(all_tanks, i_id, i_stats_dict)

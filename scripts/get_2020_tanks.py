@@ -1,7 +1,5 @@
 from get_all_tanks import *
 
-skip_mins_overlap = True # add True to every daily job
-
 #----- main
 
 if __name__ == '__main__':

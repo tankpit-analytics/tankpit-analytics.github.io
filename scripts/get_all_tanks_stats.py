@@ -1,7 +1,5 @@
 from helper import *
 
-skip_mins_overlap = True # add True to every daily job
-
 #---- helpers
 
 def get_cup_dict(tank_dict):
@@ -51,8 +49,13 @@ def insert_stats_to_main_df(main_df, i_id, stats_dict):
     main_df.loc[main_df['id'] == i_id, 'deactivated'] = stats_dict['deactivated']
     return(main_df)
 
-def get_cup_count(i, i_id, all_tanks, i_tank_dict, done_ids, verbose = False):
-    i_cup_dict = get_cup_dict(i_tank_dict)
+def get_tank_cup_stats_dict(tank_id):
+    tank_dict = get_dict_from_url('https://tankpit.com/api/tank?tank_id=' + str(tank_id), skip_mins = True)
+    cup_dict = get_cup_dict(tank_dict)
+    stats_dict = get_stats_dict(tank_dict)
+    return(tank_dict, cup_dict, stats_dict)
+
+def get_cup_count(i, i_id, all_tanks, i_tank_dict, i_cup_dict, done_ids, verbose = False):
     best_cup_dict = {'gold': 0, 'silver': 0, 'bronze': 0, 'total': 0}
     best_cups = 0
     i_cups = 0
@@ -69,11 +72,7 @@ def get_cup_count(i, i_id, all_tanks, i_tank_dict, done_ids, verbose = False):
         for j_id in i_tank_dict['other_tanks']:
             j_count += 1
             done_ids.append(j_id)
-            j_tank_dict = get_dict_from_url('https://tankpit.com/api/tank?tank_id=' + str(j_id))
-            # j cups
-            j_cup_dict = get_cup_dict(j_tank_dict)
-            # j stats
-            j_stats_dict = get_stats_dict(j_tank_dict)
+            j_tank_dict, j_cup_dict, j_stats_dict = get_tank_cup_stats_dict(j_id)
             all_tanks = insert_stats_to_main_df(all_tanks, j_id, j_stats_dict)
             # compare cup counts and choose best
             j_cups = 0
@@ -99,12 +98,10 @@ def run_full_loop(all_tanks, verbose = False):
         i_id = int(all_tanks.loc[i, 'id'])
         if i_id not in done_ids:
             done_ids.append(i_id)
-            i_tank_dict = get_dict_from_url('https://tankpit.com/api/tank?tank_id=' + str(i_id))
+            i_tank_dict, i_cup_dict, i_stats_dict = get_cup_and_stats_dict(i_id)
             # i+j = best cups [j stats within get_cup_count()]
-            best_cup_dict, done_ids, all_tanks, best_j_id = get_cup_count(i, i_id, all_tanks, i_tank_dict, done_ids, verbose)
+            best_cup_dict, done_ids, all_tanks, best_j_id = get_cup_count(i, i_id, all_tanks, i_tank_dict, i_cup_dict, done_ids, verbose)
             all_tanks = insert_cup_counts_to_main_df(all_tanks, i_id, best_cup_dict, best_j_id)
-            # i stats
-            i_stats_dict = get_stats_dict(i_tank_dict)
             all_tanks = insert_stats_to_main_df(all_tanks, i_id, i_stats_dict)
     return(all_tanks)
 

@@ -1,16 +1,14 @@
 from t100_main import *
 
-skip_mins_overlap = True # add True to every daily job
-
 #---- helpers
 
 def get_all_tanks(ranks_dict, get_leaderboard = 'overall'):
-    tanks_2012 = get_df_for_x_pages_from_api(leaderboard = '2012', pages = 1, max_pages = True, rank = 'general')
+    tanks_2012 = get_df_for_x_pages_from_api(leaderboard = '2012', skip_mins = True, pages = 1, max_pages = True, rank = 'general')
     tank_ids_2012 = list(tanks_2012['id'])
     tank_ids_2012 = [int(i) for i in tank_ids_2012]
     df = pd.DataFrame()
     for rank in ranks_dict.keys():
-        tmp_df = get_df_for_x_pages_from_api(leaderboard = get_leaderboard, pages = 1, max_pages = True, rank = rank)
+        tmp_df = get_df_for_x_pages_from_api(leaderboard = get_leaderboard, skip_mins = True, pages = 1, max_pages = True, rank = rank)
         df = pd.concat([df, tmp_df], axis = 0).reset_index(drop = True)
     df = df.dropna().reset_index(drop = True)
     # remove 2012 tanks
