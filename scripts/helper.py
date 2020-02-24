@@ -17,20 +17,34 @@ def get_request(link):
     response = requests.get(link)
     return(response)
 
+def check_is_5m_job_running(path_check = path_check):
+    check_df = pd.read_csv(path_check)
+    if check_df.loc[0, 'yesno'] == True:
+        is_running = True
+    else:
+        is_running = False
+    return(is_running)
+
+def start_5m_job_running(path_check = path_check):
+    check_df = pd.read_csv(path_check)
+    check_df.loc[0, 'yesno'] = True
+    check_df.to_csv(path_check, index = False)
+
+def stop_5m_job_running(path_check = path_check):
+    check_df = pd.read_csv(path_check)
+    check_df.loc[0, 'yesno'] = False
+    check_df.to_csv(path_check, index = False)
+
+# in this new method using a file to check, all queries are either 5m or daily
 # this is the main fxn that contains the delays + skip_mins for multiple simultaneous jobs
 def get_dict_from_url(link, skip_mins = False, max_tries = api_max_tries):
     for tries in range(1, max_tries + 1):
         # daily job
         if skip_mins == True:
-            minute_now = int(datetime.now().minute)
-            cond_1 = (minute_now >= 0) & (minute_now < 2)
-            cond_2 = (minute_now >= 15) & (minute_now < 17)
-            cond_3 = (minute_now >= 30) & (minute_now < 32)
-            cond_4 = (minute_now >= 45) & (minute_now < 47)
-            if cond_1 | cond_2 | cond_3 | cond_4:
+            if check_is_5m_job_running():
                 # don't run
-                add_delay(15)
-                print('... multiple jobs running, delaying daily job for 15 seconds.')
+                add_delay(5)
+                print('... 5m job running, delaying daily job for 5 seconds.')
             else:
                 # run!
                 response = get_request(link)
@@ -39,12 +53,44 @@ def get_dict_from_url(link, skip_mins = False, max_tries = api_max_tries):
                 print(tries, '[min: ' + str(minute_now) + '] GET request error (' + str(response.status_code) + '), trying again for:', link)
         # 5min job
         else:
+            start_5m_job_running()
             response = get_request(link)
             if response.status_code == 200:
+                stop_5m_job_running()
                 break
             print(tries, 'GET request error (' + str(response.status_code) + '), trying again for:', link)
     response_dict = response.json()
     return(response_dict)
+
+# OLD DELAY METHOD:
+# # this is the main fxn that contains the delays + skip_mins for multiple simultaneous jobs
+# def get_dict_from_url(link, skip_mins = False, max_tries = api_max_tries):
+#     for tries in range(1, max_tries + 1):
+#         # daily job
+#         if skip_mins == True:
+#             minute_now = int(datetime.now().minute)
+#             cond_1 = (minute_now >= 0) & (minute_now < 2)
+#             cond_2 = (minute_now >= 15) & (minute_now < 17)
+#             cond_3 = (minute_now >= 30) & (minute_now < 32)
+#             cond_4 = (minute_now >= 45) & (minute_now < 47)
+#             if cond_1 | cond_2 | cond_3 | cond_4:
+#                 # don't run
+#                 add_delay(5)
+#                 print('... 5m job running, delaying daily job for 5 seconds.')
+#             else:
+#                 # run!
+#                 response = get_request(link)
+#                 if response.status_code == 200:
+#                     break
+#                 print(tries, '[min: ' + str(minute_now) + '] GET request error (' + str(response.status_code) + '), trying again for:', link)
+#         # 5min job
+#         else:
+#             response = get_request(link)
+#             if response.status_code == 200:
+#                 break
+#             print(tries, 'GET request error (' + str(response.status_code) + '), trying again for:', link)
+#     response_dict = response.json()
+#     return(response_dict)
 
 def get_tank_dict(tank_id):
     return(get_dict_from_url('https://tankpit.com/api/tank?tank_id=' + str(tank_id)))
