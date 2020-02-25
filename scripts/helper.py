@@ -32,8 +32,10 @@ def start_5m_job_running(path_check = path_check):
     check_df = pd.read_csv(path_check)
     check_df.loc[0, 'yesno'] = True
     check_df.to_csv(path_check, index = False)
+    add_delay(2)
 
 def stop_5m_job_running(path_check = path_check):
+    add_delay(2)
     check_df = pd.read_csv(path_check)
     check_df.loc[0, 'yesno'] = False
     check_df.to_csv(path_check, index = False)
