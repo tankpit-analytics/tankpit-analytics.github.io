@@ -5,10 +5,12 @@
 
 {:.t100_passes.t100_passes_desktop}
 |<span class="t100_date">Date</span>|<span class="tank_col">Tank</span>|<span class="tank_col">Passed</span>|<span class="t100_rank">#</span>|
+|Mar 2: 5:15 PM|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=70273"><span class="blue">Voltaic</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a1-3"></span><span class="awards-sprite a3-2"></span></span></a>|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=63875"><span class="red">Sir Rosco</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a1-3"></span><span class="awards-sprite a2-2"></span><span class="awards-sprite a3-2"></span><span class="awards-sprite a5-3"></span><span class="awards-sprite a7-1"></span></span></a>|<span class="red">79</span>|
 |Mar 2: 12:30 AM|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=45863"><span class="red">ROSE</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a1-2"></span><span class="awards-sprite a2-3"></span><span class="awards-sprite a3-3"></span><span class="awards-sprite a4-3"></span><span class="awards-sprite a5-2"></span><span class="awards-sprite a7-1"></span><span class="awards-sprite a8-1"></span></span></a>|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=27223"><span class="orange">Jericho</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a1-3"></span><span class="awards-sprite a2-3"></span><span class="awards-sprite a3-3"></span><span class="awards-sprite a5-3"></span></span></a>|<span class="orange">26</span>|
 
 {:.t100_passes.t100_passes_mobile}
 |<span class="tank_col">Tank</span>|<span class="tank_col">Passed</span>|<span class="t100_rank">#</span>|
+|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=70273"><span class="blue">Voltaic</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a1-3"></span><span class="awards-sprite a3-2"></span></span></a>|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=63875"><span class="red">Sir Rosco</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a1-3"></span><span class="awards-sprite a2-2"></span><span class="awards-sprite a3-2"></span><span class="awards-sprite a5-3"></span><span class="awards-sprite a7-1"></span></span></a>|<span class="red">79</span>|
 |<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=45863"><span class="red">ROSE</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a1-2"></span><span class="awards-sprite a2-3"></span><span class="awards-sprite a3-3"></span><span class="awards-sprite a4-3"></span><span class="awards-sprite a5-2"></span><span class="awards-sprite a7-1"></span><span class="awards-sprite a8-1"></span></span></a>|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=27223"><span class="orange">Jericho</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a1-3"></span><span class="awards-sprite a2-3"></span><span class="awards-sprite a3-3"></span><span class="awards-sprite a5-3"></span></span></a>|<span class="orange">26</span>|
 
 
@@ -463,5 +465,5 @@
 
 
 
-<p class="last_updated"><span class="last_updated">Last Updated:&nbsp;&nbsp;Mar 2, 12:00 PM&nbsp;&nbsp;(Pacific)</span></p>
+<p class="last_updated"><span class="last_updated">Last Updated:&nbsp;&nbsp;Mar 2, 6:00 PM&nbsp;&nbsp;(Pacific)</span></p>
 
