@@ -252,5 +252,5 @@
 
 
 
-<p class="last_updated"><span class="last_updated">Last Updated:&nbsp;&nbsp;Mar 12, 6:00 AM&nbsp;&nbsp;(Pacific)</span></p>
+<p class="last_updated"><span class="last_updated">Last Updated:&nbsp;&nbsp;Mar 12, 12:00 PM&nbsp;&nbsp;(Pacific)</span></p>
 
