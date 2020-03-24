@@ -13,7 +13,7 @@
 |6|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=70106"><span class="red">Corpse Reviver</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a5-3"></span><span class="awards-sprite a6-1"></span></span></a>|26:5:38|
 |7|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=70121"><span class="blue">Smelly Pirate Hooker</span><span class="awards-container"><span class="awards-sprite a0-3"></span></span></a>|25:51:36|
 |8|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=70135"><span class="orange">Captain Planet</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a1-1"></span><span class="awards-sprite a5-1"></span></span></a>|21:30:14|
-|9|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=70146"><span class="red">Wretched</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a5-3"></span></span></a>|21:17:37|
+|9|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=70146"><span class="red">Wretched</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a5-3"></span></span></a>|21:17:45|
 |10|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=70152"><span class="red">Godfather</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a5-2"></span><span class="awards-sprite a6-1"></span></span></a>|18:42:14|
 |11|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=70432"><span class="blue">Challenger Deep</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a5-2"></span></span></a>|13:6:05|
 |12|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=70317"><span class="blue">KiNG oF dA CASTLE</span><span class="awards-container"><span class="awards-sprite a0-1"></span><span class="awards-sprite a5-3"></span></span></a>|7:40:22|
@@ -55,5 +55,5 @@
 
 
 
-<p class="last_updated"><span class="last_updated">Last Updated:&nbsp;&nbsp;Mar 23, 6:00 PM&nbsp;&nbsp;(Pacific)</span></p>
+<p class="last_updated"><span class="last_updated">Last Updated:&nbsp;&nbsp;Mar 24, 12:00 AM&nbsp;&nbsp;(Pacific)</span></p>
 
