@@ -8,7 +8,7 @@
 |1|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=70116"><span class="purple">SPIDERMAN</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a1-3"></span><span class="awards-sprite a2-1"></span><span class="awards-sprite a3-1"></span></span></a>|147:30:37|
 |2|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=70151"><span class="red">Flop</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a1-3"></span></span></a>|57:45:11|
 |3|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=70190"><span class="red">Plot Twist</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a4-3"></span><span class="awards-sprite a5-3"></span><span class="awards-sprite a6-1"></span></span></a>|46:21:53|
-|4|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=70227"><span class="red">Wolf Bite</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a1-3"></span><span class="awards-sprite a5-3"></span></span></a>|31:16:41|
+|4|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=70227"><span class="red">Wolf Bite</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a1-3"></span><span class="awards-sprite a5-3"></span></span></a>|31:17:42|
 |5|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=70364"><span class="red">HELiOS</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a1-2"></span></span></a>|29:59:11|
 |6|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=70106"><span class="red">Corpse Reviver</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a5-3"></span><span class="awards-sprite a6-1"></span></span></a>|26:40:53|
 |7|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=70121"><span class="blue">Smelly Pirate Hooker</span><span class="awards-container"><span class="awards-sprite a0-3"></span></span></a>|25:51:36|
@@ -21,7 +21,7 @@
 
 {:.stats_leaderboard#stats_leaderboard_kills}
 |<span class="num_col">&nbsp;</span>|<span class="tank_col">Tank</span>|<span class="stat_col">Kills</span>|
-|1|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=70191"><span class="blue">Yukon Cornelius</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a1-3"></span><span class="awards-sprite a3-1"></span></span></a>|4593|
+|1|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=70191"><span class="blue">Yukon Cornelius</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a1-3"></span><span class="awards-sprite a3-1"></span></span></a>|4629|
 |2|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=70116"><span class="purple">SPIDERMAN</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a1-3"></span><span class="awards-sprite a2-1"></span><span class="awards-sprite a3-1"></span></span></a>|2921|
 |3|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=70227"><span class="red">Wolf Bite</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a1-3"></span><span class="awards-sprite a5-3"></span></span></a>|795|
 |4|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=70151"><span class="red">Flop</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a1-3"></span></span></a>|744|
@@ -55,5 +55,5 @@
 
 
 
-<p class="last_updated"><span class="last_updated">Last Updated:&nbsp;&nbsp;Mar 28, 6:00 AM&nbsp;&nbsp;(Pacific)</span></p>
+<p class="last_updated"><span class="last_updated">Last Updated:&nbsp;&nbsp;Mar 28, 12:00 PM&nbsp;&nbsp;(Pacific)</span></p>
 
