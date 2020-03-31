@@ -4229,7 +4229,7 @@
 |508|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=62726"><span class="red">Swamp Fox</span><span class="awards-container"><span class="awards-sprite a1-2"></span><span class="awards-sprite a2-1"></span></span></a>|
 |509|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=63015"><span class="red">CH3</span><span class="awards-container"><span class="awards-sprite a1-2"></span><span class="awards-sprite a2-2"></span></span></a>|
 |510|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=65648"><span class="red">Stranger</span><span class="awards-container"><span class="awards-sprite a1-2"></span><span class="awards-sprite a5-2"></span></span></a>|
-|511|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=71091"><span class="blue">El Guapo</span><span class="awards-container"><span class="awards-sprite a1-2"></span><span class="awards-sprite a2-2"></span></span></a>|
+|511|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=71091"><span class="red">El Guapo</span><span class="awards-container"><span class="awards-sprite a1-2"></span><span class="awards-sprite a2-2"></span></span></a>|
 
 
 <span class="awards_search_header" id="awards_search_header_tank3">Golden Tank (487)</span>
@@ -5507,7 +5507,7 @@
 |242|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=58601"><span class="orange">Draxxer</span><span class="awards-container"><span class="awards-sprite a1-2"></span><span class="awards-sprite a2-2"></span></span></a>|
 |243|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=63015"><span class="red">CH3</span><span class="awards-container"><span class="awards-sprite a1-2"></span><span class="awards-sprite a2-2"></span></span></a>|
 |244|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=69769"><span class="red">SageThePlug</span><span class="awards-container"><span class="awards-sprite a1-1"></span><span class="awards-sprite a2-2"></span></span></a>|
-|245|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=71091"><span class="blue">El Guapo</span><span class="awards-container"><span class="awards-sprite a1-2"></span><span class="awards-sprite a2-2"></span></span></a>|
+|245|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=71091"><span class="red">El Guapo</span><span class="awards-container"><span class="awards-sprite a1-2"></span><span class="awards-sprite a2-2"></span></span></a>|
 |246|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=1603"><span class="blue">Obliterator</span><span class="awards-container"><span class="awards-sprite a2-2"></span></span></a>|
 |247|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=12126"><span class="red">SPYDER-MAN</span><span class="awards-container"><span class="awards-sprite a2-2"></span></span></a>|
 |248|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=13389"><span class="orange">LehmanBrothers</span><span class="awards-container"><span class="awards-sprite a2-2"></span></span></a>|
@@ -9100,5 +9100,5 @@
 
 
 
-<p class="last_updated"><span class="last_updated">Last Updated:&nbsp;&nbsp;Mar 31, 6:02 AM&nbsp;&nbsp;(Pacific)</span></p>
+<p class="last_updated"><span class="last_updated">Last Updated:&nbsp;&nbsp;Mar 31, 12:02 PM&nbsp;&nbsp;(Pacific)</span></p>
 
