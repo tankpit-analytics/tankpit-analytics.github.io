@@ -472,7 +472,7 @@
 |461|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=50482"><span class="red">TheRealSlimNoodle</span><span class="awards-container"><span class="awards-sprite a0-1"></span><span class="awards-sprite a1-1"></span></span></a>|
 |462|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=50525"><span class="blue">Rasta Monsta</span><span class="awards-container"><span class="awards-sprite a0-1"></span><span class="awards-sprite a5-3"></span></span></a>|
 |463|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=50620"><span class="blue">MOONSTRUCK</span><span class="awards-container"><span class="awards-sprite a0-1"></span><span class="awards-sprite a5-1"></span></span></a>|
-|464|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=50669"><span class="blue">cold turkey</span><span class="awards-container"><span class="awards-sprite a0-1"></span><span class="awards-sprite a5-3"></span></span></a>|
+|464|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=50669"><span class="red">cold turkey</span><span class="awards-container"><span class="awards-sprite a0-1"></span><span class="awards-sprite a5-3"></span></span></a>|
 |465|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=50671"><span class="red">LIFE OF A LEGEND</span><span class="awards-container"><span class="awards-sprite a0-1"></span><span class="awards-sprite a5-3"></span></span></a>|
 |466|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=51000"><span class="blue">Golden Brown</span><span class="awards-container"><span class="awards-sprite a0-1"></span><span class="awards-sprite a5-3"></span></span></a>|
 |467|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=51018"><span class="purple">Tanker-008</span><span class="awards-container"><span class="awards-sprite a0-1"></span><span class="awards-sprite a1-1"></span></span></a>|
@@ -8553,7 +8553,7 @@
 |615|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=49098"><span class="red">must be a kohler</span><span class="awards-container"><span class="awards-sprite a0-1"></span><span class="awards-sprite a5-3"></span></span></a>|
 |616|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=49946"><span class="purple">- FisH-HooK -</span><span class="awards-container"><span class="awards-sprite a0-1"></span><span class="awards-sprite a5-3"></span></span></a>|
 |617|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=50525"><span class="blue">Rasta Monsta</span><span class="awards-container"><span class="awards-sprite a0-1"></span><span class="awards-sprite a5-3"></span></span></a>|
-|618|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=50669"><span class="blue">cold turkey</span><span class="awards-container"><span class="awards-sprite a0-1"></span><span class="awards-sprite a5-3"></span></span></a>|
+|618|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=50669"><span class="red">cold turkey</span><span class="awards-container"><span class="awards-sprite a0-1"></span><span class="awards-sprite a5-3"></span></span></a>|
 |619|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=50671"><span class="red">LIFE OF A LEGEND</span><span class="awards-container"><span class="awards-sprite a0-1"></span><span class="awards-sprite a5-3"></span></span></a>|
 |620|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=51000"><span class="blue">Golden Brown</span><span class="awards-container"><span class="awards-sprite a0-1"></span><span class="awards-sprite a5-3"></span></span></a>|
 |621|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=51188"><span class="purple">Summer Glau</span><span class="awards-container"><span class="awards-sprite a0-1"></span><span class="awards-sprite a5-3"></span></span></a>|
@@ -9100,5 +9100,5 @@
 
 
 
-<p class="last_updated"><span class="last_updated">Last Updated:&nbsp;&nbsp;Mar 31, 12:02 AM&nbsp;&nbsp;(Pacific)</span></p>
+<p class="last_updated"><span class="last_updated">Last Updated:&nbsp;&nbsp;Mar 31, 6:02 AM&nbsp;&nbsp;(Pacific)</span></p>
 
