@@ -30,5 +30,5 @@
 |25|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=746"><span class="blue">Optimus Prime</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a1-3"></span><span class="awards-sprite a2-3"></span><span class="awards-sprite a3-3"></span><span class="awards-sprite a4-3"></span><span class="awards-sprite a5-3"></span><span class="awards-sprite a6-1"></span><span class="awards-sprite a7-1"></span></span></a>|17|10|14|41|
 
 
-<p class="last_updated"><span class="last_updated">Last Updated:&nbsp;&nbsp;Apr 4, 12:02 AM&nbsp;&nbsp;(Pacific)</span></p>
+<p class="last_updated"><span class="last_updated">Last Updated:&nbsp;&nbsp;Apr 4, 6:02 AM&nbsp;&nbsp;(Pacific)</span></p>
 
