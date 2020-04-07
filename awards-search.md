@@ -561,7 +561,7 @@
 |550|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=62631"><span class="red">cOcA CoLa</span><span class="awards-container"><span class="awards-sprite a0-1"></span><span class="awards-sprite a5-2"></span></span></a>|
 |551|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=62680"><span class="orange">Elixir of Life</span><span class="awards-container"><span class="awards-sprite a0-1"></span><span class="awards-sprite a5-3"></span></span></a>|
 |552|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=62935"><span class="orange">Monster Among Men</span><span class="awards-container"><span class="awards-sprite a0-1"></span><span class="awards-sprite a5-3"></span></span></a>|
-|553|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=63149"><span class="purple">FREE KiLL </span><span class="awards-container"><span class="awards-sprite a0-1"></span><span class="awards-sprite a2-2"></span></span></a>|
+|553|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=63149"><span class="orange">FREE KiLL </span><span class="awards-container"><span class="awards-sprite a0-1"></span><span class="awards-sprite a2-2"></span></span></a>|
 |554|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=63244"><span class="purple">Ultra Instinct</span><span class="awards-container"><span class="awards-sprite a0-1"></span><span class="awards-sprite a5-2"></span></span></a>|
 |555|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=63730"><span class="red">Living aint Dying</span><span class="awards-container"><span class="awards-sprite a0-1"></span><span class="awards-sprite a5-3"></span></span></a>|
 |556|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=63801"><span class="blue">STLBlues</span><span class="awards-container"><span class="awards-sprite a0-1"></span><span class="awards-sprite a1-1"></span></span></a>|
@@ -3726,7 +3726,7 @@
 |844|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=69769"><span class="red">SageThePlug</span><span class="awards-container"><span class="awards-sprite a1-1"></span><span class="awards-sprite a2-2"></span></span></a>|
 
 
-<span class="awards_search_header" id="awards_search_header_tank2">Silver Tank (510)</span>
+<span class="awards_search_header" id="awards_search_header_tank2">Silver Tank (511)</span>
 
 {:.awards_search#awards_search_tank2}
 |1|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=45863"><span class="red">ROSE</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a1-2"></span><span class="awards-sprite a2-3"></span><span class="awards-sprite a3-3"></span><span class="awards-sprite a4-3"></span><span class="awards-sprite a5-2"></span><span class="awards-sprite a7-1"></span><span class="awards-sprite a8-1"></span></span></a>|
@@ -4239,6 +4239,7 @@
 |508|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=62726"><span class="red">Swamp Fox</span><span class="awards-container"><span class="awards-sprite a1-2"></span><span class="awards-sprite a2-1"></span></span></a>|
 |509|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=63015"><span class="red">CH3</span><span class="awards-container"><span class="awards-sprite a1-2"></span><span class="awards-sprite a2-2"></span></span></a>|
 |510|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=65648"><span class="red">Stranger</span><span class="awards-container"><span class="awards-sprite a1-2"></span><span class="awards-sprite a5-2"></span></span></a>|
+|511|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=71091"><span class="red">El Guapo</span><span class="awards-container"><span class="awards-sprite a1-2"></span><span class="awards-sprite a2-3"></span></span></a>|
 
 
 <span class="awards_search_header" id="awards_search_header_tank3">Golden Tank (488)</span>
@@ -5503,7 +5504,7 @@
 |224|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=57686"><span class="orange">Qui-Gon Jinn</span><span class="awards-container"><span class="awards-sprite a0-2"></span><span class="awards-sprite a2-2"></span></span></a>|
 |225|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=13263"><span class="blue">Boy</span><span class="awards-container"><span class="awards-sprite a0-1"></span><span class="awards-sprite a2-2"></span></span></a>|
 |226|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=21496"><span class="purple">why cry</span><span class="awards-container"><span class="awards-sprite a0-1"></span><span class="awards-sprite a2-2"></span></span></a>|
-|227|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=63149"><span class="purple">FREE KiLL </span><span class="awards-container"><span class="awards-sprite a0-1"></span><span class="awards-sprite a2-2"></span></span></a>|
+|227|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=63149"><span class="orange">FREE KiLL </span><span class="awards-container"><span class="awards-sprite a0-1"></span><span class="awards-sprite a2-2"></span></span></a>|
 |228|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=4007"><span class="orange">1 UP</span><span class="awards-container"><span class="awards-sprite a2-2"></span><span class="awards-sprite a5-2"></span></span></a>|
 |229|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=5503"><span class="red">ronzilla</span><span class="awards-container"><span class="awards-sprite a1-1"></span><span class="awards-sprite a2-2"></span></span></a>|
 |230|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=6399"><span class="blue">The Best I Can Do</span><span class="awards-container"><span class="awards-sprite a1-1"></span><span class="awards-sprite a2-2"></span></span></a>|
@@ -5534,7 +5535,7 @@
 |255|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=70262"><span class="red">Knight of Gold</span><span class="awards-container"><span class="awards-sprite a2-2"></span></span></a>|
 
 
-<span class="awards_search_header" id="awards_search_header_medal3">Heroic Honor Medal (236)</span>
+<span class="awards_search_header" id="awards_search_header_medal3">Heroic Honor Medal (237)</span>
 
 {:.awards_search#awards_search_medal3}
 |1|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=746"><span class="blue">Optimus Prime</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a1-3"></span><span class="awards-sprite a2-3"></span><span class="awards-sprite a3-3"></span><span class="awards-sprite a4-3"></span><span class="awards-sprite a5-3"></span><span class="awards-sprite a6-1"></span><span class="awards-sprite a7-1"></span></span></a>|
@@ -5768,11 +5769,12 @@
 |229|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=42550"><span class="blue">Simon</span><span class="awards-container"><span class="awards-sprite a1-1"></span><span class="awards-sprite a2-3"></span></span></a>|
 |230|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=51772"><span class="blue">NitroPunk</span><span class="awards-container"><span class="awards-sprite a1-1"></span><span class="awards-sprite a2-3"></span></span></a>|
 |231|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=56053"><span class="orange">Coin</span><span class="awards-container"><span class="awards-sprite a2-3"></span><span class="awards-sprite a5-3"></span></span></a>|
-|232|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=2924"><span class="blue">Barack Obama</span><span class="awards-container"><span class="awards-sprite a2-3"></span></span></a>|
-|233|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=7523"><span class="orange">KILL ME </span><span class="awards-container"><span class="awards-sprite a2-3"></span></span></a>|
-|234|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=10670"><span class="red">NotGoingWell</span><span class="awards-container"><span class="awards-sprite a2-3"></span></span></a>|
-|235|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=20656"><span class="red">- Clash Of Clans -</span><span class="awards-container"><span class="awards-sprite a2-3"></span></span></a>|
-|236|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=64764"><span class="orange">illusion</span><span class="awards-container"><span class="awards-sprite a2-3"></span></span></a>|
+|232|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=71091"><span class="red">El Guapo</span><span class="awards-container"><span class="awards-sprite a1-2"></span><span class="awards-sprite a2-3"></span></span></a>|
+|233|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=2924"><span class="blue">Barack Obama</span><span class="awards-container"><span class="awards-sprite a2-3"></span></span></a>|
+|234|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=7523"><span class="orange">KILL ME </span><span class="awards-container"><span class="awards-sprite a2-3"></span></span></a>|
+|235|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=10670"><span class="red">NotGoingWell</span><span class="awards-container"><span class="awards-sprite a2-3"></span></span></a>|
+|236|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=20656"><span class="red">- Clash Of Clans -</span><span class="awards-container"><span class="awards-sprite a2-3"></span></span></a>|
+|237|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=64764"><span class="orange">illusion</span><span class="awards-container"><span class="awards-sprite a2-3"></span></span></a>|
 
 
 <span class="awards_search_header" id="awards_search_header_sword1">Shining Sword (246)</span>
@@ -9126,5 +9128,5 @@
 
 
 
-<p class="last_updated"><span class="last_updated">Last Updated:&nbsp;&nbsp;Apr 7, 6:02 AM&nbsp;&nbsp;(Pacific)</span></p>
+<p class="last_updated"><span class="last_updated">Last Updated:&nbsp;&nbsp;Apr 7, 12:02 PM&nbsp;&nbsp;(Pacific)</span></p>
 
