@@ -1,6 +1,17 @@
 
 ## True Top 25 2020 - Passes
 
+<span class="t100_month">May 2020</span>
+
+{:.t100_passes.t100_passes_desktop}
+|<span class="t100_date">Date</span>|<span class="tank_col">Tank</span>|<span class="tank_col">Passed</span>|<span class="t100_rank">#</span>|
+|May 1: 8:30 AM|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=70478"><span class="red">CKPA2020</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a1-3"></span><span class="awards-sprite a2-1"></span><span class="awards-sprite a5-3"></span></span></a>|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=70441"><span class="red">NEANDERTHAL</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a1-3"></span><span class="awards-sprite a2-1"></span><span class="awards-sprite a3-1"></span><span class="awards-sprite a4-3"></span><span class="awards-sprite a5-3"></span></span></a>|<span class="green">4</span>|
+
+{:.t100_passes.t100_passes_mobile}
+|<span class="tank_col">Tank</span>|<span class="tank_col">Passed</span>|<span class="t100_rank">#</span>|
+|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=70478"><span class="red">CKPA2020</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a1-3"></span><span class="awards-sprite a2-1"></span><span class="awards-sprite a5-3"></span></span></a>|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=70441"><span class="red">NEANDERTHAL</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a1-3"></span><span class="awards-sprite a2-1"></span><span class="awards-sprite a3-1"></span><span class="awards-sprite a4-3"></span><span class="awards-sprite a5-3"></span></span></a>|<span class="green">4</span>|
+
+
 <span class="t100_month">April 2020</span>
 
 {:.t100_passes.t100_passes_desktop}
@@ -395,5 +406,5 @@
 
 
 
-<p class="last_updated"><span class="last_updated">Last Updated:&nbsp;&nbsp;May 1, 6:00 AM&nbsp;&nbsp;(Pacific)</span></p>
+<p class="last_updated"><span class="last_updated">Last Updated:&nbsp;&nbsp;May 1, 12:00 PM&nbsp;&nbsp;(Pacific)</span></p>
 
