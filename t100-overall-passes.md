@@ -5,10 +5,12 @@
 
 {:.t100_passes.t100_passes_desktop}
 |<span class="t100_date">Date</span>|<span class="tank_col">Tank</span>|<span class="tank_col">Passed</span>|<span class="t100_rank">#</span>|
+|May 3: 10:00 PM|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=70273"><span class="blue">Voltaic</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a1-3"></span><span class="awards-sprite a3-3"></span></span></a>|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=7855"><span class="purple">MysTerIouS FeLoN-2</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a1-2"></span><span class="awards-sprite a2-2"></span><span class="awards-sprite a3-3"></span><span class="awards-sprite a5-3"></span><span class="awards-sprite a6-1"></span><span class="awards-sprite a8-1"></span></span></a>|<span class="orange">39</span>|
 |May 3: 1:30 PM|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=70273"><span class="blue">Voltaic</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a1-3"></span><span class="awards-sprite a3-3"></span></span></a>|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=27491"><span class="red">uNRiVaLeD-</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a1-1"></span><span class="awards-sprite a2-2"></span><span class="awards-sprite a3-3"></span><span class="awards-sprite a4-3"></span><span class="awards-sprite a5-2"></span></span></a>|<span class="orange">40</span>|
 
 {:.t100_passes.t100_passes_mobile}
 |<span class="tank_col">Tank</span>|<span class="tank_col">Passed</span>|<span class="t100_rank">#</span>|
+|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=70273"><span class="blue">Voltaic</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a1-3"></span><span class="awards-sprite a3-3"></span></span></a>|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=7855"><span class="purple">MysTerIouS FeLoN-2</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a1-2"></span><span class="awards-sprite a2-2"></span><span class="awards-sprite a3-3"></span><span class="awards-sprite a5-3"></span><span class="awards-sprite a6-1"></span><span class="awards-sprite a8-1"></span></span></a>|<span class="orange">39</span>|
 |<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=70273"><span class="blue">Voltaic</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a1-3"></span><span class="awards-sprite a3-3"></span></span></a>|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=27491"><span class="red">uNRiVaLeD-</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a1-1"></span><span class="awards-sprite a2-2"></span><span class="awards-sprite a3-3"></span><span class="awards-sprite a4-3"></span><span class="awards-sprite a5-2"></span></span></a>|<span class="orange">40</span>|
 
 
@@ -485,5 +487,5 @@
 
 
 
-<p class="last_updated"><span class="last_updated">Last Updated:&nbsp;&nbsp;May 3, 6:00 PM&nbsp;&nbsp;(Pacific)</span></p>
+<p class="last_updated"><span class="last_updated">Last Updated:&nbsp;&nbsp;May 3, 10:35 PM&nbsp;&nbsp;(Pacific)</span></p>
 
