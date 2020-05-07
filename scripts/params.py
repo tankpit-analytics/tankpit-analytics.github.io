@@ -71,6 +71,10 @@ all_tanks_csv_backup_prefix = dir_tpdata + 'backups/all_tanks_'
 
 active_csv = dir_tpdata + 'active.csv'
 
+#-----get upcoming tourn
+
+upcoming_tourn_csv = dir_tpdata + 'upcoming_tourn.csv'
+
 #========== populate
 
 #-----pop t100
