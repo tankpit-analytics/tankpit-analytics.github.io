@@ -36,9 +36,9 @@
 |11|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=70135"><span class="orange">Captain Planet</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a1-1"></span><span class="awards-sprite a5-1"></span></span></a>|35|
 |12|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=70884"><span class="blue">GENERAL R</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a5-2"></span></span></a>|34|
 |13|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=70190"><span class="red">Plot Twist</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a2-1"></span><span class="awards-sprite a4-3"></span><span class="awards-sprite a5-3"></span><span class="awards-sprite a6-1"></span></span></a>|32|
-|14|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=70152"><span class="red">Godfather</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a5-2"></span><span class="awards-sprite a6-1"></span></span></a>|14|
-|15|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=70317"><span class="blue">KiNG oF dA CASTLE</span><span class="awards-container"><span class="awards-sprite a0-1"></span><span class="awards-sprite a5-3"></span></span></a>|14|
-|16|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=70432"><span class="blue">Challenger Deep</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a5-2"></span></span></a>|14|
+|14|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=70317"><span class="blue">KiNG oF dA CASTLE</span><span class="awards-container"><span class="awards-sprite a0-1"></span><span class="awards-sprite a5-3"></span></span></a>|14|
+|15|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=70432"><span class="blue">Challenger Deep</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a5-2"></span></span></a>|14|
+|16|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=70152"><span class="red">Godfather</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a5-2"></span><span class="awards-sprite a6-1"></span></span></a>|14|
 
 
 {:.stats_leaderboard#stats_leaderboard_deaths}
@@ -59,5 +59,5 @@
 
 
 
-<p class="last_updated"><span class="last_updated">Last Updated:&nbsp;&nbsp;May 10, 12:00 PM&nbsp;&nbsp;(Pacific)</span></p>
+<p class="last_updated"><span class="last_updated">Last Updated:&nbsp;&nbsp;May 10, 6:00 PM&nbsp;&nbsp;(Pacific)</span></p>
 
