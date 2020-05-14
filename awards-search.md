@@ -8124,7 +8124,7 @@
 |877|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=73749"><span class="blue">Dark Prince</span><span class="awards-container"><span class="awards-sprite a5-2"></span></span></a>|
 
 
-<span class="awards_search_header" id="awards_search_header_cup3">Gold Cup (1024)</span>
+<span class="awards_search_header" id="awards_search_header_cup3">Gold Cup (1025)</span>
 
 {:.awards_search#awards_search_cup3}
 |1|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=746"><span class="blue">Optimus Prime</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a1-3"></span><span class="awards-sprite a2-3"></span><span class="awards-sprite a3-3"></span><span class="awards-sprite a4-3"></span><span class="awards-sprite a5-3"></span><span class="awards-sprite a6-1"></span><span class="awards-sprite a7-1"></span></span></a>|
@@ -9150,7 +9150,8 @@
 |1021|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=73014"><span class="blue">Louis Brandeis</span><span class="awards-container"><span class="awards-sprite a5-3"></span></span></a>|
 |1022|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=73203"><span class="red">Artificial Chariot</span><span class="awards-container"><span class="awards-sprite a5-3"></span></span></a>|
 |1023|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=73431"><span class="orange">CACHE</span><span class="awards-container"><span class="awards-sprite a5-3"></span></span></a>|
-|1024|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=73622"><span class="blue">Moruroa</span><span class="awards-container"><span class="awards-sprite a5-3"></span></span></a>|
+|1024|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=73502"><span class="purple">Cotton</span><span class="awards-container"><span class="awards-sprite a5-3"></span></span></a>|
+|1025|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=73622"><span class="blue">Moruroa</span><span class="awards-container"><span class="awards-sprite a5-3"></span></span></a>|
 
 
 <span class="awards_search_header" id="awards_search_header_ph1">Purple Heart (21)</span>
@@ -9322,5 +9323,5 @@
 
 
 
-<p class="last_updated"><span class="last_updated">Last Updated:&nbsp;&nbsp;May 14, 12:03 AM&nbsp;&nbsp;(Pacific)</span></p>
+<p class="last_updated"><span class="last_updated">Last Updated:&nbsp;&nbsp;May 14, 6:03 AM&nbsp;&nbsp;(Pacific)</span></p>
 
