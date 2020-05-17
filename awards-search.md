@@ -7248,7 +7248,7 @@
 |791|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=73790"><span class="purple">Montauk Project</span><span class="awards-container"><span class="awards-sprite a5-1"></span></span></a>|
 
 
-<span class="awards_search_header" id="awards_search_header_cup2">Silver Cup (877)</span>
+<span class="awards_search_header" id="awards_search_header_cup2">Silver Cup (878)</span>
 
 {:.awards_search#awards_search_cup2}
 |1|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=45863"><span class="red">ROSE</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a1-2"></span><span class="awards-sprite a2-3"></span><span class="awards-sprite a3-3"></span><span class="awards-sprite a4-3"></span><span class="awards-sprite a5-2"></span><span class="awards-sprite a7-1"></span><span class="awards-sprite a8-1"></span></span></a>|
@@ -8128,6 +8128,7 @@
 |875|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=73455"><span class="orange">NUKE</span><span class="awards-container"><span class="awards-sprite a5-2"></span></span></a>|
 |876|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=73615"><span class="orange">Abraham Simpson II</span><span class="awards-container"><span class="awards-sprite a5-2"></span></span></a>|
 |877|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=73749"><span class="blue">Dark Prince</span><span class="awards-container"><span class="awards-sprite a5-2"></span></span></a>|
+|878|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=73910"><span class="red">AliensAreReal</span><span class="awards-container"><span class="awards-sprite a5-2"></span></span></a>|
 
 
 <span class="awards_search_header" id="awards_search_header_cup3">Gold Cup (1027)</span>
@@ -9331,5 +9332,5 @@
 
 
 
-<p class="last_updated"><span class="last_updated">Last Updated:&nbsp;&nbsp;May 17, 6:03 AM&nbsp;&nbsp;(Pacific)</span></p>
+<p class="last_updated"><span class="last_updated">Last Updated:&nbsp;&nbsp;May 17, 12:03 PM&nbsp;&nbsp;(Pacific)</span></p>
 
