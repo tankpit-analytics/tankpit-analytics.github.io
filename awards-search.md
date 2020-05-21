@@ -2682,7 +2682,7 @@
 |1463|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=49568"><span class="purple">Paranoid Android</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a5-3"></span></span></a>|
 |1464|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=49578"><span class="orange">Whale Song</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a5-3"></span></span></a>|
 |1465|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=49632"><span class="blue">Sandstorm</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a1-3"></span></span></a>|
-|1466|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=49717"><span class="purple">Blue Killer</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a2-1"></span></span></a>|
+|1466|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=49717"><span class="red">Blue Killer</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a2-1"></span></span></a>|
 |1467|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=49846"><span class="orange">gutter phenomenon</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a5-3"></span></span></a>|
 |1468|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=49966"><span class="orange">SILENT LOTUS</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a5-2"></span></span></a>|
 |1469|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=49974"><span class="orange">DESERT ROSE</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a5-3"></span></span></a>|
@@ -5245,7 +5245,7 @@
 |411|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=46591"><span class="blue">Stand Alone Complex</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a2-1"></span></span></a>|
 |412|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=49501"><span class="orange">allstar</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a2-1"></span></span></a>|
 |413|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=49513"><span class="red">redneck</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a2-1"></span></span></a>|
-|414|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=49717"><span class="purple">Blue Killer</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a2-1"></span></span></a>|
+|414|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=49717"><span class="red">Blue Killer</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a2-1"></span></span></a>|
 |415|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=51634"><span class="red">sonny koufax</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a2-1"></span></span></a>|
 |416|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=56234"><span class="blue">-SuperSaiyanGoku-</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a2-1"></span></span></a>|
 |417|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=60374"><span class="purple">BOBBYS REVENGE</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a2-1"></span></span></a>|
@@ -8143,7 +8143,7 @@
 |880|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=74011"><span class="red">Saggy Sack Removal</span><span class="awards-container"><span class="awards-sprite a5-2"></span></span></a>|
 
 
-<span class="awards_search_header" id="awards_search_header_cup3">Gold Cup (1029)</span>
+<span class="awards_search_header" id="awards_search_header_cup3">Gold Cup (1030)</span>
 
 {:.awards_search#awards_search_cup3}
 |1|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=746"><span class="blue">Optimus Prime</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a1-3"></span><span class="awards-sprite a2-3"></span><span class="awards-sprite a3-3"></span><span class="awards-sprite a4-3"></span><span class="awards-sprite a5-3"></span><span class="awards-sprite a6-1"></span><span class="awards-sprite a7-1"></span></span></a>|
@@ -9175,6 +9175,7 @@
 |1027|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=73502"><span class="purple">Cotton</span><span class="awards-container"><span class="awards-sprite a5-3"></span></span></a>|
 |1028|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=73622"><span class="blue">Moruroa</span><span class="awards-container"><span class="awards-sprite a5-3"></span></span></a>|
 |1029|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=73926"><span class="blue">Otche nash</span><span class="awards-container"><span class="awards-sprite a5-3"></span></span></a>|
+|1030|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=74030"><span class="blue">T REX</span><span class="awards-container"><span class="awards-sprite a5-3"></span></span></a>|
 
 
 <span class="awards_search_header" id="awards_search_header_ph1">Purple Heart (21)</span>
@@ -9346,5 +9347,5 @@
 
 
 
-<p class="last_updated"><span class="last_updated">Last Updated:&nbsp;&nbsp;May 20, 12:03 PM&nbsp;&nbsp;(Pacific)</span></p>
+<p class="last_updated"><span class="last_updated">Last Updated:&nbsp;&nbsp;May 20, 6:03 PM&nbsp;&nbsp;(Pacific)</span></p>
 
