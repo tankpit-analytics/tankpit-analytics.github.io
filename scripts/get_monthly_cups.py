@@ -59,6 +59,38 @@ def loop_update_tourn_top3(df, tourn_id_list, tourn_id_skip_list):
 
 #----- main
 
+tourn_top3_csv = dir_tpdata + 'tourn_top3.csv'
+tourn_id_skip_list = [121, 126, 145, 157, 158, 177, 532, 544, 545, 672, 840, 851, 856, 869, 870, 871, 872, 1318, 1332, 1333, 1347]
+
+def get_dict_from_url(link, skip_mins = False, max_tries = api_max_tries):
+    for tries in range(1, max_tries + 1):
+        # daily job
+        if skip_mins == True:
+            if check_is_5m_job_running():
+                # don't run
+                add_delay(5)
+                print('... 5m job running, delaying daily job for 5 seconds.', str(datetime.now()))
+            else:
+                # run!
+                response = get_request(link)
+                if response.status_code == 200:
+                    break
+                if response.status_code == 404:
+                    print(tries, 'GET request error (' + str(response.status_code) + '):', link, str(datetime.now()))
+                    break              
+                print(tries, 'GET request error (' + str(response.status_code) + '), trying again for:', link, str(datetime.now()))
+        # 5min job
+        else:
+            response = get_request(link)
+            if response.status_code == 200:
+                break
+            if response.status_code == 404:
+                print(tries, 'GET request error (' + str(response.status_code) + '):', link, str(datetime.now()))
+                break
+            print(tries, 'GET request error (' + str(response.status_code) + '), trying again for:', link, str(datetime.now()))
+    response_dict = response.json()
+    return(response_dict)
+
 if __name__ == '__main__':
     # part 1. get tourn top3
     tourn_top3_df = pd.read_csv(tourn_top3_csv)
