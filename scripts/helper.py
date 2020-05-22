@@ -55,11 +55,17 @@ def get_dict_from_url(link, skip_mins = False, max_tries = api_max_tries):
                 response = get_request(link)
                 if response.status_code == 200:
                     break
+                if response.status_code == 404:
+                    print(tries, 'GET request error (' + str(response.status_code) + '):', link, str(datetime.now()))
+                    break              
                 print(tries, 'GET request error (' + str(response.status_code) + '), trying again for:', link, str(datetime.now()))
         # 5min job
         else:
             response = get_request(link)
             if response.status_code == 200:
+                break
+            if response.status_code == 404:
+                print(tries, 'GET request error (' + str(response.status_code) + '):', link, str(datetime.now()))
                 break
             print(tries, 'GET request error (' + str(response.status_code) + '), trying again for:', link, str(datetime.now()))
     response_dict = response.json()
