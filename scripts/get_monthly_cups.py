@@ -1,3 +1,17 @@
+#incomplete!!!!!!!!
+
+
+
+
+
+
+
+
+
+
+
+
+
 from helper import *
 
 df_tourn_id_col = 'tourn_id'
@@ -52,13 +66,16 @@ def loop_update_tourn_top3(df, tourn_id_list, tourn_id_skip_list):
 
 #----- part 2. add to tourn monthly
 
+#-- 2a. get signature tank_id
 
+#def get_cup_count():
 
 
 
 
 #----- main
 
+# requires: cup_counts_csv_2
 tourn_top3_csv = dir_tpdata + 'tourn_top3.csv'
 tourn_id_skip_list = [121, 126, 145, 157, 158, 177, 532, 544, 545, 672, 840, 851, 856, 869, 870, 871, 872, 1318, 1332, 1333, 1347]
 
@@ -98,6 +115,16 @@ if __name__ == '__main__':
     last_tourn_id = int(last_tourn_dict['tournament_id'])
     tourn_top3_df = loop_update_tourn_top3(tourn_top3_df, tourn_id_list = range(1, last_tourn_id), tourn_id_skip_list = tourn_id_skip_list)
     tourn_top3_df.to_csv(tourn_top3_csv, index = False)
+    # part 2. add to tourn monthly
+    #
+    #signature_cup_df = pd.read_csv(cup_counts_csv_2)
+
+
+
+
+
+
+
 
 
 
