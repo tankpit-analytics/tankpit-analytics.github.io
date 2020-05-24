@@ -6468,7 +6468,7 @@
 |97|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=8974"><span class="orange">daemon</span><span class="awards-container"><span class="awards-sprite a4-3"></span></span></a>|
 
 
-<span class="awards_search_header" id="awards_search_header_cup1">Bronze Cup (796)</span>
+<span class="awards_search_header" id="awards_search_header_cup1">Bronze Cup (797)</span>
 
 {:.awards_search#awards_search_cup1}
 |1|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=12791"><span class="orange">RESILIENCE</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a1-3"></span><span class="awards-sprite a2-3"></span><span class="awards-sprite a3-3"></span><span class="awards-sprite a4-3"></span><span class="awards-sprite a5-1"></span><span class="awards-sprite a6-1"></span><span class="awards-sprite a8-1"></span></span></a>|
@@ -7264,9 +7264,10 @@
 |791|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=73079"><span class="red">Larceny</span><span class="awards-container"><span class="awards-sprite a5-1"></span></span></a>|
 |792|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=73093"><span class="red">Precious</span><span class="awards-container"><span class="awards-sprite a5-1"></span></span></a>|
 |793|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=73237"><span class="blue">c o le po r t er</span><span class="awards-container"><span class="awards-sprite a5-1"></span></span></a>|
-|794|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=73678"><span class="red">Ascension</span><span class="awards-container"><span class="awards-sprite a5-1"></span></span></a>|
-|795|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=73786"><span class="purple">WiSh I HaD SoMe TP</span><span class="awards-container"><span class="awards-sprite a5-1"></span></span></a>|
-|796|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=73790"><span class="purple">Montauk Project</span><span class="awards-container"><span class="awards-sprite a5-1"></span></span></a>|
+|794|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=73350"><span class="blue">I LOVE YOU BRO</span><span class="awards-container"><span class="awards-sprite a5-1"></span></span></a>|
+|795|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=73678"><span class="red">Ascension</span><span class="awards-container"><span class="awards-sprite a5-1"></span></span></a>|
+|796|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=73786"><span class="purple">WiSh I HaD SoMe TP</span><span class="awards-container"><span class="awards-sprite a5-1"></span></span></a>|
+|797|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=73790"><span class="purple">Montauk Project</span><span class="awards-container"><span class="awards-sprite a5-1"></span></span></a>|
 
 
 <span class="awards_search_header" id="awards_search_header_cup2">Silver Cup (883)</span>
@@ -9371,5 +9372,5 @@
 
 
 
-<p class="last_updated"><span class="last_updated">Last Updated:&nbsp;&nbsp;May 24, 12:03 AM&nbsp;&nbsp;(Pacific)</span></p>
+<p class="last_updated"><span class="last_updated">Last Updated:&nbsp;&nbsp;May 24, 6:03 AM&nbsp;&nbsp;(Pacific)</span></p>
 
