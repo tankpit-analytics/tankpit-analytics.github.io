@@ -2413,7 +2413,7 @@
 |1190|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=27349"><span class="purple">Merovingian</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a2-1"></span></span></a>|
 |1191|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=27352"><span class="purple">Rothschild</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a5-3"></span></span></a>|
 |1192|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=27422"><span class="blue">M-Star RAW</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a5-3"></span></span></a>|
-|1193|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=27445"><span class="red">Shark</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a1-3"></span></span></a>|
+|1193|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=27445"><span class="orange">Shark</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a1-3"></span></span></a>|
 |1194|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=27478"><span class="blue">Sleepy</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a1-1"></span></span></a>|
 |1195|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=27480"><span class="blue">W-i-t-h-o-u-T-u-S</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a5-3"></span></span></a>|
 |1196|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=27935"><span class="purple">US MARINE</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a1-2"></span></span></a>|
@@ -4763,7 +4763,7 @@
 |419|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=21090"><span class="blue">PLURkidIT</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a1-3"></span></span></a>|
 |420|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=22382"><span class="orange">Woodburys Finest</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a1-3"></span></span></a>|
 |421|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=23924"><span class="blue">SharpY</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a1-3"></span></span></a>|
-|422|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=27445"><span class="red">Shark</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a1-3"></span></span></a>|
+|422|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=27445"><span class="orange">Shark</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a1-3"></span></span></a>|
 |423|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=28188"><span class="red">DannyBoy</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a1-3"></span></span></a>|
 |424|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=29912"><span class="red">Fated</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a1-3"></span></span></a>|
 |425|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=30753"><span class="blue">charlesh</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a1-3"></span></span></a>|
@@ -9387,5 +9387,5 @@
 
 
 
-<p class="last_updated"><span class="last_updated">Last Updated:&nbsp;&nbsp;May 26, 6:03 AM&nbsp;&nbsp;(Pacific)</span></p>
+<p class="last_updated"><span class="last_updated">Last Updated:&nbsp;&nbsp;May 26, 12:03 PM&nbsp;&nbsp;(Pacific)</span></p>
 
