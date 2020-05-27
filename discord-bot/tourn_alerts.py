@@ -103,4 +103,4 @@ if __name__ == '__main__':
         # sends an alert to channel when tourney is 5 minutes away
         if (tourn_dict['days_til'] == 0) & (tourn_dict['hours_til'] == 0) & (tourn_dict['minutes_til'] == 5):
             requests.post(CHANNEL_WEBHOOK_URL, data = {'content': tourn_alert})
-        add_delay(45) # 45 second delay to check again
+        add_delay(60) # 60 second delay to check again
