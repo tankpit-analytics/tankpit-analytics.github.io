@@ -78,8 +78,7 @@ def get_tourney_dict():
         'tmap': tmap
     })
 
-def get_tourney():
-    tourney_dict = get_tourney_dict()
+def get_tourney(tourney_dict):
     # hours
     hours_suffix = 'hours'
     if tourney_dict['hours_til'] == 1:
@@ -100,7 +99,7 @@ def get_tourney():
 if __name__ == '__main__':
     while True:
         tourn_dict = get_tourney_dict()
-        tourn_alert = '@here Tournament soon!  Get ready for battle!' + get_tourney()
+        tourn_alert = '@here Tournament soon!  Get ready for battle!' + get_tourney(tourn_dict)
         # sends an alert to channel when tourney is 5 minutes away
         if (tourn_dict['days_til'] == 0) & (tourn_dict['hours_til'] == 0) & (tourn_dict['minutes_til'] == 5):
             requests.post(CHANNEL_WEBHOOK_URL, data = {'content': tourn_alert})
