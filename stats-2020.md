@@ -17,7 +17,7 @@
 |10|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=70146"><span class="red">Wretched</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a1-1"></span><span class="awards-sprite a5-3"></span></span></a>|36:52:37|
 |11|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=70227"><span class="red">Wolf Bite</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a1-3"></span><span class="awards-sprite a5-3"></span></span></a>|36:24:21|
 |12|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=70364"><span class="red">HELiOS</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a1-2"></span></span></a>|30:0:00|
-|13|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=70135"><span class="orange">Captain Planet</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a1-1"></span><span class="awards-sprite a5-1"></span></span></a>|23:46:38|
+|13|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=70135"><span class="orange">Captain Planet</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a1-1"></span><span class="awards-sprite a5-1"></span></span></a>|23:46:54|
 |14|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=70432"><span class="blue">Challenger Deep</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a5-2"></span></span></a>|13:9:52|
 |15|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=70884"><span class="blue">GENERAL R</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a5-2"></span></span></a>|11:38:56|
 |16|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=73938"><span class="orange">hnery</span><span class="awards-container"><span class="awards-sprite a0-2"></span></span></a>|10:35:10|
@@ -69,5 +69,5 @@
 
 
 
-<p class="last_updated"><span class="last_updated">Last Updated:&nbsp;&nbsp;May 31, 12:00 AM&nbsp;&nbsp;(Pacific)</span></p>
+<p class="last_updated"><span class="last_updated">Last Updated:&nbsp;&nbsp;May 31, 6:00 AM&nbsp;&nbsp;(Pacific)</span></p>
 
