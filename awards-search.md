@@ -8225,14 +8225,14 @@
 |893|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=73910"><span class="red">AliensAreReal</span><span class="awards-container"><span class="awards-sprite a5-2"></span></span></a>|
 |894|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=73987"><span class="blue">I LOVE YOU SON</span><span class="awards-container"><span class="awards-sprite a5-2"></span></span></a>|
 |895|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=74011"><span class="red">Saggy Sack Removal</span><span class="awards-container"><span class="awards-sprite a5-2"></span></span></a>|
-|896|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=74264"><span class="orange">Prevail to Slaughter</span><span class="awards-container"><span class="awards-sprite a5-2"></span></span></a>|
+|896|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=74264"><span class="red">Prevail to Slaughter</span><span class="awards-container"><span class="awards-sprite a5-2"></span></span></a>|
 |897|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=74267"><span class="red">Apocalypse 9</span><span class="awards-container"><span class="awards-sprite a5-2"></span></span></a>|
 |898|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=74302"><span class="purple">thicc </span><span class="awards-container"><span class="awards-sprite a5-2"></span></span></a>|
 |899|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=74473"><span class="red">TankpiT EvangelisT </span><span class="awards-container"><span class="awards-sprite a5-2"></span></span></a>|
 |900|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=74625"><span class="red">BrO SureS RounD 2</span><span class="awards-container"><span class="awards-sprite a5-2"></span></span></a>|
 
 
-<span class="awards_search_header" id="awards_search_header_cup3">Gold Cup (1056)</span>
+<span class="awards_search_header" id="awards_search_header_cup3">Gold Cup (1057)</span>
 
 {:.awards_search#awards_search_cup3}
 |1|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=746"><span class="blue">Optimus Prime</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a1-3"></span><span class="awards-sprite a2-3"></span><span class="awards-sprite a3-3"></span><span class="awards-sprite a4-3"></span><span class="awards-sprite a5-3"></span><span class="awards-sprite a6-1"></span><span class="awards-sprite a7-1"></span></span></a>|
@@ -9291,6 +9291,7 @@
 |1054|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=74030"><span class="blue">T REX</span><span class="awards-container"><span class="awards-sprite a5-3"></span></span></a>|
 |1055|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=74189"><span class="blue">Chinese vaccine</span><span class="awards-container"><span class="awards-sprite a5-3"></span></span></a>|
 |1056|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=74464"><span class="red">Disbelief</span><span class="awards-container"><span class="awards-sprite a5-3"></span></span></a>|
+|1057|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=74618"><span class="orange">i get mine</span><span class="awards-container"><span class="awards-sprite a5-3"></span></span></a>|
 
 
 <span class="awards_search_header" id="awards_search_header_ph1">Purple Heart (21)</span>
@@ -9462,5 +9463,5 @@
 
 
 
-<p class="last_updated"><span class="last_updated">Last Updated:&nbsp;&nbsp;Jun 7, 6:03 AM&nbsp;&nbsp;(Pacific)</span></p>
+<p class="last_updated"><span class="last_updated">Last Updated:&nbsp;&nbsp;Jun 7, 12:03 PM&nbsp;&nbsp;(Pacific)</span></p>
 
