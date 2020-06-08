@@ -2693,7 +2693,7 @@
 |1457|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=48552"><span class="red">F-105 Thunderchief</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a5-1"></span></span></a>|
 |1458|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=48654"><span class="red">WISTERIA</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a5-2"></span></span></a>|
 |1459|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=48691"><span class="orange">Sarah Gadon</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a5-3"></span></span></a>|
-|1460|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=48782"><span class="blue">Slash</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a1-2"></span></span></a>|
+|1460|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=48782"><span class="orange">Slash</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a1-2"></span></span></a>|
 |1461|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=48842"><span class="red">Rachel McAdams</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a5-2"></span></span></a>|
 |1462|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=48900"><span class="blue">Plug</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a1-2"></span></span></a>|
 |1463|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=48978"><span class="purple">Echo Chamber</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a5-2"></span></span></a>|
@@ -4196,7 +4196,7 @@
 |353|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=45973"><span class="purple">Mortem Ut Omnes</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a1-2"></span></span></a>|
 |354|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=46934"><span class="blue">Hydrogen</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a1-2"></span></span></a>|
 |355|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=47548"><span class="orange">Play Play</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a1-2"></span></span></a>|
-|356|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=48782"><span class="blue">Slash</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a1-2"></span></span></a>|
+|356|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=48782"><span class="orange">Slash</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a1-2"></span></span></a>|
 |357|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=48900"><span class="blue">Plug</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a1-2"></span></span></a>|
 |358|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=50422"><span class="blue">Dusk</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a1-2"></span></span></a>|
 |359|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=52372"><span class="orange">Sully</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a1-2"></span></span></a>|
@@ -9464,5 +9464,5 @@
 
 
 
-<p class="last_updated"><span class="last_updated">Last Updated:&nbsp;&nbsp;Jun 7, 6:03 PM&nbsp;&nbsp;(Pacific)</span></p>
+<p class="last_updated"><span class="last_updated">Last Updated:&nbsp;&nbsp;Jun 8, 12:03 AM&nbsp;&nbsp;(Pacific)</span></p>
 
