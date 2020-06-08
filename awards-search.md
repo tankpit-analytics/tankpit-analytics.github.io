@@ -6511,7 +6511,7 @@
 |97|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=8974"><span class="orange">daemon</span><span class="awards-container"><span class="awards-sprite a4-3"></span></span></a>|
 
 
-<span class="awards_search_header" id="awards_search_header_cup1">Bronze Cup (811)</span>
+<span class="awards_search_header" id="awards_search_header_cup1">Bronze Cup (812)</span>
 
 {:.awards_search#awards_search_cup1}
 |1|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=12791"><span class="orange">RESILIENCE</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a1-3"></span><span class="awards-sprite a2-3"></span><span class="awards-sprite a3-3"></span><span class="awards-sprite a4-3"></span><span class="awards-sprite a5-1"></span><span class="awards-sprite a6-1"></span><span class="awards-sprite a8-1"></span></span></a>|
@@ -7324,7 +7324,8 @@
 |808|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=73786"><span class="purple">WiSh I HaD SoMe TP</span><span class="awards-container"><span class="awards-sprite a5-1"></span></span></a>|
 |809|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=73790"><span class="purple">Montauk Project</span><span class="awards-container"><span class="awards-sprite a5-1"></span></span></a>|
 |810|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=74176"><span class="red">Serenity</span><span class="awards-container"><span class="awards-sprite a5-1"></span></span></a>|
-|811|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=74647"><span class="purple">The Dragon</span><span class="awards-container"><span class="awards-sprite a5-1"></span></span></a>|
+|811|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=74630"><span class="orange">tabula rasa</span><span class="awards-container"><span class="awards-sprite a5-1"></span></span></a>|
+|812|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=74647"><span class="purple">The Dragon</span><span class="awards-container"><span class="awards-sprite a5-1"></span></span></a>|
 
 
 <span class="awards_search_header" id="awards_search_header_cup2">Silver Cup (900)</span>
@@ -9463,5 +9464,5 @@
 
 
 
-<p class="last_updated"><span class="last_updated">Last Updated:&nbsp;&nbsp;Jun 7, 12:03 PM&nbsp;&nbsp;(Pacific)</span></p>
+<p class="last_updated"><span class="last_updated">Last Updated:&nbsp;&nbsp;Jun 7, 6:03 PM&nbsp;&nbsp;(Pacific)</span></p>
 
