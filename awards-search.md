@@ -7337,7 +7337,7 @@
 |814|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=74647"><span class="purple">The Dragon</span><span class="awards-container"><span class="awards-sprite a5-1"></span></span></a>|
 
 
-<span class="awards_search_header" id="awards_search_header_cup2">Silver Cup (901)</span>
+<span class="awards_search_header" id="awards_search_header_cup2">Silver Cup (902)</span>
 
 {:.awards_search#awards_search_cup2}
 |1|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=45863"><span class="red">ROSE</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a1-2"></span><span class="awards-sprite a2-3"></span><span class="awards-sprite a3-3"></span><span class="awards-sprite a4-3"></span><span class="awards-sprite a5-2"></span><span class="awards-sprite a7-1"></span><span class="awards-sprite a8-1"></span></span></a>|
@@ -8238,9 +8238,10 @@
 |896|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=74264"><span class="red">Prevail to Slaughter</span><span class="awards-container"><span class="awards-sprite a5-2"></span></span></a>|
 |897|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=74267"><span class="red">Apocalypse 9</span><span class="awards-container"><span class="awards-sprite a5-2"></span></span></a>|
 |898|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=74302"><span class="purple">thicc </span><span class="awards-container"><span class="awards-sprite a5-2"></span></span></a>|
-|899|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=74473"><span class="red">TankpiT EvangelisT </span><span class="awards-container"><span class="awards-sprite a5-2"></span></span></a>|
-|900|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=74625"><span class="red">BrO SureS RounD 2</span><span class="awards-container"><span class="awards-sprite a5-2"></span></span></a>|
-|901|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=74716"><span class="red">PROVOCATION</span><span class="awards-container"><span class="awards-sprite a5-2"></span></span></a>|
+|899|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=74313"><span class="orange">The Realest</span><span class="awards-container"><span class="awards-sprite a5-2"></span></span></a>|
+|900|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=74473"><span class="red">TankpiT EvangelisT </span><span class="awards-container"><span class="awards-sprite a5-2"></span></span></a>|
+|901|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=74625"><span class="red">BrO SureS RounD 2</span><span class="awards-container"><span class="awards-sprite a5-2"></span></span></a>|
+|902|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=74716"><span class="red">PROVOCATION</span><span class="awards-container"><span class="awards-sprite a5-2"></span></span></a>|
 
 
 <span class="awards_search_header" id="awards_search_header_cup3">Gold Cup (1057)</span>
@@ -9474,5 +9475,5 @@
 
 
 
-<p class="last_updated"><span class="last_updated">Last Updated:&nbsp;&nbsp;Jun 10, 12:04 PM&nbsp;&nbsp;(Pacific)</span></p>
+<p class="last_updated"><span class="last_updated">Last Updated:&nbsp;&nbsp;Jun 10, 6:03 PM&nbsp;&nbsp;(Pacific)</span></p>
 
