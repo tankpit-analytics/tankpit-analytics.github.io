@@ -6503,7 +6503,7 @@
 |97|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=8974"><span class="orange">daemon</span><span class="awards-container"><span class="awards-sprite a4-3"></span></span></a>|
 
 
-<span class="awards_search_header" id="awards_search_header_cup1">Bronze Cup (812)</span>
+<span class="awards_search_header" id="awards_search_header_cup1">Bronze Cup (813)</span>
 
 {:.awards_search#awards_search_cup1}
 |1|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=12791"><span class="orange">RESILIENCE</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a1-3"></span><span class="awards-sprite a2-3"></span><span class="awards-sprite a3-3"></span><span class="awards-sprite a4-3"></span><span class="awards-sprite a5-1"></span><span class="awards-sprite a6-1"></span><span class="awards-sprite a8-1"></span></span></a>|
@@ -7318,6 +7318,7 @@
 |810|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=74498"><span class="red">xKS-47x</span><span class="awards-container"><span class="awards-sprite a5-1"></span></span></a>|
 |811|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=74630"><span class="orange">tabula rasa</span><span class="awards-container"><span class="awards-sprite a5-1"></span></span></a>|
 |812|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=74647"><span class="purple">The Dragon</span><span class="awards-container"><span class="awards-sprite a5-1"></span></span></a>|
+|813|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=74743"><span class="red">double shot</span><span class="awards-container"><span class="awards-sprite a5-1"></span></span></a>|
 
 
 <span class="awards_search_header" id="awards_search_header_cup2">Silver Cup (896)</span>
@@ -8221,7 +8222,7 @@
 |896|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=74716"><span class="red">PROVOCATION</span><span class="awards-container"><span class="awards-sprite a5-2"></span></span></a>|
 
 
-<span class="awards_search_header" id="awards_search_header_cup3">Gold Cup (1043)</span>
+<span class="awards_search_header" id="awards_search_header_cup3">Gold Cup (1044)</span>
 
 {:.awards_search#awards_search_cup3}
 |1|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=746"><span class="blue">Optimus Prime</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a1-3"></span><span class="awards-sprite a2-3"></span><span class="awards-sprite a3-3"></span><span class="awards-sprite a4-3"></span><span class="awards-sprite a5-3"></span><span class="awards-sprite a6-1"></span><span class="awards-sprite a7-1"></span></span></a>|
@@ -9267,6 +9268,7 @@
 |1041|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=74189"><span class="blue">Chinese vaccine</span><span class="awards-container"><span class="awards-sprite a5-3"></span></span></a>|
 |1042|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=74464"><span class="red">Disbelief</span><span class="awards-container"><span class="awards-sprite a5-3"></span></span></a>|
 |1043|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=74618"><span class="orange">i get mine</span><span class="awards-container"><span class="awards-sprite a5-3"></span></span></a>|
+|1044|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=74724"><span class="red">SwiftHANDS</span><span class="awards-container"><span class="awards-sprite a5-3"></span></span></a>|
 
 
 <span class="awards_search_header" id="awards_search_header_ph1">Purple Heart (21)</span>
@@ -9436,5 +9438,5 @@
 
 
 
-<p class="last_updated"><span class="last_updated">Last Updated:&nbsp;&nbsp;Jun 12, 6:04 PM&nbsp;&nbsp;(Pacific)</span></p>
+<p class="last_updated"><span class="last_updated">Last Updated:&nbsp;&nbsp;Jun 13, 12:03 AM&nbsp;&nbsp;(Pacific)</span></p>
 
