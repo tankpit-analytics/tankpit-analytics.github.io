@@ -9326,7 +9326,7 @@
 |56|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=59115"><span class="blue">speshul award winner</span><span class="awards-container"><span class="awards-sprite a5-2"></span><span class="awards-sprite a7-1"></span></span></a>|
 |57|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=1522"><span class="blue">ChickenNuggetz</span><span class="awards-container"><span class="awards-sprite a7-1"></span></span></a>|
 |58|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=5763"><span class="purple">HEY WHO AM I</span><span class="awards-container"><span class="awards-sprite a7-1"></span></span></a>|
-|59|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=56605"><span class="purple">Discord</span><span class="awards-container"><span class="awards-sprite a7-1"></span></span></a>|
+|59|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=56605"><span class="red">Discord</span><span class="awards-container"><span class="awards-sprite a7-1"></span></span></a>|
 
 
 <span class="awards_search_header" id="awards_search_header_lb1">Lightbulb (70)</span>
@@ -9406,5 +9406,5 @@
 
 
 
-<p class="last_updated"><span class="last_updated">Last Updated:&nbsp;&nbsp;Jun 14, 6:03 AM&nbsp;&nbsp;(Pacific)</span></p>
+<p class="last_updated"><span class="last_updated">Last Updated:&nbsp;&nbsp;Jun 14, 12:03 PM&nbsp;&nbsp;(Pacific)</span></p>
 

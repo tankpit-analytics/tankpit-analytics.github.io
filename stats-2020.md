@@ -6,12 +6,12 @@
 {:.stats_leaderboard#stats_leaderboard_playtime}
 |<span class="num_col">&nbsp;</span>|<span class="tank_col">Tank</span>|<span class="stat_col">Time Played</span>|
 |1|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=70116"><span class="purple">SPIDERMAN</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a1-3"></span><span class="awards-sprite a2-1"></span><span class="awards-sprite a3-1"></span></span></a>|158:8:29|
-|2|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=71956"><span class="red">FINESSE</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a2-1"></span><span class="awards-sprite a3-1"></span><span class="awards-sprite a5-3"></span><span class="awards-sprite a7-1"></span></span></a>|139:41:42|
+|2|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=71956"><span class="red">FINESSE</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a2-1"></span><span class="awards-sprite a3-1"></span><span class="awards-sprite a5-3"></span><span class="awards-sprite a7-1"></span></span></a>|141:19:35|
 |3|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=70478"><span class="red">CKPA2020</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a1-3"></span><span class="awards-sprite a2-1"></span><span class="awards-sprite a3-1"></span><span class="awards-sprite a5-3"></span></span></a>|126:48:09|
-|4|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=70378"><span class="red">Skeleton Key</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a2-1"></span><span class="awards-sprite a3-1"></span><span class="awards-sprite a4-3"></span><span class="awards-sprite a5-3"></span><span class="awards-sprite a7-1"></span></span></a>|113:36:36|
+|4|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=70378"><span class="red">Skeleton Key</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a2-1"></span><span class="awards-sprite a3-1"></span><span class="awards-sprite a4-3"></span><span class="awards-sprite a5-3"></span><span class="awards-sprite a7-1"></span></span></a>|113:45:11|
 |5|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=70106"><span class="red">Corpse Reviver</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a2-1"></span><span class="awards-sprite a4-3"></span><span class="awards-sprite a5-3"></span><span class="awards-sprite a6-1"></span></span></a>|75:3:47|
 |6|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=70190"><span class="red">Plot Twist</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a2-1"></span><span class="awards-sprite a4-3"></span><span class="awards-sprite a5-3"></span><span class="awards-sprite a6-1"></span></span></a>|68:2:57|
-|7|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=72488"><span class="blue">ToxiC ReVolveR</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a1-2"></span><span class="awards-sprite a2-1"></span><span class="awards-sprite a5-3"></span></span></a>|67:34:50|
+|7|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=72488"><span class="blue">ToxiC ReVolveR</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a1-2"></span><span class="awards-sprite a2-1"></span><span class="awards-sprite a5-3"></span></span></a>|67:48:09|
 |8|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=70151"><span class="red">Flop</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a1-3"></span></span></a>|58:22:22|
 |9|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=70121"><span class="blue">Smelly Pirate Hooker</span><span class="awards-container"><span class="awards-sprite a0-3"></span></span></a>|50:0:00|
 |10|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=70152"><span class="red">Godfather</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a5-2"></span><span class="awards-sprite a6-1"></span></span></a>|41:22:16|
@@ -23,8 +23,8 @@
 |16|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=73938"><span class="orange">hnery</span><span class="awards-container"><span class="awards-sprite a0-2"></span></span></a>|12:50:12|
 |17|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=70884"><span class="blue">GENERAL R</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a5-2"></span></span></a>|11:43:28|
 |18|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=70317"><span class="blue">KiNG oF dA CASTLE</span><span class="awards-container"><span class="awards-sprite a0-1"></span><span class="awards-sprite a5-3"></span></span></a>|7:40:22|
-|19|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=73615"><span class="orange">Abraham Simpson II</span><span class="awards-container"><span class="awards-sprite a0-2"></span><span class="awards-sprite a5-2"></span></span></a>|1:28:42|
-|20|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=74473"><span class="red">TankpiT EvangelisT </span><span class="awards-container"><span class="awards-sprite a5-2"></span></span></a>|0:25:11|
+|19|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=73615"><span class="orange">Abraham Simpson II</span><span class="awards-container"><span class="awards-sprite a0-2"></span><span class="awards-sprite a5-2"></span></span></a>|1:28:50|
+|20|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=74473"><span class="red">TankpiT EvangelisT </span><span class="awards-container"><span class="awards-sprite a5-2"></span></span></a>|0:27:39|
 
 
 {:.stats_leaderboard#stats_leaderboard_kills}
@@ -74,5 +74,5 @@
 
 
 
-<p class="last_updated"><span class="last_updated">Last Updated:&nbsp;&nbsp;Jun 14, 6:00 AM&nbsp;&nbsp;(Pacific)</span></p>
+<p class="last_updated"><span class="last_updated">Last Updated:&nbsp;&nbsp;Jun 14, 12:00 PM&nbsp;&nbsp;(Pacific)</span></p>
 
