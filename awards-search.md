@@ -7298,7 +7298,7 @@
 |814|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=74743"><span class="red">double shot</span><span class="awards-container"><span class="awards-sprite a5-1"></span></span></a>|
 
 
-<span class="awards_search_header" id="awards_search_header_cup2">Silver Cup (894)</span>
+<span class="awards_search_header" id="awards_search_header_cup2">Silver Cup (895)</span>
 
 {:.awards_search#awards_search_cup2}
 |1|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=45863"><span class="red">ROSE</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a1-2"></span><span class="awards-sprite a2-3"></span><span class="awards-sprite a3-3"></span><span class="awards-sprite a4-3"></span><span class="awards-sprite a5-2"></span><span class="awards-sprite a7-1"></span><span class="awards-sprite a8-1"></span></span></a>|
@@ -8195,6 +8195,7 @@
 |892|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=74473"><span class="red">TankpiT EvangelisT </span><span class="awards-container"><span class="awards-sprite a5-2"></span></span></a>|
 |893|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=74625"><span class="red">BrO SureS RounD 2</span><span class="awards-container"><span class="awards-sprite a5-2"></span></span></a>|
 |894|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=74716"><span class="red">PROVOCATION</span><span class="awards-container"><span class="awards-sprite a5-2"></span></span></a>|
+|895|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=74765"><span class="purple">curry two</span><span class="awards-container"><span class="awards-sprite a5-2"></span></span></a>|
 
 
 <span class="awards_search_header" id="awards_search_header_cup3">Gold Cup (1037)</span>
@@ -9406,5 +9407,5 @@
 
 
 
-<p class="last_updated"><span class="last_updated">Last Updated:&nbsp;&nbsp;Jun 14, 12:03 PM&nbsp;&nbsp;(Pacific)</span></p>
+<p class="last_updated"><span class="last_updated">Last Updated:&nbsp;&nbsp;Jun 14, 6:04 PM&nbsp;&nbsp;(Pacific)</span></p>
 
