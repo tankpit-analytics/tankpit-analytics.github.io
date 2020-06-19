@@ -615,7 +615,7 @@
 |604|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=72131"><span class="blue">Oye Choocha</span><span class="awards-container"><span class="awards-sprite a0-1"></span><span class="awards-sprite a5-3"></span></span></a>|
 |605|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=72167"><span class="red">Manhattan</span><span class="awards-container"><span class="awards-sprite a0-1"></span><span class="awards-sprite a5-3"></span></span></a>|
 |606|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=72174"><span class="orange">LAME</span><span class="awards-container"><span class="awards-sprite a0-1"></span><span class="awards-sprite a5-3"></span></span></a>|
-|607|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=72550"><span class="orange">Special</span><span class="awards-container"><span class="awards-sprite a0-1"></span><span class="awards-sprite a1-2"></span></span></a>|
+|607|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=72550"><span class="blue">Special</span><span class="awards-container"><span class="awards-sprite a0-1"></span><span class="awards-sprite a1-2"></span></span></a>|
 |608|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=72684"><span class="purple">SWIFT</span><span class="awards-container"><span class="awards-sprite a0-1"></span><span class="awards-sprite a5-2"></span></span></a>|
 |609|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=73163"><span class="purple">Just Fake IT</span><span class="awards-container"><span class="awards-sprite a0-1"></span><span class="awards-sprite a1-1"></span></span></a>|
 |610|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=73221"><span class="red">Dirty 30</span><span class="awards-container"><span class="awards-sprite a0-1"></span><span class="awards-sprite a5-3"></span></span></a>|
@@ -4337,7 +4337,7 @@
 |498|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=62498"><span class="blue">init3ator</span><span class="awards-container"><span class="awards-sprite a0-1"></span><span class="awards-sprite a1-2"></span></span></a>|
 |499|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=62515"><span class="red">FehWa</span><span class="awards-container"><span class="awards-sprite a0-1"></span><span class="awards-sprite a1-2"></span></span></a>|
 |500|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=69668"><span class="red">Sam</span><span class="awards-container"><span class="awards-sprite a0-1"></span><span class="awards-sprite a1-2"></span></span></a>|
-|501|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=72550"><span class="orange">Special</span><span class="awards-container"><span class="awards-sprite a0-1"></span><span class="awards-sprite a1-2"></span></span></a>|
+|501|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=72550"><span class="blue">Special</span><span class="awards-container"><span class="awards-sprite a0-1"></span><span class="awards-sprite a1-2"></span></span></a>|
 |502|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=637"><span class="red">TaTank1</span><span class="awards-container"><span class="awards-sprite a1-2"></span><span class="awards-sprite a2-1"></span></span></a>|
 |503|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=7870"><span class="blue">Ashrat</span><span class="awards-container"><span class="awards-sprite a1-2"></span><span class="awards-sprite a2-1"></span></span></a>|
 |504|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=12355"><span class="blue">Nole24</span><span class="awards-container"><span class="awards-sprite a1-2"></span><span class="awards-sprite a2-1"></span></span></a>|
@@ -9423,5 +9423,5 @@
 
 
 
-<p class="last_updated"><span class="last_updated">Last Updated:&nbsp;&nbsp;Jun 18, 12:04 PM&nbsp;&nbsp;(Pacific)</span></p>
+<p class="last_updated"><span class="last_updated">Last Updated:&nbsp;&nbsp;Jun 18, 6:04 PM&nbsp;&nbsp;(Pacific)</span></p>
 
