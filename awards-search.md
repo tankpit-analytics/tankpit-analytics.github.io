@@ -8239,7 +8239,7 @@
 |902|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=75037"><span class="blue">Planewoosh</span><span class="awards-container"><span class="awards-sprite a5-2"></span></span></a>|
 
 
-<span class="awards_search_header" id="awards_search_header_cup3">Gold Cup (1043)</span>
+<span class="awards_search_header" id="awards_search_header_cup3">Gold Cup (1044)</span>
 
 {:.awards_search#awards_search_cup3}
 |1|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=746"><span class="blue">Optimus Prime</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a1-3"></span><span class="awards-sprite a2-3"></span><span class="awards-sprite a3-3"></span><span class="awards-sprite a4-3"></span><span class="awards-sprite a5-3"></span><span class="awards-sprite a6-1"></span><span class="awards-sprite a7-1"></span></span></a>|
@@ -9285,6 +9285,7 @@
 |1041|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=74724"><span class="red">SwiftHANDS</span><span class="awards-container"><span class="awards-sprite a5-3"></span></span></a>|
 |1042|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=74836"><span class="purple">KEEP EM GUESSIN</span><span class="awards-container"><span class="awards-sprite a5-3"></span></span></a>|
 |1043|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=75118"><span class="purple">simulation theory</span><span class="awards-container"><span class="awards-sprite a5-3"></span></span></a>|
+|1044|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=75131"><span class="blue">cup4loservoltaic</span><span class="awards-container"><span class="awards-sprite a5-3"></span></span></a>|
 
 
 <span class="awards_search_header" id="awards_search_header_ph1">Purple Heart (21)</span>
@@ -9454,5 +9455,5 @@
 
 
 
-<p class="last_updated"><span class="last_updated">Last Updated:&nbsp;&nbsp;Jun 25, 12:04 PM&nbsp;&nbsp;(Pacific)</span></p>
+<p class="last_updated"><span class="last_updated">Last Updated:&nbsp;&nbsp;Jun 25, 6:04 PM&nbsp;&nbsp;(Pacific)</span></p>
 
