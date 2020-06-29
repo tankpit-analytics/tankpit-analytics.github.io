@@ -91,7 +91,7 @@
 |80|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=2856"><span class="orange">Spotlight</span><span class="awards-container"><span class="awards-sprite a0-1"></span><span class="awards-sprite a5-3"></span></span></a>|
 |81|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=3034"><span class="orange">i2i</span><span class="awards-container"><span class="awards-sprite a0-1"></span><span class="awards-sprite a1-1"></span></span></a>|
 |82|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=3047"><span class="red">x x</span><span class="awards-container"><span class="awards-sprite a0-1"></span><span class="awards-sprite a1-1"></span></span></a>|
-|83|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=3103"><span class="purple">taz1</span><span class="awards-container"><span class="awards-sprite a0-1"></span><span class="awards-sprite a1-1"></span></span></a>|
+|83|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=3103"><span class="blue">taz1</span><span class="awards-container"><span class="awards-sprite a0-1"></span><span class="awards-sprite a1-1"></span></span></a>|
 |84|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=3279"><span class="purple">ArchPhoenix</span><span class="awards-container"><span class="awards-sprite a0-1"></span><span class="awards-sprite a1-2"></span></span></a>|
 |85|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=3319"><span class="orange">JAG OFF</span><span class="awards-container"><span class="awards-sprite a0-1"></span><span class="awards-sprite a5-3"></span></span></a>|
 |86|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=3429"><span class="red">B44</span><span class="awards-container"><span class="awards-sprite a0-1"></span><span class="awards-sprite a1-1"></span></span></a>|
@@ -3606,7 +3606,7 @@
 |637|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=2551"><span class="blue">Tabo</span><span class="awards-container"><span class="awards-sprite a0-1"></span><span class="awards-sprite a1-1"></span></span></a>|
 |638|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=3034"><span class="orange">i2i</span><span class="awards-container"><span class="awards-sprite a0-1"></span><span class="awards-sprite a1-1"></span></span></a>|
 |639|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=3047"><span class="red">x x</span><span class="awards-container"><span class="awards-sprite a0-1"></span><span class="awards-sprite a1-1"></span></span></a>|
-|640|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=3103"><span class="purple">taz1</span><span class="awards-container"><span class="awards-sprite a0-1"></span><span class="awards-sprite a1-1"></span></span></a>|
+|640|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=3103"><span class="blue">taz1</span><span class="awards-container"><span class="awards-sprite a0-1"></span><span class="awards-sprite a1-1"></span></span></a>|
 |641|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=3429"><span class="red">B44</span><span class="awards-container"><span class="awards-sprite a0-1"></span><span class="awards-sprite a1-1"></span></span></a>|
 |642|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=3768"><span class="purple">eggplant</span><span class="awards-container"><span class="awards-sprite a0-1"></span><span class="awards-sprite a1-1"></span></span></a>|
 |643|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=3987"><span class="red">WaT iT dO</span><span class="awards-container"><span class="awards-sprite a0-1"></span><span class="awards-sprite a1-1"></span></span></a>|
@@ -6512,7 +6512,7 @@
 |97|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=8974"><span class="orange">daemon</span><span class="awards-container"><span class="awards-sprite a4-3"></span></span></a>|
 
 
-<span class="awards_search_header" id="awards_search_header_cup1">Bronze Cup (822)</span>
+<span class="awards_search_header" id="awards_search_header_cup1">Bronze Cup (823)</span>
 
 {:.awards_search#awards_search_cup1}
 |1|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=12791"><span class="orange">RESILIENCE</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a1-3"></span><span class="awards-sprite a2-3"></span><span class="awards-sprite a3-3"></span><span class="awards-sprite a4-3"></span><span class="awards-sprite a5-1"></span><span class="awards-sprite a6-1"></span><span class="awards-sprite a8-1"></span></span></a>|
@@ -7337,6 +7337,7 @@
 |820|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=74878"><span class="orange">As above So below</span><span class="awards-container"><span class="awards-sprite a5-1"></span></span></a>|
 |821|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=74963"><span class="blue">Orbit</span><span class="awards-container"><span class="awards-sprite a5-1"></span></span></a>|
 |822|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=75119"><span class="blue">Raja</span><span class="awards-container"><span class="awards-sprite a5-1"></span></span></a>|
+|823|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=75230"><span class="blue">alter ego</span><span class="awards-container"><span class="awards-sprite a5-1"></span></span></a>|
 
 
 <span class="awards_search_header" id="awards_search_header_cup2">Silver Cup (903)</span>
@@ -9464,5 +9465,5 @@
 
 
 
-<p class="last_updated"><span class="last_updated">Last Updated:&nbsp;&nbsp;Jun 28, 12:04 PM&nbsp;&nbsp;(Pacific)</span></p>
+<p class="last_updated"><span class="last_updated">Last Updated:&nbsp;&nbsp;Jun 28, 6:04 PM&nbsp;&nbsp;(Pacific)</span></p>
 
