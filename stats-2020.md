@@ -8,7 +8,7 @@
 |1|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=70378"><span class="red">Skeleton Key</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a2-1"></span><span class="awards-sprite a3-2"></span><span class="awards-sprite a4-3"></span><span class="awards-sprite a5-3"></span><span class="awards-sprite a7-1"></span></span></a>|200:1:37|
 |2|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=71956"><span class="red">FINESSE</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a2-2"></span><span class="awards-sprite a3-1"></span><span class="awards-sprite a5-3"></span><span class="awards-sprite a7-1"></span></span></a>|199:59:41|
 |3|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=70116"><span class="purple">SPIDERMAN</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a1-3"></span><span class="awards-sprite a2-1"></span><span class="awards-sprite a3-1"></span></span></a>|158:8:29|
-|4|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=70478"><span class="red">CKPA2020</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a1-3"></span><span class="awards-sprite a2-1"></span><span class="awards-sprite a3-1"></span><span class="awards-sprite a5-3"></span></span></a>|145:11:22|
+|4|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=70478"><span class="red">CKPA2020</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a1-3"></span><span class="awards-sprite a2-1"></span><span class="awards-sprite a3-1"></span><span class="awards-sprite a5-3"></span></span></a>|145:21:48|
 |5|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=70106"><span class="red">Corpse Reviver</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a1-1"></span><span class="awards-sprite a2-1"></span><span class="awards-sprite a4-3"></span><span class="awards-sprite a5-3"></span><span class="awards-sprite a6-1"></span></span></a>|84:41:17|
 |6|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=72488"><span class="blue">ToxiC ReVolveR</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a1-2"></span><span class="awards-sprite a2-1"></span><span class="awards-sprite a4-3"></span><span class="awards-sprite a5-3"></span></span></a>|84:33:03|
 |7|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=70190"><span class="red">Plot Twist</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a2-1"></span><span class="awards-sprite a4-3"></span><span class="awards-sprite a5-3"></span><span class="awards-sprite a6-1"></span></span></a>|74:33:14|
@@ -20,13 +20,13 @@
 |13|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=70135"><span class="orange">Captain Planet</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a1-1"></span><span class="awards-sprite a5-1"></span></span></a>|31:59:40|
 |14|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=70364"><span class="red">HELiOS</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a1-2"></span></span></a>|30:0:00|
 |15|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=73938"><span class="orange">hnery</span><span class="awards-container"><span class="awards-sprite a0-2"></span></span></a>|17:11:10|
-|16|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=70136"><span class="orange">Shredder</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a1-1"></span><span class="awards-sprite a5-2"></span></span></a>|15:38:48|
+|16|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=70136"><span class="orange">Shredder</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a1-1"></span><span class="awards-sprite a5-2"></span></span></a>|16:0:04|
 |17|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=70432"><span class="blue">Challenger Deep</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a5-2"></span></span></a>|13:9:52|
 |18|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=70884"><span class="blue">GENERAL R</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a5-2"></span></span></a>|12:0:32|
-|19|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=74914"><span class="purple">ArchangeL UrieL </span><span class="awards-container"><span class="awards-sprite a0-3"></span></span></a>|8:49:09|
+|19|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=74914"><span class="purple">ArchangeL UrieL </span><span class="awards-container"><span class="awards-sprite a0-3"></span></span></a>|9:54:42|
 |20|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=70317"><span class="blue">KiNG oF dA CASTLE</span><span class="awards-container"><span class="awards-sprite a0-1"></span><span class="awards-sprite a5-3"></span></span></a>|7:55:14|
 |21|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=73615"><span class="orange">Abraham Simpson II</span><span class="awards-container"><span class="awards-sprite a0-2"></span><span class="awards-sprite a5-2"></span></span></a>|1:48:38|
-|22|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=74473"><span class="red">TankpiT EvangelisT </span><span class="awards-container"><span class="awards-sprite a5-2"></span></span></a>|1:24:22|
+|22|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=74473"><span class="red">TankpiT EvangelisT </span><span class="awards-container"><span class="awards-sprite a5-2"></span></span></a>|1:39:55|
 
 
 {:.stats_leaderboard#stats_leaderboard_kills}
@@ -48,9 +48,9 @@
 |15|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=70884"><span class="blue">GENERAL R</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a5-2"></span></span></a>|36|
 |16|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=73938"><span class="orange">hnery</span><span class="awards-container"><span class="awards-sprite a0-2"></span></span></a>|21|
 |17|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=70152"><span class="red">Godfather</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a5-2"></span><span class="awards-sprite a6-1"></span></span></a>|16|
-|18|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=70432"><span class="blue">Challenger Deep</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a5-2"></span></span></a>|14|
-|19|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=70317"><span class="blue">KiNG oF dA CASTLE</span><span class="awards-container"><span class="awards-sprite a0-1"></span><span class="awards-sprite a5-3"></span></span></a>|14|
-|20|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=74473"><span class="red">TankpiT EvangelisT </span><span class="awards-container"><span class="awards-sprite a5-2"></span></span></a>|11|
+|18|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=74473"><span class="red">TankpiT EvangelisT </span><span class="awards-container"><span class="awards-sprite a5-2"></span></span></a>|15|
+|19|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=70432"><span class="blue">Challenger Deep</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a5-2"></span></span></a>|14|
+|20|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=70317"><span class="blue">KiNG oF dA CASTLE</span><span class="awards-container"><span class="awards-sprite a0-1"></span><span class="awards-sprite a5-3"></span></span></a>|14|
 |21|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=73615"><span class="orange">Abraham Simpson II</span><span class="awards-container"><span class="awards-sprite a0-2"></span><span class="awards-sprite a5-2"></span></span></a>|10|
 
 
@@ -66,8 +66,8 @@
 |8|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=70227"><span class="red">Wolf Bite</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a1-3"></span><span class="awards-sprite a5-3"></span></span></a>|11|
 |9|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=70884"><span class="blue">GENERAL R</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a5-2"></span></span></a>|10|
 |10|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=70146"><span class="red">Wretched</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a1-1"></span><span class="awards-sprite a5-3"></span></span></a>|10|
-|11|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=73938"><span class="orange">hnery</span><span class="awards-container"><span class="awards-sprite a0-2"></span></span></a>|8|
-|12|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=74473"><span class="red">TankpiT EvangelisT </span><span class="awards-container"><span class="awards-sprite a5-2"></span></span></a>|7|
+|11|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=74473"><span class="red">TankpiT EvangelisT </span><span class="awards-container"><span class="awards-sprite a5-2"></span></span></a>|9|
+|12|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=73938"><span class="orange">hnery</span><span class="awards-container"><span class="awards-sprite a0-2"></span></span></a>|8|
 |13|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=70152"><span class="red">Godfather</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a5-2"></span><span class="awards-sprite a6-1"></span></span></a>|6|
 |14|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=70364"><span class="red">HELiOS</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a1-2"></span></span></a>|5|
 |15|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=70432"><span class="blue">Challenger Deep</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a5-2"></span></span></a>|3|
@@ -78,5 +78,5 @@
 
 
 
-<p class="last_updated"><span class="last_updated">Last Updated:&nbsp;&nbsp;Jul 3, 6:00 AM&nbsp;&nbsp;(Pacific)</span></p>
+<p class="last_updated"><span class="last_updated">Last Updated:&nbsp;&nbsp;Jul 3, 12:00 PM&nbsp;&nbsp;(Pacific)</span></p>
 
