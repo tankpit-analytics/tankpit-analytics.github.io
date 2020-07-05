@@ -7363,7 +7363,7 @@
 |827|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=75230"><span class="blue">alter ego</span><span class="awards-container"><span class="awards-sprite a5-1"></span></span></a>|
 
 
-<span class="awards_search_header" id="awards_search_header_cup2">Silver Cup (906)</span>
+<span class="awards_search_header" id="awards_search_header_cup2">Silver Cup (907)</span>
 
 {:.awards_search#awards_search_cup2}
 |1|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=45863"><span class="red">ROSE</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a1-2"></span><span class="awards-sprite a2-3"></span><span class="awards-sprite a3-3"></span><span class="awards-sprite a4-3"></span><span class="awards-sprite a5-2"></span><span class="awards-sprite a7-1"></span><span class="awards-sprite a8-1"></span></span></a>|
@@ -8272,6 +8272,7 @@
 |904|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=74904"><span class="red">perfect10n-10</span><span class="awards-container"><span class="awards-sprite a5-2"></span></span></a>|
 |905|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=75037"><span class="blue">Planewoosh</span><span class="awards-container"><span class="awards-sprite a5-2"></span></span></a>|
 |906|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=75408"><span class="purple">FatRabbit</span><span class="awards-container"><span class="awards-sprite a5-2"></span></span></a>|
+|907|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=75448"><span class="purple">Sanatana Dharma</span><span class="awards-container"><span class="awards-sprite a5-2"></span></span></a>|
 
 
 <span class="awards_search_header" id="awards_search_header_cup3">Gold Cup (1055)</span>
@@ -9506,5 +9507,5 @@
 
 
 
-<p class="last_updated"><span class="last_updated">Last Updated:&nbsp;&nbsp;Jul 4, 6:04 PM&nbsp;&nbsp;(Pacific)</span></p>
+<p class="last_updated"><span class="last_updated">Last Updated:&nbsp;&nbsp;Jul 5, 12:04 AM&nbsp;&nbsp;(Pacific)</span></p>
 
