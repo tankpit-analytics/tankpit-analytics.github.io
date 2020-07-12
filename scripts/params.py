@@ -12,17 +12,36 @@ api_max_tries = 40
 master_csv_overall = dir_tpdata + 'master_overall.csv'
 passes_csv_overall = dir_tpdata + 'passes_overall.csv'
 
+# 2020-07-12
+# ~ <283 accurate
+# !--gen4 231
+# !--gen5 276
+# gen6 332
+# col2 306
+# maj2 283
+# !--cap1 189
+# cap2 ?
+# lieut1 388
+
 ranks_dict_overall = {
-    'general': 4,
+    'general': 6,
     'colonel': 2,
     'major': 2,
-    'captain': 1,
-    'lieutenant': 1,
-    'sergeant': 1,
-    'corporal': 1,
-    'private': 1,
-    'recruit': 1
+    'captain': 2,
+    'lieutenant': 1
 }
+
+# ranks_dict_overall = {
+#     'general': 4,
+#     'colonel': 2,
+#     'major': 2,
+#     'captain': 1,
+#     'lieutenant': 1,
+#     'sergeant': 1,
+#     'corporal': 1,
+#     'private': 1,
+#     'recruit': 1
+# }
 
 master_nrow_overall = 500 # rows in master - if running j loop, increasing this takes a lot longer
 
@@ -31,17 +50,33 @@ master_nrow_overall = 500 # rows in master - if running j loop, increasing this 
 master_csv_2020 = dir_tpdata + 'master_2020.csv'
 passes_csv_2020 = dir_tpdata + 'passes_2020.csv'
 
+# 2020-07-12
+# ~ <171 accurate
+# gen2 180
+# col2 171
+# maj2 234
+# cap1 210
+# lie1 248
+
 ranks_dict_2020 = {
-    'general': 4,
+    'general': 2,
     'colonel': 2,
     'major': 2,
     'captain': 1,
-    'lieutenant': 1,
-    'sergeant': 1,
-    'corporal': 1,
-    'private': 1,
-    'recruit': 1
+    'lieutenant': 1
 }
+
+# ranks_dict_2020 = {
+#     'general': 4,
+#     'colonel': 2,
+#     'major': 2,
+#     'captain': 1,
+#     'lieutenant': 1,
+#     'sergeant': 1,
+#     'corporal': 1,
+#     'private': 1,
+#     'recruit': 1
+# }
 
 master_nrow_2020 = 500 # rows in master - if running j loop, increasing this takes a lot longer
 
