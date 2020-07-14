@@ -5456,7 +5456,7 @@
 |95|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=13048"><span class="red">Aftermath</span><span class="awards-container"><span class="awards-sprite a0-1"></span><span class="awards-sprite a4-3"></span><span class="awards-sprite a5-3"></span></span></a>|
 
 
-<span class="awards_search_header" id="awards_search_header_cup1">Bronze Cup (362)</span>
+<span class="awards_search_header" id="awards_search_header_cup1">Bronze Cup (361)</span>
 
 {:.awards_search#awards_search_cup1}
 |1|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=12791"><span class="orange">RESILIENCE</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a1-3"></span><span class="awards-sprite a2-3"></span><span class="awards-sprite a3-3"></span><span class="awards-sprite a4-3"></span><span class="awards-sprite a5-1"></span><span class="awards-sprite a6-1"></span><span class="awards-sprite a8-1"></span></span></a>|
@@ -5815,12 +5815,11 @@
 |354|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=70183"><span class="red">UltiMATE KnightMARE</span><span class="awards-container"><span class="awards-sprite a5-1"></span></span></a>|
 |355|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=70492"><span class="orange">Tiger</span><span class="awards-container"><span class="awards-sprite a5-1"></span></span></a>|
 |356|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=72239"><span class="purple">Annihilation</span><span class="awards-container"><span class="awards-sprite a5-1"></span></span></a>|
-|357|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=72348"><span class="red">mr grimm</span><span class="awards-container"><span class="awards-sprite a5-1"></span></span></a>|
-|358|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=72646"><span class="purple">OrangE JuicE</span><span class="awards-container"><span class="awards-sprite a5-1"></span></span></a>|
-|359|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=73836"><span class="blue">just for kicks</span><span class="awards-container"><span class="awards-sprite a5-1"></span></span></a>|
-|360|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=74963"><span class="blue">Orbit</span><span class="awards-container"><span class="awards-sprite a5-1"></span></span></a>|
-|361|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=75218"><span class="blue">Smokebreak</span><span class="awards-container"><span class="awards-sprite a5-1"></span></span></a>|
-|362|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=75397"><span class="blue">Nightscream</span><span class="awards-container"><span class="awards-sprite a5-1"></span></span></a>|
+|357|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=72646"><span class="purple">OrangE JuicE</span><span class="awards-container"><span class="awards-sprite a5-1"></span></span></a>|
+|358|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=73836"><span class="blue">just for kicks</span><span class="awards-container"><span class="awards-sprite a5-1"></span></span></a>|
+|359|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=74963"><span class="blue">Orbit</span><span class="awards-container"><span class="awards-sprite a5-1"></span></span></a>|
+|360|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=75218"><span class="blue">Smokebreak</span><span class="awards-container"><span class="awards-sprite a5-1"></span></span></a>|
+|361|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=75397"><span class="blue">Nightscream</span><span class="awards-container"><span class="awards-sprite a5-1"></span></span></a>|
 
 
 <span class="awards_search_header" id="awards_search_header_cup2">Silver Cup (415)</span>
@@ -6930,5 +6929,5 @@
 
 
 
-<p class="last_updated"><span class="last_updated">Last Updated:&nbsp;&nbsp;Jul 13, 12:02 PM&nbsp;&nbsp;(Pacific)</span></p>
+<p class="last_updated"><span class="last_updated">Last Updated:&nbsp;&nbsp;Jul 13, 6:02 PM&nbsp;&nbsp;(Pacific)</span></p>
 
