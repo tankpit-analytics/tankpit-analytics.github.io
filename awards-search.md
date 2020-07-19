@@ -130,7 +130,7 @@
 |119|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=11949"><span class="red">blackhawk</span><span class="awards-container"><span class="awards-sprite a0-1"></span><span class="awards-sprite a1-1"></span></span></a>|
 |120|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=11961"><span class="red">Chief 4</span><span class="awards-container"><span class="awards-sprite a0-1"></span><span class="awards-sprite a1-1"></span></span></a>|
 |121|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=12023"><span class="blue">brain wave</span><span class="awards-container"><span class="awards-sprite a0-1"></span><span class="awards-sprite a1-1"></span></span></a>|
-|122|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=12136"><span class="purple">ALL BLUES R NOOBS</span><span class="awards-container"><span class="awards-sprite a0-1"></span><span class="awards-sprite a5-3"></span></span></a>|
+|122|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=12136"><span class="blue">ALL BLUES R NOOBS</span><span class="awards-container"><span class="awards-sprite a0-1"></span><span class="awards-sprite a5-3"></span></span></a>|
 |123|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=12278"><span class="red">MAGTECH</span><span class="awards-container"><span class="awards-sprite a0-1"></span><span class="awards-sprite a1-2"></span></span></a>|
 |124|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=12544"><span class="purple">Black Panther</span><span class="awards-container"><span class="awards-sprite a0-1"></span><span class="awards-sprite a1-1"></span></span></a>|
 |125|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=12722"><span class="blue">BuZZ LiGHtYeAR</span><span class="awards-container"><span class="awards-sprite a0-1"></span><span class="awards-sprite a1-2"></span></span></a>|
@@ -6686,7 +6686,7 @@
 |419|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=6970"><span class="purple">Kangaskhan</span><span class="awards-container"><span class="awards-sprite a0-1"></span><span class="awards-sprite a5-3"></span></span></a>|
 |420|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=6973"><span class="purple">Charizard</span><span class="awards-container"><span class="awards-sprite a0-1"></span><span class="awards-sprite a5-3"></span></span></a>|
 |421|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=10865"><span class="red">HOPE</span><span class="awards-container"><span class="awards-sprite a0-1"></span><span class="awards-sprite a5-3"></span></span></a>|
-|422|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=12136"><span class="purple">ALL BLUES R NOOBS</span><span class="awards-container"><span class="awards-sprite a0-1"></span><span class="awards-sprite a5-3"></span></span></a>|
+|422|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=12136"><span class="blue">ALL BLUES R NOOBS</span><span class="awards-container"><span class="awards-sprite a0-1"></span><span class="awards-sprite a5-3"></span></span></a>|
 |423|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=14339"><span class="orange">fLaPpYBiRd</span><span class="awards-container"><span class="awards-sprite a0-1"></span><span class="awards-sprite a5-3"></span></span></a>|
 |424|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=14375"><span class="purple">Mirror rorriM</span><span class="awards-container"><span class="awards-sprite a0-1"></span><span class="awards-sprite a5-3"></span></span></a>|
 |425|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=14936"><span class="blue">SANCTUARY</span><span class="awards-container"><span class="awards-sprite a0-1"></span><span class="awards-sprite a5-3"></span></span></a>|
@@ -6952,5 +6952,5 @@
 
 
 
-<p class="last_updated"><span class="last_updated">Last Updated:&nbsp;&nbsp;Jul 18, 12:02 PM&nbsp;&nbsp;(Pacific)</span></p>
+<p class="last_updated"><span class="last_updated">Last Updated:&nbsp;&nbsp;Jul 18, 6:02 PM&nbsp;&nbsp;(Pacific)</span></p>
 
