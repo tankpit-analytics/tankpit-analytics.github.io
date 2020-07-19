@@ -10,7 +10,7 @@
 |3|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=70116"><span class="purple">SPIDERMAN</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a1-3"></span><span class="awards-sprite a2-1"></span><span class="awards-sprite a3-1"></span></span></a>|158:8:29|
 |4|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=70106"><span class="red">Corpse Reviver</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a1-1"></span><span class="awards-sprite a2-1"></span><span class="awards-sprite a3-1"></span><span class="awards-sprite a4-3"></span><span class="awards-sprite a5-3"></span><span class="awards-sprite a6-1"></span><span class="awards-sprite a7-1"></span></span></a>|102:27:41|
 |5|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=72488"><span class="blue">ToxiC ReVolveR</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a1-2"></span><span class="awards-sprite a2-1"></span><span class="awards-sprite a3-1"></span><span class="awards-sprite a4-3"></span><span class="awards-sprite a5-3"></span></span></a>|100:3:04|
-|6|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=74035"><span class="orange">Boba Fett</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a1-3"></span></span></a>|78:15:31|
+|6|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=74035"><span class="orange">Boba Fett</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a1-3"></span></span></a>|79:11:01|
 |7|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=70190"><span class="red">Plot Twist</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a2-1"></span><span class="awards-sprite a4-3"></span><span class="awards-sprite a5-3"></span><span class="awards-sprite a6-1"></span></span></a>|75:13:52|
 |8|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=70151"><span class="red">Flop</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a1-3"></span></span></a>|58:22:22|
 |9|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=70121"><span class="blue">Smelly Pirate Hooker</span><span class="awards-container"><span class="awards-sprite a0-3"></span></span></a>|50:0:00|
@@ -21,7 +21,7 @@
 |14|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=70364"><span class="red">HELiOS</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a1-2"></span></span></a>|30:0:00|
 |15|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=70136"><span class="orange">Shredder</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a1-1"></span><span class="awards-sprite a5-2"></span></span></a>|21:33:34|
 |16|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=73938"><span class="orange">hnery</span><span class="awards-container"><span class="awards-sprite a0-2"></span></span></a>|17:11:10|
-|17|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=75459"><span class="red">Old Fashioned</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a6-1"></span></span></a>|13:53:44|
+|17|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=75459"><span class="red">Old Fashioned</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a6-1"></span></span></a>|14:19:10|
 |18|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=70432"><span class="blue">Challenger Deep</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a5-2"></span></span></a>|13:9:52|
 |19|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=74914"><span class="purple">ArchangeL UrieL </span><span class="awards-container"><span class="awards-sprite a0-3"></span></span></a>|12:53:52|
 |20|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=70884"><span class="blue">GENERAL R</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a5-2"></span></span></a>|12:11:24|
@@ -32,7 +32,7 @@
 
 {:.stats_leaderboard#stats_leaderboard_kills}
 |<span class="num_col">&nbsp;</span>|<span class="tank_col">Tank</span>|<span class="stat_col">Kills</span>|
-|1|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=70191"><span class="blue">Yukon Cornelius</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a1-3"></span><span class="awards-sprite a2-2"></span><span class="awards-sprite a3-2"></span></span></a>|7864|
+|1|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=70191"><span class="blue">Yukon Cornelius</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a1-3"></span><span class="awards-sprite a2-2"></span><span class="awards-sprite a3-2"></span></span></a>|7909|
 |2|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=70116"><span class="purple">SPIDERMAN</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a1-3"></span><span class="awards-sprite a2-1"></span><span class="awards-sprite a3-1"></span></span></a>|3081|
 |3|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=70227"><span class="red">Wolf Bite</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a1-3"></span><span class="awards-sprite a5-3"></span></span></a>|837|
 |4|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=70151"><span class="red">Flop</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a1-3"></span></span></a>|759|
@@ -79,5 +79,5 @@
 
 
 
-<p class="last_updated"><span class="last_updated">Last Updated:&nbsp;&nbsp;Jul 19, 6:00 AM&nbsp;&nbsp;(Pacific)</span></p>
+<p class="last_updated"><span class="last_updated">Last Updated:&nbsp;&nbsp;Jul 19, 12:00 PM&nbsp;&nbsp;(Pacific)</span></p>
 
