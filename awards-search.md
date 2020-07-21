@@ -897,7 +897,7 @@
 |505|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=71756"><span class="blue">breadhenge</span><span class="awards-container"><span class="awards-sprite a0-2"></span><span class="awards-sprite a1-1"></span></span></a>|
 |506|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=71941"><span class="purple">Category Theory</span><span class="awards-container"><span class="awards-sprite a0-2"></span><span class="awards-sprite a2-1"></span></span></a>|
 |507|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=72086"><span class="red">ETERNITY</span><span class="awards-container"><span class="awards-sprite a0-2"></span><span class="awards-sprite a1-1"></span></span></a>|
-|508|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=72550"><span class="orange">Special</span><span class="awards-container"><span class="awards-sprite a0-2"></span><span class="awards-sprite a1-3"></span></span></a>|
+|508|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=72550"><span class="blue">Special</span><span class="awards-container"><span class="awards-sprite a0-2"></span><span class="awards-sprite a1-3"></span></span></a>|
 |509|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=73023"><span class="red">Spaghetti</span><span class="awards-container"><span class="awards-sprite a0-2"></span><span class="awards-sprite a1-1"></span></span></a>|
 |510|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=73286"><span class="orange">ArchangeL ZadkieL</span><span class="awards-container"><span class="awards-sprite a0-2"></span><span class="awards-sprite a1-1"></span></span></a>|
 |511|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=73315"><span class="blue">ICON</span><span class="awards-container"><span class="awards-sprite a0-2"></span><span class="awards-sprite a5-3"></span></span></a>|
@@ -4078,7 +4078,7 @@
 |427|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=39482"><span class="blue">Orkin</span><span class="awards-container"><span class="awards-sprite a0-2"></span><span class="awards-sprite a1-3"></span></span></a>|
 |428|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=70412"><span class="blue">Ainmose</span><span class="awards-container"><span class="awards-sprite a0-2"></span><span class="awards-sprite a1-3"></span></span></a>|
 |429|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=70475"><span class="blue">Sula Nebouxii</span><span class="awards-container"><span class="awards-sprite a0-2"></span><span class="awards-sprite a1-3"></span></span></a>|
-|430|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=72550"><span class="orange">Special</span><span class="awards-container"><span class="awards-sprite a0-2"></span><span class="awards-sprite a1-3"></span></span></a>|
+|430|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=72550"><span class="blue">Special</span><span class="awards-container"><span class="awards-sprite a0-2"></span><span class="awards-sprite a1-3"></span></span></a>|
 |431|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=694"><span class="red">StoneCold</span><span class="awards-container"><span class="awards-sprite a0-1"></span><span class="awards-sprite a1-3"></span></span></a>|
 |432|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=8530"><span class="blue">broski</span><span class="awards-container"><span class="awards-sprite a0-1"></span><span class="awards-sprite a1-3"></span></span></a>|
 |433|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=10554"><span class="blue">FunJp</span><span class="awards-container"><span class="awards-sprite a0-1"></span><span class="awards-sprite a1-3"></span></span></a>|
@@ -6963,5 +6963,5 @@
 
 
 
-<p class="last_updated"><span class="last_updated">Last Updated:&nbsp;&nbsp;Jul 20, 12:02 PM&nbsp;&nbsp;(Pacific)</span></p>
+<p class="last_updated"><span class="last_updated">Last Updated:&nbsp;&nbsp;Jul 20, 6:02 PM&nbsp;&nbsp;(Pacific)</span></p>
 
