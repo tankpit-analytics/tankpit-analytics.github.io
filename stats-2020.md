@@ -32,7 +32,7 @@
 
 {:.stats_leaderboard#stats_leaderboard_kills}
 |<span class="num_col">&nbsp;</span>|<span class="tank_col">Tank</span>|<span class="stat_col">Kills</span>|
-|1|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=70191"><span class="blue">Yukon Cornelius</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a1-3"></span><span class="awards-sprite a2-2"></span><span class="awards-sprite a3-2"></span></span></a>|7977|
+|1|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=70191"><span class="blue">Yukon Cornelius</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a1-3"></span><span class="awards-sprite a2-2"></span><span class="awards-sprite a3-2"></span></span></a>|7981|
 |2|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=70116"><span class="purple">SPIDERMAN</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a1-3"></span><span class="awards-sprite a2-1"></span><span class="awards-sprite a3-1"></span></span></a>|3081|
 |3|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=70227"><span class="red">Wolf Bite</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a1-3"></span><span class="awards-sprite a5-3"></span></span></a>|837|
 |4|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=70151"><span class="red">Flop</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a1-3"></span></span></a>|759|
@@ -72,12 +72,12 @@
 |14|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=70364"><span class="red">HELiOS</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a1-2"></span></span></a>|5|
 |15|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=70317"><span class="blue">KiNG oF dA CASTLE</span><span class="awards-container"><span class="awards-sprite a0-1"></span><span class="awards-sprite a5-3"></span></span></a>|4|
 |16|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=70432"><span class="blue">Challenger Deep</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a5-2"></span></span></a>|3|
-|17|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=74366"><span class="blue">fishfry</span><span class="awards-container"><span class="awards-sprite a0-2"></span></span></a>|2|
-|18|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=70136"><span class="orange">Shredder</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a1-1"></span><span class="awards-sprite a5-2"></span></span></a>|2|
-|19|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=73615"><span class="orange">Abraham Simpson II</span><span class="awards-container"><span class="awards-sprite a0-2"></span><span class="awards-sprite a5-2"></span></span></a>|2|
+|17|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=73615"><span class="orange">Abraham Simpson II</span><span class="awards-container"><span class="awards-sprite a0-2"></span><span class="awards-sprite a5-2"></span></span></a>|2|
+|18|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=74366"><span class="blue">fishfry</span><span class="awards-container"><span class="awards-sprite a0-2"></span></span></a>|2|
+|19|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=70136"><span class="orange">Shredder</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a1-1"></span><span class="awards-sprite a5-2"></span></span></a>|2|
 
 
 
 
-<p class="last_updated"><span class="last_updated">Last Updated:&nbsp;&nbsp;Jul 22, 12:00 PM&nbsp;&nbsp;(Pacific)</span></p>
+<p class="last_updated"><span class="last_updated">Last Updated:&nbsp;&nbsp;Jul 22, 6:00 PM&nbsp;&nbsp;(Pacific)</span></p>
 
