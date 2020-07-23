@@ -30,5 +30,5 @@
 |25|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=6281"><span class="orange">zubziLLa</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a1-2"></span><span class="awards-sprite a2-3"></span><span class="awards-sprite a3-3"></span><span class="awards-sprite a4-3"></span><span class="awards-sprite a5-3"></span><span class="awards-sprite a8-1"></span></span></a>|11|13|9|33|
 
 
-<p class="last_updated"><span class="last_updated">Last Updated:&nbsp;&nbsp;Jul 23, 12:02 AM&nbsp;&nbsp;(Pacific)</span></p>
+<p class="last_updated"><span class="last_updated">Last Updated:&nbsp;&nbsp;Jul 23, 6:02 AM&nbsp;&nbsp;(Pacific)</span></p>
 
