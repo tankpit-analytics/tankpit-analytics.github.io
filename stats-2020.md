@@ -25,7 +25,7 @@
 |18|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=74914"><span class="purple">ArchangeL UrieL </span><span class="awards-container"><span class="awards-sprite a0-3"></span></span></a>|12:53:52|
 |19|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=70884"><span class="blue">GENERAL R</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a5-2"></span></span></a>|12:11:24|
 |20|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=70317"><span class="blue">KiNG oF dA CASTLE</span><span class="awards-container"><span class="awards-sprite a0-1"></span><span class="awards-sprite a5-3"></span></span></a>|7:57:44|
-|21|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=74473"><span class="red">TankpiT EvangelisT </span><span class="awards-container"><span class="awards-sprite a5-2"></span></span></a>|2:12:21|
+|21|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=74473"><span class="red">TankpiT EvangelisT </span><span class="awards-container"><span class="awards-sprite a5-2"></span></span></a>|2:13:24|
 |22|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=73615"><span class="orange">Abraham Simpson II</span><span class="awards-container"><span class="awards-sprite a0-2"></span><span class="awards-sprite a5-2"></span></span></a>|1:48:38|
 |23|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=75459"><span class="purple">Old Fashioned</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a6-1"></span></span></a>|0:56:27|
 
@@ -73,11 +73,11 @@
 |15|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=70317"><span class="blue">KiNG oF dA CASTLE</span><span class="awards-container"><span class="awards-sprite a0-1"></span><span class="awards-sprite a5-3"></span></span></a>|4|
 |16|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=70432"><span class="blue">Challenger Deep</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a5-2"></span></span></a>|3|
 |17|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=73615"><span class="orange">Abraham Simpson II</span><span class="awards-container"><span class="awards-sprite a0-2"></span><span class="awards-sprite a5-2"></span></span></a>|2|
-|18|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=74366"><span class="blue">fishfry</span><span class="awards-container"><span class="awards-sprite a0-2"></span></span></a>|2|
-|19|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=70136"><span class="orange">Shredder</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a1-1"></span><span class="awards-sprite a5-2"></span></span></a>|2|
+|18|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=70136"><span class="orange">Shredder</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a1-1"></span><span class="awards-sprite a5-2"></span></span></a>|2|
+|19|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=74366"><span class="blue">fishfry</span><span class="awards-container"><span class="awards-sprite a0-2"></span></span></a>|2|
 
 
 
 
-<p class="last_updated"><span class="last_updated">Last Updated:&nbsp;&nbsp;Jul 23, 6:00 AM&nbsp;&nbsp;(Pacific)</span></p>
+<p class="last_updated"><span class="last_updated">Last Updated:&nbsp;&nbsp;Jul 23, 12:00 PM&nbsp;&nbsp;(Pacific)</span></p>
 
