@@ -2133,7 +2133,7 @@
 |1213|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=46698"><span class="blue">Rebecca Hall</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a5-1"></span></span></a>|
 |1214|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=46701"><span class="red">Karen Gillan</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a5-3"></span></span></a>|
 |1215|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=46719"><span class="orange">HaNgEmHi</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a1-3"></span></span></a>|
-|1216|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=46762"><span class="purple">wumblebumble</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a1-1"></span></span></a>|
+|1216|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=46762"><span class="orange">wumblebumble</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a1-1"></span></span></a>|
 |1217|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=46934"><span class="orange">Hydrogen</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a1-2"></span></span></a>|
 |1218|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=46947"><span class="purple">Cross-Dress Tommy</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a5-1"></span></span></a>|
 |1219|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=46977"><span class="orange">Bring It On</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a1-1"></span></span></a>|
@@ -2716,7 +2716,7 @@
 |294|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=45946"><span class="blue">xNightLight-</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a1-1"></span></span></a>|
 |295|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=46271"><span class="red">Dash</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a1-1"></span></span></a>|
 |296|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=46274"><span class="orange">Classic Edition</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a1-1"></span></span></a>|
-|297|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=46762"><span class="purple">wumblebumble</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a1-1"></span></span></a>|
+|297|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=46762"><span class="orange">wumblebumble</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a1-1"></span></span></a>|
 |298|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=46977"><span class="orange">Bring It On</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a1-1"></span></span></a>|
 |299|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=46985"><span class="orange">God of Battle</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a1-1"></span></span></a>|
 |300|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=47050"><span class="purple">Purple Drank</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a1-1"></span></span></a>|
@@ -6951,5 +6951,5 @@
 
 
 
-<p class="last_updated"><span class="last_updated">Last Updated:&nbsp;&nbsp;Jul 26, 6:02 AM&nbsp;&nbsp;(Pacific)</span></p>
+<p class="last_updated"><span class="last_updated">Last Updated:&nbsp;&nbsp;Jul 26, 12:02 PM&nbsp;&nbsp;(Pacific)</span></p>
 
