@@ -2429,7 +2429,7 @@
 |1503|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=74845"><span class="red">MELEE</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a5-2"></span></span></a>|
 |1504|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=75338"><span class="red">oof</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a1-2"></span></span></a>|
 |1505|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=75427"><span class="blue">XYZ</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a1-2"></span></span></a>|
-|1506|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=75459"><span class="purple">Old Fashioned</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a6-1"></span></span></a>|
+|1506|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=75459"><span class="red">Old Fashioned</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a6-1"></span></span></a>|
 
 
 <span class="awards_search_header" id="awards_search_header_tank1">Bronze Tank (759)</span>
@@ -6854,7 +6854,7 @@
 |25|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=70190"><span class="red">Plot Twist</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a2-1"></span><span class="awards-sprite a4-3"></span><span class="awards-sprite a5-3"></span><span class="awards-sprite a6-1"></span></span></a>|
 |26|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=47281"><span class="orange">ScrewBall</span><span class="awards-container"><span class="awards-sprite a1-3"></span><span class="awards-sprite a2-2"></span><span class="awards-sprite a5-2"></span><span class="awards-sprite a6-1"></span></span></a>|
 |27|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=70152"><span class="red">Godfather</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a5-2"></span><span class="awards-sprite a6-1"></span></span></a>|
-|28|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=75459"><span class="purple">Old Fashioned</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a6-1"></span></span></a>|
+|28|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=75459"><span class="red">Old Fashioned</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a6-1"></span></span></a>|
 
 
 <span class="awards_search_header" id="awards_search_header_wc1">War Correspondent (55)</span>
@@ -6994,5 +6994,5 @@
 
 
 
-<p class="last_updated"><span class="last_updated">Last Updated:&nbsp;&nbsp;Aug 9, 6:02 AM&nbsp;&nbsp;(Pacific)</span></p>
+<p class="last_updated"><span class="last_updated">Last Updated:&nbsp;&nbsp;Aug 9, 12:02 PM&nbsp;&nbsp;(Pacific)</span></p>
 
