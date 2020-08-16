@@ -2427,7 +2427,7 @@
 |1503|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=75644"><span class="red">VoltIsNiceNMyFriend</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a2-1"></span></span></a>|
 
 
-<span class="awards_search_header" id="awards_search_header_tank1">Bronze Tank (757)</span>
+<span class="awards_search_header" id="awards_search_header_tank1">Bronze Tank (756)</span>
 
 {:.awards_search#awards_search_tank1}
 |1|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=1643"><span class="orange">weekend nachos</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a1-1"></span><span class="awards-sprite a2-2"></span><span class="awards-sprite a3-2"></span><span class="awards-sprite a4-3"></span><span class="awards-sprite a5-3"></span><span class="awards-sprite a6-1"></span><span class="awards-sprite a8-1"></span></span></a>|
@@ -3185,8 +3185,7 @@
 |753|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=61044"><span class="orange">Skittles</span><span class="awards-container"><span class="awards-sprite a1-1"></span><span class="awards-sprite a2-1"></span></span></a>|
 |754|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=64172"><span class="blue">Wolf</span><span class="awards-container"><span class="awards-sprite a1-1"></span><span class="awards-sprite a2-1"></span></span></a>|
 |755|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=69769"><span class="red">SageThePlug</span><span class="awards-container"><span class="awards-sprite a1-1"></span><span class="awards-sprite a2-2"></span></span></a>|
-|756|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=72301"><span class="blue">Sgt Xana</span><span class="awards-container"><span class="awards-sprite a1-1"></span><span class="awards-sprite a2-1"></span></span></a>|
-|757|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=73688"><span class="red">Cuba </span><span class="awards-container"><span class="awards-sprite a1-1"></span><span class="awards-sprite a2-2"></span></span></a>|
+|756|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=73688"><span class="red">Cuba </span><span class="awards-container"><span class="awards-sprite a1-1"></span><span class="awards-sprite a2-2"></span></span></a>|
 
 
 <span class="awards_search_header" id="awards_search_header_tank2">Silver Tank (461)</span>
@@ -4102,7 +4101,7 @@
 |442|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=15561"><span class="purple">Thirsty Perch</span><span class="awards-container"><span class="awards-sprite a1-3"></span></span></a>|
 
 
-<span class="awards_search_header" id="awards_search_header_medal1">Combat Honor Medal (427)</span>
+<span class="awards_search_header" id="awards_search_header_medal1">Combat Honor Medal (426)</span>
 
 {:.awards_search#awards_search_medal1}
 |1|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=59879"><span class="orange">Globe Daddy</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a1-3"></span><span class="awards-sprite a2-1"></span><span class="awards-sprite a3-2"></span><span class="awards-sprite a4-3"></span><span class="awards-sprite a5-1"></span><span class="awards-sprite a7-1"></span><span class="awards-sprite a8-1"></span></span></a>|
@@ -4531,7 +4530,6 @@
 |424|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=62726"><span class="red">Swamp Fox</span><span class="awards-container"><span class="awards-sprite a1-2"></span><span class="awards-sprite a2-1"></span></span></a>|
 |425|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=64172"><span class="blue">Wolf</span><span class="awards-container"><span class="awards-sprite a1-1"></span><span class="awards-sprite a2-1"></span></span></a>|
 |426|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=69258"><span class="blue">NightStrikeGTR</span><span class="awards-container"><span class="awards-sprite a1-3"></span><span class="awards-sprite a2-1"></span></span></a>|
-|427|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=72301"><span class="blue">Sgt Xana</span><span class="awards-container"><span class="awards-sprite a1-1"></span><span class="awards-sprite a2-1"></span></span></a>|
 
 
 <span class="awards_search_header" id="awards_search_header_medal2">Battle Honor Medal (210)</span>
@@ -6981,5 +6979,5 @@
 
 
 
-<p class="last_updated"><span class="last_updated">Last Updated:&nbsp;&nbsp;Aug 16, 6:02 AM&nbsp;&nbsp;(Pacific)</span></p>
+<p class="last_updated"><span class="last_updated">Last Updated:&nbsp;&nbsp;Aug 16, 12:02 PM&nbsp;&nbsp;(Pacific)</span></p>
 
