@@ -2424,7 +2424,7 @@
 |1498|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=75427"><span class="blue">XYZ</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a1-2"></span></span></a>|
 |1499|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=75597"><span class="orange">MILKING A MALE COW </span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a5-3"></span></span></a>|
 |1500|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=75629"><span class="orange">David0Lt</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a1-1"></span></span></a>|
-|1501|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=75644"><span class="red">VoltIsNiceNMyFriend</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a2-1"></span></span></a>|
+|1501|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=75644"><span class="blue">VoltIsNiceNMyFriend</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a2-1"></span></span></a>|
 
 
 <span class="awards_search_header" id="awards_search_header_tank1">Bronze Tank (755)</span>
@@ -4447,7 +4447,7 @@
 |341|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=60374"><span class="purple">BOBBYS REVENGE</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a2-1"></span></span></a>|
 |342|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=64312"><span class="orange">ComeGetSome</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a2-1"></span></span></a>|
 |343|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=70705"><span class="purple">KoDaK BLaCk</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a2-1"></span></span></a>|
-|344|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=75644"><span class="red">VoltIsNiceNMyFriend</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a2-1"></span></span></a>|
+|344|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=75644"><span class="blue">VoltIsNiceNMyFriend</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a2-1"></span></span></a>|
 |345|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=630"><span class="purple"> TW </span><span class="awards-container"><span class="awards-sprite a0-2"></span><span class="awards-sprite a2-1"></span></span></a>|
 |346|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=1514"><span class="red">ZEMA</span><span class="awards-container"><span class="awards-sprite a0-2"></span><span class="awards-sprite a2-1"></span></span></a>|
 |347|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=1777"><span class="purple">Darkness</span><span class="awards-container"><span class="awards-sprite a0-2"></span><span class="awards-sprite a2-1"></span></span></a>|
@@ -6977,5 +6977,5 @@
 
 
 
-<p class="last_updated"><span class="last_updated">Last Updated:&nbsp;&nbsp;Aug 23, 6:02 AM&nbsp;&nbsp;(Pacific)</span></p>
+<p class="last_updated"><span class="last_updated">Last Updated:&nbsp;&nbsp;Aug 23, 12:02 PM&nbsp;&nbsp;(Pacific)</span></p>
 
