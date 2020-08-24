@@ -5,8 +5,8 @@
 
 {:.stats_leaderboard#stats_leaderboard_playtime}
 |<span class="num_col">&nbsp;</span>|<span class="tank_col">Tank</span>|<span class="stat_col">Time Played</span>|
-|1|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=70378"><span class="red">Skeleton Key</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a1-1"></span><span class="awards-sprite a2-1"></span><span class="awards-sprite a3-2"></span><span class="awards-sprite a4-3"></span><span class="awards-sprite a5-3"></span><span class="awards-sprite a6-1"></span><span class="awards-sprite a7-1"></span></span></a>|207:41:02|
-|2|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=70478"><span class="red">CKPA2020</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a1-3"></span><span class="awards-sprite a2-2"></span><span class="awards-sprite a3-1"></span><span class="awards-sprite a5-3"></span></span></a>|192:48:03|
+|1|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=70378"><span class="red">Skeleton Key</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a1-1"></span><span class="awards-sprite a2-1"></span><span class="awards-sprite a3-2"></span><span class="awards-sprite a4-3"></span><span class="awards-sprite a5-3"></span><span class="awards-sprite a6-1"></span><span class="awards-sprite a7-1"></span></span></a>|207:51:23|
+|2|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=70478"><span class="red">CKPA2020</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a1-3"></span><span class="awards-sprite a2-2"></span><span class="awards-sprite a3-1"></span><span class="awards-sprite a5-3"></span></span></a>|193:9:19|
 |3|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=70116"><span class="purple">SPIDERMAN</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a1-3"></span><span class="awards-sprite a2-1"></span><span class="awards-sprite a3-1"></span></span></a>|158:8:29|
 |4|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=74035"><span class="orange">Boba Fett</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a1-3"></span><span class="awards-sprite a2-1"></span><span class="awards-sprite a3-1"></span></span></a>|146:5:02|
 |5|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=70151"><span class="red">Flop</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a1-3"></span><span class="awards-sprite a2-1"></span><span class="awards-sprite a3-1"></span><span class="awards-sprite a5-3"></span></span></a>|114:1:52|
@@ -72,5 +72,5 @@
 
 
 
-<p class="last_updated"><span class="last_updated">Last Updated:&nbsp;&nbsp;Aug 24, 6:00 AM&nbsp;&nbsp;(Pacific)</span></p>
+<p class="last_updated"><span class="last_updated">Last Updated:&nbsp;&nbsp;Aug 24, 12:00 PM&nbsp;&nbsp;(Pacific)</span></p>
 
