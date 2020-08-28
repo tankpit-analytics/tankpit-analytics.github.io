@@ -5,7 +5,7 @@
 
 {:.stats_leaderboard#stats_leaderboard_playtime}
 |<span class="num_col">&nbsp;</span>|<span class="tank_col">Tank</span>|<span class="stat_col">Time Played</span>|
-|1|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=5789"><span class="blue">Smokescreen</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a1-3"></span><span class="awards-sprite a2-3"></span><span class="awards-sprite a3-3"></span><span class="awards-sprite a4-3"></span><span class="awards-sprite a5-3"></span><span class="awards-sprite a8-1"></span></span></a>|2949:41:27|
+|1|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=5789"><span class="blue">Smokescreen</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a1-3"></span><span class="awards-sprite a2-3"></span><span class="awards-sprite a3-3"></span><span class="awards-sprite a4-3"></span><span class="awards-sprite a5-3"></span><span class="awards-sprite a8-1"></span></span></a>|2949:44:27|
 |2|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=504"><span class="orange">Homer J Simpson</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a1-3"></span><span class="awards-sprite a2-3"></span><span class="awards-sprite a3-3"></span><span class="awards-sprite a4-3"></span><span class="awards-sprite a5-2"></span></span></a>|2185:54:29|
 |3|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=25994"><span class="orange">Drederick Tatum</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a1-3"></span><span class="awards-sprite a2-3"></span><span class="awards-sprite a3-3"></span><span class="awards-sprite a4-3"></span><span class="awards-sprite a5-3"></span><span class="awards-sprite a8-1"></span></span></a>|1969:9:22|
 |4|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=1029"><span class="purple">REMEMBRANCE</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a1-3"></span><span class="awards-sprite a2-3"></span><span class="awards-sprite a3-3"></span><span class="awards-sprite a4-3"></span><span class="awards-sprite a5-3"></span></span></a>|1140:58:07|
@@ -104,7 +104,7 @@
 |97|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=56684"><span class="blue">fog faction</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a1-2"></span><span class="awards-sprite a2-1"></span><span class="awards-sprite a3-1"></span><span class="awards-sprite a5-2"></span></span></a>|135:36:16|
 |98|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=50173"><span class="red">razorsharp</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a1-2"></span><span class="awards-sprite a2-2"></span><span class="awards-sprite a3-1"></span><span class="awards-sprite a5-3"></span></span></a>|134:21:36|
 |99|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=2718"><span class="orange">Monumental</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a1-1"></span><span class="awards-sprite a2-3"></span><span class="awards-sprite a3-1"></span><span class="awards-sprite a5-3"></span></span></a>|131:48:42|
-|100|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=66782"><span class="purple">EPIC 40</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a1-3"></span><span class="awards-sprite a2-3"></span><span class="awards-sprite a3-1"></span><span class="awards-sprite a5-3"></span></span></a>|131:10:17|
+|100|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=21191"><span class="orange">I Marlboro I</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a1-1"></span><span class="awards-sprite a2-1"></span><span class="awards-sprite a3-1"></span><span class="awards-sprite a5-1"></span></span></a>|131:14:24|
 
 
 {:.stats_leaderboard#stats_leaderboard_kills}
@@ -317,5 +317,5 @@
 
 
 
-<p class="last_updated"><span class="last_updated">Last Updated:&nbsp;&nbsp;Aug 28, 12:02 AM&nbsp;&nbsp;(Pacific)</span></p>
+<p class="last_updated"><span class="last_updated">Last Updated:&nbsp;&nbsp;Aug 28, 6:02 AM&nbsp;&nbsp;(Pacific)</span></p>
 
