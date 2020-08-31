@@ -2426,7 +2426,7 @@
 |1499|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=74845"><span class="red">MELEE</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a5-2"></span></span></a>|
 |1500|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=75338"><span class="red">oof</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a1-2"></span></span></a>|
 |1501|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=75427"><span class="blue">XYZ</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a1-2"></span></span></a>|
-|1502|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=75597"><span class="orange">MILKING A MALE COW </span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a5-3"></span></span></a>|
+|1502|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=75597"><span class="purple">MILKING A MALE COW </span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a5-3"></span></span></a>|
 |1503|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=75629"><span class="orange">David0Lt</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a1-1"></span></span></a>|
 |1504|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=75644"><span class="red">VoltIsNiceNMyFriend</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a2-1"></span></span></a>|
 
@@ -6667,7 +6667,7 @@
 |366|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=73942"><span class="red">DEDICATION</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a5-3"></span></span></a>|
 |367|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=74541"><span class="blue">Jazz</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a5-3"></span></span></a>|
 |368|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=74757"><span class="blue">Rodimus Prime</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a5-3"></span></span></a>|
-|369|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=75597"><span class="orange">MILKING A MALE COW </span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a5-3"></span></span></a>|
+|369|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=75597"><span class="purple">MILKING A MALE COW </span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a5-3"></span></span></a>|
 |370|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=584"><span class="orange">Sun Wolf</span><span class="awards-container"><span class="awards-sprite a0-2"></span><span class="awards-sprite a5-3"></span></span></a>|
 |371|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=1470"><span class="orange">wenn doch nur</span><span class="awards-container"><span class="awards-sprite a0-2"></span><span class="awards-sprite a5-3"></span></span></a>|
 |372|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=1529"><span class="orange">- Arsenic -</span><span class="awards-container"><span class="awards-sprite a0-2"></span><span class="awards-sprite a5-3"></span></span></a>|
@@ -6991,5 +6991,5 @@
 
 
 
-<p class="last_updated"><span class="last_updated">Last Updated:&nbsp;&nbsp;Aug 31, 6:02 AM&nbsp;&nbsp;(Pacific)</span></p>
+<p class="last_updated"><span class="last_updated">Last Updated:&nbsp;&nbsp;Aug 31, 12:02 PM&nbsp;&nbsp;(Pacific)</span></p>
 
