@@ -2104,7 +2104,7 @@
 |1177|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=43368"><span class="orange">Agi</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a1-2"></span></span></a>|
 |1178|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=43775"><span class="purple">gravitational garlic</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a5-3"></span></span></a>|
 |1179|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=43790"><span class="purple">SwiftSTRIKES</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a5-3"></span></span></a>|
-|1180|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=43817"><span class="orange">bih</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a1-3"></span></span></a>|
+|1180|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=43817"><span class="blue">bih</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a1-3"></span></span></a>|
 |1181|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=43938"><span class="red">Beatific Vision</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a5-3"></span></span></a>|
 |1182|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=44361"><span class="red">Tomx17</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a1-1"></span></span></a>|
 |1183|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=44509"><span class="blue">Percocet</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a1-1"></span></span></a>|
@@ -4068,7 +4068,7 @@
 |397|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=40446"><span class="blue">kribster</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a1-3"></span></span></a>|
 |398|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=41569"><span class="orange">Eclipse</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a1-3"></span></span></a>|
 |399|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=41877"><span class="blue">snakekiller</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a1-3"></span></span></a>|
-|400|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=43817"><span class="orange">bih</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a1-3"></span></span></a>|
+|400|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=43817"><span class="blue">bih</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a1-3"></span></span></a>|
 |401|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=45851"><span class="blue">King Lerxst</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a1-3"></span></span></a>|
 |402|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=46279"><span class="orange">Lucille</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a1-3"></span></span></a>|
 |403|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=46719"><span class="orange">HaNgEmHi</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a1-3"></span></span></a>|
@@ -6998,5 +6998,5 @@
 
 
 
-<p class="last_updated"><span class="last_updated">Last Updated:&nbsp;&nbsp;Sep 5, 12:02 AM&nbsp;&nbsp;(Pacific)</span></p>
+<p class="last_updated"><span class="last_updated">Last Updated:&nbsp;&nbsp;Sep 5, 6:02 AM&nbsp;&nbsp;(Pacific)</span></p>
 
