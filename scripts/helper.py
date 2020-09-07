@@ -101,14 +101,14 @@ def get_dict_from_url(link, skip_mins = False, max_tries = api_max_tries):
 #     response_dict = response.json()
 #     return(response_dict)
 
-def get_tank_dict(tank_id):
-    return(get_dict_from_url('https://tankpit.com/api/tank?tank_id=' + str(tank_id)))
+def get_tank_dict(tank_id, skip_mins = False):
+    return(get_dict_from_url('https://tankpit.com/api/tank?tank_id=' + str(tank_id), skip_mins = skip_mins))
 
 def get_tank_dict_leaderboard(tank_name):
     return(get_dict_from_url('https://tankpit.com/api/leaderboards/?leaderboard=overall&search=%22' + str(tank_name) + '%22'))
 
-def get_tank_stats(tank_id):
-    tank_dict = get_tank_dict(tank_id)
+def get_tank_stats(tank_id, skip_mins = False):
+    tank_dict = get_tank_dict(tank_id, skip_mins = skip_mins)
     tank_name = tank_dict['name']
     tank_awards = tank_dict['awards']
     try:

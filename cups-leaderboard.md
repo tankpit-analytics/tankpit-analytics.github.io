@@ -1,6 +1,8 @@
 
 ## Cups Leaderboard
 
+<p><a href="https://tankpit-analytics.github.io/130k-club">130k Club</a></p>
+
 {:.cups_leaderboard}
 |<span class="num_col">&nbsp;</span>|<span class="tank_col">Main Tank</span>|<span class="cup_col"><span class="awards-sprite a5-3"></span></span>|<span class="cup_col"><span class="awards-sprite a5-2"></span></span>|<span class="cup_col"><span class="awards-sprite a5-1"></span></span>|<span class="cup_col_total">Total</span>|
 |1|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=45863"><span class="red">ROSE</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a1-2"></span><span class="awards-sprite a2-3"></span><span class="awards-sprite a3-3"></span><span class="awards-sprite a4-3"></span><span class="awards-sprite a5-2"></span><span class="awards-sprite a7-1"></span><span class="awards-sprite a8-1"></span></span></a>|112|84|74|270|

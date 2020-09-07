@@ -192,3 +192,16 @@ pop_stats_overall_md = dir_git + 'stats-overall.md'
 
 pop_stats_2020_max_display = 100
 pop_stats_2020_md = dir_git + 'stats-2020.md'
+
+#-----pop 130k club
+
+tourn_130k_club_dict = {
+    70106: 1062, #adam
+    827: 1712, #lefty
+    11644: 888, #jay
+    9389: 168, #kacy
+    30661: 1242 #tm2 (also: 1372)
+}
+
+tourn_130k_club_csv = dir_tpdata + 'tourn_130k_club.csv'
+pop_tourn_130k_club_md = dir_git + '130k-club.md'
