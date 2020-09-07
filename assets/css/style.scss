@@ -748,6 +748,10 @@ span.stat_col {
 
 p#tourn_130k_club_criteria {
   text-align: left !important; 
+  max-width: 365px;
+  min-width: 300px;
+  margin: 0 auto;
+  padding: 0 10px 20px;
 }
 
 span#criteria_bold {
