@@ -40,11 +40,11 @@ if __name__ == '__main__':
     # pop
     with open(pop_tourn_130k_club_md, 'w') as f:
         f.write('\n## 130k Club\n\n')
-        f.write('<p id="tourn_130k_club_criteria"><b>Criteria:</b><br />' + \
+        f.write('<p id="tourn_130k_club_criteria"><span id="criteria_bold">Criteria:</span><br />' + \
             '- Get 130k+ points<br />' + \
             '- Place 1st, 2nd, or 3rd<br />' + \
             '- Must be a 1 hour tournament' + \
             '</p>\n\n')
         f.write('{:.tourn_130k_club}\n')
-        f.write('|<span class="tourn_130k_club_date">Date</span>|<span class="cup">Cup</span>|<span class="tank_col">Tank</span>|\n')
+        f.write('|<span class="tourn_130k_club_date">Date</span>|<span class="cup">&nbsp;</span>|<span class="tank_col">Tank</span>|\n')
         f.write(get_tank_html(tourn_130k_club_df))
