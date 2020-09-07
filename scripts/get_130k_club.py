@@ -4,19 +4,23 @@ from helper import *
 
 def make_df(tourn_130k_club_dict, skip_mins = True):
     all_tanks_df = pd.DataFrame()
-    for tank_id, tourn_id in tourn_130k_club_dict.items():
+    for tank_id, tourn_130k_dict_list in tourn_130k_club_dict.items():
         # tank
         tank_stats = get_tank_stats(tank_id, skip_mins = skip_mins)
         # tourn
-        tourn_results = get_dict_from_url('https://tankpit.com/api/tournament_results?tournament_id=' + str(tourn_id), skip_mins = skip_mins)
-        tourn_start_time = tourn_results['start_time_utc']
-        #tourn_map = tourn_results['map']
-        # make df
-        tank_df = pd.DataFrame([tank_stats])
-        tank_df['tourn_start_time'] = tourn_start_time
-        tank_df['id'] = tank_id
-        tank_df['tourn_id'] = tourn_id
-        all_tanks_df = pd.concat([all_tanks_df, tank_df], axis = 0)
+        for tourn_130k_dict in tourn_130k_dict_list:
+            tourn_id = tourn_130k_dict['tourn_id']
+            cup = tourn_130k_dict['cup']
+            tourn_results = get_dict_from_url('https://tankpit.com/api/tournament_results?tournament_id=' + str(tourn_id), skip_mins = skip_mins)
+            tourn_start_time = tourn_results['start_time_utc']
+            #tourn_map = tourn_results['map']
+            # make df
+            tank_df = pd.DataFrame([tank_stats])
+            tank_df['tourn_start_time'] = tourn_start_time
+            tank_df['id'] = tank_id
+            tank_df['tourn_id'] = tourn_id
+            tank_df['cup'] = cup
+            all_tanks_df = pd.concat([all_tanks_df, tank_df], axis = 0)
     all_tanks_df = all_tanks_df.reset_index(drop = True)
     # sort
     all_tanks_df = all_tanks_df.sort_values('tourn_start_time')

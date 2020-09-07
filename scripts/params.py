@@ -195,12 +195,13 @@ pop_stats_2020_md = dir_git + 'stats-2020.md'
 
 #-----pop 130k club
 
+# note: for now, only 1 tank per person... maybe keep track of this and add a new feature over time to have multiples per person
 tourn_130k_club_dict = {
-    70106: 1062, #adam
-    827: 1712, #lefty
-    11644: 888, #jay
-    9389: 168, #kacy
-    30661: 1242 #tm2 (also: 1372)
+    9389:  [{'tourn_id': 168,  'cup': 'silver'}], #kacy
+    11644: [{'tourn_id': 888,  'cup': 'gold'}], #jay
+    70106: [{'tourn_id': 1062, 'cup': 'gold'}], #adam
+    30661: [{'tourn_id': 1242, 'cup': 'silver'}], #, {'tourn_id': 1372, 'cup': 'bronze'}], #tm2
+    827:   [{'tourn_id': 1712, 'cup': 'bronze'}] #lefty
 }
 
 tourn_130k_club_csv = dir_tpdata + 'tourn_130k_club.csv'
