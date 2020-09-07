@@ -573,7 +573,12 @@ table.stats_leaderboard span.awards-container,
 table.stats_leaderboard span.blue,
 table.stats_leaderboard span.red,
 table.stats_leaderboard span.orange,
-table.stats_leaderboard span.purple {
+table.stats_leaderboard span.purple,
+table.tourn_130k_club span.awards-container,
+table.tourn_130k_club span.blue,
+table.tourn_130k_club span.red,
+table.tourn_130k_club span.orange,
+table.tourn_130k_club span.purple {
   display: block !important;
 }
 
@@ -646,6 +651,11 @@ table.cups_leaderboard {
   min-width: 320px;
 }
 
+table.tourn_130k_club {
+  max-width: 365px;
+  min-width: 300px;
+}
+
 table.stats_leaderboard {
   max-width: 365px;
   min-width: 300px;
@@ -669,6 +679,10 @@ table.t100_passes {
 }
 
 /* cols */
+
+span.tourn_130k_club_date {
+  width: 140px;
+}
 
 span.t100_date {
   width: 140px;
