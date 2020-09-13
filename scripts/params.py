@@ -24,15 +24,18 @@ passes_csv_overall = dir_tpdata + 'passes_overall.csv'
 # lieut1 388
 
 # 2020-09-13
-# 
-
+# +2 gen= 8
+# +2 col= 4
+# +2 maj= 4
+# +1 cap= 3
+# +1 lie= 2
 
 ranks_dict_overall = {
-    'general': 6,
-    'colonel': 2,
-    'major': 2,
-    'captain': 2,
-    'lieutenant': 1
+    'general': 8,
+    'colonel': 4,
+    'major': 4,
+    'captain': 3,
+    'lieutenant': 2
 }
 
 # ranks_dict_overall = {
