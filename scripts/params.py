@@ -23,6 +23,10 @@ passes_csv_overall = dir_tpdata + 'passes_overall.csv'
 # cap2 ?
 # lieut1 388
 
+# 2020-09-13
+# 
+
+
 ranks_dict_overall = {
     'general': 6,
     'colonel': 2,
