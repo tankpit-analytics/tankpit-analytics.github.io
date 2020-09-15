@@ -1,4 +1,5 @@
 # this will run hourly besides at night when daily is running (setting this up only on cron...)
+# */15 06-23 * * *
 
 SCRIPTSDIR=/Users/thomas/git/tankpit-analytics.github.io/scripts
 DATADIR=/Users/thomas/Desktop/tpdata
