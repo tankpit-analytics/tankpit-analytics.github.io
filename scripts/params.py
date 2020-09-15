@@ -31,18 +31,20 @@ passes_csv_overall = dir_tpdata + 'passes_overall.csv'
 # +1 lie= 2
 
 # 2020-09-15
-# +2 gen= 10
-# +2 col= 6
-# +2 maj= 6
-# +2 cap= 5
-# +1 lie= 3
+# +4 gen= 12
+# +4 col= 8
+# +4 maj= 8
+# +3 cap= 6
+# +2 lie= 4
+
+# look back in about a week or so and cut it down...
 
 ranks_dict_overall = {
-    'general': 10,
-    'colonel': 6,
-    'major': 6,
-    'captain': 5,
-    'lieutenant': 3
+    'general': 12,
+    'colonel': 8,
+    'major': 8,
+    'captain': 6,
+    'lieutenant': 4
 }
 
 # ranks_dict_overall = {
