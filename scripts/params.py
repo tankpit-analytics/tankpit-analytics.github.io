@@ -59,7 +59,7 @@ ranks_dict_overall = {
 #     'recruit': 1
 # }
 
-master_nrow_overall = 600 # rows in master - if running j loop, increasing this takes a lot longer
+master_nrow_overall = 700 # rows in master - if running j loop, increasing this takes a lot longer
 
 #-----t100 2020
 
