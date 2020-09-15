@@ -30,12 +30,19 @@ passes_csv_overall = dir_tpdata + 'passes_overall.csv'
 # +1 cap= 3
 # +1 lie= 2
 
+# 2020-09-15
+# +2 gen= 10
+# +2 col= 6
+# +2 maj= 6
+# +2 cap= 5
+# +1 lie= 3
+
 ranks_dict_overall = {
-    'general': 8,
-    'colonel': 4,
-    'major': 4,
-    'captain': 3,
-    'lieutenant': 2
+    'general': 10,
+    'colonel': 6,
+    'major': 6,
+    'captain': 5,
+    'lieutenant': 3
 }
 
 # ranks_dict_overall = {
@@ -50,7 +57,7 @@ ranks_dict_overall = {
 #     'recruit': 1
 # }
 
-master_nrow_overall = 500 # rows in master - if running j loop, increasing this takes a lot longer
+master_nrow_overall = 600 # rows in master - if running j loop, increasing this takes a lot longer
 
 #-----t100 2020
 
