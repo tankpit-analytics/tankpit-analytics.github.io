@@ -1,5 +1,6 @@
 # full stats loop: 3h 31mins
 # skip no awards in full stats loop (current): 1hr 9mins
+# ^outdated
 
 SCRIPTSDIR=/Users/thomas/git/tankpit-analytics.github.io/scripts
 DATADIR=/Users/thomas/Desktop/tpdata
@@ -30,7 +31,7 @@ $PYTHON $SCRIPTSDIR/pop_t25_2020_passes.py >> $STDLOG 2>&1
 
 # push
 git add .
-git commit -a -m "Automated commit triggered (1 of 2)."
+git commit -a -m "Automated daily commit triggered (1 of 2)."
 git push origin master
 
 # data - for each daily data job, make sure to add skip_mins param to any API query
@@ -49,7 +50,7 @@ $PYTHON $SCRIPTSDIR/pop_stats_2020.py >> $STDLOG 2>&1
 
 # push
 git add .
-git commit -a -m "Automated commit triggered (2 of 2)."
+git commit -a -m "Automated daily commit triggered (2 of 2)."
 git push origin master
 
 # log
