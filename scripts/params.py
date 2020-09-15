@@ -24,18 +24,18 @@ passes_csv_overall = dir_tpdata + 'passes_overall.csv'
 # lieut1 388
 
 # 2020-09-13
-# +2 gen= 8
-# +2 col= 4
-# +2 maj= 4
-# +1 cap= 3
-# +1 lie= 2
+# 6 +2 gen= 8
+# 2 +2 col= 4
+# 2 +2 maj= 4
+# 2 +1 cap= 3
+# 1 +1 lie= 2
 
 # 2020-09-15
-# +4 gen= 12
-# +4 col= 8
-# +4 maj= 8
-# +3 cap= 6
-# +2 lie= 4
+# 8 +4 gen= 12
+# 4 +4 col= 8
+# 4 +4 maj= 8
+# 3 +3 cap= 6
+# 2 +2 lie= 4
 
 # look back in about a week or so and cut it down...
 
