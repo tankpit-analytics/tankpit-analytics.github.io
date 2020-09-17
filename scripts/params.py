@@ -42,7 +42,7 @@ passes_csv_overall = dir_tpdata + 'passes_overall.csv'
 # look back in about a week or so and cut it down...
 
 ranks_dict_overall = {
-    'general': 32,
+    'general': 15,
     'colonel': 8,
     'major': 8,
     'captain': 6,
