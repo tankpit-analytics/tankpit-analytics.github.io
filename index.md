@@ -106,5 +106,5 @@
 |100|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=11070"><span class="blue">Supreme Commander</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a1-3"></span><span class="awards-sprite a2-3"></span><span class="awards-sprite a3-2"></span><span class="awards-sprite a5-3"></span></span></a>|
 
 
-<p class="last_updated"><span class="last_updated">Last Updated:&nbsp;&nbsp;Sep 18, 11:00 AM&nbsp;&nbsp;(Pacific)</span></p>
+<p class="last_updated"><span class="last_updated">Last Updated:&nbsp;&nbsp;Sep 18, 11:15 AM&nbsp;&nbsp;(Pacific)</span></p>
 
