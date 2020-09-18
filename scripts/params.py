@@ -3,7 +3,7 @@ dir_git    = '/Users/thomas/git/tankpit-analytics.github.io/'
 path_check =  dir_tpdata + 'check/is_5m_job_running.csv'
 
 api_delay = 1
-api_max_tries = 40
+api_max_tries = 150
 
 #========== data
 
