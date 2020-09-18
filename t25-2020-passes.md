@@ -774,5 +774,5 @@
 
 
 
-<p class="last_updated"><span class="last_updated">Last Updated:&nbsp;&nbsp;Sep 18, 6:45 AM&nbsp;&nbsp;(Pacific)</span></p>
+<p class="last_updated"><span class="last_updated">Last Updated:&nbsp;&nbsp;Sep 18, 7:00 AM&nbsp;&nbsp;(Pacific)</span></p>
 
