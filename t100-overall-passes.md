@@ -429,5 +429,5 @@
 
 
 
-<p class="last_updated"><span class="last_updated">Last Updated:&nbsp;&nbsp;Sep 18, 6:30 PM&nbsp;&nbsp;(Pacific)</span></p>
+<p class="last_updated"><span class="last_updated">Last Updated:&nbsp;&nbsp;Sep 18, 6:45 PM&nbsp;&nbsp;(Pacific)</span></p>
 
