@@ -445,5 +445,5 @@
 
 
 
-<p class="last_updated"><span class="last_updated">Last Updated:&nbsp;&nbsp;Sep 25, 6:45 AM&nbsp;&nbsp;(Pacific)</span></p>
+<p class="last_updated"><span class="last_updated">Last Updated:&nbsp;&nbsp;Sep 25, 7:00 AM&nbsp;&nbsp;(Pacific)</span></p>
 
