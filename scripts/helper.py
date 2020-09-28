@@ -3,7 +3,7 @@ from params import *
 import pandas as pd
 import time
 import requests
-from datetime import datetime
+from datetime import datetime, timedelta
 
 time_now = datetime.now().strftime('%Y-%m-%d %H:%M:%S') # Pacific if run on my machine
 

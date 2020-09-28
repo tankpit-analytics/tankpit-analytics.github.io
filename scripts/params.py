@@ -119,6 +119,30 @@ active_csv = dir_tpdata + 'active.csv'
 
 upcoming_tourn_csv = dir_tpdata + 'upcoming_tourn.csv'
 
+#-----get latest award decorations
+
+dir_backups = dir_tpdata + 'backups/'
+done_filenames_list_pickle = dir_tpdata + 'done_filenames_list.pickle'
+backups_concat_pickle = dir_tpdata + 'backups_concat.pickle'
+master_award_decorations_csv = dir_tpdata + 'master_award_decorations.csv'
+
+lookback_days = 30
+# 7 days = 20 seconds
+# 30 days = 27 seconds
+# 365 days = 80 seconds
+
+award_string_conversion = {
+    1: 'star',
+    4: 'tank',
+    7: 'medal',
+    10: 'sword',
+    13: 'dot',
+    16: 'cup',
+    19: 'ph',
+    22: 'wc',
+    25: 'lb'
+}
+
 #========== populate
 
 #-----pop t100
@@ -215,3 +239,8 @@ tourn_130k_club_dict = {
 
 tourn_130k_club_csv = dir_tpdata + 'tourn_130k_club.csv'
 pop_tourn_130k_club_md = dir_git + '130k-club.md'
+
+#-----pop latest award decorations
+#requires: all_tanks_csv
+
+latest_sword_decorations_md = dir_git + 'latest-sword-decorations.md'
