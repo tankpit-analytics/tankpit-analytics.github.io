@@ -1,6 +1,8 @@
 
 ## Awards Search
 
+<p><a href="https://tankpit-analytics.github.io/latest-sword-decorations">Latest Sword Decorations</a></p>
+
 {:.awards_search_selection}
 |<a onclick="searchStar1();"><span class="awards-sprite a0-1"></span></a>|<a onclick="searchTank1();"><span class="awards-sprite a1-1"></span></a>|<a onclick="searchMedal1();"><span class="awards-sprite a2-1"></span></a>|<a onclick="searchSword1();"><span class="awards-sprite a3-1"></span></a>|<a onclick="searchDoT();"><span class="awards-sprite a4-3"></span></a>|<a onclick="searchCup1();"><span class="awards-sprite a5-1"></span></a>|<a onclick="searchPH();"><span class="awards-sprite a6-1"></span></a>|<a onclick="searchWC();"><span class="awards-sprite a7-1"></span></a>|<a onclick="searchLB();"><span class="awards-sprite a8-1"></span></a>|
 |<a onclick="searchStar2();"><span class="awards-sprite a0-2"></span></a>|<a onclick="searchTank2();"><span class="awards-sprite a1-2"></span></a>|<a onclick="searchMedal2();"><span class="awards-sprite a2-2"></span></a>|<a onclick="searchSword2();"><span class="awards-sprite a3-2"></span></a>|<a onclick="searchDoT();"><span class="awards-sprite a4-3"></span></a>|<a onclick="searchCup2();"><span class="awards-sprite a5-2"></span></a>|<a onclick="searchPH();"><span class="awards-sprite a6-1"></span></a>|<a onclick="searchWC();"><span class="awards-sprite a7-1"></span></a>|<a onclick="searchLB();"><span class="awards-sprite a8-1"></span></a>|
