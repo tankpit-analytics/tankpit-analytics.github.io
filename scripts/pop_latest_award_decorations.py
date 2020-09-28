@@ -4,6 +4,7 @@ from helper import *
 
 def clean_master_award_decorations_df(df):
     df['month'] = pd.to_datetime(df['award_time']).dt.strftime("%B %Y")
+    df['new_time'] = pd.to_datetime(df['award_time']).dt.strftime("%b %-d")
     df = df.sort_values('award_time', ascending = False)
     return(df)
 
@@ -20,7 +21,7 @@ def get_decoration_html(award, tier):
     return(decoration_html)
 
 def get_html_i(sword_decorations, tank_dict, i):
-    i_time = sword_decorations.loc[i, 'award_time']
+    i_time = sword_decorations.loc[i, 'new_time']
     i_id = sword_decorations.loc[i, 'tank_id']
     i_name = tank_dict[i_id]['name']
     i_color = tank_dict[i_id]['color']
