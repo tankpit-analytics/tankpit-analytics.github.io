@@ -4,7 +4,7 @@ from helper import *
 
 def clean_master_award_decorations_df(df):
     df['month'] = pd.to_datetime(df['award_time']).dt.strftime("%B %Y")
-    df['new_time'] = pd.to_datetime(df['award_time']).dt.strftime("%b %-d")
+    df['new_time'] = pd.to_datetime(df['award_time']).dt.strftime("%b %-d, %Y")
     df = df.sort_values('award_time', ascending = False)
     return(df)
 

@@ -661,6 +661,11 @@ table.stats_leaderboard {
   min-width: 300px;
 }
 
+table.decorations {
+  max-width: 365px;
+  min-width: 300px;
+}
+
 table.t100_passes,
 table.awards_search {
   margin-bottom: 20px;
@@ -680,11 +685,13 @@ table.t100_passes {
 
 /* cols */
 
-span.tourn_130k_club_date {
+span.tourn_130k_club_date,
+span.decorations_date {
   width: 140px;
 }
 
-span.cup {
+span.cup,
+span.decoration {
   width: 20px;
 }
 
