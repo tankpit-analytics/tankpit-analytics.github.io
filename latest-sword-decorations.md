@@ -1,5 +1,5 @@
 
-## Latest Sword Decorations
+## Sword Decorations
 
 <p><a href="https://tankpit-analytics.github.io/awards-search">Awards Search</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="https://tankpit-analytics.github.io/latest-sword-decorations">Sword Decorations</a></p>
 
