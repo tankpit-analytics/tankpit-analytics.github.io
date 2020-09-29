@@ -119,7 +119,7 @@ active_csv = dir_tpdata + 'active.csv'
 
 upcoming_tourn_csv = dir_tpdata + 'upcoming_tourn.csv'
 
-#-----get latest award decorations
+#-----get sword decorations
 
 dir_backups = dir_tpdata + 'backups/'
 done_filenames_list_pickle = dir_tpdata + 'done_filenames_list.pickle'
@@ -143,7 +143,7 @@ award_string_conversion = {
     25: 'lb'
 }
 
-remove_decorations_list = [
+remove_sword_decorations_list = [
     71930 # john gotti (71930) - sword stripped?
 ]
 
@@ -244,7 +244,8 @@ tourn_130k_club_dict = {
 tourn_130k_club_csv = dir_tpdata + 'tourn_130k_club.csv'
 pop_tourn_130k_club_md = dir_git + '130k-club.md'
 
-#-----pop latest award decorations
+#-----pop sword decorations
 #requires: all_tanks_csv
 
-latest_sword_decorations_md = dir_git + 'latest-sword-decorations.md'
+# note: rename from 'latest-sword-decorations' -> 'sword-decorations' at a later time
+sword_decorations_md = dir_git + 'latest-sword-decorations.md'

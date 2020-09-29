@@ -2,11 +2,6 @@ from helper import *
 
 #----- helpers
 
-def remove_tanks_manually(df, remove_decorations_list):
-    for _id in remove_decorations_list:
-        df = df[df['tank_id'] != 71930].reset_index(drop = True)
-    return(df)
-
 def clean_master_award_decorations_df(df):
     df['month'] = pd.to_datetime(df['award_time']).dt.strftime("%B %Y")
     df['new_time'] = pd.to_datetime(df['award_time']).dt.strftime("%b %-d, %Y")
@@ -17,6 +12,11 @@ def get_sword_decorations_df(master_award_decorations_df):
     sword_decorations_df = master_award_decorations_df[master_award_decorations_df['award'] == 'sword']
     sword_decorations_df = sword_decorations_df[sword_decorations_df['tier'] > 0].reset_index(drop = True)
     return(sword_decorations_df)
+
+def remove_tanks_manually(df, remove_decorations_list):
+    for _id in remove_decorations_list:
+        df = df[df['tank_id'] != _id].reset_index(drop = True)
+    return(df)
 
 # add more if doing more than sword later...
 def get_decoration_html(award, tier):
@@ -59,9 +59,10 @@ def get_md(sword_decorations, tank_dict, f):
 if __name__ == '__main__':
     # load and clean
     master_award_decorations_df = pd.read_csv(master_award_decorations_csv)
-    master_award_decorations_df = remove_tanks_manually(master_award_decorations_df, remove_decorations_list)
     master_award_decorations_df = clean_master_award_decorations_df(master_award_decorations_df)
+    # sword-specific start
     sword_decorations = get_sword_decorations_df(master_award_decorations_df)
+    sword_decorations = remove_tanks_manually(sword_decorations, remove_sword_decorations_list)
     last_updated_time = max(pd.to_datetime(sword_decorations['award_time']))
     master_df = pd.read_csv(all_tanks_csv)
     # get
@@ -76,8 +77,8 @@ if __name__ == '__main__':
     for tank_id in have_tank_id_list:
         unique_tank_dict[tank_id] = get_tank_stats_from_master_df(master_df, tank_id)
     # pop
-    with open(latest_sword_decorations_md, 'w') as f:
+    with open(sword_decorations_md, 'w') as f:
         f.write('\n## Latest Sword Decorations\n\n')
-        f.write('<p><a href="https://tankpit-analytics.github.io/awards-search">Awards Search</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="https://tankpit-analytics.github.io/latest-sword-decorations">Latest Sword Decorations</a></p>\n\n')
+        f.write('<p><a href="https://tankpit-analytics.github.io/awards-search">Awards Search</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="https://tankpit-analytics.github.io/latest-sword-decorations">Sword Decorations</a></p>\n\n')
         get_md(sword_decorations, unique_tank_dict, f)
         f.write('\n\n' + get_last_updated_html('Last Updated', last_updated_time))
