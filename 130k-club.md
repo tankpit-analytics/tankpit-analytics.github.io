@@ -1,6 +1,8 @@
 
 ## 130k Club
 
+<p><a href="https://tankpit-analytics.github.io/cups-leaderboard">Cups Leaderboard</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="https://tankpit-analytics.github.io/130k-club">130k Club</a></p>
+
 <p id="tourn_130k_club_criteria"><span id="criteria_bold">Criteria:</span><br />- Get 130k+ points<br />- Place 1st, 2nd, or 3rd<br />- Must be a 1 hour tournament</p>
 
 {:.tourn_130k_club}

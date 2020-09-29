@@ -32,7 +32,7 @@ if __name__ == '__main__':
     # pop
     with open(pop_cups_leaderboard_md, 'w') as f:
         f.write('\n## Cups Leaderboard\n\n')
-        f.write('<p><a href="https://tankpit-analytics.github.io/130k-club">130k Club</a></p>\n\n')
+        f.write('<p><a href="https://tankpit-analytics.github.io/cups-leaderboard">Cups Leaderboard</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="https://tankpit-analytics.github.io/130k-club">130k Club</a></p>\n\n')
         f.write('{:.cups_leaderboard}\n')
         f.write('|<span class="num_col">&nbsp;</span>|<span class="tank_col">Main Tank</span>|<span class="cup_col"><span class="awards-sprite a5-3"></span></span>|<span class="cup_col"><span class="awards-sprite a5-2"></span></span>|<span class="cup_col"><span class="awards-sprite a5-1"></span></span>|<span class="cup_col_total">Total</span>|\n')
         f.write(get_html(cup_df))

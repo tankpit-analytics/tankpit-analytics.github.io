@@ -1,7 +1,7 @@
 
 ## Cups Leaderboard
 
-<p><a href="https://tankpit-analytics.github.io/130k-club">130k Club</a></p>
+<p><a href="https://tankpit-analytics.github.io/cups-leaderboard">Cups Leaderboard</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="https://tankpit-analytics.github.io/130k-club">130k Club</a></p>
 
 {:.cups_leaderboard}
 |<span class="num_col">&nbsp;</span>|<span class="tank_col">Main Tank</span>|<span class="cup_col"><span class="awards-sprite a5-3"></span></span>|<span class="cup_col"><span class="awards-sprite a5-2"></span></span>|<span class="cup_col"><span class="awards-sprite a5-1"></span></span>|<span class="cup_col_total">Total</span>|

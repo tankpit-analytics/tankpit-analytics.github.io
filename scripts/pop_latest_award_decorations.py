@@ -78,5 +78,6 @@ if __name__ == '__main__':
     # pop
     with open(latest_sword_decorations_md, 'w') as f:
         f.write('\n## Latest Sword Decorations\n\n')
+        f.write('<p><a href="https://tankpit-analytics.github.io/awards-search">Awards Search</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="https://tankpit-analytics.github.io/latest-sword-decorations">Latest Sword Decorations</a></p>\n\n')
         get_md(sword_decorations, unique_tank_dict, f)
         f.write('\n\n' + get_last_updated_html('Last Updated', last_updated_time))

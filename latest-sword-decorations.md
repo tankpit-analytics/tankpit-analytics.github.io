@@ -1,6 +1,8 @@
 
 ## Latest Sword Decorations
 
+<p><a href="https://tankpit-analytics.github.io/awards-search">Awards Search</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="https://tankpit-analytics.github.io/latest-sword-decorations">Latest Sword Decorations</a></p>
+
 <span class="decorations_month">September 2020</span>
 
 {:.decorations}
