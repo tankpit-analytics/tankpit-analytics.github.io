@@ -1,7 +1,7 @@
 
 ## 2020 Top 25 - Passes
 
-<p><a href="https://tankpit-analytics.github.io/t25-2020">Top 25</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="https://tankpit-analytics.github.io/stats-2020">Stats Leaderboard</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="https://tankpit-analytics.github.io/t25-2020-passes">Passes</a></p>
+<p><a href="https://tankpit-analytics.github.io/t25-2020">Top 25</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="https://tankpit-analytics.github.io/t25-2020-passes">Passes</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="https://tankpit-analytics.github.io/stats-2020">Stats Leaderboard</a></p>
 
 <span class="t100_month">September 2020</span>
 
@@ -806,5 +806,5 @@
 
 
 
-<p class="last_updated"><span class="last_updated">Last Updated:&nbsp;&nbsp;Sep 29, 11:18 AM&nbsp;&nbsp;(Pacific)</span></p>
+<p class="last_updated"><span class="last_updated">Last Updated:&nbsp;&nbsp;Sep 29, 11:21 AM&nbsp;&nbsp;(Pacific)</span></p>
 

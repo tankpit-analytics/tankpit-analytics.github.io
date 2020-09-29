@@ -57,8 +57,8 @@ if __name__ == '__main__':
     with open(pop_stats_overall_md, 'w') as f:
         f.write('\n## Overall Stats Leaderboard\n\n')
         f.write('<p><a href="https://tankpit-analytics.github.io/">Top 100</a>&nbsp;&nbsp;|&nbsp;&nbsp;' + \
-            '<a href="https://tankpit-analytics.github.io/stats-overall">Stats Leaderboard</a>&nbsp;&nbsp;|&nbsp;&nbsp;' + \
-            '<a href="https://tankpit-analytics.github.io/t100-overall-passes">Passes</a></p>\n\n')
+            '<a href="https://tankpit-analytics.github.io/t100-overall-passes">Passes</a>&nbsp;&nbsp;|&nbsp;&nbsp;' + \
+            '<a href="https://tankpit-analytics.github.io/stats-overall">Stats Leaderboard</a></p>\n\n')
         f.write('<p class="stats_leaderboard"><a onclick="searchPlaytime();">Time Played</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a onclick="searchKills();">Kills</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a onclick="searchDeaths();">Deaths</a></p>\n\n')
         get_md(f, playtime, 'stats_leaderboard_playtime', 'Time Played', 'time_played')
         get_md(f, kills, 'stats_leaderboard_kills', 'Kills', 'destroyed_enemies')
