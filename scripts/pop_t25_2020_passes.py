@@ -21,7 +21,7 @@ if __name__ == '__main__':
         unique_tank_dict[tank_id] = get_tank_stats_from_master_df(master_df, tank_id)
     # pop
     with open(pop_t_2020_passes_md, 'w') as f:
-        f.write('\n## True Top 25 2020 - Passes\n\n')
+        f.write('\n## 2020 Top 25 - Passes\n\n')
         f.write('<p><a href="https://tankpit-analytics.github.io/t25-2020">Top 25</a>&nbsp;&nbsp;|&nbsp;&nbsp;' + \
             '<a href="https://tankpit-analytics.github.io/stats-2020">Stats Leaderboard</a>&nbsp;&nbsp;|&nbsp;&nbsp;' + \
             '<a href="https://tankpit-analytics.github.io/t25-2020-passes">Passes</a></p>\n\n')
