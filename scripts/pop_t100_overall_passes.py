@@ -103,7 +103,7 @@ if __name__ == '__main__':
         unique_tank_dict[tank_id] = get_tank_stats_from_master_df(master_df, tank_id)
     # pop
     with open(pop_t_overall_passes_md, 'w') as f:
-        f.write('\n## True Top 100 Overall - Passes\n\n')
+        f.write('\n## Overall Top 100 - Passes\n\n')
         f.write('<p><a href="https://tankpit-analytics.github.io/">Top 100</a>&nbsp;&nbsp;|&nbsp;&nbsp;' + \
             '<a href="https://tankpit-analytics.github.io/stats-overall">Stats Leaderboard</a>&nbsp;&nbsp;|&nbsp;&nbsp;' + \
             '<a href="https://tankpit-analytics.github.io/t100-overall-passes">Passes</a></p>\n\n')

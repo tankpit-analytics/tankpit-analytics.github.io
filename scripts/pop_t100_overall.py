@@ -27,7 +27,7 @@ if __name__ == '__main__':
     passes_df = clean_passes_df(passes_df, pop_t_overall_rows)
     # pop
     with open(pop_t_overall_md, 'w') as f:
-        f.write('\n## True Top 100 Overall\n\n')
+        f.write('\n## Overall Top 100\n\n')
         f.write('<p><a href="https://tankpit-analytics.github.io/">Top 100</a>&nbsp;&nbsp;|&nbsp;&nbsp;' + \
             '<a href="https://tankpit-analytics.github.io/stats-overall">Stats Leaderboard</a>&nbsp;&nbsp;|&nbsp;&nbsp;' + \
             '<a href="https://tankpit-analytics.github.io/t100-overall-passes">Passes</a></p>\n\n')

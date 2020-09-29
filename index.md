@@ -1,5 +1,5 @@
 
-## True Top 100 Overall
+## Overall Top 100
 
 <p><a href="https://tankpit-analytics.github.io/">Top 100</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="https://tankpit-analytics.github.io/stats-overall">Stats Leaderboard</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="https://tankpit-analytics.github.io/t100-overall-passes">Passes</a></p>
 
