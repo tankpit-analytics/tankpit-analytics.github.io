@@ -2,6 +2,11 @@ from helper import *
 
 #----- helpers
 
+def remove_tanks_manually(df, remove_decorations_list):
+    for _id in remove_decorations_list:
+        df = df[df['tank_id'] != 71930].reset_index(drop = True)
+    return(df)
+
 def clean_master_award_decorations_df(df):
     df['month'] = pd.to_datetime(df['award_time']).dt.strftime("%B %Y")
     df['new_time'] = pd.to_datetime(df['award_time']).dt.strftime("%b %-d, %Y")
@@ -54,6 +59,7 @@ def get_md(sword_decorations, tank_dict, f):
 if __name__ == '__main__':
     # load and clean
     master_award_decorations_df = pd.read_csv(master_award_decorations_csv)
+    master_award_decorations_df = remove_tanks_manually(master_award_decorations_df, remove_decorations_list)
     master_award_decorations_df = clean_master_award_decorations_df(master_award_decorations_df)
     sword_decorations = get_sword_decorations_df(master_award_decorations_df)
     last_updated_time = max(pd.to_datetime(sword_decorations['award_time']))

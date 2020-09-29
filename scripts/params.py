@@ -143,6 +143,10 @@ award_string_conversion = {
     25: 'lb'
 }
 
+remove_decorations_list = [
+    71930 # john gotti (71930) - sword stripped?
+]
+
 #========== populate
 
 #-----pop t100
