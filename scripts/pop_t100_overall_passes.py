@@ -104,5 +104,8 @@ if __name__ == '__main__':
     # pop
     with open(pop_t_overall_passes_md, 'w') as f:
         f.write('\n## True Top 100 Overall - Passes\n\n')
+        f.write('<p><a href="https://tankpit-analytics.github.io/">Top 100</a>&nbsp;&nbsp;|&nbsp;&nbsp;' + \
+            '<a href="https://tankpit-analytics.github.io/stats-overall">Stats Leaderboard</a>&nbsp;&nbsp;|&nbsp;&nbsp;' + \
+            '<a href="https://tankpit-analytics.github.io/t100-overall-passes">Passes</a></p>\n\n')
         get_md(passes_df, unique_tank_dict, f, False)
         f.write('\n\n' + get_last_updated_html('Last Updated', time_now, time_now = True))

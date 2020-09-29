@@ -1,6 +1,8 @@
 
 ## 2020 Stats Leaderboard
 
+<p><a href="https://tankpit-analytics.github.io/t25-2020">Top 25</a>&nbsp;&nbsp;|&nbsp;&nbsp;<p><a href="https://tankpit-analytics.github.io/stats-2020">Stats Leaderboard</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="https://tankpit-analytics.github.io/t25-2020-passes">Passes</a></p>
+
 <p class="stats_leaderboard"><a onclick="searchPlaytime();">Time Played</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a onclick="searchKills();">Kills</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a onclick="searchDeaths();">Deaths</a></p>
 
 {:.stats_leaderboard#stats_leaderboard_playtime}

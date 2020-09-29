@@ -1,6 +1,8 @@
 
 ## Overall Stats Leaderboard
 
+<p><a href="https://tankpit-analytics.github.io/">Top 100</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="https://tankpit-analytics.github.io/stats-overall">Stats Leaderboard</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="https://tankpit-analytics.github.io/t100-overall-passes">Passes</a></p>
+
 <p class="stats_leaderboard"><a onclick="searchPlaytime();">Time Played</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a onclick="searchKills();">Kills</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a onclick="searchDeaths();">Deaths</a></p>
 
 {:.stats_leaderboard#stats_leaderboard_playtime}

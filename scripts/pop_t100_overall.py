@@ -28,8 +28,9 @@ if __name__ == '__main__':
     # pop
     with open(pop_t_overall_md, 'w') as f:
         f.write('\n## True Top 100 Overall\n\n')
-        f.write('<p><a href="https://tankpit-analytics.github.io/stats-overall">Stats Leaderboard</a>&nbsp;&nbsp;|&nbsp;&nbsp;' + \
-            '<a href="https://tankpit-analytics.github.io/t100-overall-passes">Recent Passes</a></p>\n\n')
+        f.write('<p><a href="https://tankpit-analytics.github.io/">Top 100</a>&nbsp;&nbsp;|&nbsp;&nbsp;' + \
+            '<a href="https://tankpit-analytics.github.io/stats-overall">Stats Leaderboard</a>&nbsp;&nbsp;|&nbsp;&nbsp;' + \
+            '<a href="https://tankpit-analytics.github.io/t100-overall-passes">Passes</a></p>\n\n')
         f.write('{:.t100}\n')
         f.write(get_tank_html(master_df))
         f.write('\n\n' + get_last_updated_html('Last Updated', time_now, time_now = True))
