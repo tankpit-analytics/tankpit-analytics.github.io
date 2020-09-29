@@ -247,5 +247,5 @@ pop_tourn_130k_club_md = dir_git + '130k-club.md'
 #-----pop sword decorations
 #requires: all_tanks_csv
 
-# note: rename from 'latest-sword-decorations' -> 'sword-decorations' at a later time
+# note: rename from 'latest-sword-decorations' -> 'sword-decorations' at a later time (this link is the only thing left)
 sword_decorations_md = dir_git + 'latest-sword-decorations.md'
