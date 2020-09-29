@@ -158,7 +158,7 @@ pop_t_overall_md = dir_git + 'index.md'
 #-----pop t100 passes
 #requires: master_csv_overall, passes_csv_overall, pop_t_overall_rows
 
-pop_t_overall_passes_max_display = 200
+pop_t_overall_passes_max_display = 500
 pop_t_overall_passes_md = dir_git + 't100-overall-passes.md'
 
 #-----pop t25 2020
