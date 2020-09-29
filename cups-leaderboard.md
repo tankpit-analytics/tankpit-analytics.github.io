@@ -29,8 +29,8 @@
 |22|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=1434"><span class="red">matooa</span><span class="awards-container"><span class="awards-sprite a0-1"></span><span class="awards-sprite a1-3"></span><span class="awards-sprite a3-1"></span><span class="awards-sprite a5-3"></span><span class="awards-sprite a7-1"></span></span></a>|13|10|21|44|
 |23|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=32741"><span class="blue">DeatH WarranT</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a1-3"></span><span class="awards-sprite a2-3"></span><span class="awards-sprite a3-3"></span><span class="awards-sprite a5-2"></span></span></a>|13|12|17|42|
 |24|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=42812"><span class="orange">Elf 1</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a1-3"></span><span class="awards-sprite a2-2"></span><span class="awards-sprite a3-2"></span><span class="awards-sprite a5-1"></span></span></a>|9|15|17|41|
-|25|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=6281"><span class="orange">zubziLLa</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a1-2"></span><span class="awards-sprite a2-3"></span><span class="awards-sprite a3-3"></span><span class="awards-sprite a4-3"></span><span class="awards-sprite a5-3"></span><span class="awards-sprite a8-1"></span></span></a>|15|15|10|40|
+|25|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=22256"><span class="purple">CarroT JuicE</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a5-1"></span></span></a>|15|15|10|40|
 
 
-<p class="last_updated"><span class="last_updated">Last Updated:&nbsp;&nbsp;Sep 28, 12:03 PM&nbsp;&nbsp;(Pacific)</span></p>
+<p class="last_updated"><span class="last_updated">Last Updated:&nbsp;&nbsp;Sep 28, 6:02 PM&nbsp;&nbsp;(Pacific)</span></p>
 
