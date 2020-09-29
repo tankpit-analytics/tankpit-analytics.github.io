@@ -18,7 +18,7 @@ if __name__ == '__main__':
     with open(pop_stats_2020_md, 'w') as f:
         f.write('\n## 2020 Stats Leaderboard\n\n')
         f.write('<p><a href="https://tankpit-analytics.github.io/t25-2020">Top 25</a>&nbsp;&nbsp;|&nbsp;&nbsp;' + \
-            '<p><a href="https://tankpit-analytics.github.io/stats-2020">Stats Leaderboard</a>&nbsp;&nbsp;|&nbsp;&nbsp;' + \
+            '<a href="https://tankpit-analytics.github.io/stats-2020">Stats Leaderboard</a>&nbsp;&nbsp;|&nbsp;&nbsp;' + \
             '<a href="https://tankpit-analytics.github.io/t25-2020-passes">Passes</a></p>\n\n')
         f.write('<p class="stats_leaderboard"><a onclick="searchPlaytime();">Time Played</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a onclick="searchKills();">Kills</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a onclick="searchDeaths();">Deaths</a></p>\n\n')
         get_md(f, playtime, 'stats_leaderboard_playtime', 'Time Played', 'time_played')
