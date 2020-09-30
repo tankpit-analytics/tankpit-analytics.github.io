@@ -32,5 +32,5 @@
 |25|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=22256"><span class="purple">CarroT JuicE</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a5-1"></span></span></a>|15|15|10|40|
 
 
-<p class="last_updated"><span class="last_updated">Last Updated:&nbsp;&nbsp;Sep 30, 6:02 AM&nbsp;&nbsp;(Pacific)</span></p>
+<p class="last_updated"><span class="last_updated">Last Updated:&nbsp;&nbsp;Sep 30, 12:02 PM&nbsp;&nbsp;(Pacific)</span></p>
 
