@@ -3,6 +3,17 @@
 
 <p><a href="https://tankpit-analytics.github.io/t25-2020">Top 25</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="https://tankpit-analytics.github.io/t25-2020-passes">Passes</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="https://tankpit-analytics.github.io/stats-2020">Stats Leaderboard</a></p>
 
+<span class="t100_month">October 2020</span>
+
+{:.t100_passes.t100_passes_desktop}
+|<span class="t100_date">Date</span>|<span class="tank_col">Tank</span>|<span class="tank_col">Passed</span>|<span class="t100_rank">#</span>|
+|Oct 1: 1:31 PM|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=72619"><span class="blue">Bruticus</span><span class="awards-container"><span class="awards-sprite a0-3"></span></span></a>|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=76251"><span class="blue">Sideswipe</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a1-3"></span><span class="awards-sprite a2-1"></span><span class="awards-sprite a3-1"></span><span class="awards-sprite a5-1"></span></span></a>|<span class="green">20</span>|
+
+{:.t100_passes.t100_passes_mobile}
+|<span class="tank_col">Tank</span>|<span class="tank_col">Passed</span>|<span class="t100_rank">#</span>|
+|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=72619"><span class="blue">Bruticus</span><span class="awards-container"><span class="awards-sprite a0-3"></span></span></a>|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=76251"><span class="blue">Sideswipe</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a1-3"></span><span class="awards-sprite a2-1"></span><span class="awards-sprite a3-1"></span><span class="awards-sprite a5-1"></span></span></a>|<span class="green">20</span>|
+
+
 <span class="t100_month">September 2020</span>
 
 {:.t100_passes.t100_passes_desktop}
@@ -806,5 +817,5 @@
 
 
 
-<p class="last_updated"><span class="last_updated">Last Updated:&nbsp;&nbsp;Oct 1, 12:00 PM&nbsp;&nbsp;(Pacific)</span></p>
+<p class="last_updated"><span class="last_updated">Last Updated:&nbsp;&nbsp;Oct 1, 6:00 PM&nbsp;&nbsp;(Pacific)</span></p>
 
