@@ -17,12 +17,12 @@
 |8|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=72619"><span class="blue">Bruticus</span><span class="awards-container"><span class="awards-sprite a0-3"></span></span></a>|92:42:39|
 |9|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=70136"><span class="orange">Shredder</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a1-2"></span><span class="awards-sprite a5-2"></span></span></a>|84:45:07|
 |10|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=75459"><span class="red">Old Fashioned</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a5-3"></span><span class="awards-sprite a6-1"></span></span></a>|57:58:10|
-|11|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=70135"><span class="orange">Captain Planet</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a1-1"></span><span class="awards-sprite a2-1"></span><span class="awards-sprite a5-1"></span></span></a>|53:42:52|
+|11|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=70135"><span class="orange">Captain Planet</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a1-1"></span><span class="awards-sprite a2-1"></span><span class="awards-sprite a5-1"></span></span></a>|53:54:16|
 |12|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=70121"><span class="blue">Smelly Pirate Hooker</span><span class="awards-container"><span class="awards-sprite a0-3"></span></span></a>|50:0:00|
 |13|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=70146"><span class="red">Wretched</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a1-1"></span><span class="awards-sprite a5-3"></span></span></a>|40:11:20|
 |14|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=70227"><span class="red">Wolf Bite</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a1-3"></span><span class="awards-sprite a5-3"></span></span></a>|36:35:01|
 |15|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=70364"><span class="red">HELiOS</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a1-2"></span></span></a>|30:0:00|
-|16|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=74914"><span class="purple">ArchangeL UrieL </span><span class="awards-container"><span class="awards-sprite a0-3"></span></span></a>|27:40:59|
+|16|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=74914"><span class="purple">ArchangeL UrieL </span><span class="awards-container"><span class="awards-sprite a0-3"></span></span></a>|28:47:34|
 |17|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=73938"><span class="orange">hnery</span><span class="awards-container"><span class="awards-sprite a0-2"></span></span></a>|17:11:10|
 |18|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=70432"><span class="blue">Challenger Deep</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a5-2"></span></span></a>|13:9:52|
 |19|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=72756"><span class="orange">MAN-MYTH-LEGEND</span><span class="awards-container"><span class="awards-sprite a0-1"></span><span class="awards-sprite a5-2"></span></span></a>|13:0:09|
@@ -75,5 +75,5 @@
 
 
 
-<p class="last_updated"><span class="last_updated">Last Updated:&nbsp;&nbsp;Oct 3, 12:01 PM&nbsp;&nbsp;(Pacific)</span></p>
+<p class="last_updated"><span class="last_updated">Last Updated:&nbsp;&nbsp;Oct 3, 6:01 PM&nbsp;&nbsp;(Pacific)</span></p>
 
