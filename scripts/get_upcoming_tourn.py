@@ -24,7 +24,7 @@ if __name__ == '__main__':
         upcoming_tourn_df = pd.DataFrame()
     upcoming_tourn_dict = get_dict_from_url('https://tankpit.com/api/upcoming_tournaments')
     tmp_df = get_upcoming_tourn_df(upcoming_tourn_dict)
-    upcoming_tourn_df = pd.concat([upcoming_tourn_df, tmp_df], axis = 0).reset_index(drop = True)
+    upcoming_tourn_df = pd.concat([upcoming_tourn_df, tmp_df], axis = 0, sort = True).reset_index(drop = True)
     upcoming_tourn_df.to_csv(upcoming_tourn_csv, index = False)
     elapsed_time = time.time() - start_time
     print('Runtime:', round(elapsed_time, 1), 'seconds')

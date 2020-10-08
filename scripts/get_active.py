@@ -30,7 +30,7 @@ if __name__ == '__main__':
         active_df = pd.DataFrame()
     active_dict = get_dict_from_url('https://tankpit.com/api/active_games')
     tmp_df = get_active_df(active_dict)
-    active_df = pd.concat([active_df, tmp_df], axis = 0).reset_index(drop = True)
+    active_df = pd.concat([active_df, tmp_df], axis = 0, sort = True).reset_index(drop = True)
     active_df.to_csv(active_csv, index = False)
     elapsed_time = time.time() - start_time
     print('Runtime:', round(elapsed_time, 1), 'seconds')
