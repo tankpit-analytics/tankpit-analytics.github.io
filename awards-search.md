@@ -6338,7 +6338,7 @@
 |424|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=75037"><span class="blue">Planewoosh</span><span class="awards-container"><span class="awards-sprite a5-2"></span></span></a>|
 
 
-<span class="awards_search_header" id="awards_search_header_cup3">Gold Cup (519)</span>
+<span class="awards_search_header" id="awards_search_header_cup3">Gold Cup (520)</span>
 
 {:.awards_search#awards_search_cup3}
 |1|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=746"><span class="blue">Optimus Prime</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a1-3"></span><span class="awards-sprite a2-3"></span><span class="awards-sprite a3-3"></span><span class="awards-sprite a4-3"></span><span class="awards-sprite a5-3"></span><span class="awards-sprite a6-1"></span><span class="awards-sprite a7-1"></span></span></a>|
@@ -6858,8 +6858,9 @@
 |515|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=68663"><span class="red">MAoS</span><span class="awards-container"><span class="awards-sprite a5-3"></span></span></a>|
 |516|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=70977"><span class="blue">Uriel</span><span class="awards-container"><span class="awards-sprite a5-3"></span></span></a>|
 |517|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=71320"><span class="blue">Fear The Fury</span><span class="awards-container"><span class="awards-sprite a5-3"></span></span></a>|
-|518|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=74140"><span class="red">the greatest</span><span class="awards-container"><span class="awards-sprite a5-3"></span></span></a>|
-|519|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=74836"><span class="purple">KEEP EM GUESSIN</span><span class="awards-container"><span class="awards-sprite a5-3"></span></span></a>|
+|518|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=71342"><span class="red">Blind Pilot</span><span class="awards-container"><span class="awards-sprite a5-3"></span></span></a>|
+|519|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=74140"><span class="red">the greatest</span><span class="awards-container"><span class="awards-sprite a5-3"></span></span></a>|
+|520|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=74836"><span class="purple">KEEP EM GUESSIN</span><span class="awards-container"><span class="awards-sprite a5-3"></span></span></a>|
 
 
 <span class="awards_search_header" id="awards_search_header_ph1">Purple Heart (28)</span>
@@ -7035,5 +7036,5 @@
 
 
 
-<p class="last_updated"><span class="last_updated">Last Updated:&nbsp;&nbsp;Oct 10, 12:03 AM&nbsp;&nbsp;(Pacific)</span></p>
+<p class="last_updated"><span class="last_updated">Last Updated:&nbsp;&nbsp;Oct 10, 6:03 AM&nbsp;&nbsp;(Pacific)</span></p>
 
