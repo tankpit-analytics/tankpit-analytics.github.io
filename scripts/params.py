@@ -55,6 +55,7 @@ ranks_dict_overall = {
 master_nrow_overall = 500 # rows in master - if running j loop, increasing this takes a lot longer
 
 #-----t100 2020
+#requires: master_csv_overall (if using supplement job)
 
 master_csv_2020 = dir_tpdata + 'master_2020.csv'
 passes_csv_2020 = dir_tpdata + 'passes_2020.csv'
