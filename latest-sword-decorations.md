@@ -7,6 +7,7 @@
 
 {:.decorations}
 |<span class="decorations_date">Date</span>|<span class="decoration">&nbsp;</span>|<span class="tank_col">Tank</span>|
+|Oct 12, 2020|<span class="awards-sprite a3-2"></span>|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=74035"><span class="orange">Boba Fett</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a1-3"></span><span class="awards-sprite a2-1"></span><span class="awards-sprite a3-2"></span><span class="awards-sprite a5-2"></span></span></a>|
 |Oct 2, 2020|<span class="awards-sprite a3-2"></span>|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=76322"><span class="purple">TRUMP TRAIN</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a1-3"></span><span class="awards-sprite a2-1"></span><span class="awards-sprite a3-2"></span><span class="awards-sprite a5-2"></span></span></a>|
 
 <span class="decorations_month">September 2020</span>
@@ -37,7 +38,7 @@
 {:.decorations}
 |<span class="decorations_date">Date</span>|<span class="decoration">&nbsp;</span>|<span class="tank_col">Tank</span>|
 |Jul 31, 2020|<span class="awards-sprite a3-2"></span>|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=72302"><span class="orange">JamesChen</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a1-3"></span><span class="awards-sprite a2-3"></span><span class="awards-sprite a3-2"></span><span class="awards-sprite a5-1"></span></span></a>|
-|Jul 31, 2020|<span class="awards-sprite a3-1"></span>|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=74035"><span class="orange">Boba Fett</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a1-3"></span><span class="awards-sprite a2-1"></span><span class="awards-sprite a3-1"></span><span class="awards-sprite a5-2"></span></span></a>|
+|Jul 31, 2020|<span class="awards-sprite a3-1"></span>|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=74035"><span class="orange">Boba Fett</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a1-3"></span><span class="awards-sprite a2-1"></span><span class="awards-sprite a3-2"></span><span class="awards-sprite a5-2"></span></span></a>|
 |Jul 17, 2020|<span class="awards-sprite a3-1"></span>|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=70106"><span class="red">Corpse Reviver</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a1-2"></span><span class="awards-sprite a2-2"></span><span class="awards-sprite a3-1"></span><span class="awards-sprite a4-3"></span><span class="awards-sprite a5-3"></span><span class="awards-sprite a6-1"></span><span class="awards-sprite a7-1"></span></span></a>|
 |Jul 16, 2020|<span class="awards-sprite a3-1"></span>|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=72907"><span class="blue">hUStLe Tank</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a1-3"></span><span class="awards-sprite a2-3"></span><span class="awards-sprite a3-2"></span></span></a>|
 |Jul 15, 2020|<span class="awards-sprite a3-1"></span>|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=72488"><span class="blue">ToxiC ReVolveR</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a1-2"></span><span class="awards-sprite a2-1"></span><span class="awards-sprite a3-1"></span><span class="awards-sprite a4-3"></span><span class="awards-sprite a5-3"></span></span></a>|
@@ -94,5 +95,5 @@
 
 
 
-<p class="last_updated"><span class="last_updated">Last Updated:&nbsp;&nbsp;Oct 2, 12:02 AM&nbsp;&nbsp;(Pacific)</span></p>
+<p class="last_updated"><span class="last_updated">Last Updated:&nbsp;&nbsp;Oct 12, 6:02 PM&nbsp;&nbsp;(Pacific)</span></p>
 
