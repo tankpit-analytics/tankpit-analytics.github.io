@@ -218,11 +218,11 @@ def remove_certain_single_awards(df, awards_dict):
     z = df['awards'].apply(lambda x: has_one_award(x, awards_dict))
     y1 = df['awards'].apply(lambda x: has_award(x, awards_dict, 'star', 1)) & z
     y2 = df['awards'].apply(lambda x: has_award(x, awards_dict, 'star', 2)) & z
-    y3 = df['awards'].apply(lambda x: has_award(x, awards_dict, 'star', 3)) & z
-    y4 = df['awards'].apply(lambda x: has_award(x, awards_dict, 'tank', 1)) & z
-    y5 = df['awards'].apply(lambda x: has_award(x, awards_dict, 'tank', 2)) & z
-    y6 = df['awards'].apply(lambda x: has_award(x, awards_dict, 'medal', 1)) & z
-    df = df[~y1&~y2&~y3&~y4&~y5&~y6].reset_index(drop = True)
+    #y3 = df['awards'].apply(lambda x: has_award(x, awards_dict, 'star', 3)) & z
+    #y4 = df['awards'].apply(lambda x: has_award(x, awards_dict, 'tank', 1)) & z
+    #y5 = df['awards'].apply(lambda x: has_award(x, awards_dict, 'tank', 2)) & z
+    #y6 = df['awards'].apply(lambda x: has_award(x, awards_dict, 'medal', 1)) & z
+    df = df[~y1&~y2].reset_index(drop = True)
     return(df)
 
 # ended up never using this
