@@ -87,7 +87,7 @@ if __name__ == '__main__':
     award_decorations_df = pd.DataFrame(latest_awards_converted_list)
     # 3. load master, concat, de-dupe
     master_award_decorations_df = pd.read_csv(master_award_decorations_csv)
-    master_award_decorations_df = pd.concat([master_award_decorations_df, award_decorations_df], axis = 0)
+    master_award_decorations_df = pd.concat([master_award_decorations_df, award_decorations_df], axis = 0, sort = True)
     master_award_decorations_df = master_award_decorations_df.drop_duplicates(subset = ['award','tank_id','tier'], keep = 'first')
     master_award_decorations_df['award_time'] = pd.to_datetime(master_award_decorations_df['award_time'])
     master_award_decorations_df = master_award_decorations_df.sort_values('award_time', ascending = False).reset_index(drop = True)
