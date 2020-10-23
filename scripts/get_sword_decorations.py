@@ -46,6 +46,8 @@ def extract_latest_decorations_from_recent_df(recent_df):
                                                'awards': awards,
                                                'previous_awards': previous_awards,
                                                'award_time': award_time})
+    # single shining sword - INCOMPLETE... DO THIS AT SOME POINT
+    #tank_ids_without_multiple_entries = list(recent_df.loc[~recent_df['id'].isin(tank_ids_with_multiple_entries), 'id'])
     return(latest_awards_list)
 
 def convert_latest_decorations(latest_awards_list):
