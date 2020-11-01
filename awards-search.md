@@ -925,7 +925,7 @@
 |529|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=76847"><span class="orange">-OTLM- 1</span><span class="awards-container"><span class="awards-sprite a0-2"></span><span class="awards-sprite a5-1"></span></span></a>|
 
 
-<span class="awards_search_header" id="awards_search_header_star3">Triple Star (2138)</span>
+<span class="awards_search_header" id="awards_search_header_star3">Triple Star (2139)</span>
 
 {:.awards_search#awards_search_star3}
 |1|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=746"><span class="blue">Optimus Prime</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a1-3"></span><span class="awards-sprite a2-3"></span><span class="awards-sprite a3-3"></span><span class="awards-sprite a4-3"></span><span class="awards-sprite a5-3"></span><span class="awards-sprite a6-1"></span><span class="awards-sprite a7-1"></span></span></a>|
@@ -3066,6 +3066,7 @@
 |2136|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=77635"><span class="blue">Blastoise</span><span class="awards-container"><span class="awards-sprite a0-3"></span></span></a>|
 |2137|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=77649"><span class="red">GodHimself</span><span class="awards-container"><span class="awards-sprite a0-3"></span></span></a>|
 |2138|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=77741"><span class="blue">Heatwave</span><span class="awards-container"><span class="awards-sprite a0-3"></span></span></a>|
+|2139|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=77823"><span class="blue">Lil B</span><span class="awards-container"><span class="awards-sprite a0-3"></span></span></a>|
 
 
 <span class="awards_search_header" id="awards_search_header_tank1">Bronze Tank (891)</span>
@@ -7851,5 +7852,5 @@
 
 
 
-<p class="last_updated"><span class="last_updated">Last Updated:&nbsp;&nbsp;Nov 1, 12:03 AM&nbsp;&nbsp;(Pacific)</span></p>
+<p class="last_updated"><span class="last_updated">Last Updated:&nbsp;&nbsp;Nov 1, 12:03 PM&nbsp;&nbsp;(Pacific)</span></p>
 
