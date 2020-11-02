@@ -7,10 +7,12 @@
 
 {:.t100_passes.t100_passes_desktop}
 |<span class="t100_date">Date</span>|<span class="tank_col">Tank</span>|<span class="tank_col">Passed</span>|<span class="t100_rank">#</span>|
+|Nov 1: 11:15 PM|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=71596"><span class="orange">One hit wonder</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a1-3"></span><span class="awards-sprite a2-2"></span><span class="awards-sprite a3-2"></span></span></a>|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=1613"><span class="blue">idolize -- BLUNTZ</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a1-2"></span><span class="awards-sprite a2-2"></span><span class="awards-sprite a3-3"></span><span class="awards-sprite a5-3"></span></span></a>|<span class="red">74</span>|
 |Nov 1: 3:30 AM|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=71596"><span class="orange">One hit wonder</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a1-3"></span><span class="awards-sprite a2-2"></span><span class="awards-sprite a3-2"></span></span></a>|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=674"><span class="red">Super Saiyan Vegito</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a1-3"></span><span class="awards-sprite a2-3"></span><span class="awards-sprite a3-2"></span><span class="awards-sprite a5-1"></span></span></a>|<span class="red">75</span>|
 
 {:.t100_passes.t100_passes_mobile}
 |<span class="tank_col">Tank</span>|<span class="tank_col">Passed</span>|<span class="t100_rank">#</span>|
+|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=71596"><span class="orange">One hit wonder</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a1-3"></span><span class="awards-sprite a2-2"></span><span class="awards-sprite a3-2"></span></span></a>|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=1613"><span class="blue">idolize -- BLUNTZ</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a1-2"></span><span class="awards-sprite a2-2"></span><span class="awards-sprite a3-3"></span><span class="awards-sprite a5-3"></span></span></a>|<span class="red">74</span>|
 |<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=71596"><span class="orange">One hit wonder</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a1-3"></span><span class="awards-sprite a2-2"></span><span class="awards-sprite a3-2"></span></span></a>|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=674"><span class="red">Super Saiyan Vegito</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a1-3"></span><span class="awards-sprite a2-3"></span><span class="awards-sprite a3-2"></span><span class="awards-sprite a5-1"></span></span></a>|<span class="red">75</span>|
 
 
@@ -1105,5 +1107,5 @@
 
 
 
-<p class="last_updated"><span class="last_updated">Last Updated:&nbsp;&nbsp;Nov 1, 12:00 PM&nbsp;&nbsp;(Pacific)</span></p>
+<p class="last_updated"><span class="last_updated">Last Updated:&nbsp;&nbsp;Nov 2, 12:00 AM&nbsp;&nbsp;(Pacific)</span></p>
 
