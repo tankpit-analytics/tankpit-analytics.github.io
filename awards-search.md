@@ -3075,7 +3075,7 @@
 |2147|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=77741"><span class="blue">Heatwave</span><span class="awards-container"><span class="awards-sprite a0-3"></span></span></a>|
 
 
-<span class="awards_search_header" id="awards_search_header_tank1">Bronze Tank (894)</span>
+<span class="awards_search_header" id="awards_search_header_tank1">Bronze Tank (895)</span>
 
 {:.awards_search#awards_search_tank1}
 |1|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=71956"><span class="red">FINESSE</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a1-1"></span><span class="awards-sprite a2-3"></span><span class="awards-sprite a3-3"></span><span class="awards-sprite a4-3"></span><span class="awards-sprite a5-3"></span><span class="awards-sprite a7-1"></span><span class="awards-sprite a8-1"></span></span></a>|
@@ -3969,9 +3969,10 @@
 |889|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=71958"><span class="purple">Isolation</span><span class="awards-container"><span class="awards-sprite a1-1"></span></span></a>|
 |890|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=73721"><span class="orange">Slaughter To Prevail</span><span class="awards-container"><span class="awards-sprite a1-1"></span></span></a>|
 |891|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=74000"><span class="blue">Hvac12</span><span class="awards-container"><span class="awards-sprite a1-1"></span></span></a>|
-|892|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=75711"><span class="blue">Penny Lane</span><span class="awards-container"><span class="awards-sprite a1-1"></span></span></a>|
-|893|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=76048"><span class="blue">Bleu-1</span><span class="awards-container"><span class="awards-sprite a1-1"></span></span></a>|
-|894|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=76369"><span class="red">SlyRyGuy</span><span class="awards-container"><span class="awards-sprite a1-1"></span></span></a>|
+|892|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=74039"><span class="purple">roger</span><span class="awards-container"><span class="awards-sprite a1-1"></span></span></a>|
+|893|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=75711"><span class="blue">Penny Lane</span><span class="awards-container"><span class="awards-sprite a1-1"></span></span></a>|
+|894|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=76048"><span class="blue">Bleu-1</span><span class="awards-container"><span class="awards-sprite a1-1"></span></span></a>|
+|895|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=76369"><span class="red">SlyRyGuy</span><span class="awards-container"><span class="awards-sprite a1-1"></span></span></a>|
 
 
 <span class="awards_search_header" id="awards_search_header_tank2">Silver Tank (488)</span>
@@ -7882,5 +7883,5 @@
 
 
 
-<p class="last_updated"><span class="last_updated">Last Updated:&nbsp;&nbsp;Nov 14, 12:03 PM&nbsp;&nbsp;(Pacific)</span></p>
+<p class="last_updated"><span class="last_updated">Last Updated:&nbsp;&nbsp;Nov 15, 12:03 AM&nbsp;&nbsp;(Pacific)</span></p>
 
