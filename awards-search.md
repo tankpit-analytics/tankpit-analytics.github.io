@@ -1600,7 +1600,7 @@
 |667|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=47151"><span class="blue">SANIC DA HORDGEHEG</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a1-3"></span><span class="awards-sprite a2-3"></span></span></a>|
 |668|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=47333"><span class="orange">Krakatoa</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a2-1"></span><span class="awards-sprite a5-1"></span></span></a>|
 |669|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=47949"><span class="blue">Emirate Xaaron</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a2-1"></span><span class="awards-sprite a5-3"></span></span></a>|
-|670|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=48377"><span class="orange">Catalyst</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a1-1"></span><span class="awards-sprite a2-2"></span></span></a>|
+|670|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=48377"><span class="red">Catalyst</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a1-1"></span><span class="awards-sprite a2-2"></span></span></a>|
 |671|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=48427"><span class="orange">BruceLee</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a1-1"></span><span class="awards-sprite a2-3"></span></span></a>|
 |672|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=48570"><span class="purple">Fate</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a1-3"></span><span class="awards-sprite a2-2"></span></span></a>|
 |673|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=49322"><span class="blue">1 CrippleD NiNJA</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a1-3"></span><span class="awards-sprite a2-3"></span></span></a>|
@@ -3199,7 +3199,7 @@
 |107|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=43532"><span class="red">Dukes</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a1-1"></span><span class="awards-sprite a2-1"></span></span></a>|
 |108|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=44549"><span class="blue">- NightShift -</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a1-1"></span><span class="awards-sprite a5-1"></span></span></a>|
 |109|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=46347"><span class="orange">PhilRockstroh</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a1-1"></span><span class="awards-sprite a2-1"></span></span></a>|
-|110|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=48377"><span class="orange">Catalyst</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a1-1"></span><span class="awards-sprite a2-2"></span></span></a>|
+|110|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=48377"><span class="red">Catalyst</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a1-1"></span><span class="awards-sprite a2-2"></span></span></a>|
 |111|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=48427"><span class="orange">BruceLee</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a1-1"></span><span class="awards-sprite a2-3"></span></span></a>|
 |112|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=49712"><span class="purple">Abel</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a1-1"></span><span class="awards-sprite a2-1"></span></span></a>|
 |113|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=51498"><span class="purple">recnaC</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a1-1"></span><span class="awards-sprite a5-1"></span></span></a>|
@@ -5411,7 +5411,7 @@
 |458|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=69846"><span class="purple">DiaDeLosMuertos</span><span class="awards-container"><span class="awards-sprite a2-1"></span></span></a>|
 
 
-<span class="awards_search_header" id="awards_search_header_medal2">Battle Honor Medal (211)</span>
+<span class="awards_search_header" id="awards_search_header_medal2">Battle Honor Medal (210)</span>
 
 {:.awards_search#awards_search_medal2}
 |1|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=9389"><span class="red">Jiren</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a1-3"></span><span class="awards-sprite a2-2"></span><span class="awards-sprite a3-3"></span><span class="awards-sprite a4-3"></span><span class="awards-sprite a5-3"></span><span class="awards-sprite a7-1"></span><span class="awards-sprite a8-1"></span></span></a>|
@@ -5582,7 +5582,7 @@
 |166|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=35315"><span class="purple">sunspot cinnamon</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a1-2"></span><span class="awards-sprite a2-2"></span></span></a>|
 |167|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=35340"><span class="red">r obin h ood</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a1-1"></span><span class="awards-sprite a2-2"></span></span></a>|
 |168|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=45850"><span class="red">rEdRuM-1</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a1-2"></span><span class="awards-sprite a2-2"></span></span></a>|
-|169|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=48377"><span class="orange">Catalyst</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a1-1"></span><span class="awards-sprite a2-2"></span></span></a>|
+|169|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=48377"><span class="red">Catalyst</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a1-1"></span><span class="awards-sprite a2-2"></span></span></a>|
 |170|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=48570"><span class="purple">Fate</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a1-3"></span><span class="awards-sprite a2-2"></span></span></a>|
 |171|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=52213"><span class="blue">darkdeciever</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a1-3"></span><span class="awards-sprite a2-2"></span></span></a>|
 |172|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=58575"><span class="blue">Hyerin</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a1-2"></span><span class="awards-sprite a2-2"></span></span></a>|
@@ -5621,10 +5621,9 @@
 |205|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=37557"><span class="red">kbeezir</span><span class="awards-container"><span class="awards-sprite a1-1"></span><span class="awards-sprite a2-2"></span></span></a>|
 |206|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=69769"><span class="red">SageThePlug</span><span class="awards-container"><span class="awards-sprite a1-1"></span><span class="awards-sprite a2-2"></span></span></a>|
 |207|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=73688"><span class="red">Cuba </span><span class="awards-container"><span class="awards-sprite a1-1"></span><span class="awards-sprite a2-2"></span></span></a>|
-|208|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=1603"><span class="blue">Obliterator</span><span class="awards-container"><span class="awards-sprite a2-2"></span></span></a>|
-|209|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=12126"><span class="red">SPYDER-MAN</span><span class="awards-container"><span class="awards-sprite a2-2"></span></span></a>|
-|210|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=13389"><span class="orange">LehmanBrothers</span><span class="awards-container"><span class="awards-sprite a2-2"></span></span></a>|
-|211|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=53865"><span class="blue">Blind Seer</span><span class="awards-container"><span class="awards-sprite a2-2"></span></span></a>|
+|208|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=12126"><span class="red">SPYDER-MAN</span><span class="awards-container"><span class="awards-sprite a2-2"></span></span></a>|
+|209|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=13389"><span class="orange">LehmanBrothers</span><span class="awards-container"><span class="awards-sprite a2-2"></span></span></a>|
+|210|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=53865"><span class="blue">Blind Seer</span><span class="awards-container"><span class="awards-sprite a2-2"></span></span></a>|
 
 
 <span class="awards_search_header" id="awards_search_header_medal3">Heroic Honor Medal (220)</span>
@@ -7903,5 +7902,5 @@
 
 
 
-<p class="last_updated"><span class="last_updated">Last Updated:&nbsp;&nbsp;Dec 4, 12:03 AM&nbsp;&nbsp;(Pacific)</span></p>
+<p class="last_updated"><span class="last_updated">Last Updated:&nbsp;&nbsp;Dec 4, 12:03 PM&nbsp;&nbsp;(Pacific)</span></p>
 
