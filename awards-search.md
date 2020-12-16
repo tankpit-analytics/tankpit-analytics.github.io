@@ -928,7 +928,7 @@
 |531|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=78468"><span class="orange">Sideshow Bob</span><span class="awards-container"><span class="awards-sprite a0-2"></span><span class="awards-sprite a5-3"></span></span></a>|
 
 
-<span class="awards_search_header" id="awards_search_header_star3">Triple Star (2155)</span>
+<span class="awards_search_header" id="awards_search_header_star3">Triple Star (2156)</span>
 
 {:.awards_search#awards_search_star3}
 |1|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=746"><span class="blue">Optimus Prime</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a1-3"></span><span class="awards-sprite a2-3"></span><span class="awards-sprite a3-3"></span><span class="awards-sprite a4-3"></span><span class="awards-sprite a5-3"></span><span class="awards-sprite a6-1"></span><span class="awards-sprite a7-1"></span></span></a>|
@@ -3075,17 +3075,18 @@
 |2142|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=76633"><span class="red">Trolltaic</span><span class="awards-container"><span class="awards-sprite a0-3"></span></span></a>|
 |2143|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=76738"><span class="orange">Snorlax</span><span class="awards-container"><span class="awards-sprite a0-3"></span></span></a>|
 |2144|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=76742"><span class="blue">ENDEAVOUR</span><span class="awards-container"><span class="awards-sprite a0-3"></span></span></a>|
-|2145|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=76961"><span class="red">ling ling</span><span class="awards-container"><span class="awards-sprite a0-3"></span></span></a>|
-|2146|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=77486"><span class="purple">Yolo</span><span class="awards-container"><span class="awards-sprite a0-3"></span></span></a>|
-|2147|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=77526"><span class="red">YoloSquad</span><span class="awards-container"><span class="awards-sprite a0-3"></span></span></a>|
-|2148|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=77561"><span class="blue">Heatwave</span><span class="awards-container"><span class="awards-sprite a0-3"></span></span></a>|
-|2149|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=77582"><span class="orange">redneck</span><span class="awards-container"><span class="awards-sprite a0-3"></span></span></a>|
-|2150|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=77607"><span class="red">XSpecial</span><span class="awards-container"><span class="awards-sprite a0-3"></span></span></a>|
-|2151|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=77635"><span class="blue">Blastoise</span><span class="awards-container"><span class="awards-sprite a0-3"></span></span></a>|
-|2152|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=77649"><span class="red">GodHimself</span><span class="awards-container"><span class="awards-sprite a0-3"></span></span></a>|
-|2153|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=77741"><span class="blue">Heatwave</span><span class="awards-container"><span class="awards-sprite a0-3"></span></span></a>|
-|2154|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=77814"><span class="orange">MakeBFgreatAgain2020</span><span class="awards-container"><span class="awards-sprite a0-3"></span></span></a>|
-|2155|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=78572"><span class="red">OneNoobWonder</span><span class="awards-container"><span class="awards-sprite a0-3"></span></span></a>|
+|2145|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=76760"><span class="red">A Small Child</span><span class="awards-container"><span class="awards-sprite a0-3"></span></span></a>|
+|2146|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=76961"><span class="red">ling ling</span><span class="awards-container"><span class="awards-sprite a0-3"></span></span></a>|
+|2147|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=77486"><span class="purple">Yolo</span><span class="awards-container"><span class="awards-sprite a0-3"></span></span></a>|
+|2148|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=77526"><span class="red">YoloSquad</span><span class="awards-container"><span class="awards-sprite a0-3"></span></span></a>|
+|2149|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=77561"><span class="blue">Heatwave</span><span class="awards-container"><span class="awards-sprite a0-3"></span></span></a>|
+|2150|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=77582"><span class="orange">redneck</span><span class="awards-container"><span class="awards-sprite a0-3"></span></span></a>|
+|2151|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=77607"><span class="red">XSpecial</span><span class="awards-container"><span class="awards-sprite a0-3"></span></span></a>|
+|2152|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=77635"><span class="blue">Blastoise</span><span class="awards-container"><span class="awards-sprite a0-3"></span></span></a>|
+|2153|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=77649"><span class="red">GodHimself</span><span class="awards-container"><span class="awards-sprite a0-3"></span></span></a>|
+|2154|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=77741"><span class="blue">Heatwave</span><span class="awards-container"><span class="awards-sprite a0-3"></span></span></a>|
+|2155|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=77814"><span class="orange">MakeBFgreatAgain2020</span><span class="awards-container"><span class="awards-sprite a0-3"></span></span></a>|
+|2156|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=78572"><span class="red">OneNoobWonder</span><span class="awards-container"><span class="awards-sprite a0-3"></span></span></a>|
 
 
 <span class="awards_search_header" id="awards_search_header_tank1">Bronze Tank (903)</span>
@@ -7930,5 +7931,5 @@
 
 
 
-<p class="last_updated"><span class="last_updated">Last Updated:&nbsp;&nbsp;Dec 16, 12:03 AM&nbsp;&nbsp;(Pacific)</span></p>
+<p class="last_updated"><span class="last_updated">Last Updated:&nbsp;&nbsp;Dec 16, 12:03 PM&nbsp;&nbsp;(Pacific)</span></p>
 
