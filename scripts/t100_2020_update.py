@@ -27,15 +27,15 @@ def supplement_passes_with_overall(master_csv_overall_file, master_csv_2020_file
 #----- main
 
 if __name__ == '__main__':
-    # master_df = update_all_ranks(
-    #     leaderboard = '2020',
-    #     master_csv_file = master_csv_2020,
-    #     passes_csv_file = passes_csv_2020,
-    #     ranks_dict = ranks_dict_2020,
-    #     master_nrow = master_nrow_2020)
+    master_df = update_all_ranks(
+        leaderboard = '2020',
+        master_csv_file = master_csv_2020,
+        passes_csv_file = passes_csv_2020,
+        ranks_dict = ranks_dict_2020,
+        master_nrow = master_nrow_2020)
     # SUPPLEMENT JOB => currently in BETA - not being used
-    master_df = supplement_passes_with_overall(
-        master_csv_overall_file = master_csv_overall, 
-        master_csv_2020_file = master_csv_2020,
-        passes_csv_2020_file = passes_csv_2020,
-        master_2020_nrow = master_nrow_2020)
+    # master_df = supplement_passes_with_overall(
+    #     master_csv_overall_file = master_csv_overall, 
+    #     master_csv_2020_file = master_csv_2020,
+    #     passes_csv_2020_file = passes_csv_2020,
+    #     master_2020_nrow = master_nrow_2020)
