@@ -23,7 +23,7 @@
 |14|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=75459"><span class="red">Old Fashioned</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a5-3"></span><span class="awards-sprite a6-1"></span></span></a>|62:34:28|
 |15|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=70121"><span class="blue">Smelly Pirate Hooker</span><span class="awards-container"><span class="awards-sprite a0-3"></span></span></a>|50:0:00|
 |16|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=74914"><span class="purple">ArchangeL UrieL </span><span class="awards-container"><span class="awards-sprite a0-3"></span></span></a>|49:32:00|
-|17|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=70146"><span class="red">Wretched</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a1-2"></span><span class="awards-sprite a5-3"></span></span></a>|46:48:50|
+|17|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=70146"><span class="red">Wretched</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a1-2"></span><span class="awards-sprite a5-3"></span></span></a>|46:51:31|
 |18|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=70227"><span class="red">Wolf Bite</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a1-3"></span><span class="awards-sprite a5-3"></span></span></a>|36:35:01|
 |19|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=70364"><span class="red">HELiOS</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a1-2"></span></span></a>|30:0:00|
 |20|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=77629"><span class="purple">Sol</span><span class="awards-container"><span class="awards-sprite a0-2"></span><span class="awards-sprite a1-2"></span><span class="awards-sprite a5-3"></span></span></a>|21:14:18|
@@ -68,8 +68,8 @@
 |20|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=77649"><span class="red">GodHimself</span><span class="awards-container"><span class="awards-sprite a0-3"></span></span></a>|30|
 |21|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=77607"><span class="red">XSpecial</span><span class="awards-container"><span class="awards-sprite a0-3"></span></span></a>|29|
 |22|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=77561"><span class="blue">Heatwave</span><span class="awards-container"><span class="awards-sprite a0-3"></span></span></a>|23|
-|23|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=70152"><span class="red">Godfather</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a3-1"></span><span class="awards-sprite a4-3"></span><span class="awards-sprite a5-2"></span><span class="awards-sprite a6-1"></span><span class="awards-sprite a8-1"></span></span></a>|21|
-|24|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=73938"><span class="orange">hnery</span><span class="awards-container"><span class="awards-sprite a0-2"></span></span></a>|21|
+|23|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=73938"><span class="orange">hnery</span><span class="awards-container"><span class="awards-sprite a0-2"></span></span></a>|21|
+|24|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=70152"><span class="red">Godfather</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a3-1"></span><span class="awards-sprite a4-3"></span><span class="awards-sprite a5-2"></span><span class="awards-sprite a6-1"></span><span class="awards-sprite a8-1"></span></span></a>|21|
 |25|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=70432"><span class="blue">Challenger Deep</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a5-2"></span></span></a>|14|
 |26|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=70317"><span class="blue">KiNG oF dA CASTLE</span><span class="awards-container"><span class="awards-sprite a0-1"></span><span class="awards-sprite a5-3"></span></span></a>|14|
 |27|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=77582"><span class="orange">redneck</span><span class="awards-container"><span class="awards-sprite a0-3"></span></span></a>|11|
@@ -98,17 +98,17 @@
 |15|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=73938"><span class="orange">hnery</span><span class="awards-container"><span class="awards-sprite a0-2"></span></span></a>|8|
 |16|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=70152"><span class="red">Godfather</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a3-1"></span><span class="awards-sprite a4-3"></span><span class="awards-sprite a5-2"></span><span class="awards-sprite a6-1"></span><span class="awards-sprite a8-1"></span></span></a>|6|
 |17|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=70364"><span class="red">HELiOS</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a1-2"></span></span></a>|5|
-|18|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=77526"><span class="red">YoloSquad</span><span class="awards-container"><span class="awards-sprite a0-3"></span></span></a>|4|
+|18|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=77486"><span class="purple">Yolo</span><span class="awards-container"><span class="awards-sprite a0-3"></span></span></a>|4|
 |19|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=70317"><span class="blue">KiNG oF dA CASTLE</span><span class="awards-container"><span class="awards-sprite a0-1"></span><span class="awards-sprite a5-3"></span></span></a>|4|
-|20|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=77486"><span class="purple">Yolo</span><span class="awards-container"><span class="awards-sprite a0-3"></span></span></a>|4|
+|20|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=77526"><span class="red">YoloSquad</span><span class="awards-container"><span class="awards-sprite a0-3"></span></span></a>|4|
 |21|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=70432"><span class="blue">Challenger Deep</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a5-2"></span></span></a>|3|
-|22|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=77561"><span class="blue">Heatwave</span><span class="awards-container"><span class="awards-sprite a0-3"></span></span></a>|2|
-|23|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=77607"><span class="red">XSpecial</span><span class="awards-container"><span class="awards-sprite a0-3"></span></span></a>|2|
-|24|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=74366"><span class="blue">fishfry</span><span class="awards-container"><span class="awards-sprite a0-2"></span></span></a>|2|
+|22|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=74366"><span class="blue">fishfry</span><span class="awards-container"><span class="awards-sprite a0-2"></span></span></a>|2|
+|23|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=77561"><span class="blue">Heatwave</span><span class="awards-container"><span class="awards-sprite a0-3"></span></span></a>|2|
+|24|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=77607"><span class="red">XSpecial</span><span class="awards-container"><span class="awards-sprite a0-3"></span></span></a>|2|
 |25|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=74914"><span class="purple">ArchangeL UrieL </span><span class="awards-container"><span class="awards-sprite a0-3"></span></span></a>|1|
 
 
 
 
-<p class="last_updated"><span class="last_updated">Last Updated:&nbsp;&nbsp;Dec 20, 12:01 AM&nbsp;&nbsp;(Pacific)</span></p>
+<p class="last_updated"><span class="last_updated">Last Updated:&nbsp;&nbsp;Dec 20, 12:02 PM&nbsp;&nbsp;(Pacific)</span></p>
 
