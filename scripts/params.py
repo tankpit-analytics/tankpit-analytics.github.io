@@ -7,7 +7,7 @@ api_max_tries = 150
 
 #========== data
 
-#-----t100 overall
+#-----t100 overall params
 
 master_csv_overall = dir_tpdata + 'master_overall.csv'
 passes_csv_overall = dir_tpdata + 'passes_overall.csv'
@@ -54,7 +54,7 @@ ranks_dict_overall = {
 
 master_nrow_overall = 500 # rows in master - if running j loop, increasing this takes a lot longer
 
-#-----t100 2020
+#-----t100 2020 params
 #requires: master_csv_overall (if using supplement job)
 
 master_csv_2020 = dir_tpdata + 'master_2020.csv'
@@ -90,6 +90,26 @@ ranks_dict_2020 = {
 
 master_nrow_2020 = 500 # rows in master - if running j loop, increasing this takes a lot longer
 
+#-----t100 2021 params
+#requires: master_csv_overall (if using supplement job)
+
+master_csv_2021 = dir_tpdata + 'master_2021.csv'
+passes_csv_2021 = dir_tpdata + 'passes_2021.csv'
+
+ranks_dict_2021 = {
+    'general': 2,
+    'colonel': 2,
+    'major': 2,
+    'captain': 1,
+    'lieutenant': 1
+}
+
+master_nrow_2021 = 500 # rows in master - if running j loop, increasing this takes a lot longer
+
+#-----backups
+
+all_tanks_csv_backup_prefix = dir_tpdata + 'backups/all_tanks_'
+
 #-----get all tanks
 #requires: ranks_dict_overall
 
@@ -110,7 +130,13 @@ y2020_tanks_csv = dir_tpdata + 'y2020_tanks.csv'
 #-----get 2020 tanks stats
 #requires: y2020_tanks_csv, awards_dict
 
-all_tanks_csv_backup_prefix = dir_tpdata + 'backups/all_tanks_'
+#----get 2021 tanks
+#requires: ranks_dict_2021
+
+y2021_tanks_csv = dir_tpdata + 'y2021_tanks.csv'
+
+#-----get 2021 tanks stats
+#requires: y2021_tanks_csv, awards_dict
 
 #-----get active
 
@@ -174,6 +200,18 @@ pop_t_2020_md = dir_git + 't25-2020.md'
 pop_t_2020_passes_max_display = 1000
 pop_t_2020_passes_md = dir_git + 't25-2020-passes.md'
 
+#-----pop t25 2021
+#requires: master_csv_2021, passes_csv_2021
+
+pop_t_2021_rows = 25
+pop_t_2021_md = dir_git + 't25-2021.md'
+
+#-----pop t25 2021 passes
+#requires: master_csv_2021, passes_csv_2021
+
+pop_t_2021_passes_max_display = 1000
+pop_t_2021_passes_md = dir_git + 't25-2021-passes.md'
+
 #-----pop awards search
 #requires: all_tanks_csv
 
@@ -230,6 +268,12 @@ pop_stats_overall_md = dir_git + 'stats-overall.md'
 
 pop_stats_2020_max_display = 100
 pop_stats_2020_md = dir_git + 'stats-2020.md'
+
+#-----pop stats 2021
+#requires: y2021_tanks_csv
+
+pop_stats_2021_max_display = 100
+pop_stats_2021_md = dir_git + 'stats-2021.md'
 
 #-----pop 130k club
 
