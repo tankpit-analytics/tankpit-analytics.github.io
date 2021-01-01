@@ -3,12 +3,18 @@
 
 <p><a href="https://tankpit-analytics.github.io/awards-search">Awards Search</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="https://tankpit-analytics.github.io/latest-sword-decorations">Sword Decorations</a></p>
 
+<span class="decorations_month">January 2021</span>
+
+{:.decorations}
+|<span class="decorations_date">Date</span>|<span class="decoration">&nbsp;</span>|<span class="tank_col">Tank</span>|
+|Jan 1, 2021|<span class="awards-sprite a3-1"></span>|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=70135"><span class="orange">Captain Planet</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a1-2"></span><span class="awards-sprite a2-1"></span><span class="awards-sprite a3-1"></span><span class="awards-sprite a5-1"></span></span></a>|
+
 <span class="decorations_month">December 2020</span>
 
 {:.decorations}
 |<span class="decorations_date">Date</span>|<span class="decoration">&nbsp;</span>|<span class="tank_col">Tank</span>|
-|Dec 31, 2020|<span class="awards-sprite a3-2"></span>|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=33506"><span class="purple">purp88</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a2-1"></span><span class="awards-sprite a3-2"></span><span class="awards-sprite a5-2"></span></span></a>|
 |Dec 31, 2020|<span class="awards-sprite a3-3"></span>|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=6828"><span class="red">INTIMIDATION</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a1-1"></span><span class="awards-sprite a2-3"></span><span class="awards-sprite a3-3"></span><span class="awards-sprite a5-3"></span><span class="awards-sprite a8-1"></span></span></a>|
+|Dec 31, 2020|<span class="awards-sprite a3-2"></span>|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=33506"><span class="purple">purp88</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a2-1"></span><span class="awards-sprite a3-2"></span><span class="awards-sprite a5-2"></span></span></a>|
 |Dec 10, 2020|<span class="awards-sprite a3-1"></span>|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=70136"><span class="orange">Shredder</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a1-2"></span><span class="awards-sprite a3-1"></span><span class="awards-sprite a5-2"></span></span></a>|
 
 <span class="decorations_month">November 2020</span>
@@ -18,8 +24,8 @@
 |Nov 21, 2020|<span class="awards-sprite a3-3"></span>|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=71596"><span class="orange">One hit wonder</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a1-3"></span><span class="awards-sprite a2-2"></span><span class="awards-sprite a3-3"></span></span></a>|
 |Nov 20, 2020|<span class="awards-sprite a3-3"></span>|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=72907"><span class="blue">Skystalker</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a1-3"></span><span class="awards-sprite a2-3"></span><span class="awards-sprite a3-3"></span><span class="awards-sprite a5-3"></span></span></a>|
 |Nov 20, 2020|<span class="awards-sprite a3-2"></span>|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=70151"><span class="red">Flop</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a1-3"></span><span class="awards-sprite a2-1"></span><span class="awards-sprite a3-2"></span><span class="awards-sprite a5-3"></span></span></a>|
-|Nov 14, 2020|<span class="awards-sprite a3-2"></span>|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=76753"><span class="orange">Teufelhunden</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a1-3"></span><span class="awards-sprite a2-3"></span><span class="awards-sprite a3-2"></span><span class="awards-sprite a5-1"></span></span></a>|
 |Nov 14, 2020|<span class="awards-sprite a3-1"></span>|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=77484"><span class="orange">GhostMajor</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a1-3"></span><span class="awards-sprite a2-3"></span><span class="awards-sprite a3-1"></span><span class="awards-sprite a5-2"></span></span></a>|
+|Nov 14, 2020|<span class="awards-sprite a3-2"></span>|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=76753"><span class="orange">Teufelhunden</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a1-3"></span><span class="awards-sprite a2-3"></span><span class="awards-sprite a3-2"></span><span class="awards-sprite a5-1"></span></span></a>|
 |Nov 12, 2020|<span class="awards-sprite a3-3"></span>|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=71956"><span class="red">FINESSE</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a1-1"></span><span class="awards-sprite a2-3"></span><span class="awards-sprite a3-3"></span><span class="awards-sprite a4-3"></span><span class="awards-sprite a5-3"></span><span class="awards-sprite a7-1"></span><span class="awards-sprite a8-1"></span></span></a>|
 |Nov 11, 2020|<span class="awards-sprite a3-2"></span>|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=59102"><span class="orange">PRO SELF</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a1-3"></span><span class="awards-sprite a2-1"></span><span class="awards-sprite a3-2"></span><span class="awards-sprite a5-3"></span></span></a>|
 |Nov 8, 2020|<span class="awards-sprite a3-1"></span>|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=70107"><span class="red">Sidecar</span><span class="awards-container"><span class="awards-sprite a0-2"></span><span class="awards-sprite a1-1"></span><span class="awards-sprite a2-2"></span><span class="awards-sprite a3-1"></span></span></a>|
@@ -119,5 +125,5 @@
 
 
 
-<p class="last_updated"><span class="last_updated">Last Updated:&nbsp;&nbsp;Dec 31, 12:03 AM&nbsp;&nbsp;(Pacific)</span></p>
+<p class="last_updated"><span class="last_updated">Last Updated:&nbsp;&nbsp;Jan 1, 12:02 AM&nbsp;&nbsp;(Pacific)</span></p>
 
