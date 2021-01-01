@@ -20,5 +20,5 @@
 
 
 
-<p class="last_updated"><span class="last_updated">Last Updated:&nbsp;&nbsp;Jan 1, 8:27 AM&nbsp;&nbsp;(Pacific)</span></p>
+<p class="last_updated"><span class="last_updated">Last Updated:&nbsp;&nbsp;Jan 1, 8:38 AM&nbsp;&nbsp;(Pacific)</span></p>
 
