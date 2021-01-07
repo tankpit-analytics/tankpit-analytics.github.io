@@ -7,6 +7,7 @@
 
 {:.t100_passes.t100_passes_desktop}
 |<span class="t100_date">Date</span>|<span class="tank_col">Tank</span>|<span class="tank_col">Passed</span>|<span class="t100_rank">#</span>|
+|Jan 7: 8:46 AM|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=79103"><span class="orange">Jack Dragna</span><span class="awards-container"><span class="awards-sprite a0-3"></span></span></a>|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=79121"><span class="orange">Georges St-Pierre</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a5-2"></span></span></a>|<span class="green">5</span>|
 |Jan 6: 10:46 PM|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=79219"><span class="blue">Ultimate Blaster</span><span class="awards-container"><span class="awards-sprite a0-2"></span></span></a>|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=79120"><span class="purple">Modest Mole</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a5-1"></span></span></a>|<span class="green">11</span>|
 |Jan 6: 9:31 PM|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=79123"><span class="red">horsepower</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a1-1"></span></span></a>|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=79094"><span class="orange">Amanda Nunes</span><span class="awards-container"><span class="awards-sprite a0-3"></span></span></a>|<span class="green">12</span>|
 |Jan 6: 7:31 PM|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=79089"><span class="blue">Tomahawk</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a1-2"></span></span></a>|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=79156"><span class="orange">Yoshio Kodama</span><span class="awards-container"><span class="awards-sprite a0-3"></span></span></a>|<span class="green">3</span>|
@@ -65,6 +66,7 @@
 
 {:.t100_passes.t100_passes_mobile}
 |<span class="tank_col">Tank</span>|<span class="tank_col">Passed</span>|<span class="t100_rank">#</span>|
+|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=79103"><span class="orange">Jack Dragna</span><span class="awards-container"><span class="awards-sprite a0-3"></span></span></a>|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=79121"><span class="orange">Georges St-Pierre</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a5-2"></span></span></a>|<span class="green">5</span>|
 |<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=79219"><span class="blue">Ultimate Blaster</span><span class="awards-container"><span class="awards-sprite a0-2"></span></span></a>|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=79120"><span class="purple">Modest Mole</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a5-1"></span></span></a>|<span class="green">11</span>|
 |<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=79123"><span class="red">horsepower</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a1-1"></span></span></a>|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=79094"><span class="orange">Amanda Nunes</span><span class="awards-container"><span class="awards-sprite a0-3"></span></span></a>|<span class="green">12</span>|
 |<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=79089"><span class="blue">Tomahawk</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a1-2"></span></span></a>|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=79156"><span class="orange">Yoshio Kodama</span><span class="awards-container"><span class="awards-sprite a0-3"></span></span></a>|<span class="green">3</span>|
@@ -124,5 +126,5 @@
 
 
 
-<p class="last_updated"><span class="last_updated">Last Updated:&nbsp;&nbsp;Jan 7, 12:00 AM&nbsp;&nbsp;(Pacific)</span></p>
+<p class="last_updated"><span class="last_updated">Last Updated:&nbsp;&nbsp;Jan 7, 12:00 PM&nbsp;&nbsp;(Pacific)</span></p>
 
