@@ -7,6 +7,7 @@
 
 {:.t100_passes.t100_passes_desktop}
 |<span class="t100_date">Date</span>|<span class="tank_col">Tank</span>|<span class="tank_col">Passed</span>|<span class="t100_rank">#</span>|
+|Jan 11: 11:46 AM|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=79089"><span class="blue">Tomahawk</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a1-3"></span></span></a>|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=79125"><span class="blue">xACHILLES - x</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a5-3"></span></span></a>|<span class="green">2</span>|
 |Jan 10: 9:46 PM|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=79195"><span class="purple">Flaming Flamingo</span><span class="awards-container"><span class="awards-sprite a0-3"></span></span></a>|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=79380"><span class="orange">Baconator 1</span><span class="awards-container"></span></a>|<span class="green">23</span>|
 |Jan 10: 6:46 PM|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=79157"><span class="orange">Thebrit</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a1-3"></span><span class="awards-sprite a2-2"></span></span></a>|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=79175"><span class="purple">DontMessWithTheZohan</span><span class="awards-container"></span></a>|<span class="green">25</span>|
 |Jan 10: 6:16 PM|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=79123"><span class="red">horsepower</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a1-1"></span></span></a>|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=79094"><span class="orange">Amanda Nunes</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a5-1"></span></span></a>|<span class="green">9</span>|
@@ -100,6 +101,7 @@
 
 {:.t100_passes.t100_passes_mobile}
 |<span class="tank_col">Tank</span>|<span class="tank_col">Passed</span>|<span class="t100_rank">#</span>|
+|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=79089"><span class="blue">Tomahawk</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a1-3"></span></span></a>|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=79125"><span class="blue">xACHILLES - x</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a5-3"></span></span></a>|<span class="green">2</span>|
 |<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=79195"><span class="purple">Flaming Flamingo</span><span class="awards-container"><span class="awards-sprite a0-3"></span></span></a>|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=79380"><span class="orange">Baconator 1</span><span class="awards-container"></span></a>|<span class="green">23</span>|
 |<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=79157"><span class="orange">Thebrit</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a1-3"></span><span class="awards-sprite a2-2"></span></span></a>|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=79175"><span class="purple">DontMessWithTheZohan</span><span class="awards-container"></span></a>|<span class="green">25</span>|
 |<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=79123"><span class="red">horsepower</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a1-1"></span></span></a>|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=79094"><span class="orange">Amanda Nunes</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a5-1"></span></span></a>|<span class="green">9</span>|
@@ -194,5 +196,5 @@
 
 
 
-<p class="last_updated"><span class="last_updated">Last Updated:&nbsp;&nbsp;Jan 11, 12:00 AM&nbsp;&nbsp;(Pacific)</span></p>
+<p class="last_updated"><span class="last_updated">Last Updated:&nbsp;&nbsp;Jan 11, 12:00 PM&nbsp;&nbsp;(Pacific)</span></p>
 
