@@ -7,8 +7,8 @@
 
 {:.stats_leaderboard#stats_leaderboard_playtime}
 |<span class="num_col">&nbsp;</span>|<span class="tank_col">Tank</span>|<span class="stat_col">Time Played</span>|
-|1|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=79120"><span class="purple">Modest Mole</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a5-1"></span></span></a>|22:20:45|
-|2|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=79197"><span class="purple">Tenacious Turtle</span><span class="awards-container"><span class="awards-sprite a0-1"></span><span class="awards-sprite a1-2"></span></span></a>|15:46:55|
+|1|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=79120"><span class="purple">Modest Mole</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a5-1"></span></span></a>|22:57:25|
+|2|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=79197"><span class="purple">Tenacious Turtle</span><span class="awards-container"><span class="awards-sprite a0-1"></span><span class="awards-sprite a1-2"></span></span></a>|15:54:35|
 |3|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=79158"><span class="purple">Ordinary Owl</span><span class="awards-container"><span class="awards-sprite a0-1"></span><span class="awards-sprite a5-3"></span></span></a>|5:39:49|
 |4|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=79182"><span class="orange">Khabib Nurmagomedov</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a5-3"></span></span></a>|2:32:04|
 
@@ -24,11 +24,11 @@
 {:.stats_leaderboard#stats_leaderboard_deaths}
 |<span class="num_col">&nbsp;</span>|<span class="tank_col">Tank</span>|<span class="stat_col">Deaths</span>|
 |1|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=79120"><span class="purple">Modest Mole</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a5-1"></span></span></a>|13|
-|2|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=79197"><span class="purple">Tenacious Turtle</span><span class="awards-container"><span class="awards-sprite a0-1"></span><span class="awards-sprite a1-2"></span></span></a>|7|
-|3|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=79158"><span class="purple">Ordinary Owl</span><span class="awards-container"><span class="awards-sprite a0-1"></span><span class="awards-sprite a5-3"></span></span></a>|7|
+|2|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=79158"><span class="purple">Ordinary Owl</span><span class="awards-container"><span class="awards-sprite a0-1"></span><span class="awards-sprite a5-3"></span></span></a>|7|
+|3|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=79197"><span class="purple">Tenacious Turtle</span><span class="awards-container"><span class="awards-sprite a0-1"></span><span class="awards-sprite a1-2"></span></span></a>|7|
 
 
 
 
-<p class="last_updated"><span class="last_updated">Last Updated:&nbsp;&nbsp;Jan 12, 12:01 AM&nbsp;&nbsp;(Pacific)</span></p>
+<p class="last_updated"><span class="last_updated">Last Updated:&nbsp;&nbsp;Jan 12, 12:01 PM&nbsp;&nbsp;(Pacific)</span></p>
 
