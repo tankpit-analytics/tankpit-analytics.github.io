@@ -297,7 +297,7 @@
 |284|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=48752"><span class="blue">AMeRiCaN PaTrioT</span><span class="awards-container"><span class="awards-sprite a0-1"></span><span class="awards-sprite a1-1"></span></span></a>|
 |285|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=48892"><span class="orange">Sarcoma</span><span class="awards-container"><span class="awards-sprite a0-1"></span><span class="awards-sprite a1-2"></span></span></a>|
 |286|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=49098"><span class="red">must be a kohler</span><span class="awards-container"><span class="awards-sprite a0-1"></span><span class="awards-sprite a5-3"></span></span></a>|
-|287|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=49130"><span class="blue">Hashman</span><span class="awards-container"><span class="awards-sprite a0-1"></span><span class="awards-sprite a1-1"></span></span></a>|
+|287|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=49130"><span class="purple">Hashman</span><span class="awards-container"><span class="awards-sprite a0-1"></span><span class="awards-sprite a1-1"></span></span></a>|
 |288|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=49201"><span class="red">F-23 Black Widow II</span><span class="awards-container"><span class="awards-sprite a0-1"></span><span class="awards-sprite a5-2"></span></span></a>|
 |289|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=49273"><span class="red">RedRage91</span><span class="awards-container"><span class="awards-sprite a0-1"></span><span class="awards-sprite a2-1"></span></span></a>|
 |290|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=49911"><span class="blue">Steven</span><span class="awards-container"><span class="awards-sprite a0-1"></span><span class="awards-sprite a1-2"></span></span></a>|
@@ -3030,7 +3030,7 @@
 |2083|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=70211"><span class="orange">-Cyclone-</span><span class="awards-container"><span class="awards-sprite a0-3"></span></span></a>|
 |2084|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=70221"><span class="red">CR4CK3R T4M3R</span><span class="awards-container"><span class="awards-sprite a0-3"></span></span></a>|
 |2085|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=70240"><span class="purple">-VorteX-</span><span class="awards-container"><span class="awards-sprite a0-3"></span></span></a>|
-|2086|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=70241"><span class="blue">Okayy</span><span class="awards-container"><span class="awards-sprite a0-3"></span></span></a>|
+|2086|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=70241"><span class="orange">Okayy</span><span class="awards-container"><span class="awards-sprite a0-3"></span></span></a>|
 |2087|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=70280"><span class="orange">Sniper Rifles</span><span class="awards-container"><span class="awards-sprite a0-3"></span></span></a>|
 |2088|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=70332"><span class="purple">Spirit Animal</span><span class="awards-container"><span class="awards-sprite a0-3"></span></span></a>|
 |2089|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=70338"><span class="orange">guest</span><span class="awards-container"><span class="awards-sprite a0-3"></span></span></a>|
@@ -3827,7 +3827,7 @@
 |696|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=47087"><span class="orange">Come Get Me</span><span class="awards-container"><span class="awards-sprite a0-1"></span><span class="awards-sprite a1-1"></span></span></a>|
 |697|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=48482"><span class="blue">Green</span><span class="awards-container"><span class="awards-sprite a0-1"></span><span class="awards-sprite a1-1"></span></span></a>|
 |698|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=48752"><span class="blue">AMeRiCaN PaTrioT</span><span class="awards-container"><span class="awards-sprite a0-1"></span><span class="awards-sprite a1-1"></span></span></a>|
-|699|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=49130"><span class="blue">Hashman</span><span class="awards-container"><span class="awards-sprite a0-1"></span><span class="awards-sprite a1-1"></span></span></a>|
+|699|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=49130"><span class="purple">Hashman</span><span class="awards-container"><span class="awards-sprite a0-1"></span><span class="awards-sprite a1-1"></span></span></a>|
 |700|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=49960"><span class="blue">Alphax</span><span class="awards-container"><span class="awards-sprite a0-1"></span><span class="awards-sprite a1-1"></span></span></a>|
 |701|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=50052"><span class="red">Lama</span><span class="awards-container"><span class="awards-sprite a0-1"></span><span class="awards-sprite a1-1"></span></span></a>|
 |702|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=50482"><span class="red">TheRealSlimNoodle</span><span class="awards-container"><span class="awards-sprite a0-1"></span><span class="awards-sprite a1-1"></span></span></a>|
@@ -4043,7 +4043,7 @@
 |912|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=78280"><span class="red"> G I V E  I T  U P  </span><span class="awards-container"><span class="awards-sprite a1-1"></span></span></a>|
 
 
-<span class="awards_search_header" id="awards_search_header_tank2">Silver Tank (496)</span>
+<span class="awards_search_header" id="awards_search_header_tank2">Silver Tank (497)</span>
 
 {:.awards_search#awards_search_tank2}
 |1|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=842"><span class="red">MALVA</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a1-2"></span><span class="awards-sprite a2-2"></span><span class="awards-sprite a3-3"></span><span class="awards-sprite a4-3"></span><span class="awards-sprite a5-3"></span><span class="awards-sprite a6-1"></span><span class="awards-sprite a7-1"></span></span></a>|
@@ -4542,6 +4542,7 @@
 |494|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=66288"><span class="orange">WOLF MASTER</span><span class="awards-container"><span class="awards-sprite a1-2"></span></span></a>|
 |495|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=76940"><span class="red">pew</span><span class="awards-container"><span class="awards-sprite a1-2"></span></span></a>|
 |496|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=78404"><span class="red">bubblesmama</span><span class="awards-container"><span class="awards-sprite a1-2"></span></span></a>|
+|497|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=78973"><span class="blue">TheBrit</span><span class="awards-container"><span class="awards-sprite a1-2"></span></span></a>|
 
 
 <span class="awards_search_header" id="awards_search_header_tank3">Golden Tank (454)</span>
@@ -7971,5 +7972,5 @@
 
 
 
-<p class="last_updated"><span class="last_updated">Last Updated:&nbsp;&nbsp;Jan 25, 12:02 PM&nbsp;&nbsp;(Pacific)</span></p>
+<p class="last_updated"><span class="last_updated">Last Updated:&nbsp;&nbsp;Jan 26, 12:02 AM&nbsp;&nbsp;(Pacific)</span></p>
 
