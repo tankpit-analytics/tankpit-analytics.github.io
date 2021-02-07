@@ -33,9 +33,9 @@ if __name__ == '__main__':
         passes_csv_file = passes_csv_2021,
         ranks_dict = ranks_dict_2021,
         master_nrow = master_nrow_2021)
-    # SUPPLEMENT JOB => currently in BETA
-    master_df = supplement_passes_with_overall(
-        master_csv_overall_file = master_csv_overall, 
-        master_csv_2021_file = master_csv_2021,
-        passes_csv_2021_file = passes_csv_2021,
-        master_2021_nrow = master_nrow_2021)
+    # # SUPPLEMENT JOB => currently in BETA
+    # master_df = supplement_passes_with_overall(
+    #     master_csv_overall_file = master_csv_overall, 
+    #     master_csv_2021_file = master_csv_2021,
+    #     passes_csv_2021_file = passes_csv_2021,
+    #     master_2021_nrow = master_nrow_2021)
