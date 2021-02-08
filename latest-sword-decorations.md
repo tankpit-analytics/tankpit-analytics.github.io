@@ -7,6 +7,7 @@
 
 {:.decorations}
 |<span class="decorations_date">Date</span>|<span class="decoration">&nbsp;</span>|<span class="tank_col">Tank</span>|
+|Feb 8, 2021|<span class="awards-sprite a3-2"></span>|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=7002"><span class="red">Wolverine</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a1-3"></span><span class="awards-sprite a2-3"></span><span class="awards-sprite a3-2"></span><span class="awards-sprite a4-3"></span><span class="awards-sprite a5-2"></span></span></a>|
 |Feb 8, 2021|<span class="awards-sprite a3-1"></span>|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=79156"><span class="orange">Yoshio Kodama</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a2-1"></span><span class="awards-sprite a3-1"></span><span class="awards-sprite a5-3"></span></span></a>|
 |Feb 8, 2021|<span class="awards-sprite a3-1"></span>|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=1893"><span class="red">noogie</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a1-3"></span><span class="awards-sprite a2-2"></span><span class="awards-sprite a3-1"></span><span class="awards-sprite a5-2"></span></span></a>|
 |Feb 5, 2021|<span class="awards-sprite a3-2"></span>|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=79159"><span class="orange">I AM LEGEND</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a1-3"></span><span class="awards-sprite a2-2"></span><span class="awards-sprite a3-2"></span></span></a>|
@@ -138,5 +139,5 @@
 
 
 
-<p class="last_updated"><span class="last_updated">Last Updated:&nbsp;&nbsp;Feb 8, 12:02 AM&nbsp;&nbsp;(Pacific)</span></p>
+<p class="last_updated"><span class="last_updated">Last Updated:&nbsp;&nbsp;Feb 8, 12:02 PM&nbsp;&nbsp;(Pacific)</span></p>
 
