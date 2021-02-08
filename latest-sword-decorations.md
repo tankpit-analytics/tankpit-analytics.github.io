@@ -7,6 +7,8 @@
 
 {:.decorations}
 |<span class="decorations_date">Date</span>|<span class="decoration">&nbsp;</span>|<span class="tank_col">Tank</span>|
+|Feb 8, 2021|<span class="awards-sprite a3-1"></span>|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=79156"><span class="orange">Yoshio Kodama</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a2-1"></span><span class="awards-sprite a3-1"></span><span class="awards-sprite a5-3"></span></span></a>|
+|Feb 8, 2021|<span class="awards-sprite a3-1"></span>|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=1893"><span class="red">noogie</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a1-3"></span><span class="awards-sprite a2-2"></span><span class="awards-sprite a3-1"></span><span class="awards-sprite a5-2"></span></span></a>|
 |Feb 5, 2021|<span class="awards-sprite a3-2"></span>|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=79159"><span class="orange">I AM LEGEND</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a1-3"></span><span class="awards-sprite a2-2"></span><span class="awards-sprite a3-2"></span></span></a>|
 |Feb 4, 2021|<span class="awards-sprite a3-1"></span>|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=79103"><span class="orange">Jack Dragna</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a2-1"></span><span class="awards-sprite a3-1"></span><span class="awards-sprite a5-2"></span></span></a>|
 
@@ -24,8 +26,8 @@
 
 {:.decorations}
 |<span class="decorations_date">Date</span>|<span class="decoration">&nbsp;</span>|<span class="tank_col">Tank</span>|
-|Dec 31, 2020|<span class="awards-sprite a3-2"></span>|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=33506"><span class="purple">purp88</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a2-1"></span><span class="awards-sprite a3-2"></span><span class="awards-sprite a5-2"></span></span></a>|
 |Dec 31, 2020|<span class="awards-sprite a3-3"></span>|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=6828"><span class="red">INTIMIDATION</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a1-1"></span><span class="awards-sprite a2-3"></span><span class="awards-sprite a3-3"></span><span class="awards-sprite a4-3"></span><span class="awards-sprite a5-3"></span><span class="awards-sprite a8-1"></span></span></a>|
+|Dec 31, 2020|<span class="awards-sprite a3-2"></span>|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=33506"><span class="purple">purp88</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a2-1"></span><span class="awards-sprite a3-2"></span><span class="awards-sprite a5-2"></span></span></a>|
 |Dec 10, 2020|<span class="awards-sprite a3-1"></span>|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=70136"><span class="orange">Shredder</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a1-2"></span><span class="awards-sprite a3-1"></span><span class="awards-sprite a5-2"></span></span></a>|
 
 <span class="decorations_month">November 2020</span>
@@ -136,5 +138,5 @@
 
 
 
-<p class="last_updated"><span class="last_updated">Last Updated:&nbsp;&nbsp;Feb 5, 12:02 AM&nbsp;&nbsp;(Pacific)</span></p>
+<p class="last_updated"><span class="last_updated">Last Updated:&nbsp;&nbsp;Feb 8, 12:02 AM&nbsp;&nbsp;(Pacific)</span></p>
 
