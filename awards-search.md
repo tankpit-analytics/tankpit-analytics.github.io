@@ -396,12 +396,12 @@
 |383|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=78973"><span class="red">TheBrit</span><span class="awards-container"><span class="awards-sprite a0-1"></span><span class="awards-sprite a1-2"></span></span></a>|
 |384|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=79174"><span class="red">Red Roc</span><span class="awards-container"><span class="awards-sprite a0-1"></span><span class="awards-sprite a5-2"></span></span></a>|
 |385|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=79657"><span class="purple">Rocket Raccoon</span><span class="awards-container"><span class="awards-sprite a0-1"></span><span class="awards-sprite a5-2"></span></span></a>|
-|386|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=79734"><span class="orange">Vision</span><span class="awards-container"><span class="awards-sprite a0-1"></span><span class="awards-sprite a1-1"></span></span></a>|
+|386|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=79734"><span class="blue">Vision</span><span class="awards-container"><span class="awards-sprite a0-1"></span><span class="awards-sprite a1-1"></span></span></a>|
 |387|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=79965"><span class="purple">Buzzz</span><span class="awards-container"><span class="awards-sprite a0-1"></span><span class="awards-sprite a1-2"></span></span></a>|
 |388|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=80095"><span class="red">Battery Steele</span><span class="awards-container"><span class="awards-sprite a0-1"></span><span class="awards-sprite a1-2"></span></span></a>|
 
 
-<span class="awards_search_header" id="awards_search_header_star2">Double Star (544)</span>
+<span class="awards_search_header" id="awards_search_header_star2">Double Star (545)</span>
 
 {:.awards_search#awards_search_star2}
 |1|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=8173"><span class="orange">-CopperheaD-</span><span class="awards-container"><span class="awards-sprite a0-2"></span><span class="awards-sprite a1-3"></span><span class="awards-sprite a2-3"></span><span class="awards-sprite a3-1"></span><span class="awards-sprite a5-3"></span></span></a>|
@@ -948,6 +948,7 @@
 |542|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=79649"><span class="red">I SmOke CracK</span><span class="awards-container"><span class="awards-sprite a0-2"></span><span class="awards-sprite a2-1"></span></span></a>|
 |543|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=79674"><span class="blue">ArchAngel Returns</span><span class="awards-container"><span class="awards-sprite a0-2"></span><span class="awards-sprite a1-1"></span></span></a>|
 |544|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=79858"><span class="purple">a purple mine</span><span class="awards-container"><span class="awards-sprite a0-2"></span><span class="awards-sprite a2-1"></span></span></a>|
+|545|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=80098"><span class="red">Royal Highness</span><span class="awards-container"><span class="awards-sprite a0-2"></span><span class="awards-sprite a5-2"></span></span></a>|
 
 
 <span class="awards_search_header" id="awards_search_header_star3">Triple Star (2184)</span>
@@ -3882,7 +3883,7 @@
 |738|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=71469"><span class="purple">fghij</span><span class="awards-container"><span class="awards-sprite a0-1"></span><span class="awards-sprite a1-1"></span></span></a>|
 |739|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=72667"><span class="blue">Continuum</span><span class="awards-container"><span class="awards-sprite a0-1"></span><span class="awards-sprite a1-1"></span></span></a>|
 |740|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=73163"><span class="purple">Just Fake IT</span><span class="awards-container"><span class="awards-sprite a0-1"></span><span class="awards-sprite a1-1"></span></span></a>|
-|741|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=79734"><span class="orange">Vision</span><span class="awards-container"><span class="awards-sprite a0-1"></span><span class="awards-sprite a1-1"></span></span></a>|
+|741|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=79734"><span class="blue">Vision</span><span class="awards-container"><span class="awards-sprite a0-1"></span><span class="awards-sprite a1-1"></span></span></a>|
 |742|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=2335"><span class="red">Superblionbait</span><span class="awards-container"><span class="awards-sprite a1-1"></span><span class="awards-sprite a2-1"></span></span></a>|
 |743|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=2715"><span class="orange">Gingerbread Man</span><span class="awards-container"><span class="awards-sprite a1-1"></span><span class="awards-sprite a2-1"></span></span></a>|
 |744|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=4922"><span class="red">Sovereignty</span><span class="awards-container"><span class="awards-sprite a1-1"></span><span class="awards-sprite a2-1"></span></span></a>|
@@ -6464,7 +6465,7 @@
 |97|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=13048"><span class="red">Aftermath</span><span class="awards-container"><span class="awards-sprite a0-1"></span><span class="awards-sprite a4-3"></span><span class="awards-sprite a5-3"></span></span></a>|
 
 
-<span class="awards_search_header" id="awards_search_header_cup1">Bronze Cup (371)</span>
+<span class="awards_search_header" id="awards_search_header_cup1">Bronze Cup (372)</span>
 
 {:.awards_search#awards_search_cup1}
 |1|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=671"><span class="red">ENDURANCE</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a1-3"></span><span class="awards-sprite a2-3"></span><span class="awards-sprite a3-3"></span><span class="awards-sprite a4-3"></span><span class="awards-sprite a5-1"></span><span class="awards-sprite a7-1"></span><span class="awards-sprite a8-1"></span></span></a>|
@@ -6838,9 +6839,10 @@
 |369|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=75218"><span class="blue">Smokebreak</span><span class="awards-container"><span class="awards-sprite a5-1"></span></span></a>|
 |370|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=76006"><span class="blue">100 Ton Hammer</span><span class="awards-container"><span class="awards-sprite a5-1"></span></span></a>|
 |371|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=76058"><span class="blue">1Hits Raid Take Tank</span><span class="awards-container"><span class="awards-sprite a5-1"></span></span></a>|
+|372|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=78326"><span class="purple">StarvingGreasyKids</span><span class="awards-container"><span class="awards-sprite a5-1"></span></span></a>|
 
 
-<span class="awards_search_header" id="awards_search_header_cup2">Silver Cup (437)</span>
+<span class="awards_search_header" id="awards_search_header_cup2">Silver Cup (438)</span>
 
 {:.awards_search#awards_search_cup2}
 |1|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=25836"><span class="red">noodle</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a1-3"></span><span class="awards-sprite a2-3"></span><span class="awards-sprite a3-3"></span><span class="awards-sprite a4-3"></span><span class="awards-sprite a5-2"></span><span class="awards-sprite a6-1"></span><span class="awards-sprite a8-1"></span></span></a>|
@@ -7173,116 +7175,117 @@
 |328|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=73559"><span class="red">PANIC</span><span class="awards-container"><span class="awards-sprite a0-2"></span><span class="awards-sprite a5-2"></span></span></a>|
 |329|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=73615"><span class="orange">Abraham Simpson II</span><span class="awards-container"><span class="awards-sprite a0-2"></span><span class="awards-sprite a5-2"></span></span></a>|
 |330|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=79126"><span class="purple">Filthy Fox</span><span class="awards-container"><span class="awards-sprite a0-2"></span><span class="awards-sprite a5-2"></span></span></a>|
-|331|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=647"><span class="blue">cdub</span><span class="awards-container"><span class="awards-sprite a0-1"></span><span class="awards-sprite a5-2"></span></span></a>|
-|332|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=1569"><span class="purple">FoR LovE Of ThE GamE</span><span class="awards-container"><span class="awards-sprite a0-1"></span><span class="awards-sprite a5-2"></span></span></a>|
-|333|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=5560"><span class="purple">Radioactive Man</span><span class="awards-container"><span class="awards-sprite a0-1"></span><span class="awards-sprite a5-2"></span></span></a>|
-|334|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=6138"><span class="red">DraculA</span><span class="awards-container"><span class="awards-sprite a0-1"></span><span class="awards-sprite a5-2"></span></span></a>|
-|335|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=7885"><span class="orange">Hays</span><span class="awards-container"><span class="awards-sprite a0-1"></span><span class="awards-sprite a5-2"></span></span></a>|
-|336|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=9303"><span class="orange">Tyrael</span><span class="awards-container"><span class="awards-sprite a0-1"></span><span class="awards-sprite a5-2"></span></span></a>|
-|337|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=13446"><span class="purple">GummiBear</span><span class="awards-container"><span class="awards-sprite a0-1"></span><span class="awards-sprite a5-2"></span></span></a>|
-|338|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=13484"><span class="orange">BOJINKA</span><span class="awards-container"><span class="awards-sprite a0-1"></span><span class="awards-sprite a5-2"></span></span></a>|
-|339|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=16580"><span class="orange">Dynamo Nord</span><span class="awards-container"><span class="awards-sprite a0-1"></span><span class="awards-sprite a5-2"></span></span></a>|
-|340|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=22644"><span class="blue">Doomsday</span><span class="awards-container"><span class="awards-sprite a0-1"></span><span class="awards-sprite a5-2"></span></span></a>|
-|341|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=24736"><span class="blue">Stealth R Us</span><span class="awards-container"><span class="awards-sprite a0-1"></span><span class="awards-sprite a5-2"></span></span></a>|
-|342|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=26009"><span class="purple">Bunni</span><span class="awards-container"><span class="awards-sprite a0-1"></span><span class="awards-sprite a5-2"></span></span></a>|
-|343|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=27940"><span class="orange">Seismic Wand</span><span class="awards-container"><span class="awards-sprite a0-1"></span><span class="awards-sprite a5-2"></span></span></a>|
-|344|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=29132"><span class="blue">Love Buzz</span><span class="awards-container"><span class="awards-sprite a0-1"></span><span class="awards-sprite a5-2"></span></span></a>|
-|345|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=32113"><span class="orange">FiGHTiNG iLLiNi</span><span class="awards-container"><span class="awards-sprite a0-1"></span><span class="awards-sprite a5-2"></span></span></a>|
-|346|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=37358"><span class="red">Thrice The Killa</span><span class="awards-container"><span class="awards-sprite a0-1"></span><span class="awards-sprite a5-2"></span></span></a>|
-|347|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=45160"><span class="purple">Oliver Hart</span><span class="awards-container"><span class="awards-sprite a0-1"></span><span class="awards-sprite a5-2"></span></span></a>|
-|348|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=46764"><span class="red">Crimson Avenger</span><span class="awards-container"><span class="awards-sprite a0-1"></span><span class="awards-sprite a5-2"></span></span></a>|
-|349|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=47847"><span class="purple">peek a BOO</span><span class="awards-container"><span class="awards-sprite a0-1"></span><span class="awards-sprite a5-2"></span></span></a>|
-|350|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=49201"><span class="red">F-23 Black Widow II</span><span class="awards-container"><span class="awards-sprite a0-1"></span><span class="awards-sprite a5-2"></span></span></a>|
-|351|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=50072"><span class="blue">Black Widow</span><span class="awards-container"><span class="awards-sprite a0-1"></span><span class="awards-sprite a5-2"></span></span></a>|
-|352|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=56902"><span class="purple">asphyxiated</span><span class="awards-container"><span class="awards-sprite a0-1"></span><span class="awards-sprite a5-2"></span></span></a>|
-|353|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=57216"><span class="blue">snowstorm showdown</span><span class="awards-container"><span class="awards-sprite a0-1"></span><span class="awards-sprite a5-2"></span></span></a>|
-|354|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=59289"><span class="purple">genEric Eric</span><span class="awards-container"><span class="awards-sprite a0-1"></span><span class="awards-sprite a5-2"></span></span></a>|
-|355|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=62631"><span class="red">cOcA CoLa</span><span class="awards-container"><span class="awards-sprite a0-1"></span><span class="awards-sprite a5-2"></span></span></a>|
-|356|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=65786"><span class="blue">SilkyJohnson</span><span class="awards-container"><span class="awards-sprite a0-1"></span><span class="awards-sprite a5-2"></span></span></a>|
-|357|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=65973"><span class="red">snaKe eYes</span><span class="awards-container"><span class="awards-sprite a0-1"></span><span class="awards-sprite a5-2"></span></span></a>|
-|358|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=69134"><span class="red">Blood and Gold</span><span class="awards-container"><span class="awards-sprite a0-1"></span><span class="awards-sprite a5-2"></span></span></a>|
-|359|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=69251"><span class="blue">H3 Team Slayer</span><span class="awards-container"><span class="awards-sprite a0-1"></span><span class="awards-sprite a5-2"></span></span></a>|
-|360|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=70266"><span class="blue">the Hatchet</span><span class="awards-container"><span class="awards-sprite a0-1"></span><span class="awards-sprite a5-2"></span></span></a>|
-|361|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=70825"><span class="blue">Corpse Reviver</span><span class="awards-container"><span class="awards-sprite a0-1"></span><span class="awards-sprite a5-2"></span></span></a>|
-|362|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=70845"><span class="purple">8 Kobe Bryant 24 </span><span class="awards-container"><span class="awards-sprite a0-1"></span><span class="awards-sprite a5-2"></span></span></a>|
-|363|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=72684"><span class="purple">SWIFT</span><span class="awards-container"><span class="awards-sprite a0-1"></span><span class="awards-sprite a5-2"></span></span></a>|
-|364|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=72756"><span class="orange">MAN-MYTH-LEGEND</span><span class="awards-container"><span class="awards-sprite a0-1"></span><span class="awards-sprite a5-2"></span></span></a>|
-|365|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=73148"><span class="blue">a blue mine</span><span class="awards-container"><span class="awards-sprite a0-1"></span><span class="awards-sprite a5-2"></span></span></a>|
-|366|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=73822"><span class="orange">pYrAmid eVolution</span><span class="awards-container"><span class="awards-sprite a0-1"></span><span class="awards-sprite a5-2"></span></span></a>|
-|367|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=74267"><span class="red">Apocalypse 9</span><span class="awards-container"><span class="awards-sprite a0-1"></span><span class="awards-sprite a5-2"></span></span></a>|
-|368|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=74716"><span class="red">PROVOCATION</span><span class="awards-container"><span class="awards-sprite a0-1"></span><span class="awards-sprite a5-2"></span></span></a>|
-|369|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=79174"><span class="red">Red Roc</span><span class="awards-container"><span class="awards-sprite a0-1"></span><span class="awards-sprite a5-2"></span></span></a>|
-|370|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=79657"><span class="purple">Rocket Raccoon</span><span class="awards-container"><span class="awards-sprite a0-1"></span><span class="awards-sprite a5-2"></span></span></a>|
-|371|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=8503"><span class="purple">10 J Q K A</span><span class="awards-container"><span class="awards-sprite a1-3"></span><span class="awards-sprite a5-2"></span></span></a>|
-|372|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=1336"><span class="orange">Behold a Candle</span><span class="awards-container"><span class="awards-sprite a5-2"></span></span></a>|
-|373|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=5351"><span class="orange">KiNG oF TeRRoR</span><span class="awards-container"><span class="awards-sprite a5-2"></span></span></a>|
-|374|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=8164"><span class="red">FEAR</span><span class="awards-container"><span class="awards-sprite a5-2"></span></span></a>|
-|375|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=9039"><span class="red">SkiTTleS</span><span class="awards-container"><span class="awards-sprite a5-2"></span></span></a>|
-|376|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=9337"><span class="blue">Amon</span><span class="awards-container"><span class="awards-sprite a5-2"></span></span></a>|
-|377|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=9882"><span class="orange">Lightning Dust</span><span class="awards-container"><span class="awards-sprite a5-2"></span></span></a>|
-|378|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=10235"><span class="red">pineapple1</span><span class="awards-container"><span class="awards-sprite a5-2"></span></span></a>|
-|379|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=11137"><span class="blue">Saint Lou Lunatic</span><span class="awards-container"><span class="awards-sprite a5-2"></span></span></a>|
-|380|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=13039"><span class="purple">kid poker</span><span class="awards-container"><span class="awards-sprite a5-2"></span></span></a>|
-|381|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=14037"><span class="purple">Dopa</span><span class="awards-container"><span class="awards-sprite a5-2"></span></span></a>|
-|382|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=14374"><span class="blue">Cazualty</span><span class="awards-container"><span class="awards-sprite a5-2"></span></span></a>|
-|383|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=14377"><span class="red">Sarajevo</span><span class="awards-container"><span class="awards-sprite a5-2"></span></span></a>|
-|384|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=15063"><span class="orange">TYRANNOSAURUS REX</span><span class="awards-container"><span class="awards-sprite a5-2"></span></span></a>|
-|385|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=15311"><span class="red">The Soviet Reunion</span><span class="awards-container"><span class="awards-sprite a5-2"></span></span></a>|
-|386|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=15513"><span class="blue">BRAVEHEART</span><span class="awards-container"><span class="awards-sprite a5-2"></span></span></a>|
-|387|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=15960"><span class="blue">SimplyWEENIE</span><span class="awards-container"><span class="awards-sprite a5-2"></span></span></a>|
-|388|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=20820"><span class="orange">Silence of Siberia</span><span class="awards-container"><span class="awards-sprite a5-2"></span></span></a>|
-|389|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=29259"><span class="blue">Stranglehold</span><span class="awards-container"><span class="awards-sprite a5-2"></span></span></a>|
-|390|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=31519"><span class="blue">Astral Haven</span><span class="awards-container"><span class="awards-sprite a5-2"></span></span></a>|
-|391|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=39080"><span class="blue">lol prime</span><span class="awards-container"><span class="awards-sprite a5-2"></span></span></a>|
-|392|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=39267"><span class="red">SUPREMACY</span><span class="awards-container"><span class="awards-sprite a5-2"></span></span></a>|
-|393|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=39693"><span class="purple">dr I-DOOM-I </span><span class="awards-container"><span class="awards-sprite a5-2"></span></span></a>|
-|394|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=40239"><span class="blue">mr neo</span><span class="awards-container"><span class="awards-sprite a5-2"></span></span></a>|
-|395|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=41172"><span class="blue">A Tank Has No Name</span><span class="awards-container"><span class="awards-sprite a5-2"></span></span></a>|
-|396|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=41576"><span class="red">PROBABILITYOFSUCCESS</span><span class="awards-container"><span class="awards-sprite a5-2"></span></span></a>|
-|397|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=41733"><span class="orange">Jasper Beardly</span><span class="awards-container"><span class="awards-sprite a5-2"></span></span></a>|
-|398|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=41964"><span class="red">shako</span><span class="awards-container"><span class="awards-sprite a5-2"></span></span></a>|
-|399|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=45612"><span class="purple">Pulitzer Parsley</span><span class="awards-container"><span class="awards-sprite a5-2"></span></span></a>|
-|400|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=46711"><span class="blue">Lena Headey</span><span class="awards-container"><span class="awards-sprite a5-2"></span></span></a>|
-|401|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=47974"><span class="orange">MANHATTAN PROJECT</span><span class="awards-container"><span class="awards-sprite a5-2"></span></span></a>|
-|402|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=48267"><span class="blue">Modern Mans Hustle</span><span class="awards-container"><span class="awards-sprite a5-2"></span></span></a>|
-|403|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=48525"><span class="purple">dumpster fire</span><span class="awards-container"><span class="awards-sprite a5-2"></span></span></a>|
-|404|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=48692"><span class="purple">Haley Bennett</span><span class="awards-container"><span class="awards-sprite a5-2"></span></span></a>|
-|405|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=48846"><span class="red">Rose Byrne</span><span class="awards-container"><span class="awards-sprite a5-2"></span></span></a>|
-|406|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=50658"><span class="purple">Luminol</span><span class="awards-container"><span class="awards-sprite a5-2"></span></span></a>|
-|407|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=50920"><span class="red">Goddess of Truth</span><span class="awards-container"><span class="awards-sprite a5-2"></span></span></a>|
-|408|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=51548"><span class="red">Y AM I PLAYING THIS</span><span class="awards-container"><span class="awards-sprite a5-2"></span></span></a>|
-|409|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=51936"><span class="purple">COLOMBIA</span><span class="awards-container"><span class="awards-sprite a5-2"></span></span></a>|
-|410|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=53880"><span class="orange">- Tantalum -</span><span class="awards-container"><span class="awards-sprite a5-2"></span></span></a>|
-|411|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=54334"><span class="purple">Sylvia Hoeks</span><span class="awards-container"><span class="awards-sprite a5-2"></span></span></a>|
-|412|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=55590"><span class="orange">dulce vida</span><span class="awards-container"><span class="awards-sprite a5-2"></span></span></a>|
-|413|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=56509"><span class="red">CoLLapSE</span><span class="awards-container"><span class="awards-sprite a5-2"></span></span></a>|
-|414|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=56596"><span class="purple">the Prostitute</span><span class="awards-container"><span class="awards-sprite a5-2"></span></span></a>|
-|415|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=56937"><span class="blue">supercell sabotage</span><span class="awards-container"><span class="awards-sprite a5-2"></span></span></a>|
-|416|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=58101"><span class="blue">Why oh Why</span><span class="awards-container"><span class="awards-sprite a5-2"></span></span></a>|
-|417|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=58357"><span class="orange">MF DOOM</span><span class="awards-container"><span class="awards-sprite a5-2"></span></span></a>|
-|418|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=58863"><span class="red">BaTTleBiSCuiT</span><span class="awards-container"><span class="awards-sprite a5-2"></span></span></a>|
-|419|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=59888"><span class="purple">BurMese</span><span class="awards-container"><span class="awards-sprite a5-2"></span></span></a>|
-|420|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=62572"><span class="orange">Tom Cruise</span><span class="awards-container"><span class="awards-sprite a5-2"></span></span></a>|
-|421|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=65553"><span class="red">AORUS</span><span class="awards-container"><span class="awards-sprite a5-2"></span></span></a>|
-|422|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=66531"><span class="orange">PITERRIER ROXY</span><span class="awards-container"><span class="awards-sprite a5-2"></span></span></a>|
-|423|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=66776"><span class="purple">EPIC 3</span><span class="awards-container"><span class="awards-sprite a5-2"></span></span></a>|
-|424|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=67103"><span class="purple">Bobby Rabidoux</span><span class="awards-container"><span class="awards-sprite a5-2"></span></span></a>|
-|425|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=67196"><span class="red">smok alien</span><span class="awards-container"><span class="awards-sprite a5-2"></span></span></a>|
-|426|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=67620"><span class="purple">MissingNo</span><span class="awards-container"><span class="awards-sprite a5-2"></span></span></a>|
-|427|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=68618"><span class="red">QUAKE</span><span class="awards-container"><span class="awards-sprite a5-2"></span></span></a>|
-|428|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=69750"><span class="purple">i LOVE TABiTHA</span><span class="awards-container"><span class="awards-sprite a5-2"></span></span></a>|
-|429|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=70346"><span class="blue">Geralt of Rivia</span><span class="awards-container"><span class="awards-sprite a5-2"></span></span></a>|
-|430|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=71037"><span class="red">bloWn deadline</span><span class="awards-container"><span class="awards-sprite a5-2"></span></span></a>|
-|431|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=73910"><span class="red">AliensAreReal</span><span class="awards-container"><span class="awards-sprite a5-2"></span></span></a>|
-|432|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=74859"><span class="blue">Misfire</span><span class="awards-container"><span class="awards-sprite a5-2"></span></span></a>|
-|433|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=75037"><span class="blue">Planewoosh</span><span class="awards-container"><span class="awards-sprite a5-2"></span></span></a>|
-|434|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=76777"><span class="orange">Stimulus Six</span><span class="awards-container"><span class="awards-sprite a5-2"></span></span></a>|
-|435|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=77628"><span class="orange">DinDjarin</span><span class="awards-container"><span class="awards-sprite a5-2"></span></span></a>|
-|436|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=78197"><span class="blue">Fired Security Guard</span><span class="awards-container"><span class="awards-sprite a5-2"></span></span></a>|
-|437|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=79981"><span class="blue">Shawshank Redemption</span><span class="awards-container"><span class="awards-sprite a5-2"></span></span></a>|
+|331|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=80098"><span class="red">Royal Highness</span><span class="awards-container"><span class="awards-sprite a0-2"></span><span class="awards-sprite a5-2"></span></span></a>|
+|332|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=647"><span class="blue">cdub</span><span class="awards-container"><span class="awards-sprite a0-1"></span><span class="awards-sprite a5-2"></span></span></a>|
+|333|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=1569"><span class="purple">FoR LovE Of ThE GamE</span><span class="awards-container"><span class="awards-sprite a0-1"></span><span class="awards-sprite a5-2"></span></span></a>|
+|334|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=5560"><span class="purple">Radioactive Man</span><span class="awards-container"><span class="awards-sprite a0-1"></span><span class="awards-sprite a5-2"></span></span></a>|
+|335|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=6138"><span class="red">DraculA</span><span class="awards-container"><span class="awards-sprite a0-1"></span><span class="awards-sprite a5-2"></span></span></a>|
+|336|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=7885"><span class="orange">Hays</span><span class="awards-container"><span class="awards-sprite a0-1"></span><span class="awards-sprite a5-2"></span></span></a>|
+|337|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=9303"><span class="orange">Tyrael</span><span class="awards-container"><span class="awards-sprite a0-1"></span><span class="awards-sprite a5-2"></span></span></a>|
+|338|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=13446"><span class="purple">GummiBear</span><span class="awards-container"><span class="awards-sprite a0-1"></span><span class="awards-sprite a5-2"></span></span></a>|
+|339|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=13484"><span class="orange">BOJINKA</span><span class="awards-container"><span class="awards-sprite a0-1"></span><span class="awards-sprite a5-2"></span></span></a>|
+|340|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=16580"><span class="orange">Dynamo Nord</span><span class="awards-container"><span class="awards-sprite a0-1"></span><span class="awards-sprite a5-2"></span></span></a>|
+|341|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=22644"><span class="blue">Doomsday</span><span class="awards-container"><span class="awards-sprite a0-1"></span><span class="awards-sprite a5-2"></span></span></a>|
+|342|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=24736"><span class="blue">Stealth R Us</span><span class="awards-container"><span class="awards-sprite a0-1"></span><span class="awards-sprite a5-2"></span></span></a>|
+|343|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=26009"><span class="purple">Bunni</span><span class="awards-container"><span class="awards-sprite a0-1"></span><span class="awards-sprite a5-2"></span></span></a>|
+|344|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=27940"><span class="orange">Seismic Wand</span><span class="awards-container"><span class="awards-sprite a0-1"></span><span class="awards-sprite a5-2"></span></span></a>|
+|345|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=29132"><span class="blue">Love Buzz</span><span class="awards-container"><span class="awards-sprite a0-1"></span><span class="awards-sprite a5-2"></span></span></a>|
+|346|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=32113"><span class="orange">FiGHTiNG iLLiNi</span><span class="awards-container"><span class="awards-sprite a0-1"></span><span class="awards-sprite a5-2"></span></span></a>|
+|347|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=37358"><span class="red">Thrice The Killa</span><span class="awards-container"><span class="awards-sprite a0-1"></span><span class="awards-sprite a5-2"></span></span></a>|
+|348|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=45160"><span class="purple">Oliver Hart</span><span class="awards-container"><span class="awards-sprite a0-1"></span><span class="awards-sprite a5-2"></span></span></a>|
+|349|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=46764"><span class="red">Crimson Avenger</span><span class="awards-container"><span class="awards-sprite a0-1"></span><span class="awards-sprite a5-2"></span></span></a>|
+|350|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=47847"><span class="purple">peek a BOO</span><span class="awards-container"><span class="awards-sprite a0-1"></span><span class="awards-sprite a5-2"></span></span></a>|
+|351|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=49201"><span class="red">F-23 Black Widow II</span><span class="awards-container"><span class="awards-sprite a0-1"></span><span class="awards-sprite a5-2"></span></span></a>|
+|352|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=50072"><span class="blue">Black Widow</span><span class="awards-container"><span class="awards-sprite a0-1"></span><span class="awards-sprite a5-2"></span></span></a>|
+|353|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=56902"><span class="purple">asphyxiated</span><span class="awards-container"><span class="awards-sprite a0-1"></span><span class="awards-sprite a5-2"></span></span></a>|
+|354|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=57216"><span class="blue">snowstorm showdown</span><span class="awards-container"><span class="awards-sprite a0-1"></span><span class="awards-sprite a5-2"></span></span></a>|
+|355|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=59289"><span class="purple">genEric Eric</span><span class="awards-container"><span class="awards-sprite a0-1"></span><span class="awards-sprite a5-2"></span></span></a>|
+|356|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=62631"><span class="red">cOcA CoLa</span><span class="awards-container"><span class="awards-sprite a0-1"></span><span class="awards-sprite a5-2"></span></span></a>|
+|357|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=65786"><span class="blue">SilkyJohnson</span><span class="awards-container"><span class="awards-sprite a0-1"></span><span class="awards-sprite a5-2"></span></span></a>|
+|358|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=65973"><span class="red">snaKe eYes</span><span class="awards-container"><span class="awards-sprite a0-1"></span><span class="awards-sprite a5-2"></span></span></a>|
+|359|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=69134"><span class="red">Blood and Gold</span><span class="awards-container"><span class="awards-sprite a0-1"></span><span class="awards-sprite a5-2"></span></span></a>|
+|360|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=69251"><span class="blue">H3 Team Slayer</span><span class="awards-container"><span class="awards-sprite a0-1"></span><span class="awards-sprite a5-2"></span></span></a>|
+|361|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=70266"><span class="blue">the Hatchet</span><span class="awards-container"><span class="awards-sprite a0-1"></span><span class="awards-sprite a5-2"></span></span></a>|
+|362|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=70825"><span class="blue">Corpse Reviver</span><span class="awards-container"><span class="awards-sprite a0-1"></span><span class="awards-sprite a5-2"></span></span></a>|
+|363|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=70845"><span class="purple">8 Kobe Bryant 24 </span><span class="awards-container"><span class="awards-sprite a0-1"></span><span class="awards-sprite a5-2"></span></span></a>|
+|364|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=72684"><span class="purple">SWIFT</span><span class="awards-container"><span class="awards-sprite a0-1"></span><span class="awards-sprite a5-2"></span></span></a>|
+|365|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=72756"><span class="orange">MAN-MYTH-LEGEND</span><span class="awards-container"><span class="awards-sprite a0-1"></span><span class="awards-sprite a5-2"></span></span></a>|
+|366|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=73148"><span class="blue">a blue mine</span><span class="awards-container"><span class="awards-sprite a0-1"></span><span class="awards-sprite a5-2"></span></span></a>|
+|367|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=73822"><span class="orange">pYrAmid eVolution</span><span class="awards-container"><span class="awards-sprite a0-1"></span><span class="awards-sprite a5-2"></span></span></a>|
+|368|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=74267"><span class="red">Apocalypse 9</span><span class="awards-container"><span class="awards-sprite a0-1"></span><span class="awards-sprite a5-2"></span></span></a>|
+|369|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=74716"><span class="red">PROVOCATION</span><span class="awards-container"><span class="awards-sprite a0-1"></span><span class="awards-sprite a5-2"></span></span></a>|
+|370|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=79174"><span class="red">Red Roc</span><span class="awards-container"><span class="awards-sprite a0-1"></span><span class="awards-sprite a5-2"></span></span></a>|
+|371|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=79657"><span class="purple">Rocket Raccoon</span><span class="awards-container"><span class="awards-sprite a0-1"></span><span class="awards-sprite a5-2"></span></span></a>|
+|372|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=8503"><span class="purple">10 J Q K A</span><span class="awards-container"><span class="awards-sprite a1-3"></span><span class="awards-sprite a5-2"></span></span></a>|
+|373|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=1336"><span class="orange">Behold a Candle</span><span class="awards-container"><span class="awards-sprite a5-2"></span></span></a>|
+|374|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=5351"><span class="orange">KiNG oF TeRRoR</span><span class="awards-container"><span class="awards-sprite a5-2"></span></span></a>|
+|375|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=8164"><span class="red">FEAR</span><span class="awards-container"><span class="awards-sprite a5-2"></span></span></a>|
+|376|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=9039"><span class="red">SkiTTleS</span><span class="awards-container"><span class="awards-sprite a5-2"></span></span></a>|
+|377|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=9337"><span class="blue">Amon</span><span class="awards-container"><span class="awards-sprite a5-2"></span></span></a>|
+|378|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=9882"><span class="orange">Lightning Dust</span><span class="awards-container"><span class="awards-sprite a5-2"></span></span></a>|
+|379|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=10235"><span class="red">pineapple1</span><span class="awards-container"><span class="awards-sprite a5-2"></span></span></a>|
+|380|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=11137"><span class="blue">Saint Lou Lunatic</span><span class="awards-container"><span class="awards-sprite a5-2"></span></span></a>|
+|381|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=13039"><span class="purple">kid poker</span><span class="awards-container"><span class="awards-sprite a5-2"></span></span></a>|
+|382|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=14037"><span class="purple">Dopa</span><span class="awards-container"><span class="awards-sprite a5-2"></span></span></a>|
+|383|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=14374"><span class="blue">Cazualty</span><span class="awards-container"><span class="awards-sprite a5-2"></span></span></a>|
+|384|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=14377"><span class="red">Sarajevo</span><span class="awards-container"><span class="awards-sprite a5-2"></span></span></a>|
+|385|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=15063"><span class="orange">TYRANNOSAURUS REX</span><span class="awards-container"><span class="awards-sprite a5-2"></span></span></a>|
+|386|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=15311"><span class="red">The Soviet Reunion</span><span class="awards-container"><span class="awards-sprite a5-2"></span></span></a>|
+|387|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=15513"><span class="blue">BRAVEHEART</span><span class="awards-container"><span class="awards-sprite a5-2"></span></span></a>|
+|388|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=15960"><span class="blue">SimplyWEENIE</span><span class="awards-container"><span class="awards-sprite a5-2"></span></span></a>|
+|389|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=20820"><span class="orange">Silence of Siberia</span><span class="awards-container"><span class="awards-sprite a5-2"></span></span></a>|
+|390|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=29259"><span class="blue">Stranglehold</span><span class="awards-container"><span class="awards-sprite a5-2"></span></span></a>|
+|391|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=31519"><span class="blue">Astral Haven</span><span class="awards-container"><span class="awards-sprite a5-2"></span></span></a>|
+|392|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=39080"><span class="blue">lol prime</span><span class="awards-container"><span class="awards-sprite a5-2"></span></span></a>|
+|393|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=39267"><span class="red">SUPREMACY</span><span class="awards-container"><span class="awards-sprite a5-2"></span></span></a>|
+|394|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=39693"><span class="purple">dr I-DOOM-I </span><span class="awards-container"><span class="awards-sprite a5-2"></span></span></a>|
+|395|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=40239"><span class="blue">mr neo</span><span class="awards-container"><span class="awards-sprite a5-2"></span></span></a>|
+|396|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=41172"><span class="blue">A Tank Has No Name</span><span class="awards-container"><span class="awards-sprite a5-2"></span></span></a>|
+|397|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=41576"><span class="red">PROBABILITYOFSUCCESS</span><span class="awards-container"><span class="awards-sprite a5-2"></span></span></a>|
+|398|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=41733"><span class="orange">Jasper Beardly</span><span class="awards-container"><span class="awards-sprite a5-2"></span></span></a>|
+|399|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=41964"><span class="red">shako</span><span class="awards-container"><span class="awards-sprite a5-2"></span></span></a>|
+|400|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=45612"><span class="purple">Pulitzer Parsley</span><span class="awards-container"><span class="awards-sprite a5-2"></span></span></a>|
+|401|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=46711"><span class="blue">Lena Headey</span><span class="awards-container"><span class="awards-sprite a5-2"></span></span></a>|
+|402|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=47974"><span class="orange">MANHATTAN PROJECT</span><span class="awards-container"><span class="awards-sprite a5-2"></span></span></a>|
+|403|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=48267"><span class="blue">Modern Mans Hustle</span><span class="awards-container"><span class="awards-sprite a5-2"></span></span></a>|
+|404|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=48525"><span class="purple">dumpster fire</span><span class="awards-container"><span class="awards-sprite a5-2"></span></span></a>|
+|405|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=48692"><span class="purple">Haley Bennett</span><span class="awards-container"><span class="awards-sprite a5-2"></span></span></a>|
+|406|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=48846"><span class="red">Rose Byrne</span><span class="awards-container"><span class="awards-sprite a5-2"></span></span></a>|
+|407|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=50658"><span class="purple">Luminol</span><span class="awards-container"><span class="awards-sprite a5-2"></span></span></a>|
+|408|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=50920"><span class="red">Goddess of Truth</span><span class="awards-container"><span class="awards-sprite a5-2"></span></span></a>|
+|409|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=51548"><span class="red">Y AM I PLAYING THIS</span><span class="awards-container"><span class="awards-sprite a5-2"></span></span></a>|
+|410|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=51936"><span class="purple">COLOMBIA</span><span class="awards-container"><span class="awards-sprite a5-2"></span></span></a>|
+|411|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=53880"><span class="orange">- Tantalum -</span><span class="awards-container"><span class="awards-sprite a5-2"></span></span></a>|
+|412|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=54334"><span class="purple">Sylvia Hoeks</span><span class="awards-container"><span class="awards-sprite a5-2"></span></span></a>|
+|413|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=55590"><span class="orange">dulce vida</span><span class="awards-container"><span class="awards-sprite a5-2"></span></span></a>|
+|414|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=56509"><span class="red">CoLLapSE</span><span class="awards-container"><span class="awards-sprite a5-2"></span></span></a>|
+|415|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=56596"><span class="purple">the Prostitute</span><span class="awards-container"><span class="awards-sprite a5-2"></span></span></a>|
+|416|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=56937"><span class="blue">supercell sabotage</span><span class="awards-container"><span class="awards-sprite a5-2"></span></span></a>|
+|417|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=58101"><span class="blue">Why oh Why</span><span class="awards-container"><span class="awards-sprite a5-2"></span></span></a>|
+|418|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=58357"><span class="orange">MF DOOM</span><span class="awards-container"><span class="awards-sprite a5-2"></span></span></a>|
+|419|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=58863"><span class="red">BaTTleBiSCuiT</span><span class="awards-container"><span class="awards-sprite a5-2"></span></span></a>|
+|420|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=59888"><span class="purple">BurMese</span><span class="awards-container"><span class="awards-sprite a5-2"></span></span></a>|
+|421|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=62572"><span class="orange">Tom Cruise</span><span class="awards-container"><span class="awards-sprite a5-2"></span></span></a>|
+|422|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=65553"><span class="red">AORUS</span><span class="awards-container"><span class="awards-sprite a5-2"></span></span></a>|
+|423|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=66531"><span class="orange">PITERRIER ROXY</span><span class="awards-container"><span class="awards-sprite a5-2"></span></span></a>|
+|424|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=66776"><span class="purple">EPIC 3</span><span class="awards-container"><span class="awards-sprite a5-2"></span></span></a>|
+|425|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=67103"><span class="purple">Bobby Rabidoux</span><span class="awards-container"><span class="awards-sprite a5-2"></span></span></a>|
+|426|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=67196"><span class="red">smok alien</span><span class="awards-container"><span class="awards-sprite a5-2"></span></span></a>|
+|427|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=67620"><span class="purple">MissingNo</span><span class="awards-container"><span class="awards-sprite a5-2"></span></span></a>|
+|428|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=68618"><span class="red">QUAKE</span><span class="awards-container"><span class="awards-sprite a5-2"></span></span></a>|
+|429|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=69750"><span class="purple">i LOVE TABiTHA</span><span class="awards-container"><span class="awards-sprite a5-2"></span></span></a>|
+|430|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=70346"><span class="blue">Geralt of Rivia</span><span class="awards-container"><span class="awards-sprite a5-2"></span></span></a>|
+|431|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=71037"><span class="red">bloWn deadline</span><span class="awards-container"><span class="awards-sprite a5-2"></span></span></a>|
+|432|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=73910"><span class="red">AliensAreReal</span><span class="awards-container"><span class="awards-sprite a5-2"></span></span></a>|
+|433|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=74859"><span class="blue">Misfire</span><span class="awards-container"><span class="awards-sprite a5-2"></span></span></a>|
+|434|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=75037"><span class="blue">Planewoosh</span><span class="awards-container"><span class="awards-sprite a5-2"></span></span></a>|
+|435|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=76777"><span class="orange">Stimulus Six</span><span class="awards-container"><span class="awards-sprite a5-2"></span></span></a>|
+|436|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=77628"><span class="orange">DinDjarin</span><span class="awards-container"><span class="awards-sprite a5-2"></span></span></a>|
+|437|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=78197"><span class="blue">Fired Security Guard</span><span class="awards-container"><span class="awards-sprite a5-2"></span></span></a>|
+|438|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=79981"><span class="blue">Shawshank Redemption</span><span class="awards-container"><span class="awards-sprite a5-2"></span></span></a>|
 
 
-<span class="awards_search_header" id="awards_search_header_cup3">Gold Cup (527)</span>
+<span class="awards_search_header" id="awards_search_header_cup3">Gold Cup (526)</span>
 
 {:.awards_search#awards_search_cup3}
 |1|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=746"><span class="blue">Optimus Prime</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a1-3"></span><span class="awards-sprite a2-3"></span><span class="awards-sprite a3-3"></span><span class="awards-sprite a4-3"></span><span class="awards-sprite a5-3"></span><span class="awards-sprite a6-1"></span><span class="awards-sprite a7-1"></span></span></a>|
@@ -7804,14 +7807,13 @@
 |517|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=66946"><span class="orange">Ascend</span><span class="awards-container"><span class="awards-sprite a5-3"></span></span></a>|
 |518|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=67074"><span class="red">White Pony</span><span class="awards-container"><span class="awards-sprite a5-3"></span></span></a>|
 |519|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=67782"><span class="orange">white boy rick</span><span class="awards-container"><span class="awards-sprite a5-3"></span></span></a>|
-|520|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=68663"><span class="red">MAoS</span><span class="awards-container"><span class="awards-sprite a5-3"></span></span></a>|
-|521|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=70977"><span class="blue">Uriel</span><span class="awards-container"><span class="awards-sprite a5-3"></span></span></a>|
-|522|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=71320"><span class="blue">Fear The Fury</span><span class="awards-container"><span class="awards-sprite a5-3"></span></span></a>|
-|523|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=74140"><span class="red">the greatest</span><span class="awards-container"><span class="awards-sprite a5-3"></span></span></a>|
-|524|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=74836"><span class="purple">KEEP EM GUESSIN</span><span class="awards-container"><span class="awards-sprite a5-3"></span></span></a>|
-|525|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=76779"><span class="orange">Prophecy</span><span class="awards-container"><span class="awards-sprite a5-3"></span></span></a>|
-|526|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=79265"><span class="red">Shang-Chi</span><span class="awards-container"><span class="awards-sprite a5-3"></span></span></a>|
-|527|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=80032"><span class="orange">Pittsburgh Phil</span><span class="awards-container"><span class="awards-sprite a5-3"></span></span></a>|
+|520|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=70977"><span class="blue">Uriel</span><span class="awards-container"><span class="awards-sprite a5-3"></span></span></a>|
+|521|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=71320"><span class="blue">Fear The Fury</span><span class="awards-container"><span class="awards-sprite a5-3"></span></span></a>|
+|522|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=74140"><span class="red">the greatest</span><span class="awards-container"><span class="awards-sprite a5-3"></span></span></a>|
+|523|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=74836"><span class="purple">KEEP EM GUESSIN</span><span class="awards-container"><span class="awards-sprite a5-3"></span></span></a>|
+|524|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=76779"><span class="orange">Prophecy</span><span class="awards-container"><span class="awards-sprite a5-3"></span></span></a>|
+|525|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=79265"><span class="red">Shang-Chi</span><span class="awards-container"><span class="awards-sprite a5-3"></span></span></a>|
+|526|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=80032"><span class="orange">Pittsburgh Phil</span><span class="awards-container"><span class="awards-sprite a5-3"></span></span></a>|
 
 
 <span class="awards_search_header" id="awards_search_header_ph1">Purple Heart (27)</span>
@@ -7998,5 +8000,5 @@
 
 
 
-<p class="last_updated"><span class="last_updated">Last Updated:&nbsp;&nbsp;Feb 16, 12:02 PM&nbsp;&nbsp;(Pacific)</span></p>
+<p class="last_updated"><span class="last_updated">Last Updated:&nbsp;&nbsp;Feb 17, 12:02 AM&nbsp;&nbsp;(Pacific)</span></p>
 
