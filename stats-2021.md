@@ -25,8 +25,8 @@
 |4|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=79103"><span class="orange">Jack Dragna</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a1-1"></span><span class="awards-sprite a2-2"></span><span class="awards-sprite a3-1"></span><span class="awards-sprite a5-2"></span></span></a>|176|
 |5|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=79158"><span class="purple">Ordinary Owl</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a1-1"></span><span class="awards-sprite a5-3"></span></span></a>|103|
 |6|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=79546"><span class="purple">Brash Bison</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a5-2"></span></span></a>|30|
-|7|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=79182"><span class="blue">Khabib Nurmagomedov</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a5-3"></span></span></a>|8|
-|8|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=79834"><span class="blue">Kenneth Allen</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a5-1"></span></span></a>|8|
+|7|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=79834"><span class="blue">Kenneth Allen</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a5-1"></span></span></a>|8|
+|8|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=79182"><span class="blue">Khabib Nurmagomedov</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a5-3"></span></span></a>|8|
 
 
 {:.stats_leaderboard#stats_leaderboard_deaths}
@@ -43,5 +43,5 @@
 
 
 
-<p class="last_updated"><span class="last_updated">Last Updated:&nbsp;&nbsp;Mar 6, 12:01 PM&nbsp;&nbsp;(Pacific)</span></p>
+<p class="last_updated"><span class="last_updated">Last Updated:&nbsp;&nbsp;Mar 7, 12:01 AM&nbsp;&nbsp;(Pacific)</span></p>
 
