@@ -13,7 +13,7 @@
 |4|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=79673"><span class="purple">Jaded Jaguar</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a1-2"></span><span class="awards-sprite a5-3"></span></span></a>|35:23:30|
 |5|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=79197"><span class="purple">Tenacious Turtle</span><span class="awards-container"><span class="awards-sprite a0-2"></span><span class="awards-sprite a1-2"></span><span class="awards-sprite a2-1"></span><span class="awards-sprite a5-1"></span></span></a>|31:5:39|
 |6|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=79158"><span class="purple">Ordinary Owl</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a1-1"></span><span class="awards-sprite a5-3"></span></span></a>|16:13:12|
-|7|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=79834"><span class="blue">Kenneth Allen</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a5-1"></span></span></a>|6:25:39|
+|7|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=79834"><span class="blue">Kenneth Allen</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a5-1"></span></span></a>|6:25:58|
 |8|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=79182"><span class="blue">Khabib Nurmagomedov</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a5-3"></span></span></a>|4:13:32|
 
 
@@ -43,5 +43,5 @@
 
 
 
-<p class="last_updated"><span class="last_updated">Last Updated:&nbsp;&nbsp;Mar 14, 12:01 AM&nbsp;&nbsp;(Pacific)</span></p>
+<p class="last_updated"><span class="last_updated">Last Updated:&nbsp;&nbsp;Mar 14, 12:01 PM&nbsp;&nbsp;(Pacific)</span></p>
 
