@@ -942,7 +942,7 @@
 |538|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=80421"><span class="orange">Sharkbait404</span><span class="awards-container"><span class="awards-sprite a0-2"></span><span class="awards-sprite a1-1"></span></span></a>|
 
 
-<span class="awards_search_header" id="awards_search_header_star3">Triple Star (2218)</span>
+<span class="awards_search_header" id="awards_search_header_star3">Triple Star (2219)</span>
 
 {:.awards_search#awards_search_star3}
 |1|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=671"><span class="red">ENDURANCE</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a1-3"></span><span class="awards-sprite a2-3"></span><span class="awards-sprite a3-3"></span><span class="awards-sprite a4-3"></span><span class="awards-sprite a5-1"></span><span class="awards-sprite a7-1"></span><span class="awards-sprite a8-1"></span></span></a>|
@@ -3163,6 +3163,7 @@
 |2216|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=80341"><span class="red">die already</span><span class="awards-container"><span class="awards-sprite a0-3"></span></span></a>|
 |2217|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=80478"><span class="blue">Dudi123</span><span class="awards-container"><span class="awards-sprite a0-3"></span></span></a>|
 |2218|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=80484"><span class="red">STONKS</span><span class="awards-container"><span class="awards-sprite a0-3"></span></span></a>|
+|2219|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=80728"><span class="blue">Ronda Rousey</span><span class="awards-container"><span class="awards-sprite a0-3"></span></span></a>|
 
 
 <span class="awards_search_header" id="awards_search_header_tank1">Bronze Tank (906)</span>
@@ -7339,7 +7340,7 @@
 |442|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=80709"><span class="purple">Illini Wolverine</span><span class="awards-container"><span class="awards-sprite a5-2"></span></span></a>|
 
 
-<span class="awards_search_header" id="awards_search_header_cup3">Gold Cup (533)</span>
+<span class="awards_search_header" id="awards_search_header_cup3">Gold Cup (532)</span>
 
 {:.awards_search#awards_search_cup3}
 |1|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=746"><span class="blue">Optimus Prime</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a1-3"></span><span class="awards-sprite a2-3"></span><span class="awards-sprite a3-3"></span><span class="awards-sprite a4-3"></span><span class="awards-sprite a5-3"></span><span class="awards-sprite a6-1"></span><span class="awards-sprite a7-1"></span></span></a>|
@@ -7874,7 +7875,6 @@
 |530|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=74836"><span class="purple">KEEP EM GUESSIN</span><span class="awards-container"><span class="awards-sprite a5-3"></span></span></a>|
 |531|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=76779"><span class="orange">Prophecy</span><span class="awards-container"><span class="awards-sprite a5-3"></span></span></a>|
 |532|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=79265"><span class="red">Shang-Chi</span><span class="awards-container"><span class="awards-sprite a5-3"></span></span></a>|
-|533|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=80032"><span class="orange">Pittsburgh Phil</span><span class="awards-container"><span class="awards-sprite a5-3"></span></span></a>|
 
 
 <span class="awards_search_header" id="awards_search_header_ph1">Purple Heart (27)</span>
@@ -8061,5 +8061,5 @@
 
 
 
-<p class="last_updated"><span class="last_updated">Last Updated:&nbsp;&nbsp;Mar 21, 12:02 PM&nbsp;&nbsp;(Pacific)</span></p>
+<p class="last_updated"><span class="last_updated">Last Updated:&nbsp;&nbsp;Mar 22, 12:02 AM&nbsp;&nbsp;(Pacific)</span></p>
 
