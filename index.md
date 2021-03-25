@@ -103,8 +103,8 @@
 |97|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=2022"><span class="orange">ArChAnGeL</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a1-3"></span><span class="awards-sprite a2-3"></span><span class="awards-sprite a3-3"></span></span></a>|
 |98|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=2925"><span class="blue">Skullcruncher</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a1-3"></span><span class="awards-sprite a2-3"></span><span class="awards-sprite a3-3"></span><span class="awards-sprite a5-2"></span><span class="awards-sprite a6-1"></span></span></a>|
 |99|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=760"><span class="blue">Thundercracker</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a1-2"></span><span class="awards-sprite a2-3"></span><span class="awards-sprite a3-3"></span><span class="awards-sprite a5-3"></span><span class="awards-sprite a8-1"></span></span></a>|
-|100|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=880"><span class="purple">Battlefield-4</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a1-3"></span><span class="awards-sprite a2-3"></span><span class="awards-sprite a3-2"></span><span class="awards-sprite a5-3"></span><span class="awards-sprite a7-1"></span><span class="awards-sprite a8-1"></span></span></a>|
+|100|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=79159"><span class="orange">I AM LEGEND</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a1-3"></span><span class="awards-sprite a2-2"></span><span class="awards-sprite a3-2"></span></span></a>|
 
 
-<p class="last_updated"><span class="last_updated">Last Updated:&nbsp;&nbsp;Mar 24, 12:00 PM&nbsp;&nbsp;(Pacific)</span></p>
+<p class="last_updated"><span class="last_updated">Last Updated:&nbsp;&nbsp;Mar 25, 12:00 AM&nbsp;&nbsp;(Pacific)</span></p>
 
