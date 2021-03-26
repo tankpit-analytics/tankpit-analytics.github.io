@@ -253,7 +253,7 @@
 |240|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=41133"><span class="blue">blue fire</span><span class="awards-container"><span class="awards-sprite a0-1"></span><span class="awards-sprite a1-1"></span></span></a>|
 |241|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=41329"><span class="blue">Lil-bit 13</span><span class="awards-container"><span class="awards-sprite a0-1"></span><span class="awards-sprite a1-2"></span></span></a>|
 |242|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=41947"><span class="blue">BASEDGOD</span><span class="awards-container"><span class="awards-sprite a0-1"></span><span class="awards-sprite a5-3"></span></span></a>|
-|243|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=42032"><span class="orange">biggunns</span><span class="awards-container"><span class="awards-sprite a0-1"></span><span class="awards-sprite a1-1"></span></span></a>|
+|243|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=42032"><span class="purple">biggunns</span><span class="awards-container"><span class="awards-sprite a0-1"></span><span class="awards-sprite a1-1"></span></span></a>|
 |244|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=42082"><span class="blue">BOSS Achilles</span><span class="awards-container"><span class="awards-sprite a0-1"></span><span class="awards-sprite a2-1"></span></span></a>|
 |245|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=42233"><span class="orange">SSpritEE</span><span class="awards-container"><span class="awards-sprite a0-1"></span><span class="awards-sprite a5-3"></span></span></a>|
 |246|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=42355"><span class="purple">-------777-------</span><span class="awards-container"><span class="awards-sprite a0-1"></span><span class="awards-sprite a1-1"></span></span></a>|
@@ -3852,7 +3852,7 @@
 |685|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=38191"><span class="blue">M1 Abrams</span><span class="awards-container"><span class="awards-sprite a0-1"></span><span class="awards-sprite a1-1"></span></span></a>|
 |686|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=38471"><span class="blue">chikky</span><span class="awards-container"><span class="awards-sprite a0-1"></span><span class="awards-sprite a1-1"></span></span></a>|
 |687|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=41133"><span class="blue">blue fire</span><span class="awards-container"><span class="awards-sprite a0-1"></span><span class="awards-sprite a1-1"></span></span></a>|
-|688|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=42032"><span class="orange">biggunns</span><span class="awards-container"><span class="awards-sprite a0-1"></span><span class="awards-sprite a1-1"></span></span></a>|
+|688|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=42032"><span class="purple">biggunns</span><span class="awards-container"><span class="awards-sprite a0-1"></span><span class="awards-sprite a1-1"></span></span></a>|
 |689|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=42355"><span class="purple">-------777-------</span><span class="awards-container"><span class="awards-sprite a0-1"></span><span class="awards-sprite a1-1"></span></span></a>|
 |690|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=43084"><span class="orange">Penguin</span><span class="awards-container"><span class="awards-sprite a0-1"></span><span class="awards-sprite a1-1"></span></span></a>|
 |691|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=43165"><span class="orange">- La - Di - Da -</span><span class="awards-container"><span class="awards-sprite a0-1"></span><span class="awards-sprite a1-1"></span></span></a>|
@@ -8044,5 +8044,5 @@
 
 
 
-<p class="last_updated"><span class="last_updated">Last Updated:&nbsp;&nbsp;Mar 25, 12:02 PM&nbsp;&nbsp;(Pacific)</span></p>
+<p class="last_updated"><span class="last_updated">Last Updated:&nbsp;&nbsp;Mar 26, 12:02 AM&nbsp;&nbsp;(Pacific)</span></p>
 
