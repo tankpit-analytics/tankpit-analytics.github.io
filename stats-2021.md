@@ -12,7 +12,7 @@
 |3|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=79546"><span class="purple">Brash Bison</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a5-2"></span></span></a>|46:12:08|
 |4|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=79673"><span class="purple">Jaded Jaguar</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a1-2"></span><span class="awards-sprite a5-3"></span></span></a>|35:23:30|
 |5|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=79197"><span class="purple">Tenacious Turtle</span><span class="awards-container"><span class="awards-sprite a0-2"></span><span class="awards-sprite a1-2"></span><span class="awards-sprite a2-1"></span><span class="awards-sprite a5-1"></span></span></a>|31:5:39|
-|6|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=79158"><span class="purple">Ordinary Owl</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a1-1"></span><span class="awards-sprite a5-3"></span></span></a>|16:13:36|
+|6|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=79158"><span class="purple">Ordinary Owl</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a1-1"></span><span class="awards-sprite a5-3"></span></span></a>|16:18:27|
 |7|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=79834"><span class="blue">Kenneth Allen</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a5-1"></span></span></a>|6:25:58|
 |8|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=79182"><span class="blue">Khabib Nurmagomedov</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a5-3"></span></span></a>|4:13:32|
 
@@ -23,7 +23,7 @@
 |2|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=79197"><span class="purple">Tenacious Turtle</span><span class="awards-container"><span class="awards-sprite a0-2"></span><span class="awards-sprite a1-2"></span><span class="awards-sprite a2-1"></span><span class="awards-sprite a5-1"></span></span></a>|466|
 |3|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=79120"><span class="purple">Modest Mole</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a1-2"></span><span class="awards-sprite a2-1"></span><span class="awards-sprite a3-1"></span><span class="awards-sprite a5-1"></span></span></a>|220|
 |4|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=79103"><span class="blue">Jack Dragna</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a1-1"></span><span class="awards-sprite a2-2"></span><span class="awards-sprite a3-1"></span><span class="awards-sprite a5-2"></span></span></a>|190|
-|5|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=79158"><span class="purple">Ordinary Owl</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a1-1"></span><span class="awards-sprite a5-3"></span></span></a>|103|
+|5|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=79158"><span class="purple">Ordinary Owl</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a1-1"></span><span class="awards-sprite a5-3"></span></span></a>|108|
 |6|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=79546"><span class="purple">Brash Bison</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a5-2"></span></span></a>|31|
 |7|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=79834"><span class="blue">Kenneth Allen</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a5-1"></span></span></a>|8|
 |8|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=79182"><span class="blue">Khabib Nurmagomedov</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a5-3"></span></span></a>|8|
@@ -43,5 +43,5 @@
 
 
 
-<p class="last_updated"><span class="last_updated">Last Updated:&nbsp;&nbsp;Mar 28, 12:01 AM&nbsp;&nbsp;(Pacific)</span></p>
+<p class="last_updated"><span class="last_updated">Last Updated:&nbsp;&nbsp;Mar 28, 12:01 PM&nbsp;&nbsp;(Pacific)</span></p>
 
