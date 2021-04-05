@@ -2478,7 +2478,7 @@
 |1534|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=77909"><span class="red">False</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a5-1"></span></span></a>|
 |1535|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=78224"><span class="red">RedRocket</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a1-2"></span></span></a>|
 |1536|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=78249"><span class="blue">pedoodle </span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a5-2"></span></span></a>|
-|1537|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=78261"><span class="orange">Dusty</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a1-2"></span></span></a>|
+|1537|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=78261"><span class="purple">Dusty</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a1-2"></span></span></a>|
 |1538|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=78468"><span class="orange">Sideshow Bob</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a5-3"></span></span></a>|
 |1539|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=78717"><span class="red">1956</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a1-2"></span></span></a>|
 |1540|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=79088"><span class="blue">Kimbo Slice</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a5-1"></span></span></a>|
@@ -4424,7 +4424,7 @@
 |355|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=75427"><span class="blue">XYZ</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a1-2"></span></span></a>|
 |356|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=76622"><span class="purple">Pelican</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a1-2"></span></span></a>|
 |357|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=78224"><span class="red">RedRocket</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a1-2"></span></span></a>|
-|358|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=78261"><span class="orange">Dusty</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a1-2"></span></span></a>|
+|358|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=78261"><span class="purple">Dusty</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a1-2"></span></span></a>|
 |359|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=78717"><span class="red">1956</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a1-2"></span></span></a>|
 |360|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=79404"><span class="purple">-mAsTeR AdMiRaL-</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a1-2"></span></span></a>|
 |361|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=79734"><span class="red">Vision</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a1-2"></span></span></a>|
@@ -8032,5 +8032,5 @@
 
 
 
-<p class="last_updated"><span class="last_updated">Last Updated:&nbsp;&nbsp;Apr 5, 12:02 AM&nbsp;&nbsp;(Pacific)</span></p>
+<p class="last_updated"><span class="last_updated">Last Updated:&nbsp;&nbsp;Apr 5, 12:02 PM&nbsp;&nbsp;(Pacific)</span></p>
 
