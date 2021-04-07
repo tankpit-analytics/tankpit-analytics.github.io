@@ -3,6 +3,12 @@
 
 <p><a href="https://tankpit-analytics.github.io/awards-search">Awards Search</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="https://tankpit-analytics.github.io/latest-sword-decorations">Sword Decorations</a></p>
 
+<span class="decorations_month">April 2021</span>
+
+{:.decorations}
+|<span class="decorations_date">Date</span>|<span class="decoration">&nbsp;</span>|<span class="tank_col">Tank</span>|
+|Apr 7, 2021|<span class="awards-sprite a3-1"></span>|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=64321"><span class="red">1956</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a1-3"></span><span class="awards-sprite a3-1"></span></span></a>|
+
 <span class="decorations_month">March 2021</span>
 
 {:.decorations}
@@ -153,5 +159,5 @@
 
 
 
-<p class="last_updated"><span class="last_updated">Last Updated:&nbsp;&nbsp;Mar 15, 12:02 AM&nbsp;&nbsp;(Pacific)</span></p>
+<p class="last_updated"><span class="last_updated">Last Updated:&nbsp;&nbsp;Apr 7, 12:02 PM&nbsp;&nbsp;(Pacific)</span></p>
 
