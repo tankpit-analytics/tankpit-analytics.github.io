@@ -398,7 +398,7 @@
 |385|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=80630"><span class="blue">THE Sauce</span><span class="awards-container"><span class="awards-sprite a0-1"></span><span class="awards-sprite a5-1"></span></span></a>|
 |386|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=80914"><span class="blue">Apex</span><span class="awards-container"><span class="awards-sprite a0-1"></span><span class="awards-sprite a1-1"></span></span></a>|
 |387|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=80964"><span class="orange">Ramrod</span><span class="awards-container"><span class="awards-sprite a0-1"></span><span class="awards-sprite a1-1"></span></span></a>|
-|388|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=81125"><span class="purple">Compton</span><span class="awards-container"><span class="awards-sprite a0-1"></span><span class="awards-sprite a1-2"></span></span></a>|
+|388|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=81125"><span class="blue">Compton</span><span class="awards-container"><span class="awards-sprite a0-1"></span><span class="awards-sprite a1-2"></span></span></a>|
 
 
 <span class="awards_search_header" id="awards_search_header_star2">Double Star (535)</span>
@@ -4538,7 +4538,7 @@
 |467|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=69668"><span class="red">Sam</span><span class="awards-container"><span class="awards-sprite a0-1"></span><span class="awards-sprite a1-2"></span></span></a>|
 |468|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=78973"><span class="purple">TheBrit</span><span class="awards-container"><span class="awards-sprite a0-1"></span><span class="awards-sprite a1-2"></span></span></a>|
 |469|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=79965"><span class="purple">Buzzz</span><span class="awards-container"><span class="awards-sprite a0-1"></span><span class="awards-sprite a1-2"></span></span></a>|
-|470|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=81125"><span class="purple">Compton</span><span class="awards-container"><span class="awards-sprite a0-1"></span><span class="awards-sprite a1-2"></span></span></a>|
+|470|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=81125"><span class="blue">Compton</span><span class="awards-container"><span class="awards-sprite a0-1"></span><span class="awards-sprite a1-2"></span></span></a>|
 |471|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=7870"><span class="blue">Ashrat</span><span class="awards-container"><span class="awards-sprite a1-2"></span><span class="awards-sprite a2-1"></span></span></a>|
 |472|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=12355"><span class="blue">Nole24</span><span class="awards-container"><span class="awards-sprite a1-2"></span><span class="awards-sprite a2-1"></span></span></a>|
 |473|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=15082"><span class="blue">masterblaster2543</span><span class="awards-container"><span class="awards-sprite a1-2"></span><span class="awards-sprite a2-1"></span></span></a>|
@@ -8040,5 +8040,5 @@
 
 
 
-<p class="last_updated"><span class="last_updated">Last Updated:&nbsp;&nbsp;Apr 10, 12:02 AM&nbsp;&nbsp;(Pacific)</span></p>
+<p class="last_updated"><span class="last_updated">Last Updated:&nbsp;&nbsp;Apr 10, 12:02 PM&nbsp;&nbsp;(Pacific)</span></p>
 
