@@ -2489,7 +2489,7 @@
 |1531|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=74833"><span class="red">SACRIFICE</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a5-2"></span></span></a>|
 |1532|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=74845"><span class="red">MELEE</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a5-2"></span></span></a>|
 |1533|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=74973"><span class="red">Sparky</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a1-1"></span></span></a>|
-|1534|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=75071"><span class="blue">0-0</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a2-1"></span></span></a>|
+|1534|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=75071"><span class="purple">0-0</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a2-1"></span></span></a>|
 |1535|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=75338"><span class="red">oof</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a1-2"></span></span></a>|
 |1536|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=75427"><span class="blue">XYZ</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a1-2"></span></span></a>|
 |1537|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=75597"><span class="orange">MILKING A MALE COW </span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a5-3"></span></span></a>|
@@ -5445,7 +5445,7 @@
 |348|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=60374"><span class="purple">BOBBYS REVENGE</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a2-1"></span></span></a>|
 |349|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=71843"><span class="purple">burner</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a2-1"></span></span></a>|
 |350|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=72151"><span class="blue">MonsterEnergy</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a2-1"></span></span></a>|
-|351|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=75071"><span class="blue">0-0</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a2-1"></span></span></a>|
+|351|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=75071"><span class="purple">0-0</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a2-1"></span></span></a>|
 |352|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=75644"><span class="blue">VoltIsNiceNMyFriend</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a2-1"></span></span></a>|
 |353|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=630"><span class="purple"> TW </span><span class="awards-container"><span class="awards-sprite a0-2"></span><span class="awards-sprite a2-1"></span></span></a>|
 |354|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=1514"><span class="red">ZEMA</span><span class="awards-container"><span class="awards-sprite a0-2"></span><span class="awards-sprite a2-1"></span></span></a>|
@@ -8115,5 +8115,5 @@
 
 
 
-<p class="last_updated"><span class="last_updated">Last Updated:&nbsp;&nbsp;Jun 8, 12:02 AM&nbsp;&nbsp;(Pacific)</span></p>
+<p class="last_updated"><span class="last_updated">Last Updated:&nbsp;&nbsp;Jun 8, 12:02 PM&nbsp;&nbsp;(Pacific)</span></p>
 
