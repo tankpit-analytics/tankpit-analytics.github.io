@@ -7,7 +7,7 @@
 
 {:.stats_leaderboard#stats_leaderboard_playtime}
 |<span class="num_col">&nbsp;</span>|<span class="tank_col">Tank</span>|<span class="stat_col">Time Played</span>|
-|1|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=79157"><span class="orange">Thebrit</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a1-3"></span><span class="awards-sprite a2-2"></span><span class="awards-sprite a3-2"></span><span class="awards-sprite a5-2"></span></span></a>|412:18:19|
+|1|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=79157"><span class="orange">Thebrit</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a1-3"></span><span class="awards-sprite a2-2"></span><span class="awards-sprite a3-2"></span><span class="awards-sprite a5-2"></span></span></a>|414:9:56|
 |2|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=80991"><span class="purple">ShalltearBloodfallen</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a1-3"></span><span class="awards-sprite a2-2"></span><span class="awards-sprite a3-1"></span><span class="awards-sprite a5-3"></span><span class="awards-sprite a7-1"></span></span></a>|142:11:02|
 |3|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=79120"><span class="purple">Modest Mole</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a1-2"></span><span class="awards-sprite a2-1"></span><span class="awards-sprite a3-1"></span><span class="awards-sprite a5-1"></span></span></a>|111:54:46|
 |4|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=79809"><span class="orange">Bugsy Siegel</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a5-3"></span><span class="awards-sprite a8-1"></span></span></a>|95:54:58|
@@ -19,12 +19,11 @@
 |10|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=79197"><span class="purple">Tenacious Turtle</span><span class="awards-container"><span class="awards-sprite a0-2"></span><span class="awards-sprite a1-2"></span><span class="awards-sprite a2-1"></span><span class="awards-sprite a5-1"></span></span></a>|31:5:46|
 |11|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=79158"><span class="purple">Ordinary Owl</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a1-1"></span><span class="awards-sprite a5-3"></span></span></a>|16:24:08|
 |12|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=79834"><span class="blue">Kenneth Allen</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a4-3"></span><span class="awards-sprite a5-1"></span><span class="awards-sprite a7-1"></span></span></a>|6:45:31|
-|13|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=79182"><span class="blue">Khabib Nurmagomedov</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a5-3"></span></span></a>|4:14:57|
 
 
 {:.stats_leaderboard#stats_leaderboard_kills}
 |<span class="num_col">&nbsp;</span>|<span class="tank_col">Tank</span>|<span class="stat_col">Kills</span>|
-|1|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=79157"><span class="orange">Thebrit</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a1-3"></span><span class="awards-sprite a2-2"></span><span class="awards-sprite a3-2"></span><span class="awards-sprite a5-2"></span></span></a>|10941|
+|1|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=79157"><span class="orange">Thebrit</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a1-3"></span><span class="awards-sprite a2-2"></span><span class="awards-sprite a3-2"></span><span class="awards-sprite a5-2"></span></span></a>|10995|
 |2|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=79159"><span class="orange">I AM LEGEND</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a1-3"></span><span class="awards-sprite a2-2"></span><span class="awards-sprite a3-2"></span><span class="awards-sprite a5-3"></span></span></a>|5811|
 |3|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=81474"><span class="blue">Eldron</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a1-3"></span><span class="awards-sprite a2-3"></span></span></a>|1415|
 |4|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=80991"><span class="purple">ShalltearBloodfallen</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a1-3"></span><span class="awards-sprite a2-2"></span><span class="awards-sprite a3-1"></span><span class="awards-sprite a5-3"></span><span class="awards-sprite a7-1"></span></span></a>|817|
@@ -35,8 +34,7 @@
 |9|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=79103"><span class="orange">Jack Dragna</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a1-1"></span><span class="awards-sprite a2-2"></span><span class="awards-sprite a3-1"></span><span class="awards-sprite a5-2"></span></span></a>|197|
 |10|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=79158"><span class="purple">Ordinary Owl</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a1-1"></span><span class="awards-sprite a5-3"></span></span></a>|111|
 |11|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=79546"><span class="purple">Brash Bison</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a5-2"></span></span></a>|41|
-|12|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=79182"><span class="blue">Khabib Nurmagomedov</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a5-3"></span></span></a>|9|
-|13|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=79834"><span class="blue">Kenneth Allen</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a4-3"></span><span class="awards-sprite a5-1"></span><span class="awards-sprite a7-1"></span></span></a>|8|
+|12|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=79834"><span class="blue">Kenneth Allen</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a4-3"></span><span class="awards-sprite a5-1"></span><span class="awards-sprite a7-1"></span></span></a>|8|
 
 
 {:.stats_leaderboard#stats_leaderboard_deaths}
@@ -55,5 +53,5 @@
 
 
 
-<p class="last_updated"><span class="last_updated">Last Updated:&nbsp;&nbsp;Jun 13, 12:01 PM&nbsp;&nbsp;(Pacific)</span></p>
+<p class="last_updated"><span class="last_updated">Last Updated:&nbsp;&nbsp;Jun 14, 12:01 AM&nbsp;&nbsp;(Pacific)</span></p>
 
