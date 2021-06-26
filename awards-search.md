@@ -353,7 +353,7 @@
 |340|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=65517"><span class="orange">Sh0wMeThaMon3Y</span><span class="awards-container"><span class="awards-sprite a0-1"></span><span class="awards-sprite a5-1"></span></span></a>|
 |341|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=65786"><span class="blue">SilkyJohnson</span><span class="awards-container"><span class="awards-sprite a0-1"></span><span class="awards-sprite a5-2"></span></span></a>|
 |342|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=65973"><span class="red">snaKe eYes</span><span class="awards-container"><span class="awards-sprite a0-1"></span><span class="awards-sprite a5-2"></span></span></a>|
-|343|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=67352"><span class="blue">simon</span><span class="awards-container"><span class="awards-sprite a0-1"></span><span class="awards-sprite a2-1"></span></span></a>|
+|343|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=67352"><span class="red">simon</span><span class="awards-container"><span class="awards-sprite a0-1"></span><span class="awards-sprite a2-1"></span></span></a>|
 |344|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=67449"><span class="blue">Robert Newton Ford</span><span class="awards-container"><span class="awards-sprite a0-1"></span><span class="awards-sprite a1-1"></span></span></a>|
 |345|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=68005"><span class="red">Reddog</span><span class="awards-container"><span class="awards-sprite a0-1"></span><span class="awards-sprite a1-1"></span></span></a>|
 |346|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=68224"><span class="purple">NoaH</span><span class="awards-container"><span class="awards-sprite a0-1"></span><span class="awards-sprite a5-3"></span></span></a>|
@@ -3956,7 +3956,7 @@
 |768|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=23067"><span class="orange">Godslayer</span><span class="awards-container"><span class="awards-sprite a1-1"></span><span class="awards-sprite a2-1"></span></span></a>|
 |769|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=24091"><span class="red">NorsePounder</span><span class="awards-container"><span class="awards-sprite a1-1"></span><span class="awards-sprite a2-1"></span></span></a>|
 |770|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=24325"><span class="purple">MASTER-P</span><span class="awards-container"><span class="awards-sprite a1-1"></span><span class="awards-sprite a2-2"></span></span></a>|
-|771|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=24714"><span class="red">Get Ranked</span><span class="awards-container"><span class="awards-sprite a1-1"></span><span class="awards-sprite a2-1"></span></span></a>|
+|771|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=24714"><span class="blue">Get Ranked</span><span class="awards-container"><span class="awards-sprite a1-1"></span><span class="awards-sprite a2-1"></span></span></a>|
 |772|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=26153"><span class="red">Funeral Planet</span><span class="awards-container"><span class="awards-sprite a1-1"></span><span class="awards-sprite a2-1"></span></span></a>|
 |773|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=34125"><span class="blue">God</span><span class="awards-container"><span class="awards-sprite a1-1"></span><span class="awards-sprite a2-1"></span></span></a>|
 |774|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=35172"><span class="red">Doberman</span><span class="awards-container"><span class="awards-sprite a1-1"></span><span class="awards-sprite a2-1"></span></span></a>|
@@ -5494,7 +5494,7 @@
 |393|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=47788"><span class="orange">He Is Legend</span><span class="awards-container"><span class="awards-sprite a0-1"></span><span class="awards-sprite a2-1"></span></span></a>|
 |394|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=49273"><span class="red">RedRage91</span><span class="awards-container"><span class="awards-sprite a0-1"></span><span class="awards-sprite a2-1"></span></span></a>|
 |395|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=52056"><span class="orange">Winnie The Pooh</span><span class="awards-container"><span class="awards-sprite a0-1"></span><span class="awards-sprite a2-1"></span></span></a>|
-|396|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=67352"><span class="blue">simon</span><span class="awards-container"><span class="awards-sprite a0-1"></span><span class="awards-sprite a2-1"></span></span></a>|
+|396|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=67352"><span class="red">simon</span><span class="awards-container"><span class="awards-sprite a0-1"></span><span class="awards-sprite a2-1"></span></span></a>|
 |397|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=69771"><span class="orange">CaLiGr0wn</span><span class="awards-container"><span class="awards-sprite a0-1"></span><span class="awards-sprite a2-1"></span></span></a>|
 |398|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=1759"><span class="orange">Angel Falls</span><span class="awards-container"><span class="awards-sprite a2-1"></span><span class="awards-sprite a5-1"></span></span></a>|
 |399|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=2335"><span class="red">Superblionbait</span><span class="awards-container"><span class="awards-sprite a1-1"></span><span class="awards-sprite a2-1"></span></span></a>|
@@ -5518,7 +5518,7 @@
 |417|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=22197"><span class="purple">Wrath</span><span class="awards-container"><span class="awards-sprite a1-1"></span><span class="awards-sprite a2-1"></span></span></a>|
 |418|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=23067"><span class="orange">Godslayer</span><span class="awards-container"><span class="awards-sprite a1-1"></span><span class="awards-sprite a2-1"></span></span></a>|
 |419|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=24091"><span class="red">NorsePounder</span><span class="awards-container"><span class="awards-sprite a1-1"></span><span class="awards-sprite a2-1"></span></span></a>|
-|420|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=24714"><span class="red">Get Ranked</span><span class="awards-container"><span class="awards-sprite a1-1"></span><span class="awards-sprite a2-1"></span></span></a>|
+|420|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=24714"><span class="blue">Get Ranked</span><span class="awards-container"><span class="awards-sprite a1-1"></span><span class="awards-sprite a2-1"></span></span></a>|
 |421|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=26153"><span class="red">Funeral Planet</span><span class="awards-container"><span class="awards-sprite a1-1"></span><span class="awards-sprite a2-1"></span></span></a>|
 |422|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=33719"><span class="orange">itwasluck</span><span class="awards-container"><span class="awards-sprite a1-2"></span><span class="awards-sprite a2-1"></span></span></a>|
 |423|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=34125"><span class="blue">God</span><span class="awards-container"><span class="awards-sprite a1-1"></span><span class="awards-sprite a2-1"></span></span></a>|
@@ -8106,5 +8106,5 @@
 
 
 
-<p class="last_updated"><span class="last_updated">Last Updated:&nbsp;&nbsp;Jun 25, 12:02 PM&nbsp;&nbsp;(Pacific)</span></p>
+<p class="last_updated"><span class="last_updated">Last Updated:&nbsp;&nbsp;Jun 26, 12:02 AM&nbsp;&nbsp;(Pacific)</span></p>
 
