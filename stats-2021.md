@@ -7,7 +7,7 @@
 
 {:.stats_leaderboard#stats_leaderboard_playtime}
 |<span class="num_col">&nbsp;</span>|<span class="tank_col">Tank</span>|<span class="stat_col">Time Played</span>|
-|1|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=79157"><span class="orange">Thebrit</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a1-3"></span><span class="awards-sprite a2-2"></span><span class="awards-sprite a3-2"></span><span class="awards-sprite a5-2"></span></span></a>|442:1:36|
+|1|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=79157"><span class="orange">Thebrit</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a1-3"></span><span class="awards-sprite a2-2"></span><span class="awards-sprite a3-2"></span><span class="awards-sprite a5-2"></span></span></a>|442:36:11|
 |2|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=80991"><span class="purple">ShalltearBloodfallen</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a1-3"></span><span class="awards-sprite a2-2"></span><span class="awards-sprite a3-1"></span><span class="awards-sprite a5-3"></span><span class="awards-sprite a7-1"></span></span></a>|143:37:17|
 |3|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=79120"><span class="purple">Modest Mole</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a1-2"></span><span class="awards-sprite a2-1"></span><span class="awards-sprite a3-1"></span><span class="awards-sprite a5-1"></span></span></a>|111:54:46|
 |4|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=79809"><span class="orange">Bugsy Siegel</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a5-3"></span><span class="awards-sprite a8-1"></span></span></a>|95:54:58|
@@ -23,13 +23,13 @@
 
 {:.stats_leaderboard#stats_leaderboard_kills}
 |<span class="num_col">&nbsp;</span>|<span class="tank_col">Tank</span>|<span class="stat_col">Kills</span>|
-|1|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=79157"><span class="orange">Thebrit</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a1-3"></span><span class="awards-sprite a2-2"></span><span class="awards-sprite a3-2"></span><span class="awards-sprite a5-2"></span></span></a>|12000|
+|1|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=79157"><span class="orange">Thebrit</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a1-3"></span><span class="awards-sprite a2-2"></span><span class="awards-sprite a3-2"></span><span class="awards-sprite a5-2"></span></span></a>|12005|
 |2|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=79159"><span class="orange">I AM LEGEND</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a1-3"></span><span class="awards-sprite a2-2"></span><span class="awards-sprite a3-2"></span><span class="awards-sprite a5-3"></span></span></a>|6051|
 |3|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=81868"><span class="purple">Shooter McGavin</span><span class="awards-container"><span class="awards-sprite a1-3"></span></span></a>|2629|
 |4|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=81474"><span class="blue">Eldron</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a1-3"></span><span class="awards-sprite a2-3"></span></span></a>|1420|
 |5|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=80991"><span class="purple">ShalltearBloodfallen</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a1-3"></span><span class="awards-sprite a2-2"></span><span class="awards-sprite a3-1"></span><span class="awards-sprite a5-3"></span><span class="awards-sprite a7-1"></span></span></a>|877|
 |6|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=81178"><span class="purple">INs-TaBiLitY</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a1-3"></span><span class="awards-sprite a2-1"></span><span class="awards-sprite a5-3"></span></span></a>|794|
-|7|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=82034"><span class="orange">MuffinMan</span><span class="awards-container"><span class="awards-sprite a0-2"></span><span class="awards-sprite a1-3"></span><span class="awards-sprite a2-3"></span><span class="awards-sprite a3-1"></span></span></a>|768|
+|7|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=82034"><span class="orange">MuffinMan</span><span class="awards-container"><span class="awards-sprite a0-2"></span><span class="awards-sprite a1-3"></span><span class="awards-sprite a2-3"></span><span class="awards-sprite a3-1"></span></span></a>|774|
 |8|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=80095"><span class="red">Battery Steele</span><span class="awards-container"><span class="awards-sprite a0-1"></span><span class="awards-sprite a1-3"></span></span></a>|676|
 |9|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=79197"><span class="purple">Tenacious Turtle</span><span class="awards-container"><span class="awards-sprite a0-2"></span><span class="awards-sprite a1-2"></span><span class="awards-sprite a2-1"></span><span class="awards-sprite a5-1"></span></span></a>|466|
 |10|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=79120"><span class="purple">Modest Mole</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a1-2"></span><span class="awards-sprite a2-1"></span><span class="awards-sprite a3-1"></span><span class="awards-sprite a5-1"></span></span></a>|220|
@@ -56,5 +56,5 @@
 
 
 
-<p class="last_updated"><span class="last_updated">Last Updated:&nbsp;&nbsp;Jul 2, 12:01 PM&nbsp;&nbsp;(Pacific)</span></p>
+<p class="last_updated"><span class="last_updated">Last Updated:&nbsp;&nbsp;Jul 3, 12:01 AM&nbsp;&nbsp;(Pacific)</span></p>
 
