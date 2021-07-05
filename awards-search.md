@@ -315,7 +315,7 @@
 |302|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=55823"><span class="red">W E  M A D E  I T</span><span class="awards-container"><span class="awards-sprite a0-1"></span><span class="awards-sprite a5-3"></span></span></a>|
 |303|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=55906"><span class="red">Segua</span><span class="awards-container"><span class="awards-sprite a0-1"></span><span class="awards-sprite a1-1"></span></span></a>|
 |304|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=56562"><span class="orange">GeRmAN RoTTBuLL</span><span class="awards-container"><span class="awards-sprite a0-1"></span><span class="awards-sprite a5-1"></span></span></a>|
-|305|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=56605"><span class="purple">Discord</span><span class="awards-container"><span class="awards-sprite a0-1"></span><span class="awards-sprite a7-1"></span></span></a>|
+|305|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=56605"><span class="orange">orangepoo</span><span class="awards-container"><span class="awards-sprite a0-1"></span><span class="awards-sprite a7-1"></span></span></a>|
 |306|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=56902"><span class="purple">asphyxiated</span><span class="awards-container"><span class="awards-sprite a0-1"></span><span class="awards-sprite a5-2"></span></span></a>|
 |307|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=57132"><span class="orange">Cornys</span><span class="awards-container"><span class="awards-sprite a0-1"></span><span class="awards-sprite a1-2"></span></span></a>|
 |308|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=57216"><span class="blue">snowstorm showdown</span><span class="awards-container"><span class="awards-sprite a0-1"></span><span class="awards-sprite a5-2"></span></span></a>|
@@ -3118,7 +3118,7 @@
 |2155|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=74867"><span class="blue">Air Choice</span><span class="awards-container"><span class="awards-sprite a0-3"></span></span></a>|
 |2156|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=74869"><span class="orange">doTERRA</span><span class="awards-container"><span class="awards-sprite a0-3"></span></span></a>|
 |2157|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=74871"><span class="purple">Creative</span><span class="awards-container"><span class="awards-sprite a0-3"></span></span></a>|
-|2158|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=75015"><span class="red">view</span><span class="awards-container"><span class="awards-sprite a0-3"></span></span></a>|
+|2158|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=75015"><span class="orange">view</span><span class="awards-container"><span class="awards-sprite a0-3"></span></span></a>|
 |2159|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=75153"><span class="red">Broly</span><span class="awards-container"><span class="awards-sprite a0-3"></span></span></a>|
 |2160|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=75377"><span class="blue">triangle</span><span class="awards-container"><span class="awards-sprite a0-3"></span></span></a>|
 |2161|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=75402"><span class="blue">bodie</span><span class="awards-container"><span class="awards-sprite a0-3"></span></span></a>|
@@ -8036,7 +8036,7 @@
 |65|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=76620"><span class="purple">RaZor RaMoN</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a1-3"></span><span class="awards-sprite a7-1"></span></span></a>|
 |66|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=79147"><span class="purple">Ric Flair</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a1-3"></span><span class="awards-sprite a7-1"></span></span></a>|
 |67|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=79280"><span class="orange">GoGoPlAtA</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a7-1"></span></span></a>|
-|68|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=56605"><span class="purple">Discord</span><span class="awards-container"><span class="awards-sprite a0-1"></span><span class="awards-sprite a7-1"></span></span></a>|
+|68|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=56605"><span class="orange">orangepoo</span><span class="awards-container"><span class="awards-sprite a0-1"></span><span class="awards-sprite a7-1"></span></span></a>|
 |69|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=1522"><span class="blue">ChickenNuggetz</span><span class="awards-container"><span class="awards-sprite a7-1"></span></span></a>|
 
 
@@ -8122,5 +8122,5 @@
 
 
 
-<p class="last_updated"><span class="last_updated">Last Updated:&nbsp;&nbsp;Jul 4, 12:02 PM&nbsp;&nbsp;(Pacific)</span></p>
+<p class="last_updated"><span class="last_updated">Last Updated:&nbsp;&nbsp;Jul 5, 12:02 AM&nbsp;&nbsp;(Pacific)</span></p>
 
