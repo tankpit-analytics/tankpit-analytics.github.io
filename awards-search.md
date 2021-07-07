@@ -302,7 +302,7 @@
 |289|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=51018"><span class="purple">Tanker-008</span><span class="awards-container"><span class="awards-sprite a0-1"></span><span class="awards-sprite a1-1"></span></span></a>|
 |290|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=51169"><span class="blue">WallaWalla</span><span class="awards-container"><span class="awards-sprite a0-1"></span><span class="awards-sprite a1-1"></span></span></a>|
 |291|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=51206"><span class="blue">iLLaDeLpH</span><span class="awards-container"><span class="awards-sprite a0-1"></span><span class="awards-sprite a1-2"></span></span></a>|
-|292|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=51366"><span class="red">BLUE-2</span><span class="awards-container"><span class="awards-sprite a0-1"></span><span class="awards-sprite a1-1"></span></span></a>|
+|292|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=51366"><span class="blue">BLUE-2</span><span class="awards-container"><span class="awards-sprite a0-1"></span><span class="awards-sprite a1-1"></span></span></a>|
 |293|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=51800"><span class="purple">White Pony</span><span class="awards-container"><span class="awards-sprite a0-1"></span><span class="awards-sprite a5-1"></span></span></a>|
 |294|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=52056"><span class="orange">Winnie The Pooh</span><span class="awards-container"><span class="awards-sprite a0-1"></span><span class="awards-sprite a2-1"></span></span></a>|
 |295|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=52624"><span class="purple">Deadzone</span><span class="awards-container"><span class="awards-sprite a0-1"></span><span class="awards-sprite a1-1"></span></span></a>|
@@ -3904,7 +3904,7 @@
 |713|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=50482"><span class="red">TheRealSlimNoodle</span><span class="awards-container"><span class="awards-sprite a0-1"></span><span class="awards-sprite a1-1"></span></span></a>|
 |714|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=51018"><span class="purple">Tanker-008</span><span class="awards-container"><span class="awards-sprite a0-1"></span><span class="awards-sprite a1-1"></span></span></a>|
 |715|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=51169"><span class="blue">WallaWalla</span><span class="awards-container"><span class="awards-sprite a0-1"></span><span class="awards-sprite a1-1"></span></span></a>|
-|716|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=51366"><span class="red">BLUE-2</span><span class="awards-container"><span class="awards-sprite a0-1"></span><span class="awards-sprite a1-1"></span></span></a>|
+|716|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=51366"><span class="blue">BLUE-2</span><span class="awards-container"><span class="awards-sprite a0-1"></span><span class="awards-sprite a1-1"></span></span></a>|
 |717|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=52624"><span class="purple">Deadzone</span><span class="awards-container"><span class="awards-sprite a0-1"></span><span class="awards-sprite a1-1"></span></span></a>|
 |718|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=53104"><span class="orange">boosterdude12</span><span class="awards-container"><span class="awards-sprite a0-1"></span><span class="awards-sprite a1-1"></span></span></a>|
 |719|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=53115"><span class="purple">MrShnazy</span><span class="awards-container"><span class="awards-sprite a0-1"></span><span class="awards-sprite a1-1"></span></span></a>|
@@ -8117,5 +8117,5 @@
 
 
 
-<p class="last_updated"><span class="last_updated">Last Updated:&nbsp;&nbsp;Jul 7, 12:02 AM&nbsp;&nbsp;(Pacific)</span></p>
+<p class="last_updated"><span class="last_updated">Last Updated:&nbsp;&nbsp;Jul 7, 12:02 PM&nbsp;&nbsp;(Pacific)</span></p>
 
