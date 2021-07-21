@@ -3975,7 +3975,7 @@
 |777|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=23067"><span class="orange">Godslayer</span><span class="awards-container"><span class="awards-sprite a1-1"></span><span class="awards-sprite a2-1"></span></span></a>|
 |778|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=24091"><span class="red">NorsePounder</span><span class="awards-container"><span class="awards-sprite a1-1"></span><span class="awards-sprite a2-1"></span></span></a>|
 |779|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=24325"><span class="purple">MASTER-P</span><span class="awards-container"><span class="awards-sprite a1-1"></span><span class="awards-sprite a2-2"></span></span></a>|
-|780|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=24714"><span class="blue">Get Ranked</span><span class="awards-container"><span class="awards-sprite a1-1"></span><span class="awards-sprite a2-1"></span></span></a>|
+|780|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=24714"><span class="red">Get Ranked</span><span class="awards-container"><span class="awards-sprite a1-1"></span><span class="awards-sprite a2-1"></span></span></a>|
 |781|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=26153"><span class="red">Funeral Planet</span><span class="awards-container"><span class="awards-sprite a1-1"></span><span class="awards-sprite a2-1"></span></span></a>|
 |782|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=34125"><span class="blue">God</span><span class="awards-container"><span class="awards-sprite a1-1"></span><span class="awards-sprite a2-1"></span></span></a>|
 |783|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=35172"><span class="red">Doberman</span><span class="awards-container"><span class="awards-sprite a1-1"></span><span class="awards-sprite a2-1"></span></span></a>|
@@ -5537,7 +5537,7 @@
 |418|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=22197"><span class="purple">Wrath</span><span class="awards-container"><span class="awards-sprite a1-1"></span><span class="awards-sprite a2-1"></span></span></a>|
 |419|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=23067"><span class="orange">Godslayer</span><span class="awards-container"><span class="awards-sprite a1-1"></span><span class="awards-sprite a2-1"></span></span></a>|
 |420|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=24091"><span class="red">NorsePounder</span><span class="awards-container"><span class="awards-sprite a1-1"></span><span class="awards-sprite a2-1"></span></span></a>|
-|421|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=24714"><span class="blue">Get Ranked</span><span class="awards-container"><span class="awards-sprite a1-1"></span><span class="awards-sprite a2-1"></span></span></a>|
+|421|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=24714"><span class="red">Get Ranked</span><span class="awards-container"><span class="awards-sprite a1-1"></span><span class="awards-sprite a2-1"></span></span></a>|
 |422|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=26153"><span class="red">Funeral Planet</span><span class="awards-container"><span class="awards-sprite a1-1"></span><span class="awards-sprite a2-1"></span></span></a>|
 |423|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=33719"><span class="orange">itwasluck</span><span class="awards-container"><span class="awards-sprite a1-2"></span><span class="awards-sprite a2-1"></span></span></a>|
 |424|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=34125"><span class="blue">God</span><span class="awards-container"><span class="awards-sprite a1-1"></span><span class="awards-sprite a2-1"></span></span></a>|
@@ -8128,5 +8128,5 @@
 
 
 
-<p class="last_updated"><span class="last_updated">Last Updated:&nbsp;&nbsp;Jul 20, 12:02 PM&nbsp;&nbsp;(Pacific)</span></p>
+<p class="last_updated"><span class="last_updated">Last Updated:&nbsp;&nbsp;Jul 21, 12:02 AM&nbsp;&nbsp;(Pacific)</span></p>
 
