@@ -7467,7 +7467,7 @@
 |440|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=80709"><span class="purple">Illini Wolverine</span><span class="awards-container"><span class="awards-sprite a5-2"></span></span></a>|
 |441|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=81394"><span class="purple">MetroSpaghetti</span><span class="awards-container"><span class="awards-sprite a5-2"></span></span></a>|
 |442|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=81621"><span class="purple">J U G G E R N A U T</span><span class="awards-container"><span class="awards-sprite a5-2"></span></span></a>|
-|443|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=82479"><span class="red">GenSicksWelfareCheck</span><span class="awards-container"><span class="awards-sprite a5-2"></span></span></a>|
+|443|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=82789"><span class="orange">Zesty</span><span class="awards-container"><span class="awards-sprite a5-2"></span></span></a>|
 
 
 <span class="awards_search_header" id="awards_search_header_cup3">Gold Cup (535)</span>
@@ -8200,5 +8200,5 @@
 
 
 
-<p class="last_updated"><span class="last_updated">Last Updated:&nbsp;&nbsp;Aug 15, 12:02 AM&nbsp;&nbsp;(Pacific)</span></p>
+<p class="last_updated"><span class="last_updated">Last Updated:&nbsp;&nbsp;Aug 15, 12:02 PM&nbsp;&nbsp;(Pacific)</span></p>
 
