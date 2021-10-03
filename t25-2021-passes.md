@@ -7,10 +7,12 @@
 
 {:.t100_passes.t100_passes_desktop}
 |<span class="t100_date">Date</span>|<span class="tank_col">Tank</span>|<span class="tank_col">Passed</span>|<span class="t100_rank">#</span>|
+|Oct 3: 11:31 AM|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=79157"><span class="orange">Thebrit</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a1-3"></span><span class="awards-sprite a2-2"></span><span class="awards-sprite a3-3"></span><span class="awards-sprite a4-3"></span><span class="awards-sprite a5-2"></span></span></a>|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=79159"><span class="orange">I AM LEGEND</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a1-3"></span><span class="awards-sprite a2-2"></span><span class="awards-sprite a3-2"></span><span class="awards-sprite a5-3"></span></span></a>|<span class="green">2</span>|
 |Oct 2: 8:01 PM|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=81853"><span class="red">Doc Holiday</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a1-3"></span><span class="awards-sprite a3-1"></span><span class="awards-sprite a5-3"></span></span></a>|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=79089"><span class="orange">Carlo Gambino</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a1-3"></span><span class="awards-sprite a2-2"></span><span class="awards-sprite a3-2"></span><span class="awards-sprite a5-1"></span></span></a>|<span class="green">5</span>|
 
 {:.t100_passes.t100_passes_mobile}
 |<span class="tank_col">Tank</span>|<span class="tank_col">Passed</span>|<span class="t100_rank">#</span>|
+|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=79157"><span class="orange">Thebrit</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a1-3"></span><span class="awards-sprite a2-2"></span><span class="awards-sprite a3-3"></span><span class="awards-sprite a4-3"></span><span class="awards-sprite a5-2"></span></span></a>|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=79159"><span class="orange">I AM LEGEND</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a1-3"></span><span class="awards-sprite a2-2"></span><span class="awards-sprite a3-2"></span><span class="awards-sprite a5-3"></span></span></a>|<span class="green">2</span>|
 |<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=81853"><span class="red">Doc Holiday</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a1-3"></span><span class="awards-sprite a3-1"></span><span class="awards-sprite a5-3"></span></span></a>|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=79089"><span class="orange">Carlo Gambino</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a1-3"></span><span class="awards-sprite a2-2"></span><span class="awards-sprite a3-2"></span><span class="awards-sprite a5-1"></span></span></a>|<span class="green">5</span>|
 
 
@@ -1265,5 +1267,5 @@
 
 
 
-<p class="last_updated"><span class="last_updated">Last Updated:&nbsp;&nbsp;Oct 3, 12:00 AM&nbsp;&nbsp;(Pacific)</span></p>
+<p class="last_updated"><span class="last_updated">Last Updated:&nbsp;&nbsp;Oct 3, 12:00 PM&nbsp;&nbsp;(Pacific)</span></p>
 
