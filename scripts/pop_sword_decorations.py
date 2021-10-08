@@ -71,11 +71,17 @@ if __name__ == '__main__':
     get_tank_id_list = [i for i in unique_tank_id_list if i not in unique_master_tank_id_list]
     unique_tank_dict = {}
     for tank_id in get_tank_id_list:
-        unique_tank_dict[tank_id] = get_tank_stats(tank_id)
+        try:
+            unique_tank_dict[tank_id] = get_tank_stats(tank_id)
+        except:
+            pass
     # have
     have_tank_id_list = [i for i in unique_tank_id_list if i not in get_tank_id_list]
     for tank_id in have_tank_id_list:
-        unique_tank_dict[tank_id] = get_tank_stats_from_master_df(master_df, tank_id)
+        try:
+            unique_tank_dict[tank_id] = get_tank_stats_from_master_df(master_df, tank_id)
+        except:
+            pass
     # pop
     with open(sword_decorations_md, 'w') as f:
         f.write('\n## Sword Decorations\n\n')
