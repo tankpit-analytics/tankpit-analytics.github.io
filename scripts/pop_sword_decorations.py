@@ -41,7 +41,10 @@ def get_html_i(sword_decorations, tank_dict, i):
 def get_html(sword_decorations, tank_dict):
     html = ''
     for i in range(len(sword_decorations)):
-        html += get_html_i(sword_decorations, tank_dict, i)
+        try:
+            html += get_html_i(sword_decorations, tank_dict, i)
+        except:
+            pass
     return(html)
 
 def get_md(sword_decorations, tank_dict, f):
