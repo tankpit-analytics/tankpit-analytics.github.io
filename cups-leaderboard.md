@@ -5,7 +5,7 @@
 
 {:.cups_leaderboard}
 |<span class="num_col">&nbsp;</span>|<span class="tank_col">Main Tank</span>|<span class="cup_col"><span class="awards-sprite a5-3"></span></span>|<span class="cup_col"><span class="awards-sprite a5-2"></span></span>|<span class="cup_col"><span class="awards-sprite a5-1"></span></span>|<span class="cup_col_total">Total</span>|
-|1|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=45863"><span class="red">ROSE</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a1-2"></span><span class="awards-sprite a2-3"></span><span class="awards-sprite a3-3"></span><span class="awards-sprite a4-3"></span><span class="awards-sprite a5-2"></span><span class="awards-sprite a7-1"></span><span class="awards-sprite a8-1"></span></span></a>|125|96|85|306|
+|1|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=45863"><span class="red">ROSE</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a1-2"></span><span class="awards-sprite a2-3"></span><span class="awards-sprite a3-3"></span><span class="awards-sprite a4-3"></span><span class="awards-sprite a5-2"></span><span class="awards-sprite a7-1"></span><span class="awards-sprite a8-1"></span></span></a>|125|97|85|307|
 |2|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=36902"><span class="orange">the rock</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a5-3"></span></span></a>|113|77|72|262|
 |3|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=35146"><span class="purple">solar salt</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a1-2"></span><span class="awards-sprite a2-2"></span><span class="awards-sprite a3-2"></span><span class="awards-sprite a4-3"></span><span class="awards-sprite a5-2"></span></span></a>|76|92|67|235|
 |4|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=11644"><span class="orange">Limited Edition</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a1-3"></span><span class="awards-sprite a2-1"></span><span class="awards-sprite a3-2"></span><span class="awards-sprite a5-2"></span><span class="awards-sprite a8-1"></span></span></a>|60|51|31|142|
@@ -32,5 +32,5 @@
 |25|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=12791"><span class="orange">RESILIENCE</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a1-3"></span><span class="awards-sprite a2-3"></span><span class="awards-sprite a3-3"></span><span class="awards-sprite a4-3"></span><span class="awards-sprite a5-1"></span><span class="awards-sprite a6-1"></span><span class="awards-sprite a8-1"></span></span></a>|14|14|12|40|
 
 
-<p class="last_updated"><span class="last_updated">Last Updated:&nbsp;&nbsp;Oct 7, 12:02 PM&nbsp;&nbsp;(Pacific)</span></p>
+<p class="last_updated"><span class="last_updated">Last Updated:&nbsp;&nbsp;Oct 8, 12:02 AM&nbsp;&nbsp;(Pacific)</span></p>
 
