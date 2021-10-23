@@ -7,7 +7,7 @@
 
 {:.stats_leaderboard#stats_leaderboard_playtime}
 |<span class="num_col">&nbsp;</span>|<span class="tank_col">Tank</span>|<span class="stat_col">Time Played</span>|
-|1|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=79157"><span class="orange">Thebrit</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a1-3"></span><span class="awards-sprite a2-2"></span><span class="awards-sprite a3-3"></span><span class="awards-sprite a4-3"></span><span class="awards-sprite a5-2"></span></span></a>|618:23:43|
+|1|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=79157"><span class="orange">Thebrit</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a1-3"></span><span class="awards-sprite a2-2"></span><span class="awards-sprite a3-3"></span><span class="awards-sprite a4-3"></span><span class="awards-sprite a5-2"></span></span></a>|618:55:18|
 |2|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=81853"><span class="red">Doc Holiday</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a1-3"></span><span class="awards-sprite a3-2"></span><span class="awards-sprite a5-3"></span></span></a>|215:28:40|
 |3|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=80991"><span class="purple">ShalltearBloodfallen</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a1-3"></span><span class="awards-sprite a2-2"></span><span class="awards-sprite a3-2"></span><span class="awards-sprite a5-3"></span><span class="awards-sprite a7-1"></span></span></a>|214:23:08|
 |4|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=79120"><span class="purple">Modest Mole</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a1-2"></span><span class="awards-sprite a2-1"></span><span class="awards-sprite a3-1"></span><span class="awards-sprite a5-1"></span></span></a>|112:58:49|
@@ -28,7 +28,7 @@
 
 {:.stats_leaderboard#stats_leaderboard_kills}
 |<span class="num_col">&nbsp;</span>|<span class="tank_col">Tank</span>|<span class="stat_col">Kills</span>|
-|1|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=79157"><span class="orange">Thebrit</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a1-3"></span><span class="awards-sprite a2-2"></span><span class="awards-sprite a3-3"></span><span class="awards-sprite a4-3"></span><span class="awards-sprite a5-2"></span></span></a>|18245|
+|1|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=79157"><span class="orange">Thebrit</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a1-3"></span><span class="awards-sprite a2-2"></span><span class="awards-sprite a3-3"></span><span class="awards-sprite a4-3"></span><span class="awards-sprite a5-2"></span></span></a>|18270|
 |2|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=79159"><span class="orange">I AM LEGEND</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a1-3"></span><span class="awards-sprite a2-2"></span><span class="awards-sprite a3-2"></span><span class="awards-sprite a5-3"></span></span></a>|6221|
 |3|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=81853"><span class="red">Doc Holiday</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a1-3"></span><span class="awards-sprite a3-2"></span><span class="awards-sprite a5-3"></span></span></a>|3311|
 |4|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=81868"><span class="purple">Shooter McGavin</span><span class="awards-container"><span class="awards-sprite a1-3"></span></span></a>|2674|
@@ -37,15 +37,15 @@
 |7|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=81178"><span class="purple">INs-TaBiLitY</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a1-3"></span><span class="awards-sprite a2-1"></span><span class="awards-sprite a5-3"></span></span></a>|794|
 |8|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=80095"><span class="red">Battery Steele</span><span class="awards-container"><span class="awards-sprite a0-1"></span><span class="awards-sprite a1-3"></span></span></a>|685|
 |9|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=79197"><span class="purple">Tenacious Turtle</span><span class="awards-container"><span class="awards-sprite a0-2"></span><span class="awards-sprite a1-2"></span><span class="awards-sprite a2-1"></span><span class="awards-sprite a5-1"></span></span></a>|466|
-|10|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=79103"><span class="blue">Jack Dragna</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a1-2"></span><span class="awards-sprite a2-3"></span><span class="awards-sprite a3-2"></span><span class="awards-sprite a5-2"></span></span></a>|402|
+|10|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=79103"><span class="blue">Jack Dragna</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a1-2"></span><span class="awards-sprite a2-3"></span><span class="awards-sprite a3-2"></span><span class="awards-sprite a5-2"></span></span></a>|409|
 |11|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=82369"><span class="red">The Grim Reaper </span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a1-2"></span></span></a>|228|
 |12|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=79120"><span class="purple">Modest Mole</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a1-2"></span><span class="awards-sprite a2-1"></span><span class="awards-sprite a3-1"></span><span class="awards-sprite a5-1"></span></span></a>|221|
 |13|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=79158"><span class="purple">Ordinary Owl</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a1-1"></span><span class="awards-sprite a5-3"></span></span></a>|112|
 |14|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=79546"><span class="purple">Brash Bison</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a5-2"></span></span></a>|41|
 |15|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=82910"><span class="purple">Myth</span><span class="awards-container"><span class="awards-sprite a0-3"></span></span></a>|18|
 |16|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=83195"><span class="orange">John Dillinger</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a5-3"></span></span></a>|10|
-|17|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=82706"><span class="purple">Tom Riddle</span><span class="awards-container"><span class="awards-sprite a0-1"></span></span></a>|9|
-|18|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=79834"><span class="blue">Kenneth Allen</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a4-3"></span><span class="awards-sprite a5-1"></span><span class="awards-sprite a7-1"></span></span></a>|9|
+|17|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=79834"><span class="blue">Kenneth Allen</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a4-3"></span><span class="awards-sprite a5-1"></span><span class="awards-sprite a7-1"></span></span></a>|9|
+|18|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=82706"><span class="purple">Tom Riddle</span><span class="awards-container"><span class="awards-sprite a0-1"></span></span></a>|9|
 
 
 {:.stats_leaderboard#stats_leaderboard_deaths}
@@ -67,5 +67,5 @@
 
 
 
-<p class="last_updated"><span class="last_updated">Last Updated:&nbsp;&nbsp;Oct 23, 12:01 AM&nbsp;&nbsp;(Pacific)</span></p>
+<p class="last_updated"><span class="last_updated">Last Updated:&nbsp;&nbsp;Oct 23, 12:02 PM&nbsp;&nbsp;(Pacific)</span></p>
 
