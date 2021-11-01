@@ -3,6 +3,12 @@
 
 <p><a href="https://tankpit-analytics.github.io/awards-search">Awards Search</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="https://tankpit-analytics.github.io/latest-sword-decorations">Sword Decorations</a></p>
 
+<span class="decorations_month">November 2021</span>
+
+{:.decorations}
+|<span class="decorations_date">Date</span>|<span class="decoration">&nbsp;</span>|<span class="tank_col">Tank</span>|
+|Nov 1, 2021|<span class="awards-sprite a3-1"></span>|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=79490"><span class="red">Iron Man</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a1-2"></span><span class="awards-sprite a2-2"></span><span class="awards-sprite a3-1"></span><span class="awards-sprite a5-2"></span></span></a>|
+
 <span class="decorations_month">October 2021</span>
 
 {:.decorations}
@@ -102,8 +108,8 @@
 
 {:.decorations}
 |<span class="decorations_date">Date</span>|<span class="decoration">&nbsp;</span>|<span class="tank_col">Tank</span>|
-|Dec 31, 2020|<span class="awards-sprite a3-3"></span>|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=6828"><span class="red">INTIMIDATION</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a1-1"></span><span class="awards-sprite a2-3"></span><span class="awards-sprite a3-3"></span><span class="awards-sprite a4-3"></span><span class="awards-sprite a5-3"></span><span class="awards-sprite a8-1"></span></span></a>|
 |Dec 31, 2020|<span class="awards-sprite a3-2"></span>|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=33506"><span class="purple">purp88</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a2-2"></span><span class="awards-sprite a3-2"></span><span class="awards-sprite a4-3"></span><span class="awards-sprite a5-2"></span></span></a>|
+|Dec 31, 2020|<span class="awards-sprite a3-3"></span>|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=6828"><span class="red">INTIMIDATION</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a1-1"></span><span class="awards-sprite a2-3"></span><span class="awards-sprite a3-3"></span><span class="awards-sprite a4-3"></span><span class="awards-sprite a5-3"></span><span class="awards-sprite a8-1"></span></span></a>|
 |Dec 10, 2020|<span class="awards-sprite a3-1"></span>|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=70136"><span class="orange">Shredder</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a1-2"></span><span class="awards-sprite a3-1"></span><span class="awards-sprite a5-2"></span></span></a>|
 
 <span class="decorations_month">November 2020</span>
@@ -181,8 +187,8 @@
 {:.decorations}
 |<span class="decorations_date">Date</span>|<span class="decoration">&nbsp;</span>|<span class="tank_col">Tank</span>|
 |May 30, 2020|<span class="awards-sprite a3-1"></span>|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=71596"><span class="orange">One hit wonder</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a1-3"></span><span class="awards-sprite a2-2"></span><span class="awards-sprite a3-3"></span></span></a>|
-|May 29, 2020|<span class="awards-sprite a3-1"></span>|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=71956"><span class="red">FINESSE</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a1-1"></span><span class="awards-sprite a2-3"></span><span class="awards-sprite a3-3"></span><span class="awards-sprite a4-3"></span><span class="awards-sprite a5-3"></span><span class="awards-sprite a7-1"></span><span class="awards-sprite a8-1"></span></span></a>|
 |May 29, 2020|<span class="awards-sprite a3-1"></span>|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=6828"><span class="red">INTIMIDATION</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a1-1"></span><span class="awards-sprite a2-3"></span><span class="awards-sprite a3-3"></span><span class="awards-sprite a4-3"></span><span class="awards-sprite a5-3"></span><span class="awards-sprite a8-1"></span></span></a>|
+|May 29, 2020|<span class="awards-sprite a3-1"></span>|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=71956"><span class="red">FINESSE</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a1-1"></span><span class="awards-sprite a2-3"></span><span class="awards-sprite a3-3"></span><span class="awards-sprite a4-3"></span><span class="awards-sprite a5-3"></span><span class="awards-sprite a7-1"></span><span class="awards-sprite a8-1"></span></span></a>|
 |May 22, 2020|<span class="awards-sprite a3-1"></span>|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=68310"><span class="purple">MamaXiangQi</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a1-3"></span><span class="awards-sprite a2-3"></span><span class="awards-sprite a3-2"></span><span class="awards-sprite a5-1"></span><span class="awards-sprite a6-1"></span></span></a>|
 |May 19, 2020|<span class="awards-sprite a3-1"></span>|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=73113"><span class="orange">Sinai</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a1-3"></span><span class="awards-sprite a2-3"></span><span class="awards-sprite a3-1"></span></span></a>|
 |May 16, 2020|<span class="awards-sprite a3-1"></span>|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=70478"><span class="red">CKPA2020</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a1-3"></span><span class="awards-sprite a2-2"></span><span class="awards-sprite a3-2"></span><span class="awards-sprite a5-3"></span></span></a>|
@@ -213,5 +219,5 @@
 
 
 
-<p class="last_updated"><span class="last_updated">Last Updated:&nbsp;&nbsp;Oct 27, 12:02 AM&nbsp;&nbsp;(Pacific)</span></p>
+<p class="last_updated"><span class="last_updated">Last Updated:&nbsp;&nbsp;Nov 1, 12:03 AM&nbsp;&nbsp;(Pacific)</span></p>
 
