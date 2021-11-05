@@ -3,6 +3,17 @@
 
 <p><a href="https://tankpit-analytics.github.io/">Top 100</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="https://tankpit-analytics.github.io/t100-overall-passes">Passes</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="https://tankpit-analytics.github.io/stats-overall">Stats Leaderboard</a></p>
 
+<span class="t100_month">November 2021</span>
+
+{:.t100_passes.t100_passes_desktop}
+|<span class="t100_date">Date</span>|<span class="tank_col">Tank</span>|<span class="tank_col">Passed</span>|<span class="t100_rank">#</span>|
+|Nov 4: 9:00 PM|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=2248"><span class="red">MimiC</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a3-2"></span><span class="awards-sprite a5-3"></span></span></a>|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=63875"><span class="red">Sir Rosco</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a1-3"></span><span class="awards-sprite a2-2"></span><span class="awards-sprite a3-2"></span><span class="awards-sprite a5-3"></span><span class="awards-sprite a7-1"></span></span></a>|<span class="red">89</span>|
+
+{:.t100_passes.t100_passes_mobile}
+|<span class="tank_col">Tank</span>|<span class="tank_col">Passed</span>|<span class="t100_rank">#</span>|
+|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=2248"><span class="red">MimiC</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a3-2"></span><span class="awards-sprite a5-3"></span></span></a>|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=63875"><span class="red">Sir Rosco</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a1-3"></span><span class="awards-sprite a2-2"></span><span class="awards-sprite a3-2"></span><span class="awards-sprite a5-3"></span><span class="awards-sprite a7-1"></span></span></a>|<span class="red">89</span>|
+
+
 <span class="t100_month">October 2021</span>
 
 {:.t100_passes.t100_passes_desktop}
@@ -1120,5 +1131,5 @@
 
 
 
-<p class="last_updated"><span class="last_updated">Last Updated:&nbsp;&nbsp;Nov 4, 12:00 PM&nbsp;&nbsp;(Pacific)</span></p>
+<p class="last_updated"><span class="last_updated">Last Updated:&nbsp;&nbsp;Nov 5, 12:00 AM&nbsp;&nbsp;(Pacific)</span></p>
 
