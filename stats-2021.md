@@ -19,7 +19,7 @@
 |10|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=79673"><span class="purple">Jaded Jaguar</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a1-2"></span><span class="awards-sprite a5-3"></span></span></a>|41:46:28|
 |11|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=79197"><span class="purple">Tenacious Turtle</span><span class="awards-container"><span class="awards-sprite a0-2"></span><span class="awards-sprite a1-2"></span><span class="awards-sprite a2-1"></span><span class="awards-sprite a5-1"></span></span></a>|31:6:03|
 |12|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=83681"><span class="purple">GoodWillWin</span><span class="awards-container"><span class="awards-sprite a0-2"></span></span></a>|30:25:45|
-|13|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=82910"><span class="purple">Myth</span><span class="awards-container"><span class="awards-sprite a0-3"></span></span></a>|26:55:08|
+|13|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=82910"><span class="purple">Myth</span><span class="awards-container"><span class="awards-sprite a0-3"></span></span></a>|27:3:25|
 |14|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=79158"><span class="purple">Ordinary Owl</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a1-1"></span><span class="awards-sprite a5-3"></span></span></a>|16:40:48|
 |15|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=79834"><span class="blue">Kenneth Allen</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a4-3"></span><span class="awards-sprite a5-1"></span><span class="awards-sprite a7-1"></span></span></a>|8:7:20|
 |16|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=83195"><span class="orange">John Dillinger</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a5-3"></span></span></a>|7:31:07|
@@ -68,5 +68,5 @@
 
 
 
-<p class="last_updated"><span class="last_updated">Last Updated:&nbsp;&nbsp;Nov 7, 12:02 AM&nbsp;&nbsp;(Pacific)</span></p>
+<p class="last_updated"><span class="last_updated">Last Updated:&nbsp;&nbsp;Nov 7, 12:02 PM&nbsp;&nbsp;(Pacific)</span></p>
 
