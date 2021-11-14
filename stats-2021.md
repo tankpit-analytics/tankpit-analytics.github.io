@@ -14,9 +14,9 @@
 |5|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=79809"><span class="orange">Bugsy Siegel</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a5-3"></span><span class="awards-sprite a8-1"></span></span></a>|95:54:58|
 |6|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=81178"><span class="purple">INs-TaBiLitY</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a1-3"></span><span class="awards-sprite a2-1"></span><span class="awards-sprite a5-3"></span></span></a>|93:18:37|
 |7|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=81474"><span class="blue">Eldron</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a1-3"></span><span class="awards-sprite a2-3"></span></span></a>|88:11:55|
-|8|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=82369"><span class="red">The Grim Reaper </span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a1-2"></span></span></a>|71:48:29|
+|8|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=82369"><span class="red">The Grim Reaper </span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a1-2"></span></span></a>|72:3:35|
 |9|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=79546"><span class="purple">Brash Bison</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a5-2"></span></span></a>|53:32:04|
-|10|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=83681"><span class="purple">GoodWillWin</span><span class="awards-container"><span class="awards-sprite a0-2"></span><span class="awards-sprite a2-1"></span></span></a>|43:33:17|
+|10|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=83681"><span class="purple">GoodWillWin</span><span class="awards-container"><span class="awards-sprite a0-2"></span><span class="awards-sprite a2-1"></span></span></a>|43:48:06|
 |11|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=79673"><span class="purple">Jaded Jaguar</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a1-2"></span><span class="awards-sprite a5-3"></span></span></a>|41:46:28|
 |12|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=79197"><span class="purple">Tenacious Turtle</span><span class="awards-container"><span class="awards-sprite a0-2"></span><span class="awards-sprite a1-2"></span><span class="awards-sprite a2-1"></span><span class="awards-sprite a5-1"></span></span></a>|31:6:03|
 |13|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=82910"><span class="purple">Myth</span><span class="awards-container"><span class="awards-sprite a0-3"></span></span></a>|27:3:25|
@@ -40,7 +40,7 @@
 |10|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=82369"><span class="red">The Grim Reaper </span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a1-2"></span></span></a>|358|
 |11|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=79120"><span class="purple">Modest Mole</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a1-2"></span><span class="awards-sprite a2-1"></span><span class="awards-sprite a3-1"></span><span class="awards-sprite a5-1"></span></span></a>|221|
 |12|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=79158"><span class="purple">Ordinary Owl</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a1-1"></span><span class="awards-sprite a5-3"></span></span></a>|112|
-|13|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=83681"><span class="purple">GoodWillWin</span><span class="awards-container"><span class="awards-sprite a0-2"></span><span class="awards-sprite a2-1"></span></span></a>|87|
+|13|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=83681"><span class="purple">GoodWillWin</span><span class="awards-container"><span class="awards-sprite a0-2"></span><span class="awards-sprite a2-1"></span></span></a>|88|
 |14|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=79546"><span class="purple">Brash Bison</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a5-2"></span></span></a>|41|
 |15|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=82910"><span class="purple">Myth</span><span class="awards-container"><span class="awards-sprite a0-3"></span></span></a>|18|
 |16|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=83195"><span class="orange">John Dillinger</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a5-3"></span></span></a>|10|
@@ -68,5 +68,5 @@
 
 
 
-<p class="last_updated"><span class="last_updated">Last Updated:&nbsp;&nbsp;Nov 13, 12:02 PM&nbsp;&nbsp;(Pacific)</span></p>
+<p class="last_updated"><span class="last_updated">Last Updated:&nbsp;&nbsp;Nov 14, 12:02 AM&nbsp;&nbsp;(Pacific)</span></p>
 
