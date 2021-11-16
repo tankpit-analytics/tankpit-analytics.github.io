@@ -623,7 +623,7 @@
 |203|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=12170"><span class="purple">PT 757</span><span class="awards-container"><span class="awards-sprite a0-2"></span><span class="awards-sprite a1-1"></span></span></a>|
 |204|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=12279"><span class="blue">Dabs</span><span class="awards-container"><span class="awards-sprite a0-2"></span><span class="awards-sprite a1-1"></span></span></a>|
 |205|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=12461"><span class="blue">Eat</span><span class="awards-container"><span class="awards-sprite a0-2"></span><span class="awards-sprite a1-1"></span></span></a>|
-|206|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=12525"><span class="blue">Jakey</span><span class="awards-container"><span class="awards-sprite a0-2"></span><span class="awards-sprite a1-1"></span></span></a>|
+|206|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=12525"><span class="orange">Jakey</span><span class="awards-container"><span class="awards-sprite a0-2"></span><span class="awards-sprite a1-1"></span></span></a>|
 |207|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=12686"><span class="orange">- ImPeRiaL - II -</span><span class="awards-container"><span class="awards-sprite a0-2"></span><span class="awards-sprite a1-1"></span></span></a>|
 |208|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=12779"><span class="orange">BLUE DREAMER</span><span class="awards-container"><span class="awards-sprite a0-2"></span><span class="awards-sprite a1-1"></span></span></a>|
 |209|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=12963"><span class="blue">The Bear Jew</span><span class="awards-container"><span class="awards-sprite a0-2"></span><span class="awards-sprite a1-2"></span></span></a>|
@@ -3742,7 +3742,7 @@
 |453|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=12170"><span class="purple">PT 757</span><span class="awards-container"><span class="awards-sprite a0-2"></span><span class="awards-sprite a1-1"></span></span></a>|
 |454|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=12279"><span class="blue">Dabs</span><span class="awards-container"><span class="awards-sprite a0-2"></span><span class="awards-sprite a1-1"></span></span></a>|
 |455|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=12461"><span class="blue">Eat</span><span class="awards-container"><span class="awards-sprite a0-2"></span><span class="awards-sprite a1-1"></span></span></a>|
-|456|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=12525"><span class="blue">Jakey</span><span class="awards-container"><span class="awards-sprite a0-2"></span><span class="awards-sprite a1-1"></span></span></a>|
+|456|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=12525"><span class="orange">Jakey</span><span class="awards-container"><span class="awards-sprite a0-2"></span><span class="awards-sprite a1-1"></span></span></a>|
 |457|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=12686"><span class="orange">- ImPeRiaL - II -</span><span class="awards-container"><span class="awards-sprite a0-2"></span><span class="awards-sprite a1-1"></span></span></a>|
 |458|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=12779"><span class="orange">BLUE DREAMER</span><span class="awards-container"><span class="awards-sprite a0-2"></span><span class="awards-sprite a1-1"></span></span></a>|
 |459|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=13346"><span class="blue">Goldeneyez Imp</span><span class="awards-container"><span class="awards-sprite a0-2"></span><span class="awards-sprite a1-1"></span></span></a>|
@@ -8396,5 +8396,5 @@
 
 
 
-<p class="last_updated"><span class="last_updated">Last Updated:&nbsp;&nbsp;Nov 15, 12:03 PM&nbsp;&nbsp;(Pacific)</span></p>
+<p class="last_updated"><span class="last_updated">Last Updated:&nbsp;&nbsp;Nov 16, 12:03 PM&nbsp;&nbsp;(Pacific)</span></p>
 
