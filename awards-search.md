@@ -982,7 +982,7 @@
 |564|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=83116"><span class="purple">TAINTPIT</span><span class="awards-container"><span class="awards-sprite a0-2"></span><span class="awards-sprite a5-1"></span></span></a>|
 |565|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=83175"><span class="orange">- Kryptek -</span><span class="awards-container"><span class="awards-sprite a0-2"></span><span class="awards-sprite a1-1"></span></span></a>|
 |566|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=83291"><span class="orange">kills alot</span><span class="awards-container"><span class="awards-sprite a0-2"></span><span class="awards-sprite a1-1"></span></span></a>|
-|567|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=83457"><span class="red">Knine</span><span class="awards-container"><span class="awards-sprite a0-2"></span><span class="awards-sprite a1-1"></span></span></a>|
+|567|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=83457"><span class="orange">Knine</span><span class="awards-container"><span class="awards-sprite a0-2"></span><span class="awards-sprite a1-1"></span></span></a>|
 |568|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=83752"><span class="orange">WHO IS YORDADDY 44</span><span class="awards-container"><span class="awards-sprite a0-2"></span><span class="awards-sprite a5-2"></span></span></a>|
 |569|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=83951"><span class="purple">TRAPPIN N J A P A N</span><span class="awards-container"><span class="awards-sprite a0-2"></span><span class="awards-sprite a2-1"></span></span></a>|
 |570|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=84117"><span class="purple">Stand Alone</span><span class="awards-container"><span class="awards-sprite a0-2"></span><span class="awards-sprite a5-1"></span></span></a>|
@@ -3901,7 +3901,7 @@
 |609|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=82963"><span class="red">- 17 -</span><span class="awards-container"><span class="awards-sprite a0-2"></span><span class="awards-sprite a1-1"></span></span></a>|
 |610|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=83175"><span class="orange">- Kryptek -</span><span class="awards-container"><span class="awards-sprite a0-2"></span><span class="awards-sprite a1-1"></span></span></a>|
 |611|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=83291"><span class="orange">kills alot</span><span class="awards-container"><span class="awards-sprite a0-2"></span><span class="awards-sprite a1-1"></span></span></a>|
-|612|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=83457"><span class="red">Knine</span><span class="awards-container"><span class="awards-sprite a0-2"></span><span class="awards-sprite a1-1"></span></span></a>|
+|612|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=83457"><span class="orange">Knine</span><span class="awards-container"><span class="awards-sprite a0-2"></span><span class="awards-sprite a1-1"></span></span></a>|
 |613|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=1164"><span class="purple">leDERP</span><span class="awards-container"><span class="awards-sprite a0-1"></span><span class="awards-sprite a1-1"></span></span></a>|
 |614|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=1305"><span class="purple">Ozie</span><span class="awards-container"><span class="awards-sprite a0-1"></span><span class="awards-sprite a1-1"></span></span></a>|
 |615|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=2037"><span class="blue">DyseMan</span><span class="awards-container"><span class="awards-sprite a0-1"></span><span class="awards-sprite a1-1"></span></span></a>|
@@ -8415,5 +8415,5 @@
 
 
 
-<p class="last_updated"><span class="last_updated">Last Updated:&nbsp;&nbsp;Nov 29, 12:03 AM&nbsp;&nbsp;(Pacific)</span></p>
+<p class="last_updated"><span class="last_updated">Last Updated:&nbsp;&nbsp;Nov 29, 12:03 PM&nbsp;&nbsp;(Pacific)</span></p>
 
