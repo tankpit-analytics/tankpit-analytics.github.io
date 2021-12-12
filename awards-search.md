@@ -2576,7 +2576,7 @@
 |1583|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=77114"><span class="orange">LOVE TRUMPS HATE</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a1-1"></span></span></a>|
 |1584|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=77219"><span class="purple">thiNg 1</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a5-3"></span></span></a>|
 |1585|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=77889"><span class="red">TeamRocket</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a1-1"></span></span></a>|
-|1586|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=77909"><span class="red">False</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a5-1"></span></span></a>|
+|1586|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=77909"><span class="orange">False</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a5-1"></span></span></a>|
 |1587|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=78224"><span class="red">RedRocket</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a1-2"></span></span></a>|
 |1588|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=78249"><span class="blue">pedoodle </span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a5-2"></span></span></a>|
 |1589|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=78261"><span class="orange">Dusty</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a1-2"></span></span></a>|
@@ -7019,7 +7019,7 @@
 |235|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=70120"><span class="red">cRanberry vampiRe</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a5-1"></span></span></a>|
 |236|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=70185"><span class="blue">Stay Hungry</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a5-1"></span></span></a>|
 |237|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=72184"><span class="purple">LsX</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a5-1"></span></span></a>|
-|238|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=77909"><span class="red">False</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a5-1"></span></span></a>|
+|238|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=77909"><span class="orange">False</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a5-1"></span></span></a>|
 |239|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=79094"><span class="blue">Amanda Nunes</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a5-1"></span></span></a>|
 |240|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=79115"><span class="purple">i wOnT liVe iN feAR</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a5-1"></span></span></a>|
 |241|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=79128"><span class="blue">Jose Aldo</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a5-1"></span></span></a>|
@@ -8410,5 +8410,5 @@
 
 
 
-<p class="last_updated"><span class="last_updated">Last Updated:&nbsp;&nbsp;Dec 11, 12:02 PM&nbsp;&nbsp;(Pacific)</span></p>
+<p class="last_updated"><span class="last_updated">Last Updated:&nbsp;&nbsp;Dec 12, 12:02 AM&nbsp;&nbsp;(Pacific)</span></p>
 
