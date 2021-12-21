@@ -13,7 +13,7 @@
 |4|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=81178"><span class="purple">INs-TaBiLitY</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a1-3"></span><span class="awards-sprite a2-1"></span><span class="awards-sprite a5-3"></span></span></a>|93:18:37|
 |5|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=81474"><span class="blue">Eldron</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a1-3"></span><span class="awards-sprite a2-3"></span></span></a>|88:11:55|
 |6|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=82369"><span class="red">The Grim Reaper </span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a1-2"></span></span></a>|85:53:22|
-|7|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=79834"><span class="blue">Kenneth Allen</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a4-3"></span><span class="awards-sprite a5-1"></span><span class="awards-sprite a7-1"></span></span></a>|65:57:15|
+|7|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=79834"><span class="blue">Kenneth Allen</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a4-3"></span><span class="awards-sprite a5-1"></span><span class="awards-sprite a7-1"></span></span></a>|66:38:16|
 |8|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=83681"><span class="purple">GoodWillWin</span><span class="awards-container"><span class="awards-sprite a0-2"></span><span class="awards-sprite a1-1"></span><span class="awards-sprite a2-1"></span></span></a>|59:28:34|
 |9|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=79546"><span class="purple">Brash Bison</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a5-2"></span></span></a>|53:32:04|
 |10|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=79673"><span class="purple">Jaded Jaguar</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a1-2"></span><span class="awards-sprite a5-3"></span></span></a>|41:46:28|
@@ -28,7 +28,7 @@
 {:.stats_leaderboard#stats_leaderboard_kills}
 |<span class="num_col">&nbsp;</span>|<span class="tank_col">Tank</span>|<span class="stat_col">Kills</span>|
 |1|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=79159"><span class="orange">I AM LEGEND</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a1-3"></span><span class="awards-sprite a2-2"></span><span class="awards-sprite a3-2"></span><span class="awards-sprite a5-3"></span></span></a>|6221|
-|2|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=81853"><span class="purple">Doc Holiday</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a1-3"></span><span class="awards-sprite a2-1"></span><span class="awards-sprite a3-2"></span><span class="awards-sprite a4-3"></span><span class="awards-sprite a5-3"></span></span></a>|5447|
+|2|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=81853"><span class="purple">Doc Holiday</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a1-3"></span><span class="awards-sprite a2-1"></span><span class="awards-sprite a3-2"></span><span class="awards-sprite a4-3"></span><span class="awards-sprite a5-3"></span></span></a>|5458|
 |3|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=81868"><span class="purple">Shooter McGavin</span><span class="awards-container"><span class="awards-sprite a0-2"></span><span class="awards-sprite a1-3"></span></span></a>|2696|
 |4|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=81474"><span class="blue">Eldron</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a1-3"></span><span class="awards-sprite a2-3"></span></span></a>|1420|
 |5|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=81178"><span class="purple">INs-TaBiLitY</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a1-3"></span><span class="awards-sprite a2-1"></span><span class="awards-sprite a5-3"></span></span></a>|794|
@@ -67,5 +67,5 @@
 
 
 
-<p class="last_updated"><span class="last_updated">Last Updated:&nbsp;&nbsp;Dec 21, 12:02 AM&nbsp;&nbsp;(Pacific)</span></p>
+<p class="last_updated"><span class="last_updated">Last Updated:&nbsp;&nbsp;Dec 21, 12:02 PM&nbsp;&nbsp;(Pacific)</span></p>
 
