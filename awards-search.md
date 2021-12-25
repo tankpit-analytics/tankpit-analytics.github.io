@@ -6794,7 +6794,7 @@
 |107|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=80523"><span class="purple">OnhceT</span><span class="awards-container"><span class="awards-sprite a4-3"></span></span></a>|
 
 
-<span class="awards_search_header" id="awards_search_header_cup1">Bronze Cup (394)</span>
+<span class="awards_search_header" id="awards_search_header_cup1">Bronze Cup (395)</span>
 
 {:.awards_search#awards_search_cup1}
 |1|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=671"><span class="blue">Shockwave</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a1-3"></span><span class="awards-sprite a2-3"></span><span class="awards-sprite a3-3"></span><span class="awards-sprite a4-3"></span><span class="awards-sprite a5-1"></span><span class="awards-sprite a7-1"></span><span class="awards-sprite a8-1"></span></span></a>|
@@ -7191,6 +7191,7 @@
 |392|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=82998"><span class="red">realeSt</span><span class="awards-container"><span class="awards-sprite a5-1"></span></span></a>|
 |393|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=83328"><span class="red">Megumin </span><span class="awards-container"><span class="awards-sprite a5-1"></span></span></a>|
 |394|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=83712"><span class="blue">the germ</span><span class="awards-container"><span class="awards-sprite a5-1"></span></span></a>|
+|395|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=84428"><span class="red">Sheer fokn wilL</span><span class="awards-container"><span class="awards-sprite a5-1"></span></span></a>|
 
 
 <span class="awards_search_header" id="awards_search_header_cup2">Silver Cup (463)</span>
@@ -8432,5 +8433,5 @@
 
 
 
-<p class="last_updated"><span class="last_updated">Last Updated:&nbsp;&nbsp;Dec 25, 12:02 AM&nbsp;&nbsp;(Pacific)</span></p>
+<p class="last_updated"><span class="last_updated">Last Updated:&nbsp;&nbsp;Dec 25, 12:02 PM&nbsp;&nbsp;(Pacific)</span></p>
 
