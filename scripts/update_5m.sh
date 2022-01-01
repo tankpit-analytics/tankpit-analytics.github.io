@@ -15,7 +15,7 @@ echo "#\nJob started: " $(date) >> $STDOUT
 $PYTHON $SCRIPTSDIR/get_active.py >> $LOGDIR/get_active.log 2>&1
 $PYTHON $SCRIPTSDIR/get_upcoming_tourn.py >> $LOGDIR/get_upcoming_tourn.log 2>&1
 $PYTHON $SCRIPTSDIR/t100_overall_update.py >> $LOGDIR/t100_overall_update.log 2>&1 # 30 seconds
-$PYTHON $SCRIPTSDIR/t100_2021_update.py >> $LOGDIR/t100_2021_update.log 2>&1 # 10 seconds
+$PYTHON $SCRIPTSDIR/t100_2022_update.py >> $LOGDIR/t100_2022_update.log 2>&1 # 10 seconds
 
 # log
 echo "Job ended: " $(date) >> $STDLOG
