@@ -3,7 +3,18 @@
 
 <p><a href="https://tankpit-analytics.github.io/t25-2022">Top 25</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="https://tankpit-analytics.github.io/t25-2022-passes">Passes</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="https://tankpit-analytics.github.io/stats-2022">Stats Leaderboard</a></p>
 
+<span class="t100_month">January 2022</span>
+
+{:.t100_passes.t100_passes_desktop}
+|<span class="t100_date">Date</span>|<span class="tank_col">Tank</span>|<span class="tank_col">Passed</span>|<span class="t100_rank">#</span>|
+|Jan 2: 11:16 PM|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=84665"><span class="red">CoL Kraken</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a5-1"></span></span></a>|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=84681"><span class="purple">QUANTUM OF SOLACE</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a1-2"></span></span></a>|<span class="green">3</span>|
+
+{:.t100_passes.t100_passes_mobile}
+|<span class="tank_col">Tank</span>|<span class="tank_col">Passed</span>|<span class="t100_rank">#</span>|
+|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=84665"><span class="red">CoL Kraken</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a5-1"></span></span></a>|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=84681"><span class="purple">QUANTUM OF SOLACE</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a1-2"></span></span></a>|<span class="green">3</span>|
 
 
-<p class="last_updated"><span class="last_updated">Last Updated:&nbsp;&nbsp;Jan 2, 12:00 PM&nbsp;&nbsp;(Pacific)</span></p>
+
+
+<p class="last_updated"><span class="last_updated">Last Updated:&nbsp;&nbsp;Jan 3, 12:00 AM&nbsp;&nbsp;(Pacific)</span></p>
 
