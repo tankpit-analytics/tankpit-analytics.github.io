@@ -293,7 +293,7 @@ pop_awards_search_md = dir_git + 'awards-search.md'
 #pop_cups_leaderboard_max_display = 25
 #pop_cups_leaderboard_md = dir_git + 'cups-leaderboard.md'
 
-pop_cups_leaderboard_max_display = 100
+pop_cups_leaderboard_max_display = 25
 pop_cups_leaderboard_md = dir_git + 'cups-leaderboard-actual.md'
 
 #-----pop stats overall
