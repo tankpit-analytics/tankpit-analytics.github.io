@@ -35,6 +35,7 @@ git commit -a -m "Automated daily commit triggered (1 of 2)."
 git push origin master
 
 # data - for each daily data job, make sure to add skip_mins param to any API query
+#$PYTHON $SCRIPTSDIR/get_roster_col.py >> $LOGDIR/get_roster_col.log 2>&1 # 2022-specific
 $PYTHON $SCRIPTSDIR/get_130k_club.py >> $LOGDIR/get_130k_club.log 2>&1 # 16 sec
 $PYTHON $SCRIPTSDIR/get_2022_tanks.py >> $LOGDIR/get_2022_tanks.log 2>&1 # 47 sec
 $PYTHON $SCRIPTSDIR/get_all_tanks.py >> $LOGDIR/get_all_tanks.log 2>&1 # 35 min

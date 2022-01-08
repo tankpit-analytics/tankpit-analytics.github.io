@@ -198,6 +198,26 @@ remove_sword_decorations_list = [
     71930 # john gotti (71930) - sword stripped?
 ]
 
+# roster CoL
+
+# roster_col_list = [
+#     84665, # Kraken
+#     84669, # Oni
+#     84705, # Cerberus
+#     84672, # Faerie
+#     84742, # Aqrabuamelu
+#     84835, # Banshee
+#     84710, # Typhon
+#     84696, # Chimera
+#     84689, # Bogeyman
+#     84704, # Faun
+#     84693, # Amarok
+#     84701, # Phoenix
+# ]
+
+# roster_col_csv = dir_tpdata + 'roster_col.csv'
+# pop_roster_col_md = dir_git + 'roster-col.md'
+
 #========== populate
 
 #-----pop t100
