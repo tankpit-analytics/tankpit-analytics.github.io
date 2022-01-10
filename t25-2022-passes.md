@@ -7,6 +7,7 @@
 
 {:.t100_passes.t100_passes_desktop}
 |<span class="t100_date">Date</span>|<span class="tank_col">Tank</span>|<span class="tank_col">Passed</span>|<span class="t100_rank">#</span>|
+|Jan 9: 8:01 PM|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=84670"><span class="purple">GOLDFINGER</span><span class="awards-container"><span class="awards-sprite a0-2"></span></span></a>|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=84674"><span class="orange">-Magnificent- 7</span><span class="awards-container"><span class="awards-sprite a0-2"></span></span></a>|<span class="green">12</span>|
 |Jan 8: 11:46 PM|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=84670"><span class="purple">GOLDFINGER</span><span class="awards-container"><span class="awards-sprite a0-2"></span></span></a>|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=84675"><span class="purple">SKYFALL</span><span class="awards-container"><span class="awards-sprite a0-1"></span></span></a>|<span class="green">12</span>|
 |Jan 8: 9:46 PM|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=84670"><span class="purple">GOLDFINGER</span><span class="awards-container"><span class="awards-sprite a0-2"></span></span></a>|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=84858"><span class="purple">SPECTRE</span><span class="awards-container"><span class="awards-sprite a0-1"></span></span></a>|<span class="green">14</span>|
 |Jan 8: 9:46 PM|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=84859"><span class="blue">JUST HAVE FUN </span><span class="awards-container"><span class="awards-sprite a0-3"></span></span></a>|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=84742"><span class="red">CoL Aqrabuamelu</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a5-1"></span></span></a>|<span class="green">24</span>|
@@ -27,6 +28,7 @@
 
 {:.t100_passes.t100_passes_mobile}
 |<span class="tank_col">Tank</span>|<span class="tank_col">Passed</span>|<span class="t100_rank">#</span>|
+|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=84670"><span class="purple">GOLDFINGER</span><span class="awards-container"><span class="awards-sprite a0-2"></span></span></a>|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=84674"><span class="orange">-Magnificent- 7</span><span class="awards-container"><span class="awards-sprite a0-2"></span></span></a>|<span class="green">12</span>|
 |<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=84670"><span class="purple">GOLDFINGER</span><span class="awards-container"><span class="awards-sprite a0-2"></span></span></a>|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=84675"><span class="purple">SKYFALL</span><span class="awards-container"><span class="awards-sprite a0-1"></span></span></a>|<span class="green">12</span>|
 |<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=84670"><span class="purple">GOLDFINGER</span><span class="awards-container"><span class="awards-sprite a0-2"></span></span></a>|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=84858"><span class="purple">SPECTRE</span><span class="awards-container"><span class="awards-sprite a0-1"></span></span></a>|<span class="green">14</span>|
 |<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=84859"><span class="blue">JUST HAVE FUN </span><span class="awards-container"><span class="awards-sprite a0-3"></span></span></a>|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=84742"><span class="red">CoL Aqrabuamelu</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a5-1"></span></span></a>|<span class="green">24</span>|
@@ -48,5 +50,5 @@
 
 
 
-<p class="last_updated"><span class="last_updated">Last Updated:&nbsp;&nbsp;Jan 9, 12:00 PM&nbsp;&nbsp;(Pacific)</span></p>
+<p class="last_updated"><span class="last_updated">Last Updated:&nbsp;&nbsp;Jan 10, 12:00 AM&nbsp;&nbsp;(Pacific)</span></p>
 
