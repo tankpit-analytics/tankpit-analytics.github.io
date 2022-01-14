@@ -2643,7 +2643,7 @@
 |1628|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=82174"><span class="blue">Acium</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a1-1"></span></span></a>|
 |1629|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=82177"><span class="orange">ColdPizza</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a1-1"></span></span></a>|
 |1630|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=82369"><span class="red">The Grim Reaper </span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a1-2"></span></span></a>|
-|1631|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=82444"><span class="orange">MyDuude</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a1-2"></span></span></a>|
+|1631|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=82444"><span class="blue">MyDuude</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a1-2"></span></span></a>|
 |1632|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=82555"><span class="purple">The Nefarious TFS</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a1-2"></span></span></a>|
 |1633|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=82572"><span class="orange">Trippy</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a1-1"></span></span></a>|
 |1634|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=82583"><span class="blue">Wicked Dreams</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a1-2"></span></span></a>|
@@ -4662,7 +4662,7 @@
 |378|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=79404"><span class="purple">-mAsTeR AdMiRaL-</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a1-2"></span></span></a>|
 |379|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=79700"><span class="blue">Newbie</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a1-2"></span></span></a>|
 |380|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=82369"><span class="red">The Grim Reaper </span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a1-2"></span></span></a>|
-|381|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=82444"><span class="orange">MyDuude</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a1-2"></span></span></a>|
+|381|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=82444"><span class="blue">MyDuude</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a1-2"></span></span></a>|
 |382|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=82555"><span class="purple">The Nefarious TFS</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a1-2"></span></span></a>|
 |383|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=82583"><span class="blue">Wicked Dreams</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a1-2"></span></span></a>|
 |384|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=84682"><span class="purple">CASINO ROYALE</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a1-2"></span></span></a>|
@@ -5329,7 +5329,7 @@
 |494|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=15561"><span class="purple">Thirsty Perch</span><span class="awards-container"><span class="awards-sprite a1-3"></span></span></a>|
 
 
-<span class="awards_search_header" id="awards_search_header_medal1">Combat Honor Medal (483)</span>
+<span class="awards_search_header" id="awards_search_header_medal1">Combat Honor Medal (484)</span>
 
 {:.awards_search#awards_search_medal1}
 |1|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=59879"><span class="orange">Globe Daddy</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a1-3"></span><span class="awards-sprite a2-1"></span><span class="awards-sprite a3-2"></span><span class="awards-sprite a4-3"></span><span class="awards-sprite a5-1"></span><span class="awards-sprite a7-1"></span><span class="awards-sprite a8-1"></span></span></a>|
@@ -5815,6 +5815,7 @@
 |481|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=67172"><span class="orange">Soulless Tank</span><span class="awards-container"><span class="awards-sprite a2-1"></span></span></a>|
 |482|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=69846"><span class="purple">DiaDeLosMuertos</span><span class="awards-container"><span class="awards-sprite a2-1"></span></span></a>|
 |483|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=75906"><span class="orange">ADIDASmokE</span><span class="awards-container"><span class="awards-sprite a2-1"></span></span></a>|
+|484|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=84765"><span class="orange">WesternsSoups</span><span class="awards-container"><span class="awards-sprite a2-1"></span></span></a>|
 
 
 <span class="awards_search_header" id="awards_search_header_medal2">Battle Honor Medal (218)</span>
@@ -8514,5 +8515,5 @@
 
 
 
-<p class="last_updated"><span class="last_updated">Last Updated:&nbsp;&nbsp;Jan 14, 12:02 AM&nbsp;&nbsp;(Pacific)</span></p>
+<p class="last_updated"><span class="last_updated">Last Updated:&nbsp;&nbsp;Jan 14, 12:02 PM&nbsp;&nbsp;(Pacific)</span></p>
 
