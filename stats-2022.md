@@ -7,10 +7,12 @@
 
 {:.stats_leaderboard#stats_leaderboard_playtime}
 |<span class="num_col">&nbsp;</span>|<span class="tank_col">Tank</span>|<span class="stat_col">Time Played</span>|
+|1|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=84697"><span class="purple">MOONRAKER</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a4-3"></span><span class="awards-sprite a5-3"></span></span></a>|8:36:46|
 
 
 {:.stats_leaderboard#stats_leaderboard_kills}
 |<span class="num_col">&nbsp;</span>|<span class="tank_col">Tank</span>|<span class="stat_col">Kills</span>|
+|1|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=84697"><span class="purple">MOONRAKER</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a4-3"></span><span class="awards-sprite a5-3"></span></span></a>|5|
 
 
 {:.stats_leaderboard#stats_leaderboard_deaths}
@@ -20,5 +22,5 @@
 
 
 
-<p class="last_updated"><span class="last_updated">Last Updated:&nbsp;&nbsp;Jan 27, 12:02 AM&nbsp;&nbsp;(Pacific)</span></p>
+<p class="last_updated"><span class="last_updated">Last Updated:&nbsp;&nbsp;Jan 27, 12:02 PM&nbsp;&nbsp;(Pacific)</span></p>
 
