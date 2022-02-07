@@ -7,10 +7,12 @@
 
 {:.t100_passes.t100_passes_desktop}
 |<span class="t100_date">Date</span>|<span class="tank_col">Tank</span>|<span class="tank_col">Passed</span>|<span class="t100_rank">#</span>|
+|Feb 6: 2:00 PM|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=79156"><span class="orange">Yoshio Kodama</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a1-3"></span><span class="awards-sprite a2-3"></span><span class="awards-sprite a3-3"></span><span class="awards-sprite a4-3"></span><span class="awards-sprite a5-3"></span><span class="awards-sprite a6-1"></span></span></a>|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=45856"><span class="blue">LaTiN KiNgS</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a1-3"></span><span class="awards-sprite a2-3"></span><span class="awards-sprite a3-3"></span><span class="awards-sprite a5-3"></span></span></a>|<span class="red">56</span>|
 |Feb 4: 7:00 PM|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=2022"><span class="orange">ArChAnGeL</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a1-3"></span><span class="awards-sprite a2-3"></span><span class="awards-sprite a3-3"></span><span class="awards-sprite a5-1"></span><span class="awards-sprite a8-1"></span></span></a>|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=1377"><span class="blue">Cloudraker</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a1-3"></span><span class="awards-sprite a2-2"></span><span class="awards-sprite a3-3"></span><span class="awards-sprite a5-3"></span></span></a>|<span class="red">73</span>|
 
 {:.t100_passes.t100_passes_mobile}
 |<span class="tank_col">Tank</span>|<span class="tank_col">Passed</span>|<span class="t100_rank">#</span>|
+|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=79156"><span class="orange">Yoshio Kodama</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a1-3"></span><span class="awards-sprite a2-3"></span><span class="awards-sprite a3-3"></span><span class="awards-sprite a4-3"></span><span class="awards-sprite a5-3"></span><span class="awards-sprite a6-1"></span></span></a>|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=45856"><span class="blue">LaTiN KiNgS</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a1-3"></span><span class="awards-sprite a2-3"></span><span class="awards-sprite a3-3"></span><span class="awards-sprite a5-3"></span></span></a>|<span class="red">56</span>|
 |<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=2022"><span class="orange">ArChAnGeL</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a1-3"></span><span class="awards-sprite a2-3"></span><span class="awards-sprite a3-3"></span><span class="awards-sprite a5-1"></span><span class="awards-sprite a8-1"></span></span></a>|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=1377"><span class="blue">Cloudraker</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a1-3"></span><span class="awards-sprite a2-2"></span><span class="awards-sprite a3-3"></span><span class="awards-sprite a5-3"></span></span></a>|<span class="red">73</span>|
 
 
@@ -1160,5 +1162,5 @@
 
 
 
-<p class="last_updated"><span class="last_updated">Last Updated:&nbsp;&nbsp;Feb 6, 12:00 PM&nbsp;&nbsp;(Pacific)</span></p>
+<p class="last_updated"><span class="last_updated">Last Updated:&nbsp;&nbsp;Feb 7, 12:00 AM&nbsp;&nbsp;(Pacific)</span></p>
 
