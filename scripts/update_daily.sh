@@ -46,7 +46,7 @@ $PYTHON $SCRIPTSDIR/get_sword_decorations.py >> $LOGDIR/get_sword_decorations.lo
 # populate the rest (last updated: all_tanks.csv / 2022_tanks.csv - above "data")
 $PYTHON $SCRIPTSDIR/pop_130k_club.py >> $STDLOG 2>&1
 $PYTHON $SCRIPTSDIR/pop_awards_search.py >> $STDLOG 2>&1
-#$PYTHON $SCRIPTSDIR/pop_cups_leaderboard.py >> $STDLOG 2>&1
+$PYTHON $SCRIPTSDIR/pop_cups_leaderboard.py >> $STDLOG 2>&1
 $PYTHON $SCRIPTSDIR/pop_stats_overall.py >> $STDLOG 2>&1
 $PYTHON $SCRIPTSDIR/pop_stats_2022.py >> $STDLOG 2>&1
 $PYTHON $SCRIPTSDIR/pop_sword_decorations.py >> $STDLOG 2>&1
