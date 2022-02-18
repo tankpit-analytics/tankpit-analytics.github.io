@@ -106,5 +106,5 @@
 |100|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=74035"><span class="orange">Boba Fett</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a1-3"></span><span class="awards-sprite a2-2"></span><span class="awards-sprite a3-2"></span><span class="awards-sprite a5-2"></span></span></a>|
 
 
-<p class="last_updated"><span class="last_updated">Last Updated:&nbsp;&nbsp;Feb 17, 12:00 PM&nbsp;&nbsp;(Pacific)</span></p>
+<p class="last_updated"><span class="last_updated">Last Updated:&nbsp;&nbsp;Feb 18, 12:00 AM&nbsp;&nbsp;(Pacific)</span></p>
 
