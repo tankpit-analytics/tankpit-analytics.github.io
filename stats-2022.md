@@ -10,8 +10,8 @@
 |1|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=84669"><span class="red">CoL Oni</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a2-1"></span><span class="awards-sprite a3-1"></span><span class="awards-sprite a5-1"></span><span class="awards-sprite a7-1"></span><span class="awards-sprite a8-1"></span></span></a>|106:57:10|
 |2|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=85431"><span class="orange">iBorg</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a1-3"></span><span class="awards-sprite a2-2"></span><span class="awards-sprite a3-1"></span><span class="awards-sprite a5-1"></span></span></a>|102:25:12|
 |3|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=84737"><span class="blue">Khione</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a1-2"></span><span class="awards-sprite a3-1"></span><span class="awards-sprite a4-3"></span><span class="awards-sprite a5-3"></span></span></a>|100:1:57|
-|4|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=85829"><span class="blue">-x-TWIX-x-</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a1-3"></span><span class="awards-sprite a5-1"></span></span></a>|66:45:44|
-|5|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=84703"><span class="red">TheOldMan</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a1-3"></span></span></a>|60:36:00|
+|4|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=85829"><span class="blue">-x-TWIX-x-</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a1-3"></span><span class="awards-sprite a5-1"></span></span></a>|67:7:07|
+|5|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=84703"><span class="red">TheOldMan</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a1-3"></span></span></a>|61:0:02|
 |6|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=84822"><span class="orange">Chocolate Orange</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a1-3"></span></span></a>|53:48:58|
 |7|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=84705"><span class="red">CoL Cerberus</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a5-2"></span><span class="awards-sprite a7-1"></span></span></a>|38:41:56|
 |8|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=85833"><span class="blue">-x-WISPA GOLD-x-</span><span class="awards-container"><span class="awards-sprite a0-3"></span></span></a>|31:50:11|
@@ -25,7 +25,7 @@
 
 {:.stats_leaderboard#stats_leaderboard_kills}
 |<span class="num_col">&nbsp;</span>|<span class="tank_col">Tank</span>|<span class="stat_col">Kills</span>|
-|1|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=84703"><span class="red">TheOldMan</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a1-3"></span></span></a>|2564|
+|1|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=84703"><span class="red">TheOldMan</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a1-3"></span></span></a>|2568|
 |2|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=84822"><span class="orange">Chocolate Orange</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a1-3"></span></span></a>|584|
 |3|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=85431"><span class="orange">iBorg</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a1-3"></span><span class="awards-sprite a2-2"></span><span class="awards-sprite a3-1"></span><span class="awards-sprite a5-1"></span></span></a>|567|
 |4|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=85829"><span class="blue">-x-TWIX-x-</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a1-3"></span><span class="awards-sprite a5-1"></span></span></a>|554|
@@ -53,5 +53,5 @@
 
 
 
-<p class="last_updated"><span class="last_updated">Last Updated:&nbsp;&nbsp;Mar 21, 12:01 AM&nbsp;&nbsp;(Pacific)</span></p>
+<p class="last_updated"><span class="last_updated">Last Updated:&nbsp;&nbsp;Mar 21, 12:01 PM&nbsp;&nbsp;(Pacific)</span></p>
 
