@@ -4347,7 +4347,7 @@
 |954|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=78280"><span class="red"> G I V E  I T  U P  </span><span class="awards-container"><span class="awards-sprite a1-1"></span></span></a>|
 |955|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=80216"><span class="purple">ALLSTAR</span><span class="awards-container"><span class="awards-sprite a1-1"></span></span></a>|
 |956|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=80276"><span class="orange">jellyfistt</span><span class="awards-container"><span class="awards-sprite a1-1"></span></span></a>|
-|957|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=80529"><span class="red">ManUtd</span><span class="awards-container"><span class="awards-sprite a1-1"></span></span></a>|
+|957|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=80529"><span class="blue">ManUtd</span><span class="awards-container"><span class="awards-sprite a1-1"></span></span></a>|
 |958|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=81583"><span class="red">Huge Jackman</span><span class="awards-container"><span class="awards-sprite a1-1"></span></span></a>|
 |959|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=83098"><span class="blue">FLAW</span><span class="awards-container"><span class="awards-sprite a1-1"></span></span></a>|
 |960|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=83630"><span class="blue">StickEm</span><span class="awards-container"><span class="awards-sprite a1-1"></span></span></a>|
@@ -6969,7 +6969,7 @@
 |107|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=80523"><span class="purple">OnhceT</span><span class="awards-container"><span class="awards-sprite a4-3"></span></span></a>|
 
 
-<span class="awards_search_header" id="awards_search_header_cup1">Bronze Cup (416)</span>
+<span class="awards_search_header" id="awards_search_header_cup1">Bronze Cup (415)</span>
 
 {:.awards_search#awards_search_cup1}
 |1|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=671"><span class="red">Josh Allen</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a1-3"></span><span class="awards-sprite a2-3"></span><span class="awards-sprite a3-3"></span><span class="awards-sprite a4-3"></span><span class="awards-sprite a5-1"></span><span class="awards-sprite a7-1"></span><span class="awards-sprite a8-1"></span></span></a>|
@@ -7386,8 +7386,7 @@
 |412|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=84428"><span class="red">Sheer fokn wilL</span><span class="awards-container"><span class="awards-sprite a5-1"></span></span></a>|
 |413|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=85312"><span class="orange">EasternsSoups</span><span class="awards-container"><span class="awards-sprite a5-1"></span></span></a>|
 |414|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=85534"><span class="purple">BAYOU BUSTA</span><span class="awards-container"><span class="awards-sprite a5-1"></span></span></a>|
-|415|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=86488"><span class="red">Mr Hand</span><span class="awards-container"><span class="awards-sprite a5-1"></span></span></a>|
-|416|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=86693"><span class="red">tuesday nachos</span><span class="awards-container"><span class="awards-sprite a5-1"></span></span></a>|
+|415|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=86693"><span class="red">tuesday nachos</span><span class="awards-container"><span class="awards-sprite a5-1"></span></span></a>|
 
 
 <span class="awards_search_header" id="awards_search_header_cup2">Silver Cup (480)</span>
@@ -8673,5 +8672,5 @@
 
 
 
-<p class="last_updated"><span class="last_updated">Last Updated:&nbsp;&nbsp;Apr 7, 12:02 AM&nbsp;&nbsp;(Pacific)</span></p>
+<p class="last_updated"><span class="last_updated">Last Updated:&nbsp;&nbsp;Apr 7, 12:02 PM&nbsp;&nbsp;(Pacific)</span></p>
 
