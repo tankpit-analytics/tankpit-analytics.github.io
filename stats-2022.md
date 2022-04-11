@@ -7,15 +7,15 @@
 
 {:.stats_leaderboard#stats_leaderboard_playtime}
 |<span class="num_col">&nbsp;</span>|<span class="tank_col">Tank</span>|<span class="stat_col">Time Played</span>|
-|1|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=85041"><span class="orange">Warmonger</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a3-1"></span><span class="awards-sprite a5-1"></span><span class="awards-sprite a8-1"></span></span></a>|123:47:42|
+|1|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=85041"><span class="orange">Warmonger</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a3-1"></span><span class="awards-sprite a5-1"></span><span class="awards-sprite a8-1"></span></span></a>|126:1:55|
 |2|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=84669"><span class="red">CoL Oni</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a2-1"></span><span class="awards-sprite a3-1"></span><span class="awards-sprite a5-1"></span><span class="awards-sprite a7-1"></span><span class="awards-sprite a8-1"></span></span></a>|115:0:03|
 |3|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=85431"><span class="orange">iBorg</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a1-3"></span><span class="awards-sprite a2-2"></span><span class="awards-sprite a3-1"></span><span class="awards-sprite a5-1"></span></span></a>|102:52:21|
 |4|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=84737"><span class="blue">Khione</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a1-2"></span><span class="awards-sprite a3-1"></span><span class="awards-sprite a4-3"></span><span class="awards-sprite a5-3"></span></span></a>|100:1:57|
-|5|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=84872"><span class="blue">- Sun Spots -</span><span class="awards-container"><span class="awards-sprite a0-2"></span><span class="awards-sprite a1-3"></span></span></a>|79:19:34|
+|5|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=84872"><span class="blue">- Sun Spots -</span><span class="awards-container"><span class="awards-sprite a0-2"></span><span class="awards-sprite a1-3"></span></span></a>|79:38:43|
 |6|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=85829"><span class="blue">-x-TWIX-x-</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a1-3"></span><span class="awards-sprite a5-1"></span></span></a>|67:40:50|
-|7|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=84703"><span class="red">TheOldMan</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a1-3"></span></span></a>|66:32:23|
+|7|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=84703"><span class="red">TheOldMan</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a1-3"></span></span></a>|66:42:20|
 |8|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=84822"><span class="orange">Chocolate Orange</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a1-3"></span></span></a>|58:31:33|
-|9|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=84705"><span class="red">CoL Cerberus</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a2-1"></span><span class="awards-sprite a5-2"></span><span class="awards-sprite a7-1"></span></span></a>|53:49:15|
+|9|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=84705"><span class="red">CoL Cerberus</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a2-1"></span><span class="awards-sprite a5-2"></span><span class="awards-sprite a7-1"></span></span></a>|53:50:00|
 |10|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=85833"><span class="blue">-x-WISPA GOLD-x-</span><span class="awards-container"><span class="awards-sprite a0-3"></span></span></a>|32:45:52|
 |11|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=84697"><span class="purple">MOONRAKER</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a2-2"></span><span class="awards-sprite a4-3"></span><span class="awards-sprite a5-3"></span></span></a>|14:41:30|
 |12|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=85733"><span class="orange">MeTsUrEtSu</span><span class="awards-container"><span class="awards-sprite a0-3"></span></span></a>|10:27:42|
@@ -26,8 +26,8 @@
 
 {:.stats_leaderboard#stats_leaderboard_kills}
 |<span class="num_col">&nbsp;</span>|<span class="tank_col">Tank</span>|<span class="stat_col">Kills</span>|
-|1|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=84703"><span class="red">TheOldMan</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a1-3"></span></span></a>|2803|
-|2|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=84872"><span class="blue">- Sun Spots -</span><span class="awards-container"><span class="awards-sprite a0-2"></span><span class="awards-sprite a1-3"></span></span></a>|1767|
+|1|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=84703"><span class="red">TheOldMan</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a1-3"></span></span></a>|2807|
+|2|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=84872"><span class="blue">- Sun Spots -</span><span class="awards-container"><span class="awards-sprite a0-2"></span><span class="awards-sprite a1-3"></span></span></a>|1772|
 |3|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=84822"><span class="orange">Chocolate Orange</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a1-3"></span></span></a>|631|
 |4|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=85431"><span class="orange">iBorg</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a1-3"></span><span class="awards-sprite a2-2"></span><span class="awards-sprite a3-1"></span><span class="awards-sprite a5-1"></span></span></a>|567|
 |5|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=85829"><span class="blue">-x-TWIX-x-</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a1-3"></span><span class="awards-sprite a5-1"></span></span></a>|554|
@@ -51,5 +51,5 @@
 
 
 
-<p class="last_updated"><span class="last_updated">Last Updated:&nbsp;&nbsp;Apr 11, 12:01 AM&nbsp;&nbsp;(Pacific)</span></p>
+<p class="last_updated"><span class="last_updated">Last Updated:&nbsp;&nbsp;Apr 11, 12:01 PM&nbsp;&nbsp;(Pacific)</span></p>
 
