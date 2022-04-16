@@ -346,7 +346,7 @@
 |333|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=65409"><span class="orange">karanx</span><span class="awards-container"><span class="awards-sprite a0-1"></span><span class="awards-sprite a5-3"></span></span></a>|
 |334|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=65517"><span class="orange">Sh0wMeThaMon3Y</span><span class="awards-container"><span class="awards-sprite a0-1"></span><span class="awards-sprite a5-1"></span></span></a>|
 |335|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=65786"><span class="blue">SilkyJohnson</span><span class="awards-container"><span class="awards-sprite a0-1"></span><span class="awards-sprite a5-2"></span></span></a>|
-|336|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=67352"><span class="orange">simon</span><span class="awards-container"><span class="awards-sprite a0-1"></span><span class="awards-sprite a2-1"></span></span></a>|
+|336|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=67352"><span class="purple">simon</span><span class="awards-container"><span class="awards-sprite a0-1"></span><span class="awards-sprite a2-1"></span></span></a>|
 |337|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=67449"><span class="blue">Robert Newton Ford</span><span class="awards-container"><span class="awards-sprite a0-1"></span><span class="awards-sprite a1-1"></span></span></a>|
 |338|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=68005"><span class="red">Reddog</span><span class="awards-container"><span class="awards-sprite a0-1"></span><span class="awards-sprite a1-1"></span></span></a>|
 |339|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=68224"><span class="purple">NoaH</span><span class="awards-container"><span class="awards-sprite a0-1"></span><span class="awards-sprite a5-3"></span></span></a>|
@@ -5873,7 +5873,7 @@
 |424|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=47788"><span class="orange">He Is Legend</span><span class="awards-container"><span class="awards-sprite a0-1"></span><span class="awards-sprite a2-1"></span></span></a>|
 |425|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=49273"><span class="red">RedRage91</span><span class="awards-container"><span class="awards-sprite a0-1"></span><span class="awards-sprite a2-1"></span></span></a>|
 |426|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=52056"><span class="orange">Winnie The Pooh</span><span class="awards-container"><span class="awards-sprite a0-1"></span><span class="awards-sprite a2-1"></span></span></a>|
-|427|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=67352"><span class="orange">simon</span><span class="awards-container"><span class="awards-sprite a0-1"></span><span class="awards-sprite a2-1"></span></span></a>|
+|427|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=67352"><span class="purple">simon</span><span class="awards-container"><span class="awards-sprite a0-1"></span><span class="awards-sprite a2-1"></span></span></a>|
 |428|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=69771"><span class="orange">CaLiGr0wn</span><span class="awards-container"><span class="awards-sprite a0-1"></span><span class="awards-sprite a2-1"></span></span></a>|
 |429|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=81405"><span class="blue">horsepower spy tank</span><span class="awards-container"><span class="awards-sprite a0-1"></span><span class="awards-sprite a2-1"></span></span></a>|
 |430|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=82021"><span class="red">Simon </span><span class="awards-container"><span class="awards-sprite a0-1"></span><span class="awards-sprite a2-1"></span></span></a>|
@@ -8710,5 +8710,5 @@
 
 
 
-<p class="last_updated"><span class="last_updated">Last Updated:&nbsp;&nbsp;Apr 15, 12:02 PM&nbsp;&nbsp;(Pacific)</span></p>
+<p class="last_updated"><span class="last_updated">Last Updated:&nbsp;&nbsp;Apr 16, 12:02 AM&nbsp;&nbsp;(Pacific)</span></p>
 
