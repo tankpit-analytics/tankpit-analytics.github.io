@@ -3,6 +3,17 @@
 
 <p><a href="https://tankpit-analytics.github.io/">Top 100</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="https://tankpit-analytics.github.io/t100-overall-passes">Passes</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="https://tankpit-analytics.github.io/stats-overall">Stats Leaderboard</a></p>
 
+<span class="t100_month">May 2022</span>
+
+{:.t100_passes.t100_passes_desktop}
+|<span class="t100_date">Date</span>|<span class="tank_col">Tank</span>|<span class="tank_col">Passed</span>|<span class="t100_rank">#</span>|
+|May 4: 5:00 AM|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=79157"><span class="orange">Thebrit</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a1-3"></span><span class="awards-sprite a2-2"></span><span class="awards-sprite a3-3"></span><span class="awards-sprite a4-3"></span><span class="awards-sprite a5-2"></span></span></a>|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=5468"><span class="red">AzNsEnSaTiOn</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a1-3"></span><span class="awards-sprite a2-3"></span><span class="awards-sprite a3-3"></span><span class="awards-sprite a5-1"></span></span></a>|<span class="red">66</span>|
+
+{:.t100_passes.t100_passes_mobile}
+|<span class="tank_col">Tank</span>|<span class="tank_col">Passed</span>|<span class="t100_rank">#</span>|
+|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=79157"><span class="orange">Thebrit</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a1-3"></span><span class="awards-sprite a2-2"></span><span class="awards-sprite a3-3"></span><span class="awards-sprite a4-3"></span><span class="awards-sprite a5-2"></span></span></a>|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=5468"><span class="red">AzNsEnSaTiOn</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a1-3"></span><span class="awards-sprite a2-3"></span><span class="awards-sprite a3-3"></span><span class="awards-sprite a5-1"></span></span></a>|<span class="red">66</span>|
+
+
 <span class="t100_month">April 2022</span>
 
 {:.t100_passes.t100_passes_desktop}
@@ -1157,5 +1168,5 @@
 
 
 
-<p class="last_updated"><span class="last_updated">Last Updated:&nbsp;&nbsp;May 4, 12:00 AM&nbsp;&nbsp;(Pacific)</span></p>
+<p class="last_updated"><span class="last_updated">Last Updated:&nbsp;&nbsp;May 4, 12:00 PM&nbsp;&nbsp;(Pacific)</span></p>
 
