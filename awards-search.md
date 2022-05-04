@@ -2271,7 +2271,7 @@
 |1240|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=41501"><span class="red">FULL CIRCUIT</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a5-2"></span></span></a>|
 |1241|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=41539"><span class="purple">The Oz</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a5-2"></span></span></a>|
 |1242|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=41569"><span class="orange">Eclipse</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a1-3"></span></span></a>|
-|1243|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=41653"><span class="orange">RooTz</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a1-1"></span></span></a>|
+|1243|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=41653"><span class="red">RooTz</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a1-1"></span></span></a>|
 |1244|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=41707"><span class="orange">Atonement</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a5-3"></span></span></a>|
 |1245|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=41874"><span class="red">Guccifer</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a5-3"></span></span></a>|
 |1246|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=41982"><span class="purple">raid boss</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a5-1"></span></span></a>|
@@ -3704,7 +3704,7 @@
 |293|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=40439"><span class="red">JK29</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a1-1"></span></span></a>|
 |294|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=41101"><span class="purple">MrTryme</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a1-1"></span></span></a>|
 |295|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=41167"><span class="purple">zaidun</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a1-1"></span></span></a>|
-|296|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=41653"><span class="orange">RooTz</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a1-1"></span></span></a>|
+|296|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=41653"><span class="red">RooTz</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a1-1"></span></span></a>|
 |297|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=42149"><span class="purple">BinGBonG</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a1-1"></span></span></a>|
 |298|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=42185"><span class="red">Tonka Valley</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a1-1"></span></span></a>|
 |299|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=43091"><span class="purple">PepperA</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a1-1"></span></span></a>|
@@ -8748,5 +8748,5 @@
 
 
 
-<p class="last_updated"><span class="last_updated">Last Updated:&nbsp;&nbsp;May 4, 12:02 AM&nbsp;&nbsp;(Pacific)</span></p>
+<p class="last_updated"><span class="last_updated">Last Updated:&nbsp;&nbsp;May 4, 12:02 PM&nbsp;&nbsp;(Pacific)</span></p>
 
