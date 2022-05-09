@@ -7457,7 +7457,7 @@
 |420|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=87119"><span class="orange">Vladimir Harkonnen</span><span class="awards-container"><span class="awards-sprite a5-1"></span></span></a>|
 
 
-<span class="awards_search_header" id="awards_search_header_cup2">Silver Cup (485)</span>
+<span class="awards_search_header" id="awards_search_header_cup2">Silver Cup (486)</span>
 
 {:.awards_search#awards_search_cup2}
 |1|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=25836"><span class="blue">Optimus Prime</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a1-3"></span><span class="awards-sprite a2-3"></span><span class="awards-sprite a3-3"></span><span class="awards-sprite a4-3"></span><span class="awards-sprite a5-2"></span><span class="awards-sprite a6-1"></span><span class="awards-sprite a8-1"></span></span></a>|
@@ -7944,7 +7944,8 @@
 |482|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=84976"><span class="blue">Elements</span><span class="awards-container"><span class="awards-sprite a5-2"></span></span></a>|
 |483|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=85424"><span class="blue">Brutal </span><span class="awards-container"><span class="awards-sprite a5-2"></span></span></a>|
 |484|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=85453"><span class="red">Going in the Journal</span><span class="awards-container"><span class="awards-sprite a5-2"></span></span></a>|
-|485|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=86613"><span class="orange">Ruthless</span><span class="awards-container"><span class="awards-sprite a5-2"></span></span></a>|
+|485|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=86600"><span class="purple">Relentless </span><span class="awards-container"><span class="awards-sprite a5-2"></span></span></a>|
+|486|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=86613"><span class="orange">Ruthless</span><span class="awards-container"><span class="awards-sprite a5-2"></span></span></a>|
 
 
 <span class="awards_search_header" id="awards_search_header_cup3">Gold Cup (594)</span>
@@ -8761,5 +8762,5 @@
 
 
 
-<p class="last_updated"><span class="last_updated">Last Updated:&nbsp;&nbsp;May 9, 12:02 AM&nbsp;&nbsp;(Pacific)</span></p>
+<p class="last_updated"><span class="last_updated">Last Updated:&nbsp;&nbsp;May 9, 12:02 PM&nbsp;&nbsp;(Pacific)</span></p>
 
