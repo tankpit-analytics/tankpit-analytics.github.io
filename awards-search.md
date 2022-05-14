@@ -2662,7 +2662,7 @@
 |1631|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=79468"><span class="red">Scarlet Witch</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a1-1"></span></span></a>|
 |1632|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=79505"><span class="orange">Louis Tom Dragna</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a5-2"></span></span></a>|
 |1633|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=79546"><span class="purple">Brash Bison</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a5-2"></span></span></a>|
-|1634|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=79641"><span class="blue">sage great1</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a1-1"></span></span></a>|
+|1634|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=79641"><span class="red">sage great1</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a1-1"></span></span></a>|
 |1635|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=79649"><span class="red">I SmOke CracK</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a2-2"></span></span></a>|
 |1636|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=79700"><span class="blue">Newbie</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a1-2"></span></span></a>|
 |1637|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=79734"><span class="blue">Vision</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a1-3"></span></span></a>|
@@ -3810,7 +3810,7 @@
 |399|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=79217"><span class="blue">WHO-DAT</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a1-1"></span></span></a>|
 |400|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=79257"><span class="orange">horsepower spy tank</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a1-1"></span></span></a>|
 |401|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=79468"><span class="red">Scarlet Witch</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a1-1"></span></span></a>|
-|402|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=79641"><span class="blue">sage great1</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a1-1"></span></span></a>|
+|402|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=79641"><span class="red">sage great1</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a1-1"></span></span></a>|
 |403|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=79840"><span class="red">red-5</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a1-1"></span></span></a>|
 |404|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=80245"><span class="purple">Exciter</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a1-1"></span></span></a>|
 |405|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=82174"><span class="blue">Acium</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a1-1"></span></span></a>|
@@ -8757,5 +8757,5 @@
 
 
 
-<p class="last_updated"><span class="last_updated">Last Updated:&nbsp;&nbsp;May 13, 12:02 PM&nbsp;&nbsp;(Pacific)</span></p>
+<p class="last_updated"><span class="last_updated">Last Updated:&nbsp;&nbsp;May 14, 12:02 AM&nbsp;&nbsp;(Pacific)</span></p>
 
