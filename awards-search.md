@@ -2731,7 +2731,7 @@
 |1701|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=85665"><span class="blue">LateQueen</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a1-2"></span></span></a>|
 |1702|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=85728"><span class="blue">Shaquie Chan</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a5-3"></span></span></a>|
 |1703|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=85733"><span class="orange">MeTsUrEtSu</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a1-3"></span></span></a>|
-|1704|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=85836"><span class="blue">September Dawn</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a5-1"></span></span></a>|
+|1704|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=85836"><span class="red">September Dawn</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a5-1"></span></span></a>|
 |1705|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=85879"><span class="red">Bleed the Freak</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a5-3"></span></span></a>|
 |1706|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=85904"><span class="red">Shakazulu</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a1-1"></span></span></a>|
 |1707|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=85940"><span class="blue">-x-KIT KAT-x-</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a1-1"></span></span></a>|
@@ -7296,7 +7296,7 @@
 |255|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=84742"><span class="red">CoL Aqrabuamelu</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a5-1"></span></span></a>|
 |256|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=84835"><span class="red">CoL Banshee</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a5-1"></span></span></a>|
 |257|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=85277"><span class="red">CoL Grootslang</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a5-1"></span></span></a>|
-|258|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=85836"><span class="blue">September Dawn</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a5-1"></span></span></a>|
+|258|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=85836"><span class="red">September Dawn</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a5-1"></span></span></a>|
 |259|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=86253"><span class="purple">A VIEW TO A KILL</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a5-1"></span></span></a>|
 |260|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=86351"><span class="orange">-Magnificent- 9</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a5-1"></span></span></a>|
 |261|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=86352"><span class="orange">-Magnificent- 4</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a5-1"></span></span></a>|
@@ -8771,5 +8771,5 @@
 
 
 
-<p class="last_updated"><span class="last_updated">Last Updated:&nbsp;&nbsp;May 17, 12:02 AM&nbsp;&nbsp;(Pacific)</span></p>
+<p class="last_updated"><span class="last_updated">Last Updated:&nbsp;&nbsp;May 17, 12:02 PM&nbsp;&nbsp;(Pacific)</span></p>
 
