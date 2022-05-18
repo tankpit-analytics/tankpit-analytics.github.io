@@ -409,7 +409,7 @@
 |396|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=83610"><span class="purple">Superior</span><span class="awards-container"><span class="awards-sprite a0-1"></span><span class="awards-sprite a5-3"></span></span></a>|
 |397|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=83629"><span class="red">Vertigo</span><span class="awards-container"><span class="awards-sprite a0-1"></span><span class="awards-sprite a5-2"></span></span></a>|
 |398|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=83875"><span class="blue">bendonesia</span><span class="awards-container"><span class="awards-sprite a0-1"></span><span class="awards-sprite a1-1"></span></span></a>|
-|399|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=84153"><span class="red">Suzy</span><span class="awards-container"><span class="awards-sprite a0-1"></span><span class="awards-sprite a1-1"></span></span></a>|
+|399|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=84153"><span class="purple">Suzy</span><span class="awards-container"><span class="awards-sprite a0-1"></span><span class="awards-sprite a1-1"></span></span></a>|
 |400|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=84422"><span class="orange">DXTroop</span><span class="awards-container"><span class="awards-sprite a0-1"></span><span class="awards-sprite a1-1"></span></span></a>|
 |401|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=84804"><span class="red">Tanker-009</span><span class="awards-container"><span class="awards-sprite a0-1"></span><span class="awards-sprite a1-1"></span></span></a>|
 |402|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=84867"><span class="blue">BIG BLUE</span><span class="awards-container"><span class="awards-sprite a0-1"></span><span class="awards-sprite a5-3"></span></span></a>|
@@ -4207,7 +4207,7 @@
 |792|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=83279"><span class="blue">Dakota</span><span class="awards-container"><span class="awards-sprite a0-1"></span><span class="awards-sprite a1-1"></span></span></a>|
 |793|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=83294"><span class="purple">Tank-1</span><span class="awards-container"><span class="awards-sprite a0-1"></span><span class="awards-sprite a1-1"></span></span></a>|
 |794|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=83875"><span class="blue">bendonesia</span><span class="awards-container"><span class="awards-sprite a0-1"></span><span class="awards-sprite a1-1"></span></span></a>|
-|795|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=84153"><span class="red">Suzy</span><span class="awards-container"><span class="awards-sprite a0-1"></span><span class="awards-sprite a1-1"></span></span></a>|
+|795|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=84153"><span class="purple">Suzy</span><span class="awards-container"><span class="awards-sprite a0-1"></span><span class="awards-sprite a1-1"></span></span></a>|
 |796|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=84422"><span class="orange">DXTroop</span><span class="awards-container"><span class="awards-sprite a0-1"></span><span class="awards-sprite a1-1"></span></span></a>|
 |797|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=84804"><span class="red">Tanker-009</span><span class="awards-container"><span class="awards-sprite a0-1"></span><span class="awards-sprite a1-1"></span></span></a>|
 |798|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=84894"><span class="blue">ORCA</span><span class="awards-container"><span class="awards-sprite a0-1"></span><span class="awards-sprite a1-1"></span></span></a>|
@@ -4365,7 +4365,7 @@
 |950|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=70876"><span class="purple">Purple Rain</span><span class="awards-container"><span class="awards-sprite a1-1"></span></span></a>|
 |951|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=71060"><span class="blue">beefslicer</span><span class="awards-container"><span class="awards-sprite a1-1"></span></span></a>|
 |952|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=71310"><span class="blue">forkliftklaus</span><span class="awards-container"><span class="awards-sprite a1-1"></span></span></a>|
-|953|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=71378"><span class="purple">DarkwingDuck</span><span class="awards-container"><span class="awards-sprite a1-1"></span></span></a>|
+|953|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=71378"><span class="orange">DarkwingDuck</span><span class="awards-container"><span class="awards-sprite a1-1"></span></span></a>|
 |954|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=71621"><span class="purple">pqrst</span><span class="awards-container"><span class="awards-sprite a1-1"></span></span></a>|
 |955|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=71622"><span class="orange">uvwxyz</span><span class="awards-container"><span class="awards-sprite a1-1"></span></span></a>|
 |956|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=71958"><span class="purple">Isolation</span><span class="awards-container"><span class="awards-sprite a1-1"></span></span></a>|
@@ -8771,5 +8771,5 @@
 
 
 
-<p class="last_updated"><span class="last_updated">Last Updated:&nbsp;&nbsp;May 17, 12:02 PM&nbsp;&nbsp;(Pacific)</span></p>
+<p class="last_updated"><span class="last_updated">Last Updated:&nbsp;&nbsp;May 18, 12:02 AM&nbsp;&nbsp;(Pacific)</span></p>
 

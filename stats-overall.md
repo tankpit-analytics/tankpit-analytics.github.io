@@ -142,7 +142,7 @@
 |29|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=68587"><span class="blue">oG-SKELETOR-Og</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a1-3"></span><span class="awards-sprite a2-2"></span><span class="awards-sprite a3-2"></span><span class="awards-sprite a5-2"></span></span></a>|4596|
 |30|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=10897"><span class="blue">taf</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a1-3"></span><span class="awards-sprite a2-3"></span><span class="awards-sprite a3-2"></span></span></a>|4580|
 |31|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=505"><span class="orange">Krusty The Clown</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a1-3"></span><span class="awards-sprite a2-3"></span><span class="awards-sprite a3-3"></span><span class="awards-sprite a5-3"></span></span></a>|4444|
-|32|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=84703"><span class="red">TheOldMan</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a1-3"></span></span></a>|4002|
+|32|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=84703"><span class="red">TheOldMan</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a1-3"></span></span></a>|4029|
 |33|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=12035"><span class="red">mark</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a1-3"></span><span class="awards-sprite a2-3"></span><span class="awards-sprite a3-2"></span><span class="awards-sprite a5-3"></span></span></a>|3813|
 |34|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=64496"><span class="red">Margarita</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a1-3"></span><span class="awards-sprite a2-2"></span><span class="awards-sprite a3-2"></span><span class="awards-sprite a4-3"></span><span class="awards-sprite a5-3"></span><span class="awards-sprite a8-1"></span></span></a>|3749|
 |35|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=8542"><span class="red">INFILTRATION</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a1-3"></span><span class="awards-sprite a2-3"></span><span class="awards-sprite a3-3"></span><span class="awards-sprite a5-2"></span><span class="awards-sprite a6-1"></span></span></a>|3695|
@@ -319,5 +319,5 @@
 
 
 
-<p class="last_updated"><span class="last_updated">Last Updated:&nbsp;&nbsp;May 17, 12:02 PM&nbsp;&nbsp;(Pacific)</span></p>
+<p class="last_updated"><span class="last_updated">Last Updated:&nbsp;&nbsp;May 18, 12:02 AM&nbsp;&nbsp;(Pacific)</span></p>
 
