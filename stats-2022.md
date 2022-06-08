@@ -15,8 +15,8 @@
 |6|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=84737"><span class="blue">Khione</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a1-2"></span><span class="awards-sprite a3-1"></span><span class="awards-sprite a4-3"></span><span class="awards-sprite a5-3"></span></span></a>|100:1:57|
 |7|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=84705"><span class="red">CoL Cerberus</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a2-1"></span><span class="awards-sprite a5-2"></span><span class="awards-sprite a7-1"></span><span class="awards-sprite a8-1"></span></span></a>|62:26:02|
 |8|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=84822"><span class="orange">Chocolate Orange</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a1-3"></span></span></a>|59:0:44|
-|9|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=86488"><span class="red">Mr Hand</span><span class="awards-container"><span class="awards-sprite a1-3"></span><span class="awards-sprite a2-1"></span><span class="awards-sprite a5-1"></span></span></a>|56:23:56|
-|10|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=87493"><span class="red">Suppressive Fire</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a5-3"></span></span></a>|45:4:52|
+|9|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=86488"><span class="red">Mr Hand</span><span class="awards-container"><span class="awards-sprite a1-3"></span><span class="awards-sprite a2-1"></span><span class="awards-sprite a5-1"></span></span></a>|57:15:29|
+|10|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=87493"><span class="red">Suppressive Fire</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a5-3"></span></span></a>|45:20:22|
 |11|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=85833"><span class="blue">-x-WISPA GOLD-x-</span><span class="awards-container"><span class="awards-sprite a0-3"></span></span></a>|32:45:52|
 |12|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=85733"><span class="orange">MeTsUrEtSu</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a1-3"></span></span></a>|27:44:43|
 |13|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=84697"><span class="purple">MOONRAKER</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a2-2"></span><span class="awards-sprite a4-3"></span><span class="awards-sprite a5-3"></span><span class="awards-sprite a8-1"></span></span></a>|15:44:16|
@@ -29,7 +29,7 @@
 
 {:.stats_leaderboard#stats_leaderboard_kills}
 |<span class="num_col">&nbsp;</span>|<span class="tank_col">Tank</span>|<span class="stat_col">Kills</span>|
-|1|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=86488"><span class="red">Mr Hand</span><span class="awards-container"><span class="awards-sprite a1-3"></span><span class="awards-sprite a2-1"></span><span class="awards-sprite a5-1"></span></span></a>|2290|
+|1|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=86488"><span class="red">Mr Hand</span><span class="awards-container"><span class="awards-sprite a1-3"></span><span class="awards-sprite a2-1"></span><span class="awards-sprite a5-1"></span></span></a>|2346|
 |2|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=86710"><span class="blue">Scavenging ooze</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a1-3"></span><span class="awards-sprite a2-2"></span><span class="awards-sprite a3-1"></span><span class="awards-sprite a4-3"></span><span class="awards-sprite a5-3"></span></span></a>|749|
 |3|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=86209"><span class="blue">Tester</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a1-3"></span><span class="awards-sprite a2-3"></span><span class="awards-sprite a3-1"></span></span></a>|707|
 |4|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=84822"><span class="orange">Chocolate Orange</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a1-3"></span></span></a>|633|
@@ -56,5 +56,5 @@
 
 
 
-<p class="last_updated"><span class="last_updated">Last Updated:&nbsp;&nbsp;Jun 8, 12:01 AM&nbsp;&nbsp;(Pacific)</span></p>
+<p class="last_updated"><span class="last_updated">Last Updated:&nbsp;&nbsp;Jun 8, 12:01 PM&nbsp;&nbsp;(Pacific)</span></p>
 
