@@ -420,7 +420,7 @@
 |407|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=86397"><span class="red">Whack F-gna</span><span class="awards-container"><span class="awards-sprite a0-1"></span><span class="awards-sprite a1-1"></span></span></a>|
 |408|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=86600"><span class="purple">Relentless </span><span class="awards-container"><span class="awards-sprite a0-1"></span><span class="awards-sprite a5-2"></span></span></a>|
 |409|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=86736"><span class="blue">thursday nachos</span><span class="awards-container"><span class="awards-sprite a0-1"></span><span class="awards-sprite a5-2"></span></span></a>|
-|410|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=86747"><span class="blue">Thorns</span><span class="awards-container"><span class="awards-sprite a0-1"></span><span class="awards-sprite a1-2"></span></span></a>|
+|410|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=86747"><span class="red">Thorns</span><span class="awards-container"><span class="awards-sprite a0-1"></span><span class="awards-sprite a1-2"></span></span></a>|
 |411|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=87159"><span class="blue">High Plains Drifter</span><span class="awards-container"><span class="awards-sprite a0-1"></span><span class="awards-sprite a5-2"></span></span></a>|
 |412|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=87458"><span class="red">Dumbocrats</span><span class="awards-container"><span class="awards-sprite a0-1"></span><span class="awards-sprite a5-3"></span></span></a>|
 |413|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=87627"><span class="red">Karina</span><span class="awards-container"><span class="awards-sprite a0-1"></span><span class="awards-sprite a1-2"></span></span></a>|
@@ -4921,7 +4921,7 @@
 |514|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=82132"><span class="red">Sniff My Root</span><span class="awards-container"><span class="awards-sprite a0-1"></span><span class="awards-sprite a1-2"></span></span></a>|
 |515|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=84153"><span class="orange">Suzy</span><span class="awards-container"><span class="awards-sprite a0-1"></span><span class="awards-sprite a1-2"></span></span></a>|
 |516|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=84422"><span class="orange">DXTroop</span><span class="awards-container"><span class="awards-sprite a0-1"></span><span class="awards-sprite a1-2"></span></span></a>|
-|517|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=86747"><span class="blue">Thorns</span><span class="awards-container"><span class="awards-sprite a0-1"></span><span class="awards-sprite a1-2"></span></span></a>|
+|517|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=86747"><span class="red">Thorns</span><span class="awards-container"><span class="awards-sprite a0-1"></span><span class="awards-sprite a1-2"></span></span></a>|
 |518|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=87627"><span class="red">Karina</span><span class="awards-container"><span class="awards-sprite a0-1"></span><span class="awards-sprite a1-2"></span></span></a>|
 |519|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=3518"><span class="purple">DisasterMaster</span><span class="awards-container"><span class="awards-sprite a1-2"></span><span class="awards-sprite a2-1"></span></span></a>|
 |520|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=7870"><span class="blue">Ashrat</span><span class="awards-container"><span class="awards-sprite a1-2"></span><span class="awards-sprite a2-1"></span></span></a>|
@@ -8800,5 +8800,5 @@
 
 
 
-<p class="last_updated"><span class="last_updated">Last Updated:&nbsp;&nbsp;Jun 10, 12:02 AM&nbsp;&nbsp;(Pacific)</span></p>
+<p class="last_updated"><span class="last_updated">Last Updated:&nbsp;&nbsp;Jun 10, 12:02 PM&nbsp;&nbsp;(Pacific)</span></p>
 
