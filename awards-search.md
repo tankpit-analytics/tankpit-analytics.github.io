@@ -5387,7 +5387,7 @@
 |414|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=40250"><span class="red">SithLord</span><span class="awards-container"><span class="awards-sprite a0-1"></span><span class="awards-sprite a1-3"></span><span class="awards-sprite a2-1"></span></span></a>|
 |415|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=76642"><span class="purple">KillersReaper</span><span class="awards-container"><span class="awards-sprite a0-1"></span><span class="awards-sprite a1-3"></span><span class="awards-sprite a2-1"></span></span></a>|
 |416|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=81962"><span class="blue">Viper</span><span class="awards-container"><span class="awards-sprite a0-1"></span><span class="awards-sprite a1-3"></span><span class="awards-sprite a2-1"></span></span></a>|
-|417|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=86488"><span class="red">Mr Hand</span><span class="awards-container"><span class="awards-sprite a1-3"></span><span class="awards-sprite a2-1"></span><span class="awards-sprite a5-1"></span></span></a>|
+|417|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=86488"><span class="orange">Mr Hand</span><span class="awards-container"><span class="awards-sprite a1-3"></span><span class="awards-sprite a2-1"></span><span class="awards-sprite a5-1"></span></span></a>|
 |418|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=765"><span class="orange">- Calcium -</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a1-3"></span></span></a>|
 |419|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=1914"><span class="blue">Cows</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a1-3"></span></span></a>|
 |420|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=3664"><span class="red">tomato</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a1-3"></span></span></a>|
@@ -5859,7 +5859,7 @@
 |361|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=81962"><span class="blue">Viper</span><span class="awards-container"><span class="awards-sprite a0-1"></span><span class="awards-sprite a1-3"></span><span class="awards-sprite a2-1"></span></span></a>|
 |362|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=86122"><span class="blue">-x-WONKA-BAR-x-</span><span class="awards-container"><span class="awards-sprite a0-1"></span><span class="awards-sprite a1-1"></span><span class="awards-sprite a2-1"></span></span></a>|
 |363|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=70515"><span class="red">EL GUAPO CULERO</span><span class="awards-container"><span class="awards-sprite a1-1"></span><span class="awards-sprite a2-1"></span><span class="awards-sprite a5-1"></span></span></a>|
-|364|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=86488"><span class="red">Mr Hand</span><span class="awards-container"><span class="awards-sprite a1-3"></span><span class="awards-sprite a2-1"></span><span class="awards-sprite a5-1"></span></span></a>|
+|364|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=86488"><span class="orange">Mr Hand</span><span class="awards-container"><span class="awards-sprite a1-3"></span><span class="awards-sprite a2-1"></span><span class="awards-sprite a5-1"></span></span></a>|
 |365|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=1210"><span class="orange">Fragtality </span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a2-1"></span></span></a>|
 |366|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=8936"><span class="red">BuLLeTProoF</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a2-1"></span></span></a>|
 |367|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=8941"><span class="blue">XI-SGTMAJ DAN DALY</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a2-1"></span></span></a>|
@@ -7228,7 +7228,7 @@
 |156|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=84117"><span class="purple">Stand Alone</span><span class="awards-container"><span class="awards-sprite a0-2"></span><span class="awards-sprite a5-1"></span><span class="awards-sprite a8-1"></span></span></a>|
 |157|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=60093"><span class="blue">Team Druidia</span><span class="awards-container"><span class="awards-sprite a0-1"></span><span class="awards-sprite a1-1"></span><span class="awards-sprite a5-1"></span></span></a>|
 |158|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=70515"><span class="red">EL GUAPO CULERO</span><span class="awards-container"><span class="awards-sprite a1-1"></span><span class="awards-sprite a2-1"></span><span class="awards-sprite a5-1"></span></span></a>|
-|159|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=86488"><span class="red">Mr Hand</span><span class="awards-container"><span class="awards-sprite a1-3"></span><span class="awards-sprite a2-1"></span><span class="awards-sprite a5-1"></span></span></a>|
+|159|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=86488"><span class="orange">Mr Hand</span><span class="awards-container"><span class="awards-sprite a1-3"></span><span class="awards-sprite a2-1"></span><span class="awards-sprite a5-1"></span></span></a>|
 |160|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=502"><span class="red">-SINISTER-</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a5-1"></span></span></a>|
 |161|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=571"><span class="purple">TeNaCiTy</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a5-1"></span></span></a>|
 |162|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=783"><span class="blue">DIESEL</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a5-1"></span></span></a>|
@@ -8819,5 +8819,5 @@
 
 
 
-<p class="last_updated"><span class="last_updated">Last Updated:&nbsp;&nbsp;Jun 15, 12:02 AM&nbsp;&nbsp;(Pacific)</span></p>
+<p class="last_updated"><span class="last_updated">Last Updated:&nbsp;&nbsp;Jun 15, 12:02 PM&nbsp;&nbsp;(Pacific)</span></p>
 
