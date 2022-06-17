@@ -7993,7 +7993,7 @@
 |493|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=87743"><span class="purple">ANTIWIZARD</span><span class="awards-container"><span class="awards-sprite a5-2"></span></span></a>|
 
 
-<span class="awards_search_header" id="awards_search_header_cup3">Gold Cup (606)</span>
+<span class="awards_search_header" id="awards_search_header_cup3">Gold Cup (607)</span>
 
 {:.awards_search#awards_search_cup3}
 |1|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=746"><span class="purple">SavinRyann</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a1-3"></span><span class="awards-sprite a2-3"></span><span class="awards-sprite a3-3"></span><span class="awards-sprite a4-3"></span><span class="awards-sprite a5-3"></span><span class="awards-sprite a6-1"></span><span class="awards-sprite a7-1"></span></span></a>|
@@ -8597,11 +8597,12 @@
 |599|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=84848"><span class="blue">Wizdom</span><span class="awards-container"><span class="awards-sprite a5-3"></span></span></a>|
 |600|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=86636"><span class="blue">Moneybagg</span><span class="awards-container"><span class="awards-sprite a5-3"></span></span></a>|
 |601|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=87060"><span class="blue">-Reimagined-</span><span class="awards-container"><span class="awards-sprite a5-3"></span></span></a>|
-|602|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=87218"><span class="purple">Dying Breed</span><span class="awards-container"><span class="awards-sprite a5-3"></span></span></a>|
-|603|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=87624"><span class="purple">Redemption</span><span class="awards-container"><span class="awards-sprite a5-3"></span></span></a>|
-|604|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=87631"><span class="red">Boondock Saints</span><span class="awards-container"><span class="awards-sprite a5-3"></span></span></a>|
-|605|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=87703"><span class="red">Vaya con Dios</span><span class="awards-container"><span class="awards-sprite a5-3"></span></span></a>|
-|606|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=87916"><span class="blue">Anomaly </span><span class="awards-container"><span class="awards-sprite a5-3"></span></span></a>|
+|602|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=87156"><span class="purple">Outlaw Josey Wales</span><span class="awards-container"><span class="awards-sprite a5-3"></span></span></a>|
+|603|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=87218"><span class="purple">Dying Breed</span><span class="awards-container"><span class="awards-sprite a5-3"></span></span></a>|
+|604|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=87624"><span class="purple">Redemption</span><span class="awards-container"><span class="awards-sprite a5-3"></span></span></a>|
+|605|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=87631"><span class="red">Boondock Saints</span><span class="awards-container"><span class="awards-sprite a5-3"></span></span></a>|
+|606|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=87703"><span class="red">Vaya con Dios</span><span class="awards-container"><span class="awards-sprite a5-3"></span></span></a>|
+|607|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=87916"><span class="blue">Anomaly </span><span class="awards-container"><span class="awards-sprite a5-3"></span></span></a>|
 
 
 <span class="awards_search_header" id="awards_search_header_ph1">Purple Heart (32)</span>
@@ -8819,5 +8820,5 @@
 
 
 
-<p class="last_updated"><span class="last_updated">Last Updated:&nbsp;&nbsp;Jun 16, 12:02 PM&nbsp;&nbsp;(Pacific)</span></p>
+<p class="last_updated"><span class="last_updated">Last Updated:&nbsp;&nbsp;Jun 17, 12:02 AM&nbsp;&nbsp;(Pacific)</span></p>
 
