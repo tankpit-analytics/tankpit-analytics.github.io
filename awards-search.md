@@ -8003,7 +8003,7 @@
 |493|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=87743"><span class="purple">ANTIWIZARD</span><span class="awards-container"><span class="awards-sprite a5-2"></span></span></a>|
 
 
-<span class="awards_search_header" id="awards_search_header_cup3">Gold Cup (610)</span>
+<span class="awards_search_header" id="awards_search_header_cup3">Gold Cup (611)</span>
 
 {:.awards_search#awards_search_cup3}
 |1|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=746"><span class="purple">SavinRyann</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a1-3"></span><span class="awards-sprite a2-3"></span><span class="awards-sprite a3-3"></span><span class="awards-sprite a4-3"></span><span class="awards-sprite a5-3"></span><span class="awards-sprite a6-1"></span><span class="awards-sprite a7-1"></span></span></a>|
@@ -8616,6 +8616,7 @@
 |608|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=87631"><span class="red">Boondock Saints</span><span class="awards-container"><span class="awards-sprite a5-3"></span></span></a>|
 |609|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=87703"><span class="red">Vaya con Dios</span><span class="awards-container"><span class="awards-sprite a5-3"></span></span></a>|
 |610|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=87916"><span class="blue">Anomaly </span><span class="awards-container"><span class="awards-sprite a5-3"></span></span></a>|
+|611|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=88053"><span class="purple">Righteous Valkyrie</span><span class="awards-container"><span class="awards-sprite a5-3"></span></span></a>|
 
 
 <span class="awards_search_header" id="awards_search_header_ph1">Purple Heart (32)</span>
@@ -8833,5 +8834,5 @@
 
 
 
-<p class="last_updated"><span class="last_updated">Last Updated:&nbsp;&nbsp;Jun 19, 12:02 PM&nbsp;&nbsp;(Pacific)</span></p>
+<p class="last_updated"><span class="last_updated">Last Updated:&nbsp;&nbsp;Jun 20, 12:02 AM&nbsp;&nbsp;(Pacific)</span></p>
 
