@@ -409,7 +409,7 @@
 |396|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=83594"><span class="red">CommitmenT </span><span class="awards-container"><span class="awards-sprite a0-1"></span><span class="awards-sprite a5-1"></span></span></a>|
 |397|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=83629"><span class="red">Vertigo</span><span class="awards-container"><span class="awards-sprite a0-1"></span><span class="awards-sprite a5-2"></span></span></a>|
 |398|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=83875"><span class="blue">bendonesia</span><span class="awards-container"><span class="awards-sprite a0-1"></span><span class="awards-sprite a1-1"></span></span></a>|
-|399|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=84153"><span class="orange">Suzy</span><span class="awards-container"><span class="awards-sprite a0-1"></span><span class="awards-sprite a1-2"></span></span></a>|
+|399|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=84153"><span class="blue">Suzy</span><span class="awards-container"><span class="awards-sprite a0-1"></span><span class="awards-sprite a1-2"></span></span></a>|
 |400|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=84506"><span class="blue">Come Get Some </span><span class="awards-container"><span class="awards-sprite a0-1"></span><span class="awards-sprite a5-3"></span></span></a>|
 |401|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=84549"><span class="orange">xxxxx</span><span class="awards-container"><span class="awards-sprite a0-1"></span><span class="awards-sprite a1-1"></span></span></a>|
 |402|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=84804"><span class="red">Tanker-009</span><span class="awards-container"><span class="awards-sprite a0-1"></span><span class="awards-sprite a1-1"></span></span></a>|
@@ -4935,7 +4935,7 @@
 |510|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=81125"><span class="blue">Compton</span><span class="awards-container"><span class="awards-sprite a0-1"></span><span class="awards-sprite a1-2"></span></span></a>|
 |511|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=81949"><span class="blue">zesus J</span><span class="awards-container"><span class="awards-sprite a0-1"></span><span class="awards-sprite a1-2"></span></span></a>|
 |512|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=82132"><span class="red">Sniff My Root</span><span class="awards-container"><span class="awards-sprite a0-1"></span><span class="awards-sprite a1-2"></span></span></a>|
-|513|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=84153"><span class="orange">Suzy</span><span class="awards-container"><span class="awards-sprite a0-1"></span><span class="awards-sprite a1-2"></span></span></a>|
+|513|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=84153"><span class="blue">Suzy</span><span class="awards-container"><span class="awards-sprite a0-1"></span><span class="awards-sprite a1-2"></span></span></a>|
 |514|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=87627"><span class="red">Karina</span><span class="awards-container"><span class="awards-sprite a0-1"></span><span class="awards-sprite a1-2"></span></span></a>|
 |515|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=3518"><span class="purple">DisasterMaster</span><span class="awards-container"><span class="awards-sprite a1-2"></span><span class="awards-sprite a2-1"></span></span></a>|
 |516|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=7870"><span class="blue">Ashrat</span><span class="awards-container"><span class="awards-sprite a1-2"></span><span class="awards-sprite a2-1"></span></span></a>|
@@ -8845,5 +8845,5 @@
 
 
 
-<p class="last_updated"><span class="last_updated">Last Updated:&nbsp;&nbsp;Jun 28, 12:02 PM&nbsp;&nbsp;(Pacific)</span></p>
+<p class="last_updated"><span class="last_updated">Last Updated:&nbsp;&nbsp;Jun 29, 12:02 AM&nbsp;&nbsp;(Pacific)</span></p>
 
