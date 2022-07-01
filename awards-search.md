@@ -2632,7 +2632,7 @@
 |1590|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=72337"><span class="orange">CAPITALISM</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a1-1"></span></span></a>|
 |1591|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=72366"><span class="red">TROUBLE</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a1-1"></span></span></a>|
 |1592|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=72642"><span class="blue">Shadow</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a1-1"></span></span></a>|
-|1593|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=72742"><span class="blue">MamXiangCh1nkSlantey</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a2-1"></span></span></a>|
+|1593|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=72742"><span class="red">MamXiangCh1nkSlantey</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a2-1"></span></span></a>|
 |1594|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=72756"><span class="purple">MAN-MYTH-LEGEND</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a5-2"></span></span></a>|
 |1595|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=72786"><span class="blue">Snow</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a1-1"></span></span></a>|
 |1596|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=72861"><span class="red">AGILITY</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a5-3"></span></span></a>|
@@ -5893,7 +5893,7 @@
 |385|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=71843"><span class="purple">burner</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a2-1"></span></span></a>|
 |386|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=72151"><span class="blue">MonsterEnergy</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a2-1"></span></span></a>|
 |387|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=72305"><span class="purple">EPICSPIDERHACKCHEAT</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a2-1"></span></span></a>|
-|388|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=72742"><span class="blue">MamXiangCh1nkSlantey</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a2-1"></span></span></a>|
+|388|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=72742"><span class="red">MamXiangCh1nkSlantey</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a2-1"></span></span></a>|
 |389|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=75644"><span class="red">VoltIsNiceNMyFriend</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a2-1"></span></span></a>|
 |390|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=630"><span class="purple"> TW </span><span class="awards-container"><span class="awards-sprite a0-2"></span><span class="awards-sprite a2-1"></span></span></a>|
 |391|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=1514"><span class="red">ZEMA</span><span class="awards-container"><span class="awards-sprite a0-2"></span><span class="awards-sprite a2-1"></span></span></a>|
@@ -8845,5 +8845,5 @@
 
 
 
-<p class="last_updated"><span class="last_updated">Last Updated:&nbsp;&nbsp;Jul 1, 12:02 AM&nbsp;&nbsp;(Pacific)</span></p>
+<p class="last_updated"><span class="last_updated">Last Updated:&nbsp;&nbsp;Jul 1, 12:02 PM&nbsp;&nbsp;(Pacific)</span></p>
 
