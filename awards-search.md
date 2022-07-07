@@ -2230,7 +2230,7 @@
 |1182|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=33219"><span class="orange">EARTHBOUND</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a5-2"></span></span></a>|
 |1183|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=33364"><span class="blue">TwisT</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a1-2"></span></span></a>|
 |1184|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=33503"><span class="orange">ooo ooo</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a1-1"></span></span></a>|
-|1185|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=34041"><span class="purple">God</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a5-1"></span></span></a>|
+|1185|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=34041"><span class="red">God</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a5-1"></span></span></a>|
 |1186|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=34269"><span class="purple">yung cujo</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a5-3"></span></span></a>|
 |1187|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=34485"><span class="blue">Megatron</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a1-1"></span></span></a>|
 |1188|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=34620"><span class="blue">paradox</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a5-3"></span></span></a>|
@@ -7307,7 +7307,7 @@
 |203|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=32100"><span class="purple">Steam Whistle</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a5-1"></span></span></a>|
 |204|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=32906"><span class="blue">-xWife</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a5-1"></span></span></a>|
 |205|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=33074"><span class="purple">TRUMP FOR PRESIDENT</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a5-1"></span></span></a>|
-|206|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=34041"><span class="purple">God</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a5-1"></span></span></a>|
+|206|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=34041"><span class="red">God</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a5-1"></span></span></a>|
 |207|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=34870"><span class="purple">celestial cilantro</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a5-1"></span></span></a>|
 |208|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=37169"><span class="orange">Abraham Simpson V</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a5-1"></span></span></a>|
 |209|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=37993"><span class="red">Jesus Christ</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a5-1"></span></span></a>|
@@ -8873,5 +8873,5 @@
 
 
 
-<p class="last_updated"><span class="last_updated">Last Updated:&nbsp;&nbsp;Jul 7, 12:02 AM&nbsp;&nbsp;(Pacific)</span></p>
+<p class="last_updated"><span class="last_updated">Last Updated:&nbsp;&nbsp;Jul 7, 12:02 PM&nbsp;&nbsp;(Pacific)</span></p>
 
