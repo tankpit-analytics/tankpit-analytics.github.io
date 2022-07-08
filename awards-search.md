@@ -989,7 +989,7 @@
 |552|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=79176"><span class="blue">Deathmaster</span><span class="awards-container"><span class="awards-sprite a0-2"></span><span class="awards-sprite a1-1"></span></span></a>|
 |553|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=79521"><span class="blue">James Wilks</span><span class="awards-container"><span class="awards-sprite a0-2"></span><span class="awards-sprite a5-1"></span></span></a>|
 |554|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=79529"><span class="orange">-ciVic-</span><span class="awards-container"><span class="awards-sprite a0-2"></span><span class="awards-sprite a5-3"></span></span></a>|
-|555|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=79599"><span class="purple">JustForFun</span><span class="awards-container"><span class="awards-sprite a0-2"></span><span class="awards-sprite a1-2"></span></span></a>|
+|555|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=79599"><span class="blue">JustForFun</span><span class="awards-container"><span class="awards-sprite a0-2"></span><span class="awards-sprite a1-2"></span></span></a>|
 |556|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=79858"><span class="purple">a purple mine</span><span class="awards-container"><span class="awards-sprite a0-2"></span><span class="awards-sprite a2-1"></span></span></a>|
 |557|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=80421"><span class="orange">Sharkbait404</span><span class="awards-container"><span class="awards-sprite a0-2"></span><span class="awards-sprite a1-1"></span></span></a>|
 |558|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=80984"><span class="blue">mtky</span><span class="awards-container"><span class="awards-sprite a0-2"></span><span class="awards-sprite a1-1"></span></span></a>|
@@ -4901,7 +4901,7 @@
 |463|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=70117"><span class="purple">WOLVERINE</span><span class="awards-container"><span class="awards-sprite a0-2"></span><span class="awards-sprite a1-2"></span></span></a>|
 |464|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=70983"><span class="blue">King Lerxst</span><span class="awards-container"><span class="awards-sprite a0-2"></span><span class="awards-sprite a1-2"></span></span></a>|
 |465|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=71168"><span class="purple">Apocalypse</span><span class="awards-container"><span class="awards-sprite a0-2"></span><span class="awards-sprite a1-2"></span></span></a>|
-|466|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=79599"><span class="purple">JustForFun</span><span class="awards-container"><span class="awards-sprite a0-2"></span><span class="awards-sprite a1-2"></span></span></a>|
+|466|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=79599"><span class="blue">JustForFun</span><span class="awards-container"><span class="awards-sprite a0-2"></span><span class="awards-sprite a1-2"></span></span></a>|
 |467|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=81471"><span class="blue">scrogemcscroger</span><span class="awards-container"><span class="awards-sprite a0-2"></span><span class="awards-sprite a1-2"></span></span></a>|
 |468|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=81789"><span class="blue">limeryder</span><span class="awards-container"><span class="awards-sprite a0-2"></span><span class="awards-sprite a1-2"></span></span></a>|
 |469|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=83457"><span class="orange">Knine</span><span class="awards-container"><span class="awards-sprite a0-2"></span><span class="awards-sprite a1-2"></span></span></a>|
@@ -8873,5 +8873,5 @@
 
 
 
-<p class="last_updated"><span class="last_updated">Last Updated:&nbsp;&nbsp;Jul 8, 12:02 AM&nbsp;&nbsp;(Pacific)</span></p>
+<p class="last_updated"><span class="last_updated">Last Updated:&nbsp;&nbsp;Jul 8, 12:02 PM&nbsp;&nbsp;(Pacific)</span></p>
 
