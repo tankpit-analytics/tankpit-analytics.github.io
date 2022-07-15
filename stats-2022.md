@@ -20,7 +20,7 @@
 |11|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=84705"><span class="red">CoL Cerberus</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a2-1"></span><span class="awards-sprite a5-2"></span><span class="awards-sprite a7-1"></span><span class="awards-sprite a8-1"></span></span></a>|62:36:04|
 |12|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=87493"><span class="red">Suppressive Fire</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a5-3"></span></span></a>|59:47:13|
 |13|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=84822"><span class="orange">Chocolate Orange</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a1-3"></span></span></a>|59:0:44|
-|14|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=84697"><span class="purple">MOONRAKER</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a2-2"></span><span class="awards-sprite a4-3"></span><span class="awards-sprite a5-3"></span><span class="awards-sprite a8-1"></span></span></a>|44:57:40|
+|14|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=84697"><span class="purple">MOONRAKER</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a2-2"></span><span class="awards-sprite a4-3"></span><span class="awards-sprite a5-3"></span><span class="awards-sprite a8-1"></span></span></a>|46:22:59|
 |15|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=85833"><span class="blue">-x-WISPA GOLD-x-</span><span class="awards-container"><span class="awards-sprite a0-3"></span></span></a>|32:45:52|
 |16|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=85733"><span class="orange">MeTsUrEtSu</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a1-3"></span></span></a>|27:44:43|
 |17|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=87159"><span class="blue">High Plains Drifter</span><span class="awards-container"><span class="awards-sprite a0-2"></span><span class="awards-sprite a5-2"></span></span></a>|20:23:40|
@@ -66,5 +66,5 @@
 
 
 
-<p class="last_updated"><span class="last_updated">Last Updated:&nbsp;&nbsp;Jul 15, 12:01 AM&nbsp;&nbsp;(Pacific)</span></p>
+<p class="last_updated"><span class="last_updated">Last Updated:&nbsp;&nbsp;Jul 15, 12:01 PM&nbsp;&nbsp;(Pacific)</span></p>
 

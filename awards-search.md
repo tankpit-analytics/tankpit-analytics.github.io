@@ -4987,7 +4987,7 @@
 |549|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=76940"><span class="red">pew</span><span class="awards-container"><span class="awards-sprite a1-2"></span></span></a>|
 |550|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=84497"><span class="blue">towely420</span><span class="awards-container"><span class="awards-sprite a1-2"></span></span></a>|
 |551|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=86251"><span class="blue">goku</span><span class="awards-container"><span class="awards-sprite a1-2"></span></span></a>|
-|552|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=88082"><span class="purple">WhoCares</span><span class="awards-container"><span class="awards-sprite a1-2"></span></span></a>|
+|552|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=88082"><span class="orange">WhoCares</span><span class="awards-container"><span class="awards-sprite a1-2"></span></span></a>|
 
 
 <span class="awards_search_header" id="awards_search_header_tank3">Golden Tank (524)</span>
@@ -8877,5 +8877,5 @@
 
 
 
-<p class="last_updated"><span class="last_updated">Last Updated:&nbsp;&nbsp;Jul 15, 12:02 AM&nbsp;&nbsp;(Pacific)</span></p>
+<p class="last_updated"><span class="last_updated">Last Updated:&nbsp;&nbsp;Jul 15, 12:02 PM&nbsp;&nbsp;(Pacific)</span></p>
 
