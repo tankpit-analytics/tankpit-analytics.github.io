@@ -8054,7 +8054,7 @@
 |500|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=88756"><span class="blue">2Official</span><span class="awards-container"><span class="awards-sprite a5-2"></span></span></a>|
 
 
-<span class="awards_search_header" id="awards_search_header_cup3">Gold Cup (619)</span>
+<span class="awards_search_header" id="awards_search_header_cup3">Gold Cup (620)</span>
 
 {:.awards_search#awards_search_cup3}
 |1|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=746"><span class="blue">Galvatron</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a1-3"></span><span class="awards-sprite a2-3"></span><span class="awards-sprite a3-3"></span><span class="awards-sprite a4-3"></span><span class="awards-sprite a5-3"></span><span class="awards-sprite a6-1"></span><span class="awards-sprite a7-1"></span></span></a>|
@@ -8676,6 +8676,7 @@
 |617|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=88007"><span class="purple">Immortal</span><span class="awards-container"><span class="awards-sprite a5-3"></span></span></a>|
 |618|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=88053"><span class="purple">Righteous Valkyrie</span><span class="awards-container"><span class="awards-sprite a5-3"></span></span></a>|
 |619|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=88688"><span class="red">Pulp Fiction</span><span class="awards-container"><span class="awards-sprite a5-3"></span></span></a>|
+|620|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=88800"><span class="red">Tricks of the Trade</span><span class="awards-container"><span class="awards-sprite a5-3"></span></span></a>|
 
 
 <span class="awards_search_header" id="awards_search_header_ph1">Purple Heart (32)</span>
@@ -8894,5 +8895,5 @@
 
 
 
-<p class="last_updated"><span class="last_updated">Last Updated:&nbsp;&nbsp;Jul 26, 12:02 PM&nbsp;&nbsp;(Pacific)</span></p>
+<p class="last_updated"><span class="last_updated">Last Updated:&nbsp;&nbsp;Jul 27, 12:02 AM&nbsp;&nbsp;(Pacific)</span></p>
 
