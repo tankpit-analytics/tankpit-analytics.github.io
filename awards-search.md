@@ -3447,7 +3447,7 @@
 |2395|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=87092"><span class="blue">a blue mine</span><span class="awards-container"><span class="awards-sprite a0-3"></span></span></a>|
 
 
-<span class="awards_search_header" id="awards_search_header_tank1">Bronze Tank (985)</span>
+<span class="awards_search_header" id="awards_search_header_tank1">Bronze Tank (986)</span>
 
 {:.awards_search#awards_search_tank1}
 |1|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=71956"><span class="red">FINESSE</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a1-1"></span><span class="awards-sprite a2-3"></span><span class="awards-sprite a3-3"></span><span class="awards-sprite a4-3"></span><span class="awards-sprite a5-3"></span><span class="awards-sprite a7-1"></span><span class="awards-sprite a8-1"></span></span></a>|
@@ -4435,6 +4435,7 @@
 |983|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=86525"><span class="purple">TribeGang</span><span class="awards-container"><span class="awards-sprite a1-1"></span></span></a>|
 |984|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=86729"><span class="red">Poonmangler69</span><span class="awards-container"><span class="awards-sprite a1-1"></span></span></a>|
 |985|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=87712"><span class="red">kgb</span><span class="awards-container"><span class="awards-sprite a1-1"></span></span></a>|
+|986|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=88598"><span class="orange">BOT SHREDDER</span><span class="awards-container"><span class="awards-sprite a1-1"></span></span></a>|
 
 
 <span class="awards_search_header" id="awards_search_header_tank2">Silver Tank (553)</span>
@@ -8895,5 +8896,5 @@
 
 
 
-<p class="last_updated"><span class="last_updated">Last Updated:&nbsp;&nbsp;Jul 28, 12:02 PM&nbsp;&nbsp;(Pacific)</span></p>
+<p class="last_updated"><span class="last_updated">Last Updated:&nbsp;&nbsp;Jul 29, 12:02 AM&nbsp;&nbsp;(Pacific)</span></p>
 
