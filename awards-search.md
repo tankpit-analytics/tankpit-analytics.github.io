@@ -7112,7 +7112,7 @@
 |112|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=80523"><span class="purple">OnhceT</span><span class="awards-container"><span class="awards-sprite a4-3"></span></span></a>|
 
 
-<span class="awards_search_header" id="awards_search_header_cup1">Bronze Cup (435)</span>
+<span class="awards_search_header" id="awards_search_header_cup1">Bronze Cup (436)</span>
 
 {:.awards_search#awards_search_cup1}
 |1|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=671"><span class="blue">Prowl</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a1-3"></span><span class="awards-sprite a2-3"></span><span class="awards-sprite a3-3"></span><span class="awards-sprite a4-3"></span><span class="awards-sprite a5-1"></span><span class="awards-sprite a7-1"></span><span class="awards-sprite a8-1"></span></span></a>|
@@ -7547,9 +7547,10 @@
 |430|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=87260"><span class="red">Corrupted </span><span class="awards-container"><span class="awards-sprite a5-1"></span></span></a>|
 |431|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=87675"><span class="red">Speedy</span><span class="awards-container"><span class="awards-sprite a5-1"></span></span></a>|
 |432|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=87676"><span class="red">Zero Chill</span><span class="awards-container"><span class="awards-sprite a5-1"></span></span></a>|
-|433|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=88055"><span class="purple">MAJOR JERK</span><span class="awards-container"><span class="awards-sprite a5-1"></span></span></a>|
-|434|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=88603"><span class="red">R3AP3R</span><span class="awards-container"><span class="awards-sprite a5-1"></span></span></a>|
-|435|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=88644"><span class="blue">Rip Apart</span><span class="awards-container"><span class="awards-sprite a5-1"></span></span></a>|
+|433|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=88016"><span class="red">Clockwork</span><span class="awards-container"><span class="awards-sprite a5-1"></span></span></a>|
+|434|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=88055"><span class="purple">MAJOR JERK</span><span class="awards-container"><span class="awards-sprite a5-1"></span></span></a>|
+|435|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=88603"><span class="red">R3AP3R</span><span class="awards-container"><span class="awards-sprite a5-1"></span></span></a>|
+|436|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=88644"><span class="blue">Rip Apart</span><span class="awards-container"><span class="awards-sprite a5-1"></span></span></a>|
 
 
 <span class="awards_search_header" id="awards_search_header_cup2">Silver Cup (500)</span>
@@ -8898,5 +8899,5 @@
 
 
 
-<p class="last_updated"><span class="last_updated">Last Updated:&nbsp;&nbsp;Jul 31, 12:02 AM&nbsp;&nbsp;(Pacific)</span></p>
+<p class="last_updated"><span class="last_updated">Last Updated:&nbsp;&nbsp;Jul 31, 12:02 PM&nbsp;&nbsp;(Pacific)</span></p>
 
