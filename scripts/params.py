@@ -354,7 +354,8 @@ tourn_130k_club_dict = {
     539: [{'tourn_id': 1857, 'cup': 'bronze'}], #bg
     34871: [{'tourn_id': 1883, 'cup': 'silver'}], #azn
     35146: [{'tourn_id': 1977, 'cup': 'bronze'}], #noodle
-    81780: [{'tourn_id': 1982, 'cup': 'bronze'}] #silent tom
+    81780: [{'tourn_id': 1982, 'cup': 'bronze'}], #silent tom
+    85041: [{'tourn_id': 2130, 'cup': 'gold'}] #warmonger
 }
 
 tourn_130k_club_csv = dir_tpdata + 'tourn_130k_club.csv'
