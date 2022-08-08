@@ -24,7 +24,7 @@
 |15|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=85833"><span class="blue">-x-WISPA GOLD-x-</span><span class="awards-container"><span class="awards-sprite a0-3"></span></span></a>|32:45:52|
 |16|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=85733"><span class="orange">MeTsUrEtSu</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a1-3"></span></span></a>|27:44:43|
 |17|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=87159"><span class="blue">High Plains Drifter</span><span class="awards-container"><span class="awards-sprite a0-2"></span><span class="awards-sprite a5-2"></span></span></a>|21:32:53|
-|18|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=87199"><span class="blue">Ratchet</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a1-1"></span><span class="awards-sprite a5-1"></span></span></a>|8:31:50|
+|18|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=87199"><span class="blue">Ratchet</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a1-1"></span><span class="awards-sprite a5-1"></span></span></a>|8:32:10|
 |19|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=84712"><span class="purple">DIAMONDS ARE FOREVER</span><span class="awards-container"><span class="awards-sprite a0-2"></span><span class="awards-sprite a1-1"></span><span class="awards-sprite a2-1"></span></span></a>|6:53:23|
 |20|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=84701"><span class="red">CoL Phoenix</span><span class="awards-container"><span class="awards-sprite a0-3"></span></span></a>|3:30:38|
 |21|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=85421"><span class="blue">Gladiator </span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a5-2"></span></span></a>|1:58:47|
@@ -64,5 +64,5 @@
 
 
 
-<p class="last_updated"><span class="last_updated">Last Updated:&nbsp;&nbsp;Aug 7, 12:02 PM&nbsp;&nbsp;(Pacific)</span></p>
+<p class="last_updated"><span class="last_updated">Last Updated:&nbsp;&nbsp;Aug 8, 12:01 AM&nbsp;&nbsp;(Pacific)</span></p>
 
