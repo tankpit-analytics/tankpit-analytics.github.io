@@ -7,7 +7,7 @@
 
 {:.stats_leaderboard#stats_leaderboard_playtime}
 |<span class="num_col">&nbsp;</span>|<span class="tank_col">Tank</span>|<span class="stat_col">Time Played</span>|
-|1|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=84677"><span class="purple">Jaskier</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a1-3"></span><span class="awards-sprite a3-2"></span><span class="awards-sprite a5-1"></span></span></a>|420:27:47|
+|1|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=84677"><span class="purple">Jaskier</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a1-3"></span><span class="awards-sprite a3-2"></span><span class="awards-sprite a5-1"></span></span></a>|421:8:33|
 |2|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=85041"><span class="blue">Warmonger</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a3-2"></span><span class="awards-sprite a4-3"></span><span class="awards-sprite a5-1"></span><span class="awards-sprite a7-1"></span><span class="awards-sprite a8-1"></span></span></a>|322:5:02|
 |3|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=84703"><span class="red">TheOldMan</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a1-3"></span><span class="awards-sprite a3-1"></span></span></a>|153:26:45|
 |4|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=84669"><span class="red">CoL Oni</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a2-1"></span><span class="awards-sprite a3-1"></span><span class="awards-sprite a4-3"></span><span class="awards-sprite a5-1"></span><span class="awards-sprite a7-1"></span><span class="awards-sprite a8-1"></span></span></a>|134:7:18|
@@ -33,7 +33,7 @@
 {:.stats_leaderboard#stats_leaderboard_kills}
 |<span class="num_col">&nbsp;</span>|<span class="tank_col">Tank</span>|<span class="stat_col">Kills</span>|
 |1|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=84703"><span class="red">TheOldMan</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a1-3"></span><span class="awards-sprite a3-1"></span></span></a>|6749|
-|2|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=84677"><span class="purple">Jaskier</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a1-3"></span><span class="awards-sprite a3-2"></span><span class="awards-sprite a5-1"></span></span></a>|6661|
+|2|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=84677"><span class="purple">Jaskier</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a1-3"></span><span class="awards-sprite a3-2"></span><span class="awards-sprite a5-1"></span></span></a>|6694|
 |3|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=86488"><span class="orange">Mr Hand</span><span class="awards-container"><span class="awards-sprite a0-1"></span><span class="awards-sprite a1-3"></span><span class="awards-sprite a2-1"></span><span class="awards-sprite a3-1"></span><span class="awards-sprite a5-1"></span></span></a>|4645|
 |4|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=86710"><span class="blue">Scavenging ooze</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a1-3"></span><span class="awards-sprite a2-2"></span><span class="awards-sprite a3-1"></span><span class="awards-sprite a4-3"></span><span class="awards-sprite a5-3"></span></span></a>|764|
 |5|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=86209"><span class="blue">Tester</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a1-3"></span><span class="awards-sprite a2-3"></span><span class="awards-sprite a3-1"></span></span></a>|707|
@@ -64,5 +64,5 @@
 
 
 
-<p class="last_updated"><span class="last_updated">Last Updated:&nbsp;&nbsp;Aug 9, 12:02 PM&nbsp;&nbsp;(Pacific)</span></p>
+<p class="last_updated"><span class="last_updated">Last Updated:&nbsp;&nbsp;Aug 10, 12:02 AM&nbsp;&nbsp;(Pacific)</span></p>
 
