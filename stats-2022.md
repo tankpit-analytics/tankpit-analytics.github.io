@@ -7,7 +7,7 @@
 
 {:.stats_leaderboard#stats_leaderboard_playtime}
 |<span class="num_col">&nbsp;</span>|<span class="tank_col">Tank</span>|<span class="stat_col">Time Played</span>|
-|1|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=84677"><span class="purple">Jaskier</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a1-3"></span><span class="awards-sprite a3-2"></span><span class="awards-sprite a5-1"></span></span></a>|431:52:11|
+|1|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=84677"><span class="purple">Jaskier</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a1-3"></span><span class="awards-sprite a3-2"></span><span class="awards-sprite a5-1"></span></span></a>|432:40:47|
 |2|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=85041"><span class="blue">Warmonger</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a3-2"></span><span class="awards-sprite a4-3"></span><span class="awards-sprite a5-1"></span><span class="awards-sprite a7-1"></span><span class="awards-sprite a8-1"></span></span></a>|322:5:02|
 |3|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=84703"><span class="red">TheOldMan</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a1-3"></span><span class="awards-sprite a3-1"></span></span></a>|153:43:45|
 |4|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=84669"><span class="red">CoL Oni</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a2-1"></span><span class="awards-sprite a3-1"></span><span class="awards-sprite a4-3"></span><span class="awards-sprite a5-1"></span><span class="awards-sprite a7-1"></span><span class="awards-sprite a8-1"></span></span></a>|134:27:14|
@@ -16,7 +16,7 @@
 |7|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=86209"><span class="blue">Tester</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a1-3"></span><span class="awards-sprite a2-3"></span><span class="awards-sprite a3-1"></span></span></a>|106:24:10|
 |8|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=85431"><span class="orange">iBorg</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a1-3"></span><span class="awards-sprite a2-2"></span><span class="awards-sprite a3-1"></span><span class="awards-sprite a5-1"></span></span></a>|105:32:54|
 |9|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=84737"><span class="blue">Khione</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a1-2"></span><span class="awards-sprite a3-1"></span><span class="awards-sprite a4-3"></span><span class="awards-sprite a5-3"></span></span></a>|100:1:57|
-|10|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=88595"><span class="orange">SkizziK</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a5-2"></span><span class="awards-sprite a7-1"></span></span></a>|95:22:50|
+|10|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=88595"><span class="orange">SkizziK</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a5-2"></span><span class="awards-sprite a7-1"></span></span></a>|97:46:13|
 |11|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=84697"><span class="purple">MOONRAKER</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a2-2"></span><span class="awards-sprite a4-3"></span><span class="awards-sprite a5-3"></span><span class="awards-sprite a8-1"></span></span></a>|69:30:17|
 |12|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=85829"><span class="blue">-x-TWIX-x-</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a1-3"></span><span class="awards-sprite a5-1"></span></span></a>|68:51:38|
 |13|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=84705"><span class="red">CoL Cerberus</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a2-1"></span><span class="awards-sprite a5-2"></span><span class="awards-sprite a7-1"></span><span class="awards-sprite a8-1"></span></span></a>|62:47:24|
@@ -66,5 +66,5 @@
 
 
 
-<p class="last_updated"><span class="last_updated">Last Updated:&nbsp;&nbsp;Aug 18, 12:02 PM&nbsp;&nbsp;(Pacific)</span></p>
+<p class="last_updated"><span class="last_updated">Last Updated:&nbsp;&nbsp;Aug 19, 12:02 AM&nbsp;&nbsp;(Pacific)</span></p>
 
