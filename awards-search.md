@@ -428,7 +428,7 @@
 |415|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=86600"><span class="purple">Relentless </span><span class="awards-container"><span class="awards-sprite a0-1"></span><span class="awards-sprite a5-2"></span></span></a>|
 |416|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=86671"><span class="orange">RedDawn</span><span class="awards-container"><span class="awards-sprite a0-1"></span><span class="awards-sprite a1-1"></span></span></a>|
 |417|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=86736"><span class="blue">thursday nachos</span><span class="awards-container"><span class="awards-sprite a0-1"></span><span class="awards-sprite a5-2"></span></span></a>|
-|418|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=86747"><span class="red">Thorns</span><span class="awards-container"><span class="awards-sprite a0-1"></span><span class="awards-sprite a1-3"></span></span></a>|
+|418|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=86747"><span class="orange">Thorns</span><span class="awards-container"><span class="awards-sprite a0-1"></span><span class="awards-sprite a1-3"></span></span></a>|
 |419|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=87458"><span class="red">Dumbocrats</span><span class="awards-container"><span class="awards-sprite a0-1"></span><span class="awards-sprite a5-3"></span></span></a>|
 |420|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=87627"><span class="red">Karina</span><span class="awards-container"><span class="awards-sprite a0-1"></span><span class="awards-sprite a1-2"></span></span></a>|
 |421|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=87814"><span class="blue">neo</span><span class="awards-container"><span class="awards-sprite a0-1"></span><span class="awards-sprite a1-1"></span></span></a>|
@@ -5526,7 +5526,7 @@
 |513|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=28723"><span class="blue">THE R  E  A  P  E  R</span><span class="awards-container"><span class="awards-sprite a0-1"></span><span class="awards-sprite a1-3"></span></span></a>|
 |514|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=31384"><span class="blue">SirLancelot</span><span class="awards-container"><span class="awards-sprite a0-1"></span><span class="awards-sprite a1-3"></span></span></a>|
 |515|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=80095"><span class="red">Battery Steele</span><span class="awards-container"><span class="awards-sprite a0-1"></span><span class="awards-sprite a1-3"></span></span></a>|
-|516|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=86747"><span class="red">Thorns</span><span class="awards-container"><span class="awards-sprite a0-1"></span><span class="awards-sprite a1-3"></span></span></a>|
+|516|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=86747"><span class="orange">Thorns</span><span class="awards-container"><span class="awards-sprite a0-1"></span><span class="awards-sprite a1-3"></span></span></a>|
 |517|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=8503"><span class="purple">10 J Q K A</span><span class="awards-container"><span class="awards-sprite a1-3"></span><span class="awards-sprite a5-2"></span></span></a>|
 |518|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=8535"><span class="orange">Vondulator</span><span class="awards-container"><span class="awards-sprite a1-3"></span><span class="awards-sprite a2-2"></span></span></a>|
 |519|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=15561"><span class="purple">Thirsty Perch</span><span class="awards-container"><span class="awards-sprite a1-3"></span><span class="awards-sprite a5-3"></span></span></a>|
@@ -8935,5 +8935,5 @@
 
 
 
-<p class="last_updated"><span class="last_updated">Last Updated:&nbsp;&nbsp;Sep 7, 12:02 AM&nbsp;&nbsp;(Pacific)</span></p>
+<p class="last_updated"><span class="last_updated">Last Updated:&nbsp;&nbsp;Sep 7, 12:03 PM&nbsp;&nbsp;(Pacific)</span></p>
 
