@@ -2773,7 +2773,7 @@
 |1715|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=85665"><span class="blue">LateQueen</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a1-2"></span></span></a>|
 |1716|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=85728"><span class="blue">Shaquie Chan</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a5-3"></span></span></a>|
 |1717|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=85733"><span class="orange">MeTsUrEtSu</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a1-3"></span></span></a>|
-|1718|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=85836"><span class="blue">September Dawn</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a5-1"></span></span></a>|
+|1718|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=85836"><span class="red">September Dawn</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a5-1"></span></span></a>|
 |1719|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=85904"><span class="red">Shakazulu</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a1-1"></span></span></a>|
 |1720|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=85940"><span class="blue">-x-KIT KAT-x-</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a1-1"></span></span></a>|
 |1721|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=85947"><span class="blue">-x-CARAMELLO-x-</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a1-3"></span></span></a>|
@@ -5005,7 +5005,7 @@
 |553|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=76940"><span class="red">pew</span><span class="awards-container"><span class="awards-sprite a1-2"></span></span></a>|
 |554|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=84497"><span class="blue">towely420</span><span class="awards-container"><span class="awards-sprite a1-2"></span></span></a>|
 |555|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=86251"><span class="blue">goku</span><span class="awards-container"><span class="awards-sprite a1-2"></span></span></a>|
-|556|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=88082"><span class="purple">WhoCares</span><span class="awards-container"><span class="awards-sprite a1-2"></span></span></a>|
+|556|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=88082"><span class="blue">WhoCares</span><span class="awards-container"><span class="awards-sprite a1-2"></span></span></a>|
 
 
 <span class="awards_search_header" id="awards_search_header_tank3">Golden Tank (527)</span>
@@ -7394,7 +7394,7 @@
 |258|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=84742"><span class="red">CoL Aqrabuamelu</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a5-1"></span></span></a>|
 |259|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=84835"><span class="red">CoL Banshee</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a5-1"></span></span></a>|
 |260|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=85277"><span class="red">CoL Grootslang</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a5-1"></span></span></a>|
-|261|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=85836"><span class="blue">September Dawn</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a5-1"></span></span></a>|
+|261|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=85836"><span class="red">September Dawn</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a5-1"></span></span></a>|
 |262|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=86351"><span class="orange">-Magnificent- 9</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a5-1"></span></span></a>|
 |263|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=86352"><span class="orange">-Magnificent- 4</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a5-1"></span></span></a>|
 |264|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=86693"><span class="red">tuesday nachos</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a5-1"></span></span></a>|
@@ -8935,5 +8935,5 @@
 
 
 
-<p class="last_updated"><span class="last_updated">Last Updated:&nbsp;&nbsp;Sep 7, 12:03 PM&nbsp;&nbsp;(Pacific)</span></p>
+<p class="last_updated"><span class="last_updated">Last Updated:&nbsp;&nbsp;Sep 8, 12:02 AM&nbsp;&nbsp;(Pacific)</span></p>
 
