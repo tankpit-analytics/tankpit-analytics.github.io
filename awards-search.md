@@ -1380,7 +1380,7 @@
 |319|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=5238"><span class="blue">Snearboy</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a1-3"></span><span class="awards-sprite a2-3"></span><span class="awards-sprite a3-3"></span></span></a>|
 |320|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=15084"><span class="red">1956</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a1-3"></span><span class="awards-sprite a2-1"></span><span class="awards-sprite a3-3"></span></span></a>|
 |321|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=44407"><span class="blue">F2bBacK</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a1-3"></span><span class="awards-sprite a2-1"></span><span class="awards-sprite a3-3"></span></span></a>|
-|322|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=47559"><span class="red">4th Armored Division</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a1-3"></span><span class="awards-sprite a2-1"></span><span class="awards-sprite a3-3"></span></span></a>|
+|322|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=47559"><span class="orange">4th Armored Division</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a1-3"></span><span class="awards-sprite a2-1"></span><span class="awards-sprite a3-3"></span></span></a>|
 |323|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=70273"><span class="blue">Voltaic</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a1-3"></span><span class="awards-sprite a3-3"></span><span class="awards-sprite a4-3"></span></span></a>|
 |324|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=71596"><span class="orange">One hit wonder</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a1-3"></span><span class="awards-sprite a2-2"></span><span class="awards-sprite a3-3"></span></span></a>|
 |325|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=744"><span class="purple">Abraham Simpson I</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a3-2"></span><span class="awards-sprite a4-3"></span><span class="awards-sprite a5-3"></span></span></a>|
@@ -5215,7 +5215,7 @@
 |187|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=5238"><span class="blue">Snearboy</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a1-3"></span><span class="awards-sprite a2-3"></span><span class="awards-sprite a3-3"></span></span></a>|
 |188|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=15084"><span class="red">1956</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a1-3"></span><span class="awards-sprite a2-1"></span><span class="awards-sprite a3-3"></span></span></a>|
 |189|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=44407"><span class="blue">F2bBacK</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a1-3"></span><span class="awards-sprite a2-1"></span><span class="awards-sprite a3-3"></span></span></a>|
-|190|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=47559"><span class="red">4th Armored Division</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a1-3"></span><span class="awards-sprite a2-1"></span><span class="awards-sprite a3-3"></span></span></a>|
+|190|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=47559"><span class="orange">4th Armored Division</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a1-3"></span><span class="awards-sprite a2-1"></span><span class="awards-sprite a3-3"></span></span></a>|
 |191|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=70273"><span class="blue">Voltaic</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a1-3"></span><span class="awards-sprite a3-3"></span><span class="awards-sprite a4-3"></span></span></a>|
 |192|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=71596"><span class="orange">One hit wonder</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a1-3"></span><span class="awards-sprite a2-2"></span><span class="awards-sprite a3-3"></span></span></a>|
 |193|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=844"><span class="blue">K-K</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a1-3"></span><span class="awards-sprite a2-2"></span><span class="awards-sprite a3-2"></span></span></a>|
@@ -5556,7 +5556,7 @@
 |528|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=88598"><span class="orange">BOT SHREDDER</span><span class="awards-container"><span class="awards-sprite a1-3"></span></span></a>|
 
 
-<span class="awards_search_header" id="awards_search_header_medal1">Combat Honor Medal (507)</span>
+<span class="awards_search_header" id="awards_search_header_medal1">Combat Honor Medal (508)</span>
 
 {:.awards_search#awards_search_medal1}
 |1|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=59879"><span class="orange">Globe Daddy</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a1-3"></span><span class="awards-sprite a2-1"></span><span class="awards-sprite a3-2"></span><span class="awards-sprite a4-3"></span><span class="awards-sprite a5-1"></span><span class="awards-sprite a7-1"></span><span class="awards-sprite a8-1"></span></span></a>|
@@ -5623,7 +5623,7 @@
 |62|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=84705"><span class="red">CoL Cerberus</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a2-1"></span><span class="awards-sprite a5-2"></span><span class="awards-sprite a7-1"></span><span class="awards-sprite a8-1"></span></span></a>|
 |63|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=15084"><span class="red">1956</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a1-3"></span><span class="awards-sprite a2-1"></span><span class="awards-sprite a3-3"></span></span></a>|
 |64|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=44407"><span class="blue">F2bBacK</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a1-3"></span><span class="awards-sprite a2-1"></span><span class="awards-sprite a3-3"></span></span></a>|
-|65|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=47559"><span class="red">4th Armored Division</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a1-3"></span><span class="awards-sprite a2-1"></span><span class="awards-sprite a3-3"></span></span></a>|
+|65|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=47559"><span class="orange">4th Armored Division</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a1-3"></span><span class="awards-sprite a2-1"></span><span class="awards-sprite a3-3"></span></span></a>|
 |66|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=24874"><span class="purple">Pawpaw</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a1-3"></span><span class="awards-sprite a2-1"></span><span class="awards-sprite a3-2"></span></span></a>|
 |67|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=25351"><span class="blue">Dragonite</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a1-3"></span><span class="awards-sprite a2-1"></span><span class="awards-sprite a3-2"></span></span></a>|
 |68|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=35614"><span class="orange">Blinky</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a2-1"></span><span class="awards-sprite a3-2"></span><span class="awards-sprite a5-3"></span></span></a>|
@@ -6066,6 +6066,7 @@
 |505|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=67172"><span class="orange">Soulless Tank</span><span class="awards-container"><span class="awards-sprite a2-1"></span></span></a>|
 |506|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=69846"><span class="purple">DiaDeLosMuertos</span><span class="awards-container"><span class="awards-sprite a2-1"></span></span></a>|
 |507|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=75906"><span class="orange">ADIDASmokE</span><span class="awards-container"><span class="awards-sprite a2-1"></span></span></a>|
+|508|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=89746"><span class="orange">RU486</span><span class="awards-container"><span class="awards-sprite a2-1"></span></span></a>|
 
 
 <span class="awards_search_header" id="awards_search_header_medal2">Battle Honor Medal (234)</span>
@@ -7030,7 +7031,7 @@
 |83|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=5238"><span class="blue">Snearboy</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a1-3"></span><span class="awards-sprite a2-3"></span><span class="awards-sprite a3-3"></span></span></a>|
 |84|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=15084"><span class="red">1956</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a1-3"></span><span class="awards-sprite a2-1"></span><span class="awards-sprite a3-3"></span></span></a>|
 |85|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=44407"><span class="blue">F2bBacK</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a1-3"></span><span class="awards-sprite a2-1"></span><span class="awards-sprite a3-3"></span></span></a>|
-|86|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=47559"><span class="red">4th Armored Division</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a1-3"></span><span class="awards-sprite a2-1"></span><span class="awards-sprite a3-3"></span></span></a>|
+|86|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=47559"><span class="orange">4th Armored Division</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a1-3"></span><span class="awards-sprite a2-1"></span><span class="awards-sprite a3-3"></span></span></a>|
 |87|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=70273"><span class="blue">Voltaic</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a1-3"></span><span class="awards-sprite a3-3"></span><span class="awards-sprite a4-3"></span></span></a>|
 |88|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=71596"><span class="orange">One hit wonder</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a1-3"></span><span class="awards-sprite a2-2"></span><span class="awards-sprite a3-3"></span></span></a>|
 |89|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=1014"><span class="blue">Ashrak2002</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a1-3"></span><span class="awards-sprite a3-3"></span></span></a>|
@@ -7154,7 +7155,7 @@
 |112|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=80523"><span class="purple">OnhceT</span><span class="awards-container"><span class="awards-sprite a4-3"></span></span></a>|
 
 
-<span class="awards_search_header" id="awards_search_header_cup1">Bronze Cup (444)</span>
+<span class="awards_search_header" id="awards_search_header_cup1">Bronze Cup (445)</span>
 
 {:.awards_search#awards_search_cup1}
 |1|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=671"><span class="blue">Prowl</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a1-3"></span><span class="awards-sprite a2-3"></span><span class="awards-sprite a3-3"></span><span class="awards-sprite a4-3"></span><span class="awards-sprite a5-1"></span><span class="awards-sprite a7-1"></span><span class="awards-sprite a8-1"></span></span></a>|
@@ -7601,6 +7602,7 @@
 |442|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=88055"><span class="purple">MAJOR JERK</span><span class="awards-container"><span class="awards-sprite a5-1"></span></span></a>|
 |443|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=88603"><span class="red">R3AP3R</span><span class="awards-container"><span class="awards-sprite a5-1"></span></span></a>|
 |444|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=89238"><span class="red">Fatal Grudge</span><span class="awards-container"><span class="awards-sprite a5-1"></span></span></a>|
+|445|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=89654"><span class="orange">Austringer </span><span class="awards-container"><span class="awards-sprite a5-1"></span></span></a>|
 
 
 <span class="awards_search_header" id="awards_search_header_cup2">Silver Cup (507)</span>
@@ -8963,5 +8965,5 @@
 
 
 
-<p class="last_updated"><span class="last_updated">Last Updated:&nbsp;&nbsp;Sep 28, 12:02 PM&nbsp;&nbsp;(Pacific)</span></p>
+<p class="last_updated"><span class="last_updated">Last Updated:&nbsp;&nbsp;Sep 29, 12:02 AM&nbsp;&nbsp;(Pacific)</span></p>
 
