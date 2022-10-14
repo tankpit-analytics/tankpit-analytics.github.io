@@ -3465,7 +3465,7 @@
 |2401|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=87092"><span class="blue">a blue mine</span><span class="awards-container"><span class="awards-sprite a0-3"></span></span></a>|
 
 
-<span class="awards_search_header" id="awards_search_header_tank1">Bronze Tank (992)</span>
+<span class="awards_search_header" id="awards_search_header_tank1">Bronze Tank (993)</span>
 
 {:.awards_search#awards_search_tank1}
 |1|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=71956"><span class="red">FINESSE</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a1-1"></span><span class="awards-sprite a2-3"></span><span class="awards-sprite a3-3"></span><span class="awards-sprite a4-3"></span><span class="awards-sprite a5-3"></span><span class="awards-sprite a7-1"></span><span class="awards-sprite a8-1"></span></span></a>|
@@ -4460,6 +4460,7 @@
 |990|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=86525"><span class="purple">TribeGang</span><span class="awards-container"><span class="awards-sprite a1-1"></span></span></a>|
 |991|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=86729"><span class="red">Poonmangler69</span><span class="awards-container"><span class="awards-sprite a1-1"></span></span></a>|
 |992|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=87712"><span class="red">kgb</span><span class="awards-container"><span class="awards-sprite a1-1"></span></span></a>|
+|993|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=89900"><span class="blue">HoBo</span><span class="awards-container"><span class="awards-sprite a1-1"></span></span></a>|
 
 
 <span class="awards_search_header" id="awards_search_header_tank2">Silver Tank (558)</span>
@@ -5022,7 +5023,7 @@
 |555|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=76940"><span class="red">pew</span><span class="awards-container"><span class="awards-sprite a1-2"></span></span></a>|
 |556|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=84497"><span class="blue">towely420</span><span class="awards-container"><span class="awards-sprite a1-2"></span></span></a>|
 |557|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=86251"><span class="blue">goku</span><span class="awards-container"><span class="awards-sprite a1-2"></span></span></a>|
-|558|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=88082"><span class="blue">WhoCares</span><span class="awards-container"><span class="awards-sprite a1-2"></span></span></a>|
+|558|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=88082"><span class="purple">WhoCares</span><span class="awards-container"><span class="awards-sprite a1-2"></span></span></a>|
 
 
 <span class="awards_search_header" id="awards_search_header_tank3">Golden Tank (532)</span>
@@ -7160,7 +7161,7 @@
 |112|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=80523"><span class="purple">OnhceT</span><span class="awards-container"><span class="awards-sprite a4-3"></span></span></a>|
 
 
-<span class="awards_search_header" id="awards_search_header_cup1">Bronze Cup (447)</span>
+<span class="awards_search_header" id="awards_search_header_cup1">Bronze Cup (448)</span>
 
 {:.awards_search#awards_search_cup1}
 |1|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=671"><span class="blue">Prowl</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a1-3"></span><span class="awards-sprite a2-3"></span><span class="awards-sprite a3-3"></span><span class="awards-sprite a4-3"></span><span class="awards-sprite a5-1"></span><span class="awards-sprite a7-1"></span><span class="awards-sprite a8-1"></span></span></a>|
@@ -7610,6 +7611,7 @@
 |445|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=89238"><span class="red">Fatal Grudge</span><span class="awards-container"><span class="awards-sprite a5-1"></span></span></a>|
 |446|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=89418"><span class="purple">Remember us</span><span class="awards-container"><span class="awards-sprite a5-1"></span></span></a>|
 |447|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=89790"><span class="purple">-BurninG--DesireS-</span><span class="awards-container"><span class="awards-sprite a5-1"></span></span></a>|
+|448|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=89915"><span class="blue">One Hit Poser</span><span class="awards-container"><span class="awards-sprite a5-1"></span></span></a>|
 
 
 <span class="awards_search_header" id="awards_search_header_cup2">Silver Cup (508)</span>
@@ -8977,5 +8979,5 @@
 
 
 
-<p class="last_updated"><span class="last_updated">Last Updated:&nbsp;&nbsp;Oct 13, 12:02 PM&nbsp;&nbsp;(Pacific)</span></p>
+<p class="last_updated"><span class="last_updated">Last Updated:&nbsp;&nbsp;Oct 14, 12:02 AM&nbsp;&nbsp;(Pacific)</span></p>
 
