@@ -2946,7 +2946,7 @@
 |1880|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=12961"><span class="blue">KoBe Bryant</span><span class="awards-container"><span class="awards-sprite a0-3"></span></span></a>|
 |1881|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=12970"><span class="orange">common</span><span class="awards-container"><span class="awards-sprite a0-3"></span></span></a>|
 |1882|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=13255"><span class="red">XxMonster TankxX</span><span class="awards-container"><span class="awards-sprite a0-3"></span></span></a>|
-|1883|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=13264"><span class="blue">battlezone</span><span class="awards-container"><span class="awards-sprite a0-3"></span></span></a>|
+|1883|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=13264"><span class="orange">battlezone</span><span class="awards-container"><span class="awards-sprite a0-3"></span></span></a>|
 |1884|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=13352"><span class="red">Platnium Cookies</span><span class="awards-container"><span class="awards-sprite a0-3"></span></span></a>|
 |1885|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=13559"><span class="red">HuRRiCaNe</span><span class="awards-container"><span class="awards-sprite a0-3"></span></span></a>|
 |1886|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=13593"><span class="red">sn4ck5</span><span class="awards-container"><span class="awards-sprite a0-3"></span></span></a>|
@@ -4413,7 +4413,7 @@
 |941|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=50941"><span class="red">DreamWarrior</span><span class="awards-container"><span class="awards-sprite a1-1"></span></span></a>|
 |942|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=51681"><span class="orange">Wubba Dub Dub</span><span class="awards-container"><span class="awards-sprite a1-1"></span></span></a>|
 |943|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=52746"><span class="blue">nirsan53</span><span class="awards-container"><span class="awards-sprite a1-1"></span></span></a>|
-|944|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=53121"><span class="blue">Blue and White Truck</span><span class="awards-container"><span class="awards-sprite a1-1"></span></span></a>|
+|944|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=53121"><span class="orange">Blue and White Truck</span><span class="awards-container"><span class="awards-sprite a1-1"></span></span></a>|
 |945|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=53291"><span class="purple">DontBlink</span><span class="awards-container"><span class="awards-sprite a1-1"></span></span></a>|
 |946|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=54606"><span class="blue">TotalMayhem</span><span class="awards-container"><span class="awards-sprite a1-1"></span></span></a>|
 |947|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=54997"><span class="blue">excid3</span><span class="awards-container"><span class="awards-sprite a1-1"></span></span></a>|
@@ -8983,5 +8983,5 @@
 
 
 
-<p class="last_updated"><span class="last_updated">Last Updated:&nbsp;&nbsp;Oct 23, 12:02 AM&nbsp;&nbsp;(Pacific)</span></p>
+<p class="last_updated"><span class="last_updated">Last Updated:&nbsp;&nbsp;Oct 23, 12:02 PM&nbsp;&nbsp;(Pacific)</span></p>
 
