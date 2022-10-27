@@ -7156,7 +7156,7 @@
 |112|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=80523"><span class="purple">OnhceT</span><span class="awards-container"><span class="awards-sprite a4-3"></span></span></a>|
 
 
-<span class="awards_search_header" id="awards_search_header_cup1">Bronze Cup (448)</span>
+<span class="awards_search_header" id="awards_search_header_cup1">Bronze Cup (449)</span>
 
 {:.awards_search#awards_search_cup1}
 |1|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=671"><span class="blue">Prowl</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a1-3"></span><span class="awards-sprite a2-3"></span><span class="awards-sprite a3-3"></span><span class="awards-sprite a4-3"></span><span class="awards-sprite a5-1"></span><span class="awards-sprite a7-1"></span><span class="awards-sprite a8-1"></span></span></a>|
@@ -7607,6 +7607,7 @@
 |446|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=89418"><span class="purple">Remember us</span><span class="awards-container"><span class="awards-sprite a5-1"></span></span></a>|
 |447|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=89790"><span class="purple">-BurninG--DesireS-</span><span class="awards-container"><span class="awards-sprite a5-1"></span></span></a>|
 |448|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=89915"><span class="blue">One Hit Poser</span><span class="awards-container"><span class="awards-sprite a5-1"></span></span></a>|
+|449|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=89998"><span class="purple">Mister Mxyzptlk</span><span class="awards-container"><span class="awards-sprite a5-1"></span></span></a>|
 
 
 <span class="awards_search_header" id="awards_search_header_cup2">Silver Cup (510)</span>
@@ -8124,7 +8125,7 @@
 |510|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=89429"><span class="red">ColoSSuS</span><span class="awards-container"><span class="awards-sprite a5-2"></span></span></a>|
 
 
-<span class="awards_search_header" id="awards_search_header_cup3">Gold Cup (632)</span>
+<span class="awards_search_header" id="awards_search_header_cup3">Gold Cup (633)</span>
 
 {:.awards_search#awards_search_cup3}
 |1|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=746"><span class="blue">Landmine</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a1-3"></span><span class="awards-sprite a2-3"></span><span class="awards-sprite a3-3"></span><span class="awards-sprite a4-3"></span><span class="awards-sprite a5-3"></span><span class="awards-sprite a6-1"></span><span class="awards-sprite a7-1"></span></span></a>|
@@ -8758,7 +8759,8 @@
 |629|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=89244"><span class="red">Steve Harrington</span><span class="awards-container"><span class="awards-sprite a5-3"></span></span></a>|
 |630|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=89564"><span class="red">Sektor</span><span class="awards-container"><span class="awards-sprite a5-3"></span></span></a>|
 |631|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=89845"><span class="purple">DEATHTOUCH</span><span class="awards-container"><span class="awards-sprite a5-3"></span></span></a>|
-|632|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=89912"><span class="blue">One Huge Whale</span><span class="awards-container"><span class="awards-sprite a5-3"></span></span></a>|
+|632|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=89880"><span class="blue">Scipio Africanus </span><span class="awards-container"><span class="awards-sprite a5-3"></span></span></a>|
+|633|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=89912"><span class="blue">One Huge Whale</span><span class="awards-container"><span class="awards-sprite a5-3"></span></span></a>|
 
 
 <span class="awards_search_header" id="awards_search_header_ph1">Purple Heart (32)</span>
@@ -8977,5 +8979,5 @@
 
 
 
-<p class="last_updated"><span class="last_updated">Last Updated:&nbsp;&nbsp;Oct 27, 12:02 AM&nbsp;&nbsp;(Pacific)</span></p>
+<p class="last_updated"><span class="last_updated">Last Updated:&nbsp;&nbsp;Oct 27, 12:02 PM&nbsp;&nbsp;(Pacific)</span></p>
 
