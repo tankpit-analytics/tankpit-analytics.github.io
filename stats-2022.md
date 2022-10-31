@@ -8,7 +8,7 @@
 {:.stats_leaderboard#stats_leaderboard_playtime}
 |<span class="num_col">&nbsp;</span>|<span class="tank_col">Tank</span>|<span class="stat_col">Time Played</span>|
 |1|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=84677"><span class="purple">Jaskier</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a1-3"></span><span class="awards-sprite a2-1"></span><span class="awards-sprite a3-3"></span><span class="awards-sprite a5-1"></span></span></a>|532:57:51|
-|2|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=85041"><span class="blue">Warmonger</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a3-2"></span><span class="awards-sprite a4-3"></span><span class="awards-sprite a5-1"></span><span class="awards-sprite a7-1"></span><span class="awards-sprite a8-1"></span></span></a>|354:49:06|
+|2|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=85041"><span class="blue">Warmonger</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a3-2"></span><span class="awards-sprite a4-3"></span><span class="awards-sprite a5-1"></span><span class="awards-sprite a7-1"></span><span class="awards-sprite a8-1"></span></span></a>|355:47:34|
 |3|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=84703"><span class="red">TheOldMan</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a1-3"></span><span class="awards-sprite a3-1"></span></span></a>|174:42:53|
 |4|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=84669"><span class="red">CoL Oni</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a2-1"></span><span class="awards-sprite a3-1"></span><span class="awards-sprite a4-3"></span><span class="awards-sprite a5-1"></span><span class="awards-sprite a7-1"></span><span class="awards-sprite a8-1"></span></span></a>|137:13:04|
 |5|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=86488"><span class="orange">Mr Hand</span><span class="awards-container"><span class="awards-sprite a0-1"></span><span class="awards-sprite a1-3"></span><span class="awards-sprite a2-1"></span><span class="awards-sprite a3-1"></span><span class="awards-sprite a5-1"></span></span></a>|129:31:54|
@@ -29,7 +29,7 @@
 |20|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=87199"><span class="blue">Ratchet</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a1-1"></span><span class="awards-sprite a5-1"></span></span></a>|8:46:03|
 |21|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=84712"><span class="purple">DIAMONDS ARE FOREVER</span><span class="awards-container"><span class="awards-sprite a0-2"></span><span class="awards-sprite a1-1"></span><span class="awards-sprite a2-1"></span></span></a>|6:53:23|
 |22|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=84701"><span class="red">CoL Phoenix</span><span class="awards-container"><span class="awards-sprite a0-3"></span></span></a>|3:30:38|
-|23|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=85421"><span class="blue">Gladiator </span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a5-2"></span></span></a>|1:58:47|
+|23|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=85421"><span class="blue">Gladiator </span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a5-2"></span></span></a>|2:9:05|
 
 
 {:.stats_leaderboard#stats_leaderboard_kills}
@@ -68,5 +68,5 @@
 
 
 
-<p class="last_updated"><span class="last_updated">Last Updated:&nbsp;&nbsp;Oct 30, 12:00 PM&nbsp;&nbsp;(Pacific)</span></p>
+<p class="last_updated"><span class="last_updated">Last Updated:&nbsp;&nbsp;Oct 31, 12:00 AM&nbsp;&nbsp;(Pacific)</span></p>
 
