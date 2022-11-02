@@ -7608,7 +7608,7 @@
 |451|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=90038"><span class="orange">Loose Cannon</span><span class="awards-container"><span class="awards-sprite a5-1"></span></span></a>|
 
 
-<span class="awards_search_header" id="awards_search_header_cup2">Silver Cup (510)</span>
+<span class="awards_search_header" id="awards_search_header_cup2">Silver Cup (511)</span>
 
 {:.awards_search#awards_search_cup2}
 |1|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=25836"><span class="blue">Optimus Prime</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a1-3"></span><span class="awards-sprite a2-3"></span><span class="awards-sprite a3-3"></span><span class="awards-sprite a4-3"></span><span class="awards-sprite a5-2"></span><span class="awards-sprite a6-1"></span><span class="awards-sprite a8-1"></span></span></a>|
@@ -8121,6 +8121,7 @@
 |508|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=89043"><span class="red">Fixed Odds</span><span class="awards-container"><span class="awards-sprite a5-2"></span></span></a>|
 |509|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=89187"><span class="purple">Shakedown Heavy</span><span class="awards-container"><span class="awards-sprite a5-2"></span></span></a>|
 |510|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=89429"><span class="red">ColoSSuS</span><span class="awards-container"><span class="awards-sprite a5-2"></span></span></a>|
+|511|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=89863"><span class="orange">Aaron Burr</span><span class="awards-container"><span class="awards-sprite a5-2"></span></span></a>|
 
 
 <span class="awards_search_header" id="awards_search_header_cup3">Gold Cup (636)</span>
@@ -8980,5 +8981,5 @@
 
 
 
-<p class="last_updated"><span class="last_updated">Last Updated:&nbsp;&nbsp;Nov 2, 12:02 AM&nbsp;&nbsp;(Pacific)</span></p>
+<p class="last_updated"><span class="last_updated">Last Updated:&nbsp;&nbsp;Nov 2, 12:02 PM&nbsp;&nbsp;(Pacific)</span></p>
 
