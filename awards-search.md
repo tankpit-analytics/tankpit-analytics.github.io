@@ -2451,7 +2451,7 @@
 |1386|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=50975"><span class="red">ONWARD</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a5-3"></span></span></a>|
 |1387|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=51018"><span class="purple">Tanker-008</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a1-1"></span></span></a>|
 |1388|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=51110"><span class="orange">July 9</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a5-2"></span></span></a>|
-|1389|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=51366"><span class="red">BLUE-2</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a1-3"></span></span></a>|
+|1389|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=51366"><span class="orange">BLUE-2</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a1-3"></span></span></a>|
 |1390|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=51483"><span class="orange">Resident NEET</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a5-3"></span></span></a>|
 |1391|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=51521"><span class="purple">shucks</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a2-1"></span></span></a>|
 |1392|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=51578"><span class="purple">Lights</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a5-3"></span></span></a>|
@@ -5504,7 +5504,7 @@
 |468|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=48026"><span class="orange">Surf</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a1-3"></span></span></a>|
 |469|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=48782"><span class="blue">Slash</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a1-3"></span></span></a>|
 |470|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=49632"><span class="blue">Sandstorm</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a1-3"></span></span></a>|
-|471|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=51366"><span class="red">BLUE-2</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a1-3"></span></span></a>|
+|471|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=51366"><span class="orange">BLUE-2</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a1-3"></span></span></a>|
 |472|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=53606"><span class="red">Resistance Is Futile</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a1-3"></span></span></a>|
 |473|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=54568"><span class="blue">test1</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a1-3"></span></span></a>|
 |474|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=55767"><span class="red">BigShow</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a1-3"></span></span></a>|
@@ -8137,7 +8137,7 @@
 |513|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=90262"><span class="purple">Get Some Of This</span><span class="awards-container"><span class="awards-sprite a5-2"></span></span></a>|
 
 
-<span class="awards_search_header" id="awards_search_header_cup3">Gold Cup (638)</span>
+<span class="awards_search_header" id="awards_search_header_cup3">Gold Cup (637)</span>
 
 {:.awards_search#awards_search_cup3}
 |1|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=746"><span class="blue">Landmine</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a1-3"></span><span class="awards-sprite a2-3"></span><span class="awards-sprite a3-3"></span><span class="awards-sprite a4-3"></span><span class="awards-sprite a5-3"></span><span class="awards-sprite a6-1"></span><span class="awards-sprite a7-1"></span></span></a>|
@@ -8774,10 +8774,9 @@
 |632|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=89244"><span class="red">Steve Harrington</span><span class="awards-container"><span class="awards-sprite a5-3"></span></span></a>|
 |633|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=89564"><span class="red">Sektor</span><span class="awards-container"><span class="awards-sprite a5-3"></span></span></a>|
 |634|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=89808"><span class="orange">Adam Warlock</span><span class="awards-container"><span class="awards-sprite a5-3"></span></span></a>|
-|635|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=89845"><span class="purple">DEATHTOUCH</span><span class="awards-container"><span class="awards-sprite a5-3"></span></span></a>|
-|636|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=89880"><span class="blue">Scipio Africanus </span><span class="awards-container"><span class="awards-sprite a5-3"></span></span></a>|
-|637|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=89912"><span class="blue">One Huge Whale</span><span class="awards-container"><span class="awards-sprite a5-3"></span></span></a>|
-|638|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=90058"><span class="red">Tosan</span><span class="awards-container"><span class="awards-sprite a5-3"></span></span></a>|
+|635|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=89880"><span class="blue">Scipio Africanus </span><span class="awards-container"><span class="awards-sprite a5-3"></span></span></a>|
+|636|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=89912"><span class="blue">One Huge Whale</span><span class="awards-container"><span class="awards-sprite a5-3"></span></span></a>|
+|637|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=90058"><span class="red">Tosan</span><span class="awards-container"><span class="awards-sprite a5-3"></span></span></a>|
 
 
 <span class="awards_search_header" id="awards_search_header_ph1">Purple Heart (32)</span>
@@ -8996,5 +8995,5 @@
 
 
 
-<p class="last_updated"><span class="last_updated">Last Updated:&nbsp;&nbsp;Nov 14, 12:02 PM&nbsp;&nbsp;(Pacific)</span></p>
+<p class="last_updated"><span class="last_updated">Last Updated:&nbsp;&nbsp;Nov 15, 12:02 AM&nbsp;&nbsp;(Pacific)</span></p>
 
