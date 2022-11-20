@@ -4461,7 +4461,7 @@
 |987|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=86021"><span class="purple">init4cheese</span><span class="awards-container"><span class="awards-sprite a1-1"></span></span></a>|
 |988|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=86525"><span class="purple">TribeGang</span><span class="awards-container"><span class="awards-sprite a1-1"></span></span></a>|
 |989|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=86729"><span class="red">Poonmangler69</span><span class="awards-container"><span class="awards-sprite a1-1"></span></span></a>|
-|990|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=87519"><span class="blue">Timbers</span><span class="awards-container"><span class="awards-sprite a1-1"></span></span></a>|
+|990|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=87519"><span class="orange">Timbers</span><span class="awards-container"><span class="awards-sprite a1-1"></span></span></a>|
 |991|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=87712"><span class="red">kgb</span><span class="awards-container"><span class="awards-sprite a1-1"></span></span></a>|
 |992|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=88286"><span class="purple">Dew21</span><span class="awards-container"><span class="awards-sprite a1-1"></span></span></a>|
 
@@ -9001,5 +9001,5 @@
 
 
 
-<p class="last_updated"><span class="last_updated">Last Updated:&nbsp;&nbsp;Nov 20, 12:02 AM&nbsp;&nbsp;(Pacific)</span></p>
+<p class="last_updated"><span class="last_updated">Last Updated:&nbsp;&nbsp;Nov 20, 12:02 PM&nbsp;&nbsp;(Pacific)</span></p>
 
