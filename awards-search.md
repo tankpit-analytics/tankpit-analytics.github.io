@@ -432,7 +432,7 @@
 |419|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=87458"><span class="red">Dumbocrats</span><span class="awards-container"><span class="awards-sprite a0-1"></span><span class="awards-sprite a5-3"></span></span></a>|
 |420|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=87627"><span class="red">Karina</span><span class="awards-container"><span class="awards-sprite a0-1"></span><span class="awards-sprite a1-2"></span></span></a>|
 |421|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=87814"><span class="blue">neo</span><span class="awards-container"><span class="awards-sprite a0-1"></span><span class="awards-sprite a1-1"></span></span></a>|
-|422|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=88082"><span class="blue">WhoCares</span><span class="awards-container"><span class="awards-sprite a0-1"></span><span class="awards-sprite a1-3"></span></span></a>|
+|422|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=88082"><span class="red">WhoCares</span><span class="awards-container"><span class="awards-sprite a0-1"></span><span class="awards-sprite a1-3"></span></span></a>|
 |423|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=88282"><span class="red">Madison Ivy</span><span class="awards-container"><span class="awards-sprite a0-1"></span><span class="awards-sprite a5-2"></span></span></a>|
 |424|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=88286"><span class="purple">Dew21</span><span class="awards-container"><span class="awards-sprite a0-1"></span><span class="awards-sprite a1-1"></span></span></a>|
 |425|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=88401"><span class="purple">Lieonme</span><span class="awards-container"><span class="awards-sprite a0-1"></span><span class="awards-sprite a1-1"></span></span></a>|
@@ -5568,7 +5568,7 @@
 |518|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=31384"><span class="blue">SirLancelot</span><span class="awards-container"><span class="awards-sprite a0-1"></span><span class="awards-sprite a1-3"></span></span></a>|
 |519|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=80095"><span class="red">Battery Steele</span><span class="awards-container"><span class="awards-sprite a0-1"></span><span class="awards-sprite a1-3"></span></span></a>|
 |520|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=86747"><span class="purple">Thorns</span><span class="awards-container"><span class="awards-sprite a0-1"></span><span class="awards-sprite a1-3"></span></span></a>|
-|521|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=88082"><span class="blue">WhoCares</span><span class="awards-container"><span class="awards-sprite a0-1"></span><span class="awards-sprite a1-3"></span></span></a>|
+|521|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=88082"><span class="red">WhoCares</span><span class="awards-container"><span class="awards-sprite a0-1"></span><span class="awards-sprite a1-3"></span></span></a>|
 |522|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=90176"><span class="red">ChrispyCreams08</span><span class="awards-container"><span class="awards-sprite a0-1"></span><span class="awards-sprite a1-3"></span></span></a>|
 |523|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=8503"><span class="purple">10 J Q K A</span><span class="awards-container"><span class="awards-sprite a1-3"></span><span class="awards-sprite a5-2"></span></span></a>|
 |524|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=8535"><span class="orange">Vondulator</span><span class="awards-container"><span class="awards-sprite a1-3"></span><span class="awards-sprite a2-2"></span></span></a>|
@@ -9033,5 +9033,5 @@
 
 
 
-<p class="last_updated"><span class="last_updated">Last Updated:&nbsp;&nbsp;Dec 25, 12:02 PM&nbsp;&nbsp;(Pacific)</span></p>
+<p class="last_updated"><span class="last_updated">Last Updated:&nbsp;&nbsp;Dec 26, 12:02 AM&nbsp;&nbsp;(Pacific)</span></p>
 
