@@ -22,14 +22,14 @@
 |13|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=84822"><span class="orange">Chocolate Orange</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a1-3"></span></span></a>|62:28:18|
 |14|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=87493"><span class="red">Suppressive Fire</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a5-3"></span></span></a>|59:52:18|
 |15|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=85833"><span class="blue">-x-WISPA GOLD-x-</span><span class="awards-container"><span class="awards-sprite a0-3"></span></span></a>|32:51:20|
-|16|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=85733"><span class="orange">MeTsUrEtSu</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a1-3"></span></span></a>|28:5:37|
+|16|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=85733"><span class="orange">MeTsUrEtSu</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a1-3"></span></span></a>|28:48:45|
 |17|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=87159"><span class="blue">High Plains Drifter</span><span class="awards-container"><span class="awards-sprite a0-2"></span><span class="awards-sprite a5-2"></span></span></a>|26:0:29|
 |18|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=86210"><span class="orange">Ghost of Chen</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a1-2"></span><span class="awards-sprite a2-1"></span></span></a>|15:28:53|
 |19|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=87199"><span class="blue">Ratchet</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a1-1"></span><span class="awards-sprite a5-1"></span></span></a>|9:56:56|
 |20|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=84712"><span class="purple">DIAMONDS ARE FOREVER</span><span class="awards-container"><span class="awards-sprite a0-2"></span><span class="awards-sprite a1-1"></span><span class="awards-sprite a2-1"></span></span></a>|6:53:23|
 |21|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=85421"><span class="blue">Gladiator </span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a5-2"></span></span></a>|5:53:37|
 |22|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=84701"><span class="red">CoL Phoenix</span><span class="awards-container"><span class="awards-sprite a0-3"></span></span></a>|3:30:38|
-|23|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=94263"><span class="blue">Suicide Note</span><span class="awards-container"><span class="awards-sprite a0-1"></span><span class="awards-sprite a5-2"></span></span></a>|0:36:36|
+|23|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=94263"><span class="blue">Suicide Note</span><span class="awards-container"><span class="awards-sprite a0-1"></span><span class="awards-sprite a5-2"></span></span></a>|0:37:50|
 |24|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=94267"><span class="purple">Suicide Note Pt 2</span><span class="awards-container"><span class="awards-sprite a5-3"></span></span></a>|0:18:53|
 
 
@@ -72,5 +72,5 @@
 
 
 
-<p class="last_updated"><span class="last_updated">Last Updated:&nbsp;&nbsp;Jan 1, 12:00 PM&nbsp;&nbsp;(Pacific)</span></p>
+<p class="last_updated"><span class="last_updated">Last Updated:&nbsp;&nbsp;Jan 2, 12:00 AM&nbsp;&nbsp;(Pacific)</span></p>
 
