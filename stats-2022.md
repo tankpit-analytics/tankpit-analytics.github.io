@@ -25,7 +25,7 @@
 |16|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=85733"><span class="orange">MeTsUrEtSu</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a1-3"></span></span></a>|28:48:48|
 |17|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=87159"><span class="blue">High Plains Drifter</span><span class="awards-container"><span class="awards-sprite a0-2"></span><span class="awards-sprite a5-2"></span></span></a>|26:0:29|
 |18|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=86210"><span class="orange">Ghost of Chen</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a1-2"></span><span class="awards-sprite a2-1"></span></span></a>|15:28:53|
-|19|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=87199"><span class="blue">Ratchet</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a1-1"></span><span class="awards-sprite a5-1"></span></span></a>|10:35:48|
+|19|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=87199"><span class="blue">Ratchet</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a1-1"></span><span class="awards-sprite a5-1"></span></span></a>|10:40:40|
 |20|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=84712"><span class="purple">DIAMONDS ARE FOREVER</span><span class="awards-container"><span class="awards-sprite a0-2"></span><span class="awards-sprite a1-1"></span><span class="awards-sprite a2-1"></span></span></a>|6:53:23|
 |21|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=85421"><span class="blue">Gladiator </span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a5-2"></span></span></a>|5:53:37|
 |22|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=84701"><span class="red">CoL Phoenix</span><span class="awards-container"><span class="awards-sprite a0-3"></span></span></a>|3:30:38|
@@ -73,5 +73,5 @@
 
 
 
-<p class="last_updated"><span class="last_updated">Last Updated:&nbsp;&nbsp;Jan 6, 12:00 PM&nbsp;&nbsp;(Pacific)</span></p>
+<p class="last_updated"><span class="last_updated">Last Updated:&nbsp;&nbsp;Jan 7, 12:00 AM&nbsp;&nbsp;(Pacific)</span></p>
 
