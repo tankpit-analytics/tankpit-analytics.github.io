@@ -2472,7 +2472,7 @@
 |1397|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=50975"><span class="red">ONWARD</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a5-3"></span></span></a>|
 |1398|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=51018"><span class="purple">Tanker-008</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a1-1"></span></span></a>|
 |1399|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=51110"><span class="orange">July 9</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a5-2"></span></span></a>|
-|1400|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=51366"><span class="orange">BLUE-2</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a1-3"></span></span></a>|
+|1400|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=51366"><span class="red">BLUE-2</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a1-3"></span></span></a>|
 |1401|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=51483"><span class="orange">Resident NEET</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a5-3"></span></span></a>|
 |1402|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=51521"><span class="purple">shucks</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a2-1"></span></span></a>|
 |1403|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=51578"><span class="purple">Lights</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a5-3"></span></span></a>|
@@ -5556,7 +5556,7 @@
 |473|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=46719"><span class="orange">HaNgEmHi</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a1-3"></span></span></a>|
 |474|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=48782"><span class="blue">Slash</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a1-3"></span></span></a>|
 |475|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=49632"><span class="blue">Sandstorm</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a1-3"></span></span></a>|
-|476|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=51366"><span class="orange">BLUE-2</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a1-3"></span></span></a>|
+|476|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=51366"><span class="red">BLUE-2</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a1-3"></span></span></a>|
 |477|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=53606"><span class="red">Resistance Is Futile</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a1-3"></span></span></a>|
 |478|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=54568"><span class="blue">test1</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a1-3"></span></span></a>|
 |479|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=55767"><span class="red">BigShow</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a1-3"></span></span></a>|
@@ -9104,5 +9104,5 @@
 
 
 
-<p class="last_updated"><span class="last_updated">Last Updated:&nbsp;&nbsp;Jan 16, 12:02 PM&nbsp;&nbsp;(Pacific)</span></p>
+<p class="last_updated"><span class="last_updated">Last Updated:&nbsp;&nbsp;Jan 17, 12:02 AM&nbsp;&nbsp;(Pacific)</span></p>
 
