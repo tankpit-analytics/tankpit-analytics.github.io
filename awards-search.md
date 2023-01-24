@@ -400,7 +400,7 @@
 |387|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=81405"><span class="blue">horsepower spy tank</span><span class="awards-container"><span class="awards-sprite a0-1"></span><span class="awards-sprite a2-1"></span></span></a>|
 |388|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=81621"><span class="purple">J U G G E R N A U T</span><span class="awards-container"><span class="awards-sprite a0-1"></span><span class="awards-sprite a5-2"></span></span></a>|
 |389|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=81758"><span class="orange">Venus</span><span class="awards-container"><span class="awards-sprite a0-1"></span><span class="awards-sprite a1-1"></span></span></a>|
-|390|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=81875"><span class="purple">red-1</span><span class="awards-container"><span class="awards-sprite a0-1"></span><span class="awards-sprite a1-1"></span></span></a>|
+|390|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=81875"><span class="red">red-1</span><span class="awards-container"><span class="awards-sprite a0-1"></span><span class="awards-sprite a1-1"></span></span></a>|
 |391|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=81949"><span class="blue">zesus J</span><span class="awards-container"><span class="awards-sprite a0-1"></span><span class="awards-sprite a1-2"></span></span></a>|
 |392|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=82021"><span class="red">Simon </span><span class="awards-container"><span class="awards-sprite a0-1"></span><span class="awards-sprite a2-1"></span></span></a>|
 |393|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=82119"><span class="orange">NastyNate</span><span class="awards-container"><span class="awards-sprite a0-1"></span><span class="awards-sprite a1-1"></span></span></a>|
@@ -4309,7 +4309,7 @@
 |795|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=80914"><span class="blue">Apex</span><span class="awards-container"><span class="awards-sprite a0-1"></span><span class="awards-sprite a1-1"></span></span></a>|
 |796|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=80964"><span class="orange">Ramrod</span><span class="awards-container"><span class="awards-sprite a0-1"></span><span class="awards-sprite a1-1"></span></span></a>|
 |797|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=81758"><span class="orange">Venus</span><span class="awards-container"><span class="awards-sprite a0-1"></span><span class="awards-sprite a1-1"></span></span></a>|
-|798|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=81875"><span class="purple">red-1</span><span class="awards-container"><span class="awards-sprite a0-1"></span><span class="awards-sprite a1-1"></span></span></a>|
+|798|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=81875"><span class="red">red-1</span><span class="awards-container"><span class="awards-sprite a0-1"></span><span class="awards-sprite a1-1"></span></span></a>|
 |799|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=82119"><span class="orange">NastyNate</span><span class="awards-container"><span class="awards-sprite a0-1"></span><span class="awards-sprite a1-1"></span></span></a>|
 |800|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=82259"><span class="orange">Spiker</span><span class="awards-container"><span class="awards-sprite a0-1"></span><span class="awards-sprite a1-1"></span></span></a>|
 |801|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=82675"><span class="red">BEN SISK0</span><span class="awards-container"><span class="awards-sprite a0-1"></span><span class="awards-sprite a1-1"></span></span></a>|
@@ -9114,5 +9114,5 @@
 
 
 
-<p class="last_updated"><span class="last_updated">Last Updated:&nbsp;&nbsp;Jan 23, 12:02 PM&nbsp;&nbsp;(Pacific)</span></p>
+<p class="last_updated"><span class="last_updated">Last Updated:&nbsp;&nbsp;Jan 24, 12:02 AM&nbsp;&nbsp;(Pacific)</span></p>
 
