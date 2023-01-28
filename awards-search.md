@@ -7242,7 +7242,7 @@
 |115|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=80523"><span class="purple">OnhceT</span><span class="awards-container"><span class="awards-sprite a4-3"></span></span></a>|
 
 
-<span class="awards_search_header" id="awards_search_header_cup1">Bronze Cup (458)</span>
+<span class="awards_search_header" id="awards_search_header_cup1">Bronze Cup (459)</span>
 
 {:.awards_search#awards_search_cup1}
 |1|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=671"><span class="blue">Prowl</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a1-3"></span><span class="awards-sprite a2-3"></span><span class="awards-sprite a3-3"></span><span class="awards-sprite a4-3"></span><span class="awards-sprite a5-1"></span><span class="awards-sprite a7-1"></span><span class="awards-sprite a8-1"></span></span></a>|
@@ -7703,6 +7703,7 @@
 |456|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=93297"><span class="blue">AzoriuS</span><span class="awards-container"><span class="awards-sprite a5-1"></span></span></a>|
 |457|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=94432"><span class="red">John Basilone</span><span class="awards-container"><span class="awards-sprite a5-1"></span></span></a>|
 |458|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=94504"><span class="purple">szemetes tuzet</span><span class="awards-container"><span class="awards-sprite a5-1"></span></span></a>|
+|459|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=94842"><span class="purple">Grapeshot</span><span class="awards-container"><span class="awards-sprite a5-1"></span></span></a>|
 
 
 <span class="awards_search_header" id="awards_search_header_cup2">Silver Cup (525)</span>
@@ -9119,5 +9120,5 @@
 
 
 
-<p class="last_updated"><span class="last_updated">Last Updated:&nbsp;&nbsp;Jan 27, 12:02 PM&nbsp;&nbsp;(Pacific)</span></p>
+<p class="last_updated"><span class="last_updated">Last Updated:&nbsp;&nbsp;Jan 28, 12:02 AM&nbsp;&nbsp;(Pacific)</span></p>
 
