@@ -122,6 +122,23 @@ ranks_dict_2022 = {
 
 master_nrow_2022 = 500 # rows in master - if running j loop, increasing this takes a lot longer
 
+#-----t100 2023 params
+#requires: master_csv_overall (if using supplement job)
+
+master_csv_2023 = dir_tpdata + 'master_2023.csv'
+passes_csv_2023 = dir_tpdata + 'passes_2023.csv'
+
+ranks_dict_2023 = {
+    'general': 2,
+    'colonel': 2,
+    'major': 2,
+    'captain': 1,
+    'lieutenant': 1
+}
+
+master_nrow_2023 = 500 # rows in master - if running j loop, increasing this takes a lot longer
+
+
 #-----backups
 
 all_tanks_csv_backup_prefix = dir_tpdata + 'backups/all_tanks_'
@@ -161,6 +178,14 @@ y2022_tanks_csv = dir_tpdata + 'y2022_tanks.csv'
 
 #-----get 2022 tanks stats
 #requires: y2022_tanks_csv, awards_dict
+
+#----get 2023 tanks
+#requires: ranks_dict_2023
+
+y2023_tanks_csv = dir_tpdata + 'y2023_tanks.csv'
+
+#-----get 2023 tanks stats
+#requires: y2023_tanks_csv, awards_dict
 
 #-----get active
 
@@ -268,6 +293,18 @@ pop_t_2022_md = dir_git + 't25-2022.md'
 pop_t_2022_passes_max_display = 1000
 pop_t_2022_passes_md = dir_git + 't25-2022-passes.md'
 
+#-----pop t25 2023
+#requires: master_csv_2023, passes_csv_2023
+
+pop_t_2023_rows = 25
+pop_t_2023_md = dir_git + 't25-2023.md'
+
+#-----pop t25 2023 passes
+#requires: master_csv_2023, passes_csv_2023
+
+pop_t_2023_passes_max_display = 1000
+pop_t_2023_passes_md = dir_git + 't25-2023-passes.md'
+
 #-----pop awards search
 #requires: all_tanks_csv
 
@@ -340,6 +377,12 @@ pop_stats_2021_md = dir_git + 'stats-2021.md'
 
 pop_stats_2022_max_display = 100
 pop_stats_2022_md = dir_git + 'stats-2022.md'
+
+#-----pop stats 2023
+#requires: y2023_tanks_csv
+
+pop_stats_2023_max_display = 100
+pop_stats_2023_md = dir_git + 'stats-2023.md'
 
 #-----pop 130k club
 
