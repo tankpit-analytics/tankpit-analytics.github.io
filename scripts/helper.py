@@ -108,8 +108,11 @@ def get_tank_dict_leaderboard(tank_name):
     return(get_dict_from_url('https://tankpit.com/api/leaderboards/?leaderboard=overall&search=%22' + str(tank_name) + '%22'))
 
 def get_tank_stats(tank_id, skip_mins = False):
+    tank_dict = get_tank_dict(tank_id, skip_mins = skip_mins)
     try:
-        tank_dict = get_tank_dict(tank_id, skip_mins = skip_mins)
+        if tank_dict['status'] == 404:
+            pass
+    except:
         tank_name = tank_dict['name']
         tank_awards = tank_dict['awards']
         try:
@@ -121,8 +124,6 @@ def get_tank_stats(tank_id, skip_mins = False):
         return({'name': tank_name,
                 'color': tank_color,
                 'awards': tank_awards})
-    except:
-        pass
 
 #----- pd
 
