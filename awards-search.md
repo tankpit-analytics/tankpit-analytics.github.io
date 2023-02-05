@@ -231,7 +231,7 @@
 |218|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=33210"><span class="blue">Heisenberger</span><span class="awards-container"><span class="awards-sprite a0-1"></span><span class="awards-sprite a1-2"></span></span></a>|
 |219|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=33781"><span class="blue">IKILLYOU</span><span class="awards-container"><span class="awards-sprite a0-1"></span><span class="awards-sprite a1-1"></span></span></a>|
 |220|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=34465"><span class="purple">GHXZT</span><span class="awards-container"><span class="awards-sprite a0-1"></span><span class="awards-sprite a5-3"></span></span></a>|
-|221|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=34602"><span class="blue">R0ckSteady</span><span class="awards-container"><span class="awards-sprite a0-1"></span><span class="awards-sprite a1-2"></span></span></a>|
+|221|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=34602"><span class="red">R0ckSteady</span><span class="awards-container"><span class="awards-sprite a0-1"></span><span class="awards-sprite a1-2"></span></span></a>|
 |222|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=34603"><span class="blue">R0ckSteady</span><span class="awards-container"><span class="awards-sprite a0-1"></span><span class="awards-sprite a1-1"></span></span></a>|
 |223|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=35314"><span class="purple">wormhole wasabi</span><span class="awards-container"><span class="awards-sprite a0-1"></span><span class="awards-sprite a1-2"></span></span></a>|
 |224|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=35470"><span class="blue">starfox</span><span class="awards-container"><span class="awards-sprite a0-1"></span><span class="awards-sprite a1-1"></span></span></a>|
@@ -5032,7 +5032,7 @@
 |507|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=28909"><span class="red">Aztec</span><span class="awards-container"><span class="awards-sprite a0-1"></span><span class="awards-sprite a1-2"></span></span></a>|
 |508|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=32230"><span class="red">The D</span><span class="awards-container"><span class="awards-sprite a0-1"></span><span class="awards-sprite a1-2"></span></span></a>|
 |509|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=33210"><span class="blue">Heisenberger</span><span class="awards-container"><span class="awards-sprite a0-1"></span><span class="awards-sprite a1-2"></span></span></a>|
-|510|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=34602"><span class="blue">R0ckSteady</span><span class="awards-container"><span class="awards-sprite a0-1"></span><span class="awards-sprite a1-2"></span></span></a>|
+|510|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=34602"><span class="red">R0ckSteady</span><span class="awards-container"><span class="awards-sprite a0-1"></span><span class="awards-sprite a1-2"></span></span></a>|
 |511|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=35314"><span class="purple">wormhole wasabi</span><span class="awards-container"><span class="awards-sprite a0-1"></span><span class="awards-sprite a1-2"></span></span></a>|
 |512|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=37238"><span class="blue">YoYo</span><span class="awards-container"><span class="awards-sprite a0-1"></span><span class="awards-sprite a1-2"></span></span></a>|
 |513|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=39059"><span class="red">LapHawg</span><span class="awards-container"><span class="awards-sprite a0-1"></span><span class="awards-sprite a1-2"></span></span></a>|
@@ -9136,5 +9136,5 @@
 
 
 
-<p class="last_updated"><span class="last_updated">Last Updated:&nbsp;&nbsp;Feb 5, 12:01 AM&nbsp;&nbsp;(Pacific)</span></p>
+<p class="last_updated"><span class="last_updated">Last Updated:&nbsp;&nbsp;Feb 5, 12:01 PM&nbsp;&nbsp;(Pacific)</span></p>
 
