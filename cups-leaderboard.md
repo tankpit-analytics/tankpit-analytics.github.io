@@ -30,5 +30,5 @@
 |25|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=5559"><span class="red">STi</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a1-1"></span><span class="awards-sprite a2-1"></span><span class="awards-sprite a5-1"></span></span></a>|25|9|10|44|
 
 
-<p class="last_updated"><span class="last_updated">Last Updated:&nbsp;&nbsp;Feb 15, 12:01 PM&nbsp;&nbsp;(Pacific)</span></p>
+<p class="last_updated"><span class="last_updated">Last Updated:&nbsp;&nbsp;Feb 16, 12:01 AM&nbsp;&nbsp;(Pacific)</span></p>
 

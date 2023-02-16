@@ -7,7 +7,7 @@
 
 {:.stats_leaderboard#stats_leaderboard_playtime}
 |<span class="num_col">&nbsp;</span>|<span class="tank_col">Tank</span>|<span class="stat_col">Time Played</span>|
-|1|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=94489"><span class="red">VooDoo</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a1-3"></span><span class="awards-sprite a5-3"></span></span></a>|88:51:10|
+|1|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=94489"><span class="red">VooDoo</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a1-3"></span><span class="awards-sprite a5-3"></span></span></a>|90:2:06|
 |2|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=94417"><span class="orange">Amarant</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a1-2"></span></span></a>|26:9:42|
 |3|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=94383"><span class="orange">- Xenocide -</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a5-1"></span></span></a>|7:53:09|
 |4|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=94446"><span class="red">DH BRONCOS FAN II</span><span class="awards-container"><span class="awards-sprite a0-3"></span></span></a>|7:27:32|
@@ -15,7 +15,7 @@
 
 {:.stats_leaderboard#stats_leaderboard_kills}
 |<span class="num_col">&nbsp;</span>|<span class="tank_col">Tank</span>|<span class="stat_col">Kills</span>|
-|1|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=94489"><span class="red">VooDoo</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a1-3"></span><span class="awards-sprite a5-3"></span></span></a>|1843|
+|1|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=94489"><span class="red">VooDoo</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a1-3"></span><span class="awards-sprite a5-3"></span></span></a>|1854|
 |2|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=94417"><span class="orange">Amarant</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a1-2"></span></span></a>|477|
 |3|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=94398"><span class="purple">Performance</span><span class="awards-container"><span class="awards-sprite a0-2"></span><span class="awards-sprite a1-2"></span><span class="awards-sprite a5-3"></span></span></a>|200|
 |4|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=94446"><span class="red">DH BRONCOS FAN II</span><span class="awards-container"><span class="awards-sprite a0-3"></span></span></a>|66|
@@ -32,5 +32,5 @@
 
 
 
-<p class="last_updated"><span class="last_updated">Last Updated:&nbsp;&nbsp;Feb 15, 12:00 PM&nbsp;&nbsp;(Pacific)</span></p>
+<p class="last_updated"><span class="last_updated">Last Updated:&nbsp;&nbsp;Feb 16, 12:00 AM&nbsp;&nbsp;(Pacific)</span></p>
 
