@@ -1079,7 +1079,7 @@
 |613|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=95102"><span class="blue">Overtime</span><span class="awards-container"><span class="awards-sprite a0-2"></span><span class="awards-sprite a1-1"></span></span></a>|
 
 
-<span class="awards_search_header" id="awards_search_header_star3">Triple Star (2437)</span>
+<span class="awards_search_header" id="awards_search_header_star3">Triple Star (2438)</span>
 
 {:.awards_search#awards_search_star3}
 |1|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=671"><span class="blue">Prowl</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a1-3"></span><span class="awards-sprite a2-3"></span><span class="awards-sprite a3-3"></span><span class="awards-sprite a4-3"></span><span class="awards-sprite a5-1"></span><span class="awards-sprite a7-1"></span><span class="awards-sprite a8-1"></span></span></a>|
@@ -3519,6 +3519,7 @@
 |2435|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=87092"><span class="blue">a blue mine</span><span class="awards-container"><span class="awards-sprite a0-3"></span></span></a>|
 |2436|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=94446"><span class="red">DH BRONCOS FAN II</span><span class="awards-container"><span class="awards-sprite a0-3"></span></span></a>|
 |2437|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=94559"><span class="blue">PAC-MAN</span><span class="awards-container"><span class="awards-sprite a0-3"></span></span></a>|
+|2438|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=94651"><span class="purple">purple-8</span><span class="awards-container"><span class="awards-sprite a0-3"></span></span></a>|
 
 
 <span class="awards_search_header" id="awards_search_header_tank1">Bronze Tank (1000)</span>
@@ -9150,5 +9151,5 @@
 
 
 
-<p class="last_updated"><span class="last_updated">Last Updated:&nbsp;&nbsp;Feb 23, 12:01 AM&nbsp;&nbsp;(Pacific)</span></p>
+<p class="last_updated"><span class="last_updated">Last Updated:&nbsp;&nbsp;Feb 23, 12:01 PM&nbsp;&nbsp;(Pacific)</span></p>
 
