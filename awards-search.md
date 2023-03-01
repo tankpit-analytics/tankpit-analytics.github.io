@@ -419,7 +419,7 @@
 |406|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=83742"><span class="purple">Stank the Tank</span><span class="awards-container"><span class="awards-sprite a0-1"></span><span class="awards-sprite a5-3"></span></span></a>|
 |407|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=83875"><span class="blue">bendonesia</span><span class="awards-container"><span class="awards-sprite a0-1"></span><span class="awards-sprite a1-1"></span></span></a>|
 |408|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=84506"><span class="blue">Come Get Some </span><span class="awards-container"><span class="awards-sprite a0-1"></span><span class="awards-sprite a5-3"></span></span></a>|
-|409|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=84549"><span class="orange">xxxxx</span><span class="awards-container"><span class="awards-sprite a0-1"></span><span class="awards-sprite a1-1"></span></span></a>|
+|409|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=84549"><span class="blue">xxxxx</span><span class="awards-container"><span class="awards-sprite a0-1"></span><span class="awards-sprite a1-1"></span></span></a>|
 |410|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=84804"><span class="red">Tanker-009</span><span class="awards-container"><span class="awards-sprite a0-1"></span><span class="awards-sprite a1-1"></span></span></a>|
 |411|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=84867"><span class="blue">BIG BLUE</span><span class="awards-container"><span class="awards-sprite a0-1"></span><span class="awards-sprite a5-3"></span></span></a>|
 |412|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=84894"><span class="blue">ORCA</span><span class="awards-container"><span class="awards-sprite a0-1"></span><span class="awards-sprite a1-1"></span></span></a>|
@@ -4335,7 +4335,7 @@
 |806|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=83279"><span class="purple">Dakota</span><span class="awards-container"><span class="awards-sprite a0-1"></span><span class="awards-sprite a1-1"></span></span></a>|
 |807|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=83294"><span class="purple">Tank-1</span><span class="awards-container"><span class="awards-sprite a0-1"></span><span class="awards-sprite a1-1"></span></span></a>|
 |808|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=83875"><span class="blue">bendonesia</span><span class="awards-container"><span class="awards-sprite a0-1"></span><span class="awards-sprite a1-1"></span></span></a>|
-|809|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=84549"><span class="orange">xxxxx</span><span class="awards-container"><span class="awards-sprite a0-1"></span><span class="awards-sprite a1-1"></span></span></a>|
+|809|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=84549"><span class="blue">xxxxx</span><span class="awards-container"><span class="awards-sprite a0-1"></span><span class="awards-sprite a1-1"></span></span></a>|
 |810|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=84804"><span class="red">Tanker-009</span><span class="awards-container"><span class="awards-sprite a0-1"></span><span class="awards-sprite a1-1"></span></span></a>|
 |811|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=84894"><span class="blue">ORCA</span><span class="awards-container"><span class="awards-sprite a0-1"></span><span class="awards-sprite a1-1"></span></span></a>|
 |812|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=85440"><span class="red">Miro</span><span class="awards-container"><span class="awards-sprite a0-1"></span><span class="awards-sprite a1-1"></span></span></a>|
@@ -7270,7 +7270,7 @@
 |117|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=80523"><span class="purple">OnhceT</span><span class="awards-container"><span class="awards-sprite a4-3"></span></span></a>|
 
 
-<span class="awards_search_header" id="awards_search_header_cup1">Bronze Cup (462)</span>
+<span class="awards_search_header" id="awards_search_header_cup1">Bronze Cup (463)</span>
 
 {:.awards_search#awards_search_cup1}
 |1|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=671"><span class="blue">Prowl</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a1-3"></span><span class="awards-sprite a2-3"></span><span class="awards-sprite a3-3"></span><span class="awards-sprite a4-3"></span><span class="awards-sprite a5-1"></span><span class="awards-sprite a7-1"></span><span class="awards-sprite a8-1"></span></span></a>|
@@ -7735,6 +7735,7 @@
 |460|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=94432"><span class="red">John Basilone</span><span class="awards-container"><span class="awards-sprite a5-1"></span></span></a>|
 |461|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=94504"><span class="purple">szemetes tuzet</span><span class="awards-container"><span class="awards-sprite a5-1"></span></span></a>|
 |462|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=94506"><span class="orange">- Genocide -</span><span class="awards-container"><span class="awards-sprite a5-1"></span></span></a>|
+|463|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=95218"><span class="orange">Scourge of God</span><span class="awards-container"><span class="awards-sprite a5-1"></span></span></a>|
 
 
 <span class="awards_search_header" id="awards_search_header_cup2">Silver Cup (528)</span>
@@ -9160,5 +9161,5 @@
 
 
 
-<p class="last_updated"><span class="last_updated">Last Updated:&nbsp;&nbsp;Mar 1, 12:01 AM&nbsp;&nbsp;(Pacific)</span></p>
+<p class="last_updated"><span class="last_updated">Last Updated:&nbsp;&nbsp;Mar 1, 12:01 PM&nbsp;&nbsp;(Pacific)</span></p>
 
