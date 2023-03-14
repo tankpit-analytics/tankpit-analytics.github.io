@@ -8,7 +8,7 @@
 {:.stats_leaderboard#stats_leaderboard_playtime}
 |<span class="num_col">&nbsp;</span>|<span class="tank_col">Tank</span>|<span class="stat_col">Time Played</span>|
 |1|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=94489"><span class="red">VooDoo</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a1-3"></span><span class="awards-sprite a3-1"></span><span class="awards-sprite a5-3"></span></span></a>|124:0:01|
-|2|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=94376"><span class="purple">Roland Deschain</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a5-1"></span><span class="awards-sprite a7-1"></span></span></a>|96:2:00|
+|2|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=94376"><span class="purple">Roland Deschain</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a5-1"></span><span class="awards-sprite a7-1"></span></span></a>|98:4:47|
 |3|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=94417"><span class="orange">Amarant</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a1-2"></span></span></a>|26:9:42|
 |4|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=94842"><span class="purple">Grapeshot</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a5-1"></span><span class="awards-sprite a8-1"></span></span></a>|24:38:11|
 |5|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=94383"><span class="orange">- Xenocide -</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a5-1"></span></span></a>|7:53:09|
@@ -36,5 +36,5 @@
 
 
 
-<p class="last_updated"><span class="last_updated">Last Updated:&nbsp;&nbsp;Mar 14, 12:00 AM&nbsp;&nbsp;(Pacific)</span></p>
+<p class="last_updated"><span class="last_updated">Last Updated:&nbsp;&nbsp;Mar 14, 12:00 PM&nbsp;&nbsp;(Pacific)</span></p>
 
