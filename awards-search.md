@@ -1049,7 +1049,7 @@
 |583|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=83743"><span class="orange">The King</span><span class="awards-container"><span class="awards-sprite a0-2"></span><span class="awards-sprite a5-3"></span></span></a>|
 |584|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=83951"><span class="purple">TRAPPIN N J A P A N</span><span class="awards-container"><span class="awards-sprite a0-2"></span><span class="awards-sprite a2-1"></span></span></a>|
 |585|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=83985"><span class="orange">Furious George</span><span class="awards-container"><span class="awards-sprite a0-2"></span><span class="awards-sprite a5-3"></span></span></a>|
-|586|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=84153"><span class="purple">Suzy</span><span class="awards-container"><span class="awards-sprite a0-2"></span><span class="awards-sprite a1-3"></span></span></a>|
+|586|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=84153"><span class="orange">Suzy</span><span class="awards-container"><span class="awards-sprite a0-2"></span><span class="awards-sprite a1-3"></span></span></a>|
 |587|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=84422"><span class="orange">DXTroop</span><span class="awards-container"><span class="awards-sprite a0-2"></span><span class="awards-sprite a1-2"></span></span></a>|
 |588|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=84814"><span class="purple">CreaMed</span><span class="awards-container"><span class="awards-sprite a0-2"></span><span class="awards-sprite a1-1"></span></span></a>|
 |589|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=84836"><span class="orange">CrazyzTank</span><span class="awards-container"><span class="awards-sprite a0-2"></span><span class="awards-sprite a1-2"></span></span></a>|
@@ -5637,7 +5637,7 @@
 |519|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=70412"><span class="blue">Ainmose</span><span class="awards-container"><span class="awards-sprite a0-2"></span><span class="awards-sprite a1-3"></span></span></a>|
 |520|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=70475"><span class="blue">Sula Nebouxii</span><span class="awards-container"><span class="awards-sprite a0-2"></span><span class="awards-sprite a1-3"></span></span></a>|
 |521|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=79104"><span class="blue">Kron Gracie</span><span class="awards-container"><span class="awards-sprite a0-2"></span><span class="awards-sprite a1-3"></span></span></a>|
-|522|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=84153"><span class="purple">Suzy</span><span class="awards-container"><span class="awards-sprite a0-2"></span><span class="awards-sprite a1-3"></span></span></a>|
+|522|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=84153"><span class="orange">Suzy</span><span class="awards-container"><span class="awards-sprite a0-2"></span><span class="awards-sprite a1-3"></span></span></a>|
 |523|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=694"><span class="red">StoneCold</span><span class="awards-container"><span class="awards-sprite a0-1"></span><span class="awards-sprite a1-3"></span></span></a>|
 |524|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=8530"><span class="blue">broski</span><span class="awards-container"><span class="awards-sprite a0-1"></span><span class="awards-sprite a1-3"></span></span></a>|
 |525|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=10554"><span class="blue">FunJp</span><span class="awards-container"><span class="awards-sprite a0-1"></span><span class="awards-sprite a1-3"></span></span></a>|
@@ -9168,5 +9168,5 @@
 
 
 
-<p class="last_updated"><span class="last_updated">Last Updated:&nbsp;&nbsp;Mar 13, 12:01 PM&nbsp;&nbsp;(Pacific)</span></p>
+<p class="last_updated"><span class="last_updated">Last Updated:&nbsp;&nbsp;Mar 14, 12:01 AM&nbsp;&nbsp;(Pacific)</span></p>
 
