@@ -7288,7 +7288,7 @@
 |117|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=80523"><span class="purple">OnhceT</span><span class="awards-container"><span class="awards-sprite a4-3"></span></span></a>|
 
 
-<span class="awards_search_header" id="awards_search_header_cup1">Bronze Cup (463)</span>
+<span class="awards_search_header" id="awards_search_header_cup1">Bronze Cup (464)</span>
 
 {:.awards_search#awards_search_cup1}
 |1|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=671"><span class="blue">Prowl</span><span class="awards-container"><span class="awards-sprite a0-3"></span><span class="awards-sprite a1-3"></span><span class="awards-sprite a2-3"></span><span class="awards-sprite a3-3"></span><span class="awards-sprite a4-3"></span><span class="awards-sprite a5-1"></span><span class="awards-sprite a7-1"></span><span class="awards-sprite a8-1"></span></span></a>|
@@ -7754,6 +7754,7 @@
 |461|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=94504"><span class="purple">szemetes tuzet</span><span class="awards-container"><span class="awards-sprite a5-1"></span></span></a>|
 |462|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=94506"><span class="orange">- Genocide -</span><span class="awards-container"><span class="awards-sprite a5-1"></span></span></a>|
 |463|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=95472"><span class="orange">Parabellum </span><span class="awards-container"><span class="awards-sprite a5-1"></span></span></a>|
+|464|<a target="_blank" href="https://tankpit.com/tank_profile/?tank_id=95474"><span class="red">Paradox </span><span class="awards-container"><span class="awards-sprite a5-1"></span></span></a>|
 
 
 <span class="awards_search_header" id="awards_search_header_cup2">Silver Cup (530)</span>
@@ -9182,5 +9183,5 @@
 
 
 
-<p class="last_updated"><span class="last_updated">Last Updated:&nbsp;&nbsp;Mar 22, 12:01 PM&nbsp;&nbsp;(Pacific)</span></p>
+<p class="last_updated"><span class="last_updated">Last Updated:&nbsp;&nbsp;Mar 23, 12:01 AM&nbsp;&nbsp;(Pacific)</span></p>
 
